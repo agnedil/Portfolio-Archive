@@ -1,0 +1,61 @@
+NATIONAL LABORATORIES -- N-L ROACH TRAPS  -- 7930-00N004075
+<pre>=====================  Product Identification  =====================
+
+Product ID:N-L ROACH TRAPS
+MSDS Date:01/01/1985
+FSC:7930
+NIIN:00N004075
+MSDS Number: BCLMM
+=== Responsible Party ===
+Company Name:NATIONAL LABORATORIES
+Emergency Phone Num:201-391-8500
+CAGE:16272
+=== Contractor Identification ===
+Company Name:NATIONAL LABORATORIES L & F PRODUCTS
+Address:225 SUMMIT AVENUE
+City:MONTVALE
+State:NJ
+ZIP:07645
+Country:US
+Phone:201-573-5700
+CAGE:16272
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NO INGREDIENT FOR THIS FORMULATION_INGREDIENT
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:EYES:MILDLY IRRITATING
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH W/ WATER FOR 15 MIN.
+
+=====================  Fire Fighting Measures  =====================
+
+Fire Fighting Procedures:CARDBOARD CONTAINER WILL BURN
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:N/A MFR
+Supplemental Safety and Health
+GENERIC DESCRIPTION:NON-POISONOUS ROACH TRAP USED AS A MONITORING
+    SYSTEM FOR ROACH CONTROL.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IAW FEDERAL STATE & LOCAL CODES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

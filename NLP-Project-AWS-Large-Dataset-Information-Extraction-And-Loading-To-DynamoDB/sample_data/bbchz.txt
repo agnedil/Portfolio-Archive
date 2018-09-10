@@ -1,0 +1,86 @@
+HACH CHEMICAL CO. -- PHENOLPHTHALEIN,AR,161-11.  -- 6810-00D000120
+<pre>=====================  Product Identification  =====================
+
+Product ID:PHENOLPHTHALEIN,AR,161-11.
+MSDS Date:01/01/1985
+FSC:6810
+NIIN:00D000120
+MSDS Number: BBCHZ
+=== Responsible Party ===
+Company Name:HACH CHEMICAL CO.
+Emergency Phone Num:515-232-2533
+CAGE:4T252
+=== Contractor Identification ===
+Company Name:HACH CO
+Address:5600 LINDBERGH DR
+Box:389
+City:LOVELAND
+State:CO
+ZIP:80539
+Country:US
+Phone:970-669-3050/ 303-623-5716
+CAGE:91224
+Company Name:HACH COMPANY
+Address:100 DAYTON RD.
+Box:907
+City:AMES
+State:IA
+ZIP:50010
+Country:US
+Phone:800-227-4224
+CAGE:4T252
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PHENOLPHTHALEIN.
+CAS:77-09-8
+RTECS #:SM8380000
+Fraction by Wt: 100%.
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:EYE IRRIT.SKIN ERUPTIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH WITH SOAP & WATER.EYES:FLUSH WITH WATER.
+    INGEST:GIVE PLENTY OF WATER OR MILK.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CONSULT WITH LOCAL & ATHORITIES FOR APPROVED
+    DISPOSAL SITES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID INGESTION.PROTECT AGAINST
+    PHYSICAL DAMAGE.KEEP TIGHTLY CLOSED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Eye Protection:SAFETY GLASSES
+Supplemental Safety and Health
+FORMULA:(C*6H*4OH)*2C*2O*2C*6H
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:WHITE MINUTE CRYSTALS
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE INTO APPROVED DISPOSAL AREAS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

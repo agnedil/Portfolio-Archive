@@ -1,0 +1,191 @@
+Promega Corporation -- Lysis Buffer B, Food, Z319  -- -
+<pre>=====================  Product Identification  =====================
+
+Product ID:Lysis Buffer B, Food, Z319
+MSDS Date:06/13/2002
+MSDS Number: EEACX
+Kit Part:=== Responsible Party ===
+Company Name:Promega Corporation
+Address:2800 Woods Hollow Road
+City:Madison
+State:WI
+ZIP:53711
+Country:US
+Info Phone Num:1-800-356-9526, (608)-274-4330
+Chemtrec Ind/Phone:1-800-424-9300
+=== Contractor Identification ===
+Company Name:Promega Corporation
+Address:2800 Woods Hollow Road
+Box:City:Madison
+State:WI
+ZIP:53711
+Country:US
+Phone:1-800-356-9526, (608)-274-4330
+CAGE:
+
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:guanidinium thiocyanate
+CAS:593-84-0
+Minumum % Wt:25
+Maxumum % Wt:50
+
+=====================  Hazards Identification  =====================
+
+Health Hazards Acute and Chronic:Hazard description Xn Harmful	
+    Information pertaining to particular dangers for man and 
+    environment The product has to be  labelled due to the calculation
+    procedure of the "General  Classification guideline for
+    preparations of the EU" in the latest  valid version. R 20/21/22
+    Harmful by	inhalation, in contact with skin and if swallowed. 
+    NFPA ratings (scale 0-4) Health = 2 Fire = 0  Reactivity = 0  HMIS
+    Ratings Health = 2	Flammability = 0 Reactivity = 0
+Medical Cond Aggravated by Exposure:
+
+=======================  First Aid Measures  =======================
+
+First Aid:General information Symptoms	of poisoning may even occur
+    after several hours; therefore medical  observation for at least 48
+    hours after the accident.  After inhalation Supply fresh  air. If
+    required, provide artificial respiration. Keep patient warm. 
+    Consult doctor if symptoms persist. In  case of unconsciousness
+    place patient stably in side position for  transportation.	After
+    skin contact Generally the product does not irritate  the skin. 
+    After eye contact Rinse opened  eye for several minutes under
+    running water.  After swallowing Immediately call a doctor.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:Not applicable
+Extinguishing Media:Suitable extinguishing agents CO2, extinguishing
+    powder or water spray. Fight  larger fires with water spray or
+    alcohol resistant foam.  Protective equipment: Mount respiratory
+    protective device.
+Fire Fighting Procedures:No special measures required.
+Unusual Fire/Explosion Hazard:Danger of explosion: Product  does not
+    present an explosion hazard. Auto igniting:    Product is not
+    selfigniting.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:Person-related safety precautions: Not
+    required.  Measures for environmental protection: Dilute with
+    plenty of water. Do not allow to enter sewers/surface or ground 
+    water.  Measures for cleaning/collecting: Absorb with
+    liquid-binding material (sand,  diatomite, acid binders, universal
+    binders, sawdust). Dispose contaminated material as waste according
+    to	item 13. Ensure adequate ventilation.
+Neutralizing Agent:
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:Handling  Information for safe
+    handling: Keep receptacles tightly sealed. Ensure good
+    ventilation/exhaustion at the  workplace.  Information about
+    protection against explosions and fires:  No special measures
+    required.  Storage	Requirements to be met by storerooms and
+    receptacles:  No special requirements.  Information about storage
+    in one common storage facility:  Do not store together with
+    oxidizing and  acidic materials.
+Other Precautions:Further information about storage conditions: Keep
+    receptacle tightly sealed.	Storage class  Class according to
+    regulation on flammable liquids: Not  Applicable
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:In case	of brief exposure or low pollution use
+    respiratory filter device. In  case of intensive or longer exposure
+    use respiratory protective device  that is independent of
+    circulating air.
+Protective Gloves:Protective gloves.
+Eye Protection:Goggles recommended during refilling.
+Work Hygienic Practices:Keep away from foodstuffs, beverages and feed. 
+    Wash hands before breaks and at the end  of work. Avoid contact
+    with the eyes and  skin.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:100 ° C
+Melt/Freeze Pt:undetermined
+Spec Gravity:at 20 ° C	1.102  g/cm³
+Solubility in Water:Fully miscible  pH-value:	 at 20 ° C  7.5
+Appearance and Odor:Form: Fluid  Color: Colorless  Odor: Characteristic
+Corrosion Rate:
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:Stability Condition to
+    Avoid:Reacts with acids, alkalis and  oxidizing agents
+Hazardous Decomposition Products:No decomposition if used according to 
+    specifications. Dangerous products of decomposition: Carbon
+    monoxide and carbon dioxide Nitrogen oxides (NOx) Sulfur oxides
+    (SOx)
+Conditions to Avoid Polymerization:
+
+===================  Toxicological Information	===================
+
+Toxicological Information:Acute toxicity:  Primary irritant effect:  on
+    the skin: Caustic effect on skin and mucous membranes.   on the
+    eye: Irritating effect.  Sensitization: No sensitizing effects
+    known.  Additional toxicological information: The product shows the
+    following dangers according  to the calculation method of the
+    General EU Classification Guidelines  for Preparations as issued in
+    the latest version: Harmful
+
+=====================  Ecological Information  =====================
+
+Ecological:General notes: Water hazard	class 1 (Self-assessment):
+    slightly hazardous for water. Do not allow undiluted product or
+    large quantities  of it to reach ground water, water course or
+    sewage system.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:Product:  Recommendation Must not be  disposed
+    of together with household garbage. Do not allow product to  reach
+    sewage system.  Uncleaned packagings:  Recommendation: Disposal
+    must  be made according to official regulations.  Recommended
+    cleansing agent: Water, if necessary with  cleansing agents.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:Contact Promega Safety Department for  additional
+    transportation information	DOT regulations:  Hazard class:    - 
+    Land transport ADR/RID (cross-border)  ADR/RID class:   -  
+    Maritime transport IMDG:  IMDG Class:    -	Marine pollutant:   No 
+    Air transport ICAO-TI and IATA-DGR:  ICAO/IATA Class:   -
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:Section 355	(Extremely hazardous
+    substance):    None of the ingredients is listed.  Section 313
+    (Specific toxic  chemical listings):    None of the ingredients is
+    listed.
+Federal Regulatory Information:TSCA (Toxic Substance Control Act):   
+    All ingredients are listed.  Proposition 65 Chemicals  known to
+    cause cancer:    None of the ingredients is listed.  Chemicals
+    known to cause  reproductive toxicity:    None of the ingredients
+    is listed.	 Cancerogenity categories EPA (Environmental Protection
+    Agency)    None of the ingredients is listed.  IARC (International
+    Agency for	Research on Cancer)    None of the ingredients is
+    listed.  NTP (National Toxicology Program)	  None of the
+    ingredients is listed.  TLV (Threshold Limit Value	established by
+    ACGIH)    None of the ingredients is listed.  MAK (German Maximum
+    Workplace  Concentration)	 None of the ingredients is listed. 
+    NIOSH-Ca (National Institute for  Occupational Safety and Health)  
+    None of the ingredients is listed. OSHA-Ca (Occupational Safety &
+    Health  Administration)    None of the ingredients is listed.
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

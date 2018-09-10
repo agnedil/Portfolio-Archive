@@ -1,0 +1,123 @@
+HELLIGE,INC. -- R-379 ACID DILUTING SOLUTION  -- 6810-00D000117
+<pre>=====================  Product Identification  =====================
+
+Product ID:R-379 ACID DILUTING SOLUTION
+MSDS Date:01/01/1985
+FSC:6810
+NIIN:00D000117
+MSDS Number: BBCHX
+=== Responsible Party ===
+Company Name:HELLIGE,INC.
+Address:185 MARINE ST
+City:FARMINGDALE
+State:NY
+ZIP:11735
+Country:US
+CAGE:DO949
+=== Contractor Identification ===
+Company Name:HELLIGE,INC.
+Address:185 MARINE ST
+Box:City:FARMINGDALE
+State:NY
+ZIP:11735
+Country:US
+CAGE:DO949
+Company Name:ORBECO ANALYTICAL SYSTEMS INC
+Address:185 MARINE ST
+Box:City:FARMINGDALE
+State:NY
+ZIP:11735
+Country:US
+Phone:516-293-4110
+CAGE:90767
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:HYDROGEN CHLORIDE  (HYDROCHLORIC ACID)  (SARA III)
+CAS:7647-01-0
+RTECS #:MW4025000
+Fraction by Wt: 12.0%
+OSHA PEL:C 5 PPM
+ACGIH TLV:C 5 PPM; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:SULFURIC ACID  (SARA III)
+CAS:7664-93-9
+RTECS #:WS5600000
+Fraction by Wt: 4.0%.
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:BURNS,IRRITATES,POISON
+
+=======================  First Aid Measures  =======================
+
+First Aid:HANDLE THIS REAGENT WITH CARE.DO NOT GET IN
+    EYES,MOUTH,SKIN,OR CLOTHES.AVOID INHAL.EYES/SKIN:FLUSH WITH WATER
+    FOR 15 MIN.INGEST:GIVE TAP WATER CONTAINING MILK OF
+    MAGNESIA,FOLLOWED BY EGG WHITES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH SPILLED MATERIAL W/LARGE VOLUME OF
+    WATER,THEN NEUTRALIZE WITH SODIUM CARBONATE OR BAKING SODA.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID PUNCTURING POLYETHYLENE BOTTLES
+Other Precautions:AVOID HIGH TEMP.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AVOID INHALATION
+Ventilation:LOCAL EXHAUST IS ACCEPTABLE.MECHANICAL IS PREFERRED.
+Protective Gloves:PLASTIC
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:PLASTIC APRON
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C1
+Boiling Pt:B.P. Text:217F
+Vapor Pres:20.
+Vapor Density:1.27
+Spec Gravity:1.1
+Evaporation Rate &amp; Reference:AS WATER
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS LIQUID,ODORLESS.
+Percent Volatiles by Volume:96.0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:AVOID CONTACT WITH MOUTH,EYES,SKIN,OR
+    CLOTHES;DO NOT BREATHE
+Hazardous Decomposition Products:HCL FUMES.
+Conditions to Avoid Polymerization:STORE AT ROOM TEMP.PROTECT FROM HIGH
+    TEMP.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASH WITH PLENTY OF WATER INTO AN APPROVED
+    DISPOSAL AREA.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

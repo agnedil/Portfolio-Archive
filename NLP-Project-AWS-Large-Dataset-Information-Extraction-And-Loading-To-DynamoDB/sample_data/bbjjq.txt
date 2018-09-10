@@ -1,0 +1,121 @@
+EVERITE MACHINE PRODUCTS CO -- EVERITE FORMULA ST  -- 6850-00F001465
+<pre>=====================  Product Identification  =====================
+
+Product ID:EVERITE FORMULA ST
+MSDS Date:01/01/1989
+FSC:6850
+NIIN:00F001465
+MSDS Number: BBJJQ
+=== Responsible Party ===
+Company Name:EVERITE MACHINE PRODUCTS CO
+Address:501 E. ERIE AVE.
+City:PHILADELPHIA
+State:PA
+ZIP:19134
+Info Phone Num:(215) 425-3750
+Emergency Phone Num:(215) 425-3750
+CAGE:94559
+=== Contractor Identification ===
+Company Name:EVERITE MACHINE PRODUCTS CO
+Address:501 E. ERIE AVE.
+Box:City:PHILADELPHIA
+State:PA
+ZIP:19134
+Phone:(215) 425-3750
+CAGE:94559
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM NITRATE
+CAS:7631-99-4
+RTECS #:WC5600000
+Fraction by Wt: 50%
+
+Ingred Name:SODIUM NITRITE  (SARA III)
+CAS:7632-00-0
+RTECS #:RA1225000
+Fraction by Wt: 25%
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:SODIUM GLUCONATE
+CAS:527-07-1
+RTECS #:LZ5235000
+Fraction by Wt: 25%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 ORAL (RAT): 80-185 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: CONVERSION OF HEMOGLOBIN TO
+    METHEMOGLOBIN PRODUCING CYANOSIS, GASTROENTERITIS, AMEMIA,
+    METHEMOGLOBINEMIA & NEPHRITIS. INHALATION: RESPIRATORY TRACT
+    IRRITATION. SKIN/EYES: IRRITATION.
+Explanation of Carcinogenicity:NITRITES MAY REACT W/SECONDARY AMINES TO
+    FORM CARCINOGENIC NITROSAMINES.
+Effects of Overexposure:INGESTION: CONVERSION OF HEMOGLOBIN TO
+    METHEMOBLOBIN PRODUCING CYANOSIS, GASTROENTERITIS, AMEMIA,
+    METHEMOGLOBINEMIA & NEPHRITIS. INHALATION: RESPIRATORY TRACT
+    IRRITATION. SKIN/EYES: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: INDUCE VOMITING. CONSULT PHYSICIAN. INHALATION:
+    REMOVE TO FRESH AIR. SKIN/EYES: FLUSH W/WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Fire Fighting Procedures:TREAT AS A CLASS A FIRE.
+Unusual Fire/Explosion Hazard:KEEP AWAY FROM REDUCING AGENTS. WILL
+    EXPLODE IF HEATED TO >1000C IN PRESENCE OF REDUCING AGENTS, ORGANIC
+    MATERIALS OR CYANIDES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP OR SHOVEL SPILLED MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM REDUCING AGENTS &
+    LIQUIDS OF LOW FLASH POINTS. STORAGE AREA SHOULD BE COOL, DRY,
+    VENTILATED, & FIREPROOF.
+Other Precautions:WOOD & EMPTY PAPER BAGS USED TO HOLD THIS PRODUCT
+    SHOULD BE REMOVED FROM THE PREMISES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED TYPE RESPIRATOR OR NUISANCE MASK.
+Ventilation:MECHANICAL
+Protective Gloves:RUBBER, BUTYL
+Eye Protection:GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:D1
+Boiling Pt:B.P. Text:380C
+Spec Gravity:2.26
+Solubility in Water:COMPLETE
+Appearance and Odor:WHITE CRYSTALS, PELLETS, & POWDER. ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+REDUCING AGENTS, ACIDS, AMMONIUM COMPOUNDS, REDUCING AGENTS, CYANIDES,
+    THIOCYANATES, THIOSULPHATES, & ORGANICS.
+Hazardous Decomposition Products:GASEOUS NITROGEN OXIDES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IN ACCORDANCE W/LOCAL, STATE, & FEDERAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

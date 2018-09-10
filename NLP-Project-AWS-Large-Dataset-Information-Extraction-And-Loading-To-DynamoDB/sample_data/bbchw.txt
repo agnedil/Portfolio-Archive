@@ -1,0 +1,123 @@
+HELLIGE,INC. -- R-2224 ALKALINE-IODIDE-SOD.AZIDE REAGENT.  -- 6810-00D000116
+<pre>=====================  Product Identification  =====================
+
+Product ID:R-2224 ALKALINE-IODIDE-SOD.AZIDE REAGENT.
+MSDS Date:01/01/1985
+FSC:6810
+NIIN:00D000116
+MSDS Number: BBCHW
+=== Responsible Party ===
+Company Name:HELLIGE,INC.
+Address:185 MARINE ST
+City:FARMINGDALE
+State:NY
+ZIP:11735
+Country:US
+CAGE:DO949
+=== Contractor Identification ===
+Company Name:HELLIGE,INC.
+Address:185 MARINE ST
+Box:City:FARMINGDALE
+State:NY
+ZIP:11735
+Country:US
+CAGE:DO949
+Company Name:ORBECO ANALYTICAL SYSTEMS INC
+Address:185 MARINE ST
+Box:City:FARMINGDALE
+State:NY
+ZIP:11735
+Country:US
+Phone:516-293-4110
+CAGE:90767
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM AZIDE  (SARA III)
+CAS:26628-22-8
+RTECS #:VY8050000
+Fraction by Wt: 1.4%.
+OSHA PEL:S, C 0.1 PPM(HN3)
+ACGIH TLV:C 0.11 PPM; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 13.6%
+
+Ingred Name:POTASSIUM IODIDE
+CAS:7681-11-0
+RTECS #:TT2975000
+Fraction by Wt: 15.0%
+
+Ingred Name:POTASSIUM HYDROXIDE  (SARA III)
+CAS:1310-58-3
+RTECS #:TT2100000
+Fraction by Wt: 70.0%
+OSHA PEL:C, 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:POISON,CAUSTIC,EXTREMELY
+    CORROSIVE;INGEST:VIOLENT PAIN,PROSTATION,COLLAPSE,BLINDNESS IN
+    EYES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH W/WATER,THEN WITH VINEGAR.EYES:WASH FOR AT LEAST 15
+    MIN.EITH WATER,THEN WITH 5% BORIC ACID SOLUTION.CALL A
+    DR.INTERNALLY,GIVE LARGE AMT.OF DILUTED VINEGAR 1:4 OR ACETIC ACID
+    1% OR LEMON JUIC E.FOLLOW WITH MILK OR RAW WHITES (EGG)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH SPILLED MATERIAL WITH LARGE VOLUME OF
+    WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MAYBE FATAL IF SWALLOWED,OR CAUSE
+    BLINDNESS IN CONTACT WITH EYES.HANDLE WITH EXTREME CAUTION.WEAR
+    SAFETY GOGGLES,PLASTIC GLOVES.
+Other Precautions:AVOID CONTACT WITH SKIN,EYES,CLOTHES.KEEP CONTAINER
+    CLOSED.STORE AT ROOM TEMP.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Protective Gloves:PLASTIC
+Eye Protection:OVERALL GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C2
+Boiling Pt:B.P. Text:257F
+Vapor Pres:12
+Spec Gravity:1.5
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS,ODORLESS LIQUID.
+Percent Volatiles by Volume:13.6
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID ACIDS.
+Stability Condition to Avoid:KEEP CONTAINER CLOSED
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASH WITH WATER DOWN THE APPROVED DISPOSAL AREA.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

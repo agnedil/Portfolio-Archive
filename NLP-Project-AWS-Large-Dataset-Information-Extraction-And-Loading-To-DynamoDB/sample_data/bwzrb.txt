@@ -1,0 +1,104 @@
+BARRE-NATIONAL, INC -- KOPECTOLIN  -- 6505-01-179-3078
+<pre>=====================  Product Identification  =====================
+
+Product ID:KOPECTOLIN
+MSDS Date:01/01/1993
+FSC:6505
+NIIN:01-179-3078
+MSDS Number: BWZRB
+=== Responsible Party ===
+Company Name:BARRE-NATIONAL, INC
+Address:7205 WINDSOR BOULEVARD
+City:BALTIMORE
+State:MD
+ZIP:21244
+Country:US
+Info Phone Num:410-298-1000
+Emergency Phone Num:410-298-1000
+CAGE:1L054
+=== Contractor Identification ===
+Company Name:ALPHRMA,U.S. PHARMACEUTICALS DIV(ALIAS: BARRE-NATIONAL
+    INC)
+Address:7205 WINDSOR BLVD
+Box:City:BALTIMORE
+State:MD
+ZIP:21244
+Country:US
+Phone:410-298-1000
+CAGE:57979
+Company Name:BARRE-NATIONAL, INC.
+Address:7205 WINDSOR BLVD.
+Box:City:BALTIMORE
+State:MD
+ZIP:21207
+Country:US
+Phone:301-298-1000
+CAGE:1L054
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MANUFACTURER LISTED "N/A" FOR HAZARDOUS INGREDIENTS
+    INDICATIONG THAT HE BELIEVES THE PRODUCT TO BE TOTALLY
+    NON-HAZARDOUS
+Fraction by Wt: 100%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:MFR GAVE NO INFORMATION ON MSDS.
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MFR GAVE NO INFORMATION ON MSDS.
+Explanation of Carcinogenicity:MANUFACTURER GAVE NO INFORMATION ABOUT
+    CARCINOGENICITY. HMIS DOES NOT EXPECT IT TO BE CARCINOGENIC.
+Effects of Overexposure:MFR GAVE NO INFORMATION ON MSDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:N/A. EYES:FLUSH W/COPIOUS AMOUNT OF WATER. INGESTED &
+    INHALED:MFR GAVE NO INFORMATION ON MSDS.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:MFR GAVE NO INFORMATION ON MSDS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCOOP UP & PLACE IN CLOSED CONTAINER FOR
+    PROPER DISPOSAL.
+Neutralizing Agent:MFR GAVE NO INFORMATION ON MSDS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AT ROOM TEMPERATURE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED.
+Ventilation:LOCAL EXHAUST.
+Protective Gloves:NOT REQUIRED.
+Eye Protection:SPLASH GUARD.
+Other Protective Equipment:MFR GAVE NO INFORMATION ON MSDS.
+Work Hygienic Practices:MFR GAVE NO INFORMATION ON MSDS.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+NRC/State Lic Num:NONE
+pH:UNKNON
+Appearance and Odor:OFF-WHITE TO PALE YELLOWISH WHITE SUSPENSION.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL SHOULD BE I/A/W FEDERAL, STATE & LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

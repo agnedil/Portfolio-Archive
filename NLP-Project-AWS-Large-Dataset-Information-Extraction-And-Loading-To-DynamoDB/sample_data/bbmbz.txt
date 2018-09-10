@@ -1,0 +1,186 @@
+DAP INC. -- 2090 ORIGINAL BRUSH GRADE CONTACT ADHESIVE  -- 8040-00F002956
+<pre>=====================  Product Identification  =====================
+
+Product ID:2090 ORIGINAL BRUSH GRADE CONTACT ADHESIVE
+MSDS Date:11/03/1987
+FSC:8040
+NIIN:00F002956
+MSDS Number: BBMBZ
+=== Responsible Party ===
+Company Name:DAP INC.
+Box:999
+City:DAYTON
+State:OH
+ZIP:45401
+Info Phone Num:(513) 252-7154
+Emergency Phone Num:(513) 252-7154
+Preparer's Name:A.M. GASSNER
+CAGE:DO844
+=== Contractor Identification ===
+Company Name:DAP INC.
+Box:277
+City:DAYTON
+State:OH
+ZIP:45401-0277
+Country:US
+Phone:513-253-7154/800-543-3840
+CAGE:90300
+Company Name:DAP INC.
+Box:277
+City:DAYTON
+State:OH
+ZIP:45401
+Country:US
+CAGE:DO844
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PHENOLIC RESIN
+CAS:54579-44-1
+Fraction by Wt: 5-20%
+
+Ingred Name:LACTOL SPIRITS
+CAS:86742-89-8
+Fraction by Wt: 35-40%
+
+Ingred Name:METHYLENE CHLORIDE	(SARA III)
+CAS:75-09-2
+RTECS #:PA8050000
+Fraction by Wt: 25-30%
+Other REC Limits:A2 CARCINOGEN
+OSHA PEL:500 PPM/C,1000; Z2
+ACGIH TLV:50 PPM, A2; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 8-12%
+Other REC Limits:590 MG/CUM
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 5-10%
+Other REC Limits:100 PPM
+OSHA PEL:200 PPM/150 STEL
+ACGIH TLV:50 PPM; 9293
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:NEOPRENE (2 CHLORO-1, 3-BUTADIENE POLYMER)
+CAS:9010-98-4
+RTECS #:EI9660000
+Fraction by Wt: 5-20%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 ORAL (RATS): 2524 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:NO	 OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: IRRITATION OF THE
+    RESPIRATORY TRACT, MAY AFFECT BRAIN/NERVOUS SYSTEM, HEADACHE,
+    DIZZINESS, FATIGUE, NAUSEA, UNCONSCIOUSNESS/IMPAIRED PULMONARY
+    FUNCTIONS, LIVER & KIDNEY DISORDERS & CARDIOV ASCULAR CONDITIONS.
+    SKIN: DERMATITIS. INGESTION: NAUSEA, VOMITING, DIARRHEA & DEPRESSED
+    RESPIRATION. EYES: IRRITATION.
+Explanation of Carcinogenicity:METHYLENE CHLORIDE IS CONSIDERED TO BE
+    AN A2 CARCINOGEN BY NTP & ACGIH.
+Effects of Overexposure:INHALATION: SOLVENT VAPORS MAY LEAD TO
+    BRAIN/NERVOUS
+    SYSTEM/HEADACHE/DIZZINESS/FATIGUE/NAUSEA/UNCONSCIOUSNESS/IMPAIRED
+    PULMONARY FUNCTIONS/LIVER & KIDNEY DISORDERS/CARDIOVASCULAR & MAY
+    REDUCE BLOOD'S  OXYGEN CARRYING CAPACITY. SKIN/EYE: IRRITATION &
+    DERMATITIS. INGESTION: VOMITING, DIARRHEA, & DEPRESSED RESPIRATION.
+Medical Cond Aggravated by Exposure:DERMATITIS
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR; RESTORE BREATHING IF
+    NECESSARY. CALL PHYSICIAN. EYES: FLUSH W/WATER FOR 15 MINUTES.
+    CONTACT PHYSICIAN. SKIN: REMOVE W/MINERAL SPIRITS FOLLOWED BY SOAP
+    & WATER. CONSULT  PHYSICIAN. INGESTION: DON'T INDUCE VOMITING. IF
+    VICTIM IS CONSCIOUS, GIVE WAATER OR MILK. CONTACT PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:20F
+Extinguishing Media:FOAM, CO2, & DRY CHEMICALS
+Fire Fighting Procedures:DON'T USE STRAIGHT HOSE WATER STREAM. FULL
+    PROTECTIVE EQUIPMENT, INCLUDING SCBA, IS RECOMMENDED TO PROTECT
+    FROM COMBUSTION PRODUCTS. COOL CONTAINERS W/WATER.
+Unusual Fire/Explosion Hazard:CONTAINERS MAY EXPLODE IF EXPOSED TO
+    EXTREME HEAT. ISOLATE FROM HEAT, ELECTRICAL EQUIPMENT, SPARKS, &
+    OPEN FLAMES. DON'T PUT IN CONTACT W/OXIDIZING MATERIALS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBENT MATERIAL/SCRAPE UP DRIED
+    MATERIAL & PLACE INTO CONTAINERS. ELIMINATE SOURCES OF IGNITION &
+    VENTILATE AREA. CONTAIN SPILL BY DIKING TO PREVENT SPREADING.
+    ABSORB SPILL W/SAND & SHOVEL INTO  CONTAINERS. PREVENT RUN-OFF TO
+    SEWERS & LAKES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS FROM DIRECT SUNLIGHT,
+    HEAT, & FLAMES. DON'T STORE AT TEMPS >100F. KEEP CONTAINERS TIGHTLY
+    CLOSED WHEN NOT IN USE.
+Other Precautions:CONTAINS FLAMMABLE SOLVENT. KEEP OUT OF REACH OF
+    CHILDREN. PREVENT BUILDUP OF VAPORS. DON'T WELD/CUT NEAR CONTAINER.
+    VAPOR HARMFUL & MAY CAUSE FLASH FIRE. HARMFUL/FATAL IF
+    INGESTED/INHALED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF 8 HOUR EXPOSURE LIMIT/VALUE IS EXCEEDED FOR
+    ANY COMPONENT, USE AN APPROVED NIOSH/MSHA RESPIRATOR.
+Ventilation:PROVIDE LOCAL EXHAUST/MECHANICAL VENTILATION TO KEEP <TLV.
+Protective Gloves:IMPERVIOUS
+Eye Protection:GOGGLES, SAFETY GLASSES W/SIDE SHIELD
+Other Protective Equipment:EYEWASH, SOLVENT IMPERVIOUS APRON, BARRIER
+    CREAMS
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:104F
+Vapor Pres:71
+Spec Gravity:0.95
+Evaporation Rate &amp; Reference:(BU C = 1): >1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:TAN MOBILE LIQUID, PUNGENT SOLVENT ODOR
+Percent Volatiles by Volume:80-85%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS & CAUSTICS
+Stability Condition to Avoid:EXCESSIVE HEAT, SPARKS, OPEN FLAMES,
+    SOURCES OF IGNITION & DIRECT SUNLIGHT
+Hazardous Decomposition Products:NORMAL COMBUSTION PRODUCTS, COX, NOX
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCARDED PILL RESIDUE MAY BE INCINERATED. DON'T
+    INCINERATE SEALED CONTAINERS. DISPOSE ACCORDING TO FEDERAL, STATE,
+    & LOCAL REGULATIONS. LIQUIDS CANNOT BE DISPOSED OF IN A LANDFILL.
+    DON'T REUSE THE EM PTY CONTAINER WHICH MAY CONTAIN EXPLOSIVE
+    VAPORS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

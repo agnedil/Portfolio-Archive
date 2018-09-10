@@ -1,0 +1,321 @@
+INWELD MFG CORP -- ENIFE-C1, COVERED ELECTRODES FOR SMAW  -- 3439-01-060-7479
+<pre>=====================  Product Identification  =====================
+
+Product ID:ENIFE-C1, COVERED ELECTRODES FOR SMAW
+MSDS Date:09/01/1997
+FSC:3439
+NIIN:01-060-7479
+Status Code:A
+MSDS Number: CLSGW
+=== Responsible Party ===
+Company Name:INWELD MFG CORP
+Address:3962 PORTLAND ST
+Box:40
+City:COPLAY
+State:PA
+ZIP:18037-0040
+Country:US
+Info Phone Num:800-346-5368
+Emergency Phone Num:800-346-5368
+Preparer's Name:NOT PROVIDED
+CAGE:66376
+=== Contractor Identification ===
+Company Name:BLACK AND CO
+Address:5351 W	MINNESOTA ST
+Box:UNKNOW
+City:INDIANAPOLIS
+State:IN
+ZIP:46241
+Country:US
+Phone:317-243-8676
+Contract Num:SP0490-00-D-4063
+CAGE:00WU8
+Company Name:INWELD MFG CORP
+Address:3962 PORTLAND ST
+Box:40
+City:COPLAY
+State:PA
+ZIP:18037-0040
+Country:US
+Phone:610-261-1900
+CAGE:66376
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NICKEL
+CAS:7440-02-0
+RTECS #:QR5950000
+Minumum % Wt:40.
+Maxumum % Wt:70.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:POTASSIUM SILICATE
+CAS:1312-76-1
+Minumum % Wt:0.
+Maxumum % Wt:2.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:NOT REGISTERED
+ACGIH TLV:5 MG/M3
+
+Ingred Name:SODIUM SILICATE
+CAS:1344-09-8
+Minumum % Wt:1.
+Maxumum % Wt:5.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:NOT REGISTERED
+ACGIH TLV:5 MG/M3
+
+Ingred Name:CHROMIUM
+CAS:7440-47-3
+RTECS #:GB4200000
+Minumum % Wt:0.
+Maxumum % Wt:15.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:0.5 MG/M3
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:IRON
+CAS:7439-89-6
+RTECS #:NO4565500
+Minumum % Wt:.5
+Maxumum % Wt:10.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:5 MG/M3
+ACGIH TLV:10 MG/M3 (FE2O3)
+
+Ingred Name:MANGANESE
+CAS:7439-96-5
+RTECS #:OO9275000
+Minumum % Wt:.5
+Maxumum % Wt:6.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:C5 MG/M3
+ACGIH TLV:5 MG/M3
+
+Ingred Name:MOLYBDENUM
+CAS:7439-98-7
+RTECS #:QA4680000
+Minumum % Wt:0.
+Maxumum % Wt:15.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:15 MG/M3
+ACGIH TLV:10 MG/M3
+
+Ingred Name:COLUMBIUM
+CAS:7440-03-1
+RTECS #:QT9900000
+Minumum % Wt:0.
+Maxumum % Wt:5.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3
+
+Ingred Name:SILICON
+CAS:7440-21-3
+RTECS #:VW0400000
+Minumum % Wt:.1
+Maxumum % Wt:1.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:15 MG/M3
+ACGIH TLV:10 MG/M3
+
+Ingred Name:TITANIUM
+CAS:7440-32-6
+RTECS #:XR1700000
+Minumum % Wt:0.
+Maxumum % Wt:2.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:15 MG/M3 (TIO2)
+ACGIH TLV:15 MG/M3 (TIO2)
+
+Ingred Name:GRAPHITE
+CAS:7782-42-5
+RTECS #:MD9659600
+Minumum % Wt:0.
+Maxumum % Wt:3.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:SEE TABLE Z-3
+ACGIH TLV:2 MG/M3
+
+Ingred Name:CALCIUM CARBONATE
+CAS:1317-65-3
+RTECS #:EV9580000
+Minumum % Wt:5.
+Maxumum % Wt:10.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:15 MG/M3
+ACGIH TLV:10 MG/M3
+
+Ingred Name:CALCIUM FLUORIDE (CAS # 14542-32-5 INVALID)
+CAS:14542-32-6
+Minumum % Wt:2.
+Maxumum % Wt:5.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:2.5 MG/M3 (AS F)
+ACGIH TLV:2.5 MG/M3 (AS F)
+
+Ingred Name:STRONTIUM CARBONATE
+CAS:1633-05-2
+Minumum % Wt:0.
+Maxumum % Wt:15.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:NOT REGISTERED
+ACGIH TLV:NOT REGISTERED
+
+Ingred Name:CRYOLITE
+CAS:15096-52-3
+RTECS #:WA9625000
+Minumum % Wt:2.
+Maxumum % Wt:5.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:2.5 MG/M3 (AS F)
+ACGIH TLV:2.5 MG/M3 (AS F)
+
+Ingred Name:COPPER
+CAS:7440-50-8
+RTECS #:GL5325000
+Minumum % Wt:0.
+Maxumum % Wt:2.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:POTASSIUM TITANATE
+CAS:12030-97-6
+Minumum % Wt:0.
+Maxumum % Wt:3.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:NOT REGISTERED
+ACGIH TLV:10 MG/M3
+
+Ingred Name:TITANIUM DIOXIDE
+CAS:13463-67-7
+RTECS #:XR2275000
+Minumum % Wt:0.
+Maxumum % Wt:10.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:15 MG/M3
+ACGIH TLV:10 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT PROVIDED
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:"ELECTRIC ARC-WELDING MAY CREATE ONE
+    OR MORE OF THE FOLLOWING HEALTH HAZARS: FUMES AND GASES CAN BE
+    DANGEROUS TO YOUR HEALTH. ARC RAYS CAN INJURE EYES AND BURN SKIN.
+    ELECTRIC SHOCK CAN KILL." SHORT-TE RM OVEREXPOSURE TO WELDING FUMES
+    MAY RESULT IN DISCOMFORT SUCH AS; DIZZINESS, NAUSEA, OR DRYNESS OR
+    IRRITATION OF NOSE, THROAT, OR EYES, TIGHTNESS IN CHEST, FEVER AND
+    ALLERGIC REACTIONS. LONG-TERM (CH RONIC) OVEREXPOSURE TO WELDING
+    FUMES MAY LEAD TO SIDEROSIS (IRON DEPOSIT IN LUNGS) AND IS BELIEVED
+    BY SOME INVESTIGATORS TO AFFECT PULMONARY FUNCTION.
+Explanation of Carcinogenicity:CONTAINS CHROMIUM AND NICKEL.
+Effects of Overexposure:DIZZINESS, NAUSEA, OR DRYNESS OR IRRITATION OF
+    NOSE, THROAT, OR EYES, TIGHTNESS IN CHEST, FEVER AND ALLERGIC
+    REACTIONS
+Medical Cond Aggravated by Exposure:NOT PROVIDED
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE TO FRESH AIR, OBTAIN MEDICAL ATTENTION. EMPLOY FIRST
+    AID TECHNIQUES RECOMMENDED BY THE AMERICAN RED CROSS.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:NOT PROVIDED
+Fire Fighting Procedures:NOT PROVIDED
+Unusual Fire/Explosion Hazard:WELDING ARC AND SPRKS CAN IGNITE
+    COMBUSTIBLES AND FLAMMABLES. REFER TO AMERIACAN NATIONAL STANDARD
+    Z-40.1 FOR FIRE PREVENTION DURING THE USE OF WELDING AND ALLIED
+    PROCEDURES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NOT PROVIDED
+Other Precautions:USE EXHAUST SYSTRM TO CLEAR WELDING FUMES. MAKE SURE
+    THAT INHALED AIR DOES NOT CONTAIN FUME CONSTITUENTS ABOVE
+    PERMISSIBLE EXPOSURE LEVELS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE RESPIRABLE FUME RESPIRATORY OR AIR SUPPLEID
+    RESPIRATOR WHEN WELDING IN CONFINED SPACE OR WHERE LOCAL EXHAUST OR
+    VENTILATION DOES NOT KEEP EXPOSURE BELOW THE RECOMMENDED EXPOSURE
+    LIMIT.
+Ventilation:USE ENOUGH VENTILATION, LOCAL EXHAUST AT THE ARC, OR BOTH,
+    TO KEEP THE FUMES AND GASES FROM THE WORKERS BREATHING ZONE AND THE
+    GENERAL AREA.
+Protective Gloves:WELDER'S GLOVES
+Eye Protection:HELMET OR USE FACE SHIELD WITH FILTER LENS.
+Other Protective Equipment:PROVIDE SCREENS AND FLASH GOGGLES, IF
+    NECESSARY TO SHIELD OTHERS. WEAR HEAD, HAND AND BODY PROTECTION
+    WHICH HELP TO PREVENT INJURY FROM RADIATION, SPARKS AND ELECTRICAL
+    SHOCK.
+Work Hygienic Practices:NOT PROVIDED
+Supplemental Safety and Health
+TRAIN THE WELDER TO KEEP HIS HEAD OUT OF THE FUMES. TRAIN THE WELDER
+    NOT TO TOUCH LIVE ELECTRICAL PARTS AND TO INSULATE HIMSELF FROM
+    WORK AND THE GROUND.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+NRC/State Lic Num:NOT RELEVANT
+Corrosion Rate:NOT PROVIDED
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:DECOMPOSTION PRODUCTS INCLUDE THOSE
+    FROM VOLATILIZATION, REACTION OR OXIDATION OF NICKEL, IRON,
+    CHROMIUM, MANGANESE, SILICON. GASEOUS MAY INCLUDE CARBON MONOXIDE,
+    CARBON DIOXIDE, OZONE, NITROGEN OXIDES.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:NOT PROVIDED
+
+=====================  Ecological Information  =====================
+
+Ecological:NOT PROVIDED
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:PREVENT WASTE FROM CONTAMINATING SURROUNDING
+    ENVIRONMENT. DISCARD ANY PRODUCT RESIDUE, DISPOSABLE CONTAINER OR
+    LINER IN AN ENVIRONMENTALLY ACCEPTABLE MANNER, IN FULL COMPLIANCE
+    WITH FEDERAL, STATE, AN D LOCAL REGULATIONS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:NOT PROVIDED
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:CHROMIUM, MANGANESE AND COPPER ARE COVERED
+    UNDER THE REPORTING REQUIREMENTS OF SECTION 313 OF THE EMERGENCY
+    PLANNING AND COMMUNITY RIGHT-TO-KNOW ACT OF 1986 AND  40 CFR 372.
+Federal Regulatory Information:NOT PROVIDED
+State Regulatory Information:NOT PROVIDED
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

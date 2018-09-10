@@ -1,0 +1,166 @@
+MOBILE PAINT MFG CO INC -- COVENTRY - BLACK, 0003511  -- 8010-00N069747
+<pre>=====================  Product Identification  =====================
+
+Product ID:COVENTRY - BLACK, 0003511
+MSDS Date:01/15/1991
+FSC:8010
+NIIN:00N069747
+MSDS Number: CBKTG
+=== Responsible Party ===
+Company Name:MOBILE PAINT MFG CO INC
+Box:717
+City:THEODORE
+State:AL
+ZIP:36582
+Country:US
+Info Phone Num:334-443-6110
+Emergency Phone Num:800-255-3924
+Preparer's Name:JULIE HOAGLAND
+CAGE:88633
+=== Contractor Identification ===
+Company Name:MOBILE PAINT MANUFACTURING CO INC
+Box:717
+City:THEODORE
+State:AL
+ZIP:36582
+Country:US
+Phone:334-443-6110
+CAGE:88633
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYLENE GLYCOL (SARA 313) (CERCLA)   VP: 0.1 @ 68F
+CAS:107-21-1
+RTECS #:KW2975000
+Fraction by Wt: 2%
+OSHA PEL:N/K 
+ACGIH TLV:50 PPM, VAPOR, C
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:SILICA, CRYSTALLINE - QUARTZ; (SILICON DIOXIDE)
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 25%
+OSHA PEL:N/K 
+ACGIH TLV:0.1 MG/M3 RDUST
+
+Ingred Name:CARBON BLACK
+CAS:1333-86-4
+RTECS #:FF5800000
+Fraction by Wt: <5%
+OSHA PEL:3.5 MG/M3
+ACGIH TLV:3.5 MG/M3
+
+Ingred Name:VOLATILE ORGANIC COMPOUND: 0.75 LB/GAL (90 G/L)
+RTECS #:9999999VO
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: MAY CAUSE HEADACHE, NAUSEA
+    AND IRRITATION OF THE NOSE, THROAT AND LUNGS. SKIN: POSSIBLE
+    PRIMARY SKIN IRRITATION (MATERIAL IS SLIGHTLY ALKALINE). EYES:
+    PRIMARY EYE IRRITATION (SENSITIZER TO  SOME PEOPLE). INGESTION: NO
+    KNOWN EVIDENCE OF ADVERSE HEALTH EFFECTS.
+Explanation of Carcinogenicity:SILICA, CRYSTALLINE-QUARTZ: IARC MONO,
+    SUPP, VOL 7, PG 341, 1987;GROUP 2A. NTP 7TH ANNUAL REPORT ON
+    CARCINS, (SUPDAT)
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:MAY PRODUCE ASTHMATIC RESPONSE IN
+    PERSONS WITH ASTHMA WHO ARE SENSITIVE TO AIRWAY IRRITANTS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR. SKIN: REMOVE W/SOAP & WATER.
+    ROMOVE & LAUNDER CONTAMD CLOTHING BEFORE REUSE. EYES: FLUSH IMMED
+    W/LG AMOUNTS OF WATER FOR AT LEAST 15 MIN. SEE MD FOR MED
+    TREATMENT. INGEST:	DRINK 1 OR 2 GLASSES OF WATER TO DILUTE. DO NOT
+    INDUCE VOMITING. CONSULT MD OR POISON CONTROL CENTER IMMEDIATELY.
+    TREAT SYMPTOMATICALLY. NEVER GIVE ANYTHING BY MOUTH TO AN
+    UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NO FLASH
+Lower Limits:3.2%
+Extinguishing Media:FOAM, ALCOHOL FOAM, CARBON DIOXIDE, DRY CHEMICAL,
+    WATER FOG.
+Fire Fighting Procedures:USE NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP .
+    CLSD CNTNRS MAY EXPLODE DUE TO BUILD-UP OF STEAM PRESS WHEN EXPOS
+    TO EXTREME HEAT. WATER MAY BE (SUPDAT)
+Unusual Fire/Explosion Hazard:MATERIAL MAY SPLATTER WHEN TEMPERATURE
+    GOES ABOVE 212F. DRIED SOLIDS MAY BURN GIVING OFF OXIDES OF CARBON.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLOOR MAY BE SLIPPERY; USE CARE TO AVOID
+    FALLS. DIKE AND ABSORB WITH INERT MATERIAL. TRANSFER TO CONTAINER
+    FOR DISPOSAL. KEEP SPILL OUT OF MUNICIPAL SEWERS AND OPEN BODIES OF
+    WATER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE ABOVE 120F. DO NOT
+    FREEZE. STORE LARGE QUANTITIES ONLY IN BUILDINGS DESIGNED TO COMPLY
+    WITH OSHA 1910.104. KEEP CONTAINERS CLOSED.
+Other Precautions:USE WITH ADEQUATE VENTILATION. AVOID CONTACT WITH
+    SKIN AND CLOTHING. WASH THOROUGHLY AFTER HANDLING. DO NOT HANDLE
+    UNTIL THE MANUFACTURER'S SAFETY PRECAUTIONS HAVE BEEN READ AND
+    UNDERSTOOD.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IN OPEN AREAS, USE NIOSH/MSHA APPRVD MECH FILTER
+    RESP TO REMOVE SOLID AIRBORNE PARTICLES OF OVERSPRAY. DURING SPRAY
+    APPLICATION IN RESTRICTED VENT AREAS USE NIOSH/MSHA APPRVD RESP TO
+    REMOVE A COMBINAT ION OF PARTICULATES & VAPOR.
+Ventilation:PROVIDE VENT IN VOL & PATTERN TO KEEP TLV OF HAZ INGREDS
+    BELOW ACCEPTABLE LIMIT, LEL BELOW STATED LIMIT & TO (SUPDAT)
+Protective Gloves:GLOVES IMPERVIOUS TO WATER & SOAP.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGLES .
+Other Protective Equipment:ANSI APPROVED EYE WASH & DELUGE SHOWER . USE
+    PROT OUTERWEAR & PREVENT PRLNGD SKIN CNTCT TO CONTAMD CLTHG.
+Work Hygienic Practices:WASH HANDS THOROUGHLY BEFORE EATING, SMOKING OR
+    DRINKING AND AT THE END OF EACH WORK PERIOD.
+Supplemental Safety and Health
+FIRE FIGHT PROC: USED TO COOL CLSD CNTNRS TO PVNT PRESS BUILDUP & POSS
+    EXPLO WHEN EXPOS TO EXTREME HEAT. EXPLAN OF CARCIN: 1994: ANTIC TO
+    BE CARCIN. VENT: REMOVE DECOMP PRODS DURING WELDING OR FLAME C
+    UTTING ON SURFS COATED W/THIS PROD.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:379F,193C
+Vapor Pres:SEE ING 1
+Vapor Density:LTR/AIR
+Spec Gravity:1.3 (H*2O=1)
+Evaporation Rate &amp; Reference:SLOWER THAN ETHER
+Solubility in Water:DILUTABLE
+Appearance and Odor:NONE SPECIFIED BY MANUFACTURER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZERS, ACIDS AND BASES.
+Stability Condition to Avoid:FIRE.
+Hazardous Decomposition Products:OXIDIZING MATERIALS MAY BE GIVEN OFF.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

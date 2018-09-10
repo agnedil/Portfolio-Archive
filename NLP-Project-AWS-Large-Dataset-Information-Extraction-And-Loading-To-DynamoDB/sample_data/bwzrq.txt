@@ -1,0 +1,120 @@
+TEKTRONIX INC -- 016-0898-00 TRANSFER ROLLS  -- 7510-01-295-9274
+<pre>=====================  Product Identification  =====================
+
+Product ID:016-0898-00 TRANSFER ROLLS
+MSDS Date:12/03/1992
+FSC:7510
+NIIN:01-295-9274
+MSDS Number: BWZRQ
+=== Responsible Party ===
+Company Name:TEKTRONIX INC
+Address:14150 SW KARL BRAUN DR
+Box:500
+City:BEAVERTON
+State:OR
+ZIP:97077
+Country:US
+Info Phone Num:503-627-1312/503-627-7111
+Emergency Phone Num:503-627-6677
+Preparer's Name:ROD CHRISTIANSEN
+CAGE:80009
+=== Contractor Identification ===
+Company Name:TEKTRONIX INC
+Address:14150 SW KARL BRAUN DR
+Box:500
+City:BEAVERTON
+State:OR
+ZIP:97077
+Country:US
+Phone:503-627-7255
+CAGE:80009
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYETHYLENE TEREPHTHALATE OR
+    POLY(OXYETHYLENEOXYTEREPHTHALOYL)
+CAS:25038-59-9
+RTECS #:TR2725000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:NOT ESTABLISHED.
+ACGIH TLV:NOT ESTABLISHED.
+
+Ingred Name:PROPRIETARY BINDER AND PIGMENTS
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN & EYES-NON-IRRITATING. INGESTION
+    AND INHALATION ARE NOT CONSIDERED AS ROUTES OF EXPOSURE.
+Explanation of Carcinogenicity:NO INGREDIENT OF A CONCENTRATION OF 0.1%
+    OR GREATER IS LISTED AS A CARCINOGEN OR SUEPECTED CARCINOGEN.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:THIS MATERIAL IS A COATED FILM. NO MEDICAL EMERGENCY IS
+    FORESEEN WHEN PRODUCT IS USED AS INTENDED.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:NONE SPECIFIED BY MANUFACTURER. DLA-HMIS: WEAR
+    SELF-CONTAINED BREATHING APPARATUS AND FULL PROTECTIVE GEAR.
+Unusual Fire/Explosion Hazard:THE FILM WILL BURN WHEN IN CONTACT WITH
+    FIRE. PRODUCTS OF CAOMBUSTION INCLUDE CARBON MONOXIDE, CARBON
+    DIOXIDE AND WATER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:THIS SECTION IS NOT APPLICABLE TO THIS
+    PRODUCT, WHICH IS A DRY FILM.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NO SPECIAL PRECAUTIONS ARE NEEDED.
+    STORE AWAY FROM EXCESSIVE HEAT.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED.
+Ventilation:NONE NORMALLY REQUIRED.
+Protective Gloves:NONE NORMALLY REQUIRED.
+Eye Protection:NONE NORMALLY REQUIRED.
+Other Protective Equipment:NONE NORMALLY REQUIRED.
+Work Hygienic Practices:WASH HANDS AFTER HANDLING AND BEFORE EATING,
+    DRINKING, OR SMOKING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:COATED, FLEXIBLE FILM.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE EXPECTED.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:WATER, CARBON MONOXIDE AND CARBON
+    DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL ENVIRONMENTAL REGULATIONS. THIS FILM IS NOT CONSIDERED A
+    HAZARDOUS WASTE UNDER RCRA 40 CFR 261.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

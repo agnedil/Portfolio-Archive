@@ -1,0 +1,373 @@
+lamb vindaloo; India's Grill	0.371923076923	5
+chicken tikka masala; Tandoori Times 3 Indian Bistro	0.244855466389	4	4	5	5	4	4	4	5
+chicken tikka masala; India Garden	0.266660353535	4
+tandoori chicken; India Palace	0.165414653784	4	4	5	4	2
+garlic naan; Gandhi India's Cuisine	0.172627899878	4	4	5
+garlic naan; Mantra Masala	0.0196731311233	4	5	2	1	5	2
+tandoori chicken; Jewel of the Crown	0.162579844398	5
+tandoori chicken; Taj Mahal Indian Cuisine	0.112136637098	4	5	5	4	2	4
+garlic naan; Copper Kettle-Salads Balti & Taandoori Grill	0.11975	4
+garlic naan; Dhaba Indian Bistro	0.294010266354	5	5	5	5	5	5	5	5
+chicken tikka masala; Kabob n Kurry	0.0136019854289	4	5	2	5	1
+chicken tikka masala; Dhaba Indian Bistro	0.190491130131	5	5	2	2	5	5	4	4	5	5	5	5	5
+tandoori chicken; Taj Palace	0.199687503913	5	4	5	4	5	4	5	5	1	5
+garlic naan; Flavors of India	0.214231927505	4	4	4	4	5	4	5	5
+chana masala; Maharaja Restaurant E Pt Plaza	0.26951754386	4
+garlic naan; Minerva Indian Cuisine	0.181126490903	4	5	5	5
+chana masala; Origin India Restaurant & Bar	0.171204773594	5	4	2	5
+chicken tikka masala; Kebab Mahal	0.31334080941	5	5	4	5
+chana masala; Maharani Restaurant	0.160755208333	4
+chicken tikka masala; India Oven	0.220102324844	4	4	5	4	5	5	4	4	5	5	5	5
+chicken tikka masala; Copper Kettle-Salads Balti & Taandoori Grill	0.327728174603	4	4
+garlic naan; Sai India Curry	0.2663003663	1
+chicken tikka masala; Kabab Palace	0.0995553751804	4	4	4
+lamb vindaloo; Taj Palace	0.376231782107	4	5	5
+chana masala; Gandhi India's Cuisine	0.265833333333	4
+garlic naan; Curry Garden	0.232892959355	5	4	4	4	4
+chicken tikka masala; India Oven	0.121160902292	2	2	5	5	5
+garlic naan; Tamba Indian Cuisine & Lounge	0.260179232804	5	4	4
+chicken tikka masala; Mother India's Cafe	0.160714285714	5
+garlic naan; Kabab Palace	0.212923351159	2
+garlic naan; Tandoori Times 3 Indian Bistro	0.239346438578	4	5	4	4	4	4	4	5	4
+garlic naan; Tuk Tuk Indian Street Food	0.00524691358025	4
+garlic naan; India Palace	0.272537185663	4	4	4	4	5	4	4	2	4	5	5
+chicken tikka masala; Taj Mahal Indian Cuisine	0.238625139136	4	5	5	4	5	1
+chicken tikka masala; Delhi Palace Cuisine of India	0.144709923476	4	4	5	2	4	4	4
+chicken tikka masala; Chennai Chettinaad Palace	0.155401399024	4	4	5	4	2
+lamb vindaloo; Dhaba Indian Bistro	0.115158942365	2	4
+chana masala; India Palace	-0.0746674664184	1
+lamb vindaloo; Mantra Masala	0.0191038143653	5	4	2
+lamb vindaloo; Chennai Chettinaad Palace	0.362001262626	4	4
+tandoori chicken; India Palace	0.230396450386	4	4	5	5	5	2	4	1	2	5	4	5	4	5	5	5
+lamb vindaloo; Maharani Restaurant	0.0825	5
+tandoori chicken; India Oven	0.22411478586	1	4	1	4	5	4	4	5	5	5	4	4	4	5	5	5	4	5	5	4	4	5	2	5	5	5	5	5	5	1	4	5	5	4
+lamb vindaloo; Kebabish Original	0.09375	5
+tandoori chicken; India Garden	0.209847956248	4	4	5	5	4	4	5
+garlic naan; Shalimar Restaurant	0.311266467874	5	2	4	4	1	4	5
+tandoori chicken; Royal India Bistro	-0.0112626262626	1
+garlic naan; Tandoori Times 2 Indian Bistro	0.272424774748	4	4	5	4	5	5	5	5	1	4	4
+garlic naan; Kalpna Restaurant	0.271428571429	4
+garlic naan; Lancers Brasserie	0.0467878787879	5
+tandoori chicken; Kohinoor Cuisine of India	0.0928294477513	5	4
+lamb vindaloo; India Gate	0.231841138659	4
+chicken tikka masala; Kohinoor Cuisine of India	0.0555604316254	1	4	4
+tandoori chicken; India Masala	0.0810416666667	4	5
+garlic naan; Haweli Indian Grill & Bar	0.160437335259	5	5	5	1
+chicken tikka masala; Indian Paradise	-0.00677083333333	5
+garlic naan; New Saffrani	0.267261904762	4
+chicken tikka masala; Khyber Halal	0.175440277377	4	4	5	5	4	4	5	4	4	4	4	4	4	4	5
+tandoori chicken; Taste of India	0.0365282434079	4	4	5
+garlic naan; Ashoka	0.228623321123	5
+chicken tikka masala; 10-to-10 In Delhi	0.3725	5
+tandoori chicken; Saffron Flavors of India	0.179652298082	5	5	4	4	5	5	5	5	2	4	4	2	5	4
+chicken tikka masala; Tadka Sizzles	0.0	2
+lamb vindaloo; Gaylord India Restaurant	-0.0142857142857	1
+garlic naan; Empress of India	0.219117647059	4
+chana masala; Madras Ananda Bhavan	0.595	4
+chicken tikka masala; India's Grill	0.178078007519	5	4
+chicken tikka masala; Minerva Indian Cuisine	0.27270678726	4	4
+chicken tikka masala; Flavors of India	0.183437577517	2	4	5	4	4	4	5	4	4	5
+chicken tikka masala; Guru Palace	0.210579203808	4	5	4	4	4	4	5	5	4	5	5
+garlic naan; Taj Palace	0.281695492532	5	4	4	2	5	4	4	5	4	4	4	2	4	5	5	5	5	5	4	4	5	5	5	4	5	5	1	5	4	5	5	5
+chicken tikka masala; OM Restaurant	0.185731737456	5	5	5	4	4
+chicken tikka masala; Copper Kettle	0.279397222222	4	5	4	4	5
+lamb vindaloo; Tandoori Times Indian Bistro	0.204453315281	5	4	4	5	5
+garlic naan; Hurry 4 Curry	0.0735	5
+garlic naan; Taste of India	0.145502645503	4
+garlic naan; Saffron Flavors of India	0.206396289024	4	5	5	4	4	4	4	5	4	5	4	4	5	5	5	2	4	2	4	5	5	5	2	4	4	4	4	4	5	5	4	4	5
+tandoori chicken; Pyaar India Restaurant	0.115825767444	1	4
+lamb vindaloo; Tandoori Times 3 Indian Bistro	0.202777777778	4
+tandoori chicken; New India Bazaar	-0.0309098639456	4
+lamb vindaloo; India Palace	0.204120648259	4	5
+chicken tikka masala; Haweli Indian Grill & Bar	0.281592926847	5
+chicken tikka masala; Passage To India	0.0560059276236	1	1	5	5	5	1
+lamb vindaloo; Empress of India	0.182653061224	4
+chana masala; Nandini Indian Cuisine	0.280729166667	5
+tandoori chicken; Red Fort	0.208333333333	2
+tandoori chicken; Fusion	0.348890692641	5	5
+tandoori chicken; OM Restaurant	0.279259259259	5
+lamb vindaloo; Samosa Factory	0.258593915344	5	4	5	5
+tandoori chicken; Mount Everest India's Cuisine	0.157786100199	5	4	4	4	5	4	5	4	4	5	4	5	5	4	4	4	4	5
+garlic naan; Gaylord India Restaurant	0.456653025794	5	4
+chicken tikka masala; Maharani Restaurant	0.225785740927	4	4	5	4
+chicken tikka masala; Maharaja Restaurant	0.109003770013	4	4	5	5	4
+chicken tikka masala; Tanjore	0.148026315789	4
+garlic naan; The Prince of India	0.18347676918	4
+garlic naan; Nandini Indian Cuisine	0.247063887426	5	4	5
+chicken tikka masala; Curry House	-0.0131870122631	4	2
+chana masala; India's Grill	0.405556839961	4	5
+chicken tikka masala; India Gate	0.101134615385	2	5
+chicken tikka masala; Royal Taj	0.21576718306	5	5	4	4	4	5	4	5	5	4	5	2	5	5	4	5	5	5	1	5
+lamb vindaloo; Origin India Restaurant & Bar	0.233822189881	5	2	5	4	2	5
+tandoori chicken; Royal Taj	0.200372979104	4	5	4	4	4	5	4	4
+garlic naan; Indian Curry Bowl	0.104193512034	5	4	5	4	2	1	1	1
+lamb vindaloo; Delhi Palace Cuisine of India	0.21102140354	4	4	4	4
+tandoori chicken; Noor Indian Takeaway	0.226801948052	5	5
+tandoori chicken; Chutney's Indian Cuisine	0.188029247176	4
+tandoori chicken; Curry Garden	0.0935666185666	4
+garlic naan; Kebab Mahal	0.46462962963	5
+lamb vindaloo; Bombay Spice Grill	0.279924242424	4
+garlic naan; Indian Paradise	0.232201588633	4	5	5	5	4	5	4	5	4	5
+garlic naan; Chutney's Indian Cuisine	0.191740196078	5	5
+garlic naan; Taj Indian Restaurant	-0.1375	4
+tandoori chicken; Tandoori Times Indian Bistro	0.166371253746	4	5	5	5	4
+tandoori chicken; Pak Afghan Halal Restaurant & Catering	0.291106442577	5
+tandoori chicken; India Masala Bar & Grill	0.127847908538	5	5	2	4	4	1	4	4
+chicken tikka masala; The Dhaba	0.185439131104	5	4	4	4	4	4	4	4	5	5	4	1	5	5	5	5	5	5	4	4
+tandoori chicken; Swagat India	0.164356150266	4	4	4
+tandoori chicken; Tandoori Times 2 Indian Bistro	0.280839717928	4	5	4	5	5
+garlic naan; Maharani Restaurant	0.191526075977	2	4	5	4
+garlic naan; Al Hamra	0.320937547746	4	4	5	2	5
+garlic naan; Guru Balti Restaurant	0.270239482739	5
+lamb vindaloo; India Grill	0.127333024119	5	4
+chana masala; Royal Taj	0.242603021978	4
+chana masala; Tamba Indian Cuisine & Lounge	0.269194240196	4	4
+tandoori chicken; Sutra Fine Indian Cuisine	0.113878449476	4
+tandoori chicken; Bollywood Grill Indian Cusine	0.164414414414	4
+chicken tikka masala; Indian Paradise 2	0.053066893424	5	5
+garlic naan; Taj Mahal Indian Cuisine	0.251337661136	4	4	5	5	4	4	4	5	5	4	4	4	5	4	5	5	1
+garlic naan; Maharaja Restaurant E Pt Plaza	0.102757936508	1	4
+chana masala; Curry House	0.160980576441	2
+chicken tikka masala; Gaylord India Restaurant	0.192747790404	5	4	2	1	5
+chana masala; 10-to-10 In Delhi	-0.2	5
+tandoori chicken; Tandoori Village	0.173441358025	5
+tandoori chicken; India Grill	0.216670892508	5	4	5	4	5	2	4
+chana masala; India Masala Bar & Grill	0.183333333333	2
+chicken tikka masala; Madras Ananda Bhavan	0.311447811448	4
+chana masala; Maharaja Restaurant	0.0534953703704	4
+tandoori chicken; Passage To India	0.206752570924	4	5	5	5	1	5
+chana masala; Kohinoor Cuisine of India	-0.0940104166667	4
+chana masala; Indian Paradise 2	-0.0877551020408	5
+chana masala; Cafe Krishna	0.204488095238	5
+tandoori chicken; Curry Corner	0.0654011746873	5	4	5	1
+lamb vindaloo; Guru Palace	0.212561728395	4	2	5
+chana masala; Swad	0.353414786967	5
+garlic naan; The Curry Leaf	-0.0621875	1
+chicken tikka masala; Nandini Indian Cuisine	0.247063887426	5	4	5
+tandoori chicken; Indian Curry Bowl	0.0956989247312	1
+chicken tikka masala; Bawarchi Indian Cuisine	0.217669413919	4	4	4	5
+chana masala; Curry Corner	0.191769652305	4
+chicken tikka masala; Kabob N More	-0.464	1
+garlic naan; India Palace	0.234185082502	4	4	5	5	2	4	4	4	5	4	2	5	5	2	4	2	4	5	4	5	4	4	5	4	4	2	4	5	4	4	4	5	5	5	5	2	5	5	5	2	5	4
+chicken tikka masala; Mount Everest India's Cuisine	0.249734650611	5	5	4	5	5	5	5	5	4	5	5	5	4	5	5	4	5	5	5	5	4	5	4	5
+garlic naan; Omar Khayyam	0.218213383838	4
+chicken tikka masala; Curry in the Box	0.183163265306	4
+tandoori chicken; Mantra Masala	0.00558567049727	5	4	1	5
+tandoori chicken; Haweli Indian Grill & Bar	0.247449157951	5	5
+chana masala; Indian Delhi Palace	0.0784226190476	4	2	4	5
+lamb vindaloo; Tandoori Times 2 Indian Bistro	0.349137872629	4	4	5	4
+lamb vindaloo; Star of India	0.370923913043	4
+garlic naan; Samosa Factory	0.293711782914	4	5	1	5	5	4	4	5	5	5	5	4	4	5	5	4	4	5	1	1	2	4	4	5	4	5	4	5	5	2	5	2	5
+chicken tikka masala; India's Grill	0.0977272727273	4
+chana masala; Mount Everest India's Cuisine	0.186113057769	5	4	5	4
+garlic naan; Khushi's	0.56375	5
+garlic naan; Indian Delhi Palace	0.151031435994	4	4	5	4	4	4	1	4	4	4	4	5	5	2	4	5	4	2
+chicken tikka masala; Swad	0.367827604726	5	4	5
+garlic naan; Mount Everest India's Cuisine	0.226376993355	5	5	4	4	4	4	4	5	2	4	4	2	4	5	4	5	5	5	5	5	4	5	5	2	5	4	4	4	4	5	5	5	5	5	4	4	4	5	4	5	5	5	5	4	5	5	5	5	4	4	4	5	5	4	5	1	4	4	5	5	4	4	4	2
+garlic naan; Karaikudi Palace	0.269337643351	4	5	4	5
+tandoori chicken; Samosa Factory	0.096895536804	4	4	4	1	2	2
+lamb vindaloo; Tamba Indian Cuisine & Lounge	0.412832482993	5	4
+chicken tikka masala; Mirch Masala	0.038458994709	4	4
+chicken tikka masala; Aromas at Island Restaurant	0.378571428571	5
+garlic naan; Saffron	0.0815439384806	2	5	1	2
+tandoori chicken; The Dhaba	0.133129789272	4	4	4
+tandoori chicken; Indian Paradise 2	0.193771822176	4	4	4
+chicken tikka masala; Haveli Restaurant	0.471098484848	5
+tandoori chicken; Maharani Restaurant	0.181144675926	4	5	5	5
+tandoori chicken; Kismot	0.266666666667	5
+tandoori chicken; Bay Leaf Cafe	-0.245814494148	2	1	1
+tandoori chicken; Indian Maharaja Palace	0.138839221973	5	4	1	4	5	1	5
+garlic naan; India Oven	0.285645594316	5	4	5	5	4	5	5	4	5	5	4	5	5	4	5	5	5	5	5	5	4	5	4	5	4	5	4	4	5	5	5	5	5	1	5	5	5
+garlic naan; Kabob n Kurry	0.154497374026	5	5	5	2	4
+tandoori chicken; Taj Express	-0.0759259259259	4
+chicken tikka masala; Shalimar Restaurant	0.165501792369	4	5	2	4	4	5	2	5
+tandoori chicken; Taste of India	-0.16249789916	2	2
+tandoori chicken; Maharaja Restaurant	0.177152371627	5	4	5	4	5	5	4
+tandoori chicken; Tamba Indian Cuisine & Lounge	0.201305088702	4	5	5	4	2
+chana masala; Flavors of India	0.275682043651	5	5
+tandoori chicken; Minerva Indian Cuisine	0.207622180222	4	5	5
+garlic naan; Bombay Spice Grill	0.172869635509	1	2	4
+tandoori chicken; Copper Kettle-Salads Balti & Taandoori Grill	0.0712988925039	4	4	4
+lamb vindaloo; India Palace	0.611904761905	4
+tandoori chicken; India Gate	0.0567861305361	2	4
+chicken tikka masala; Indus Village	0.299661063763	5	5
+tandoori chicken; Swad	0.119444444444	4
+chana masala; Southern Spice	0.0722802942315	2
+garlic naan; Mayuri Palace	0.190845574258	4	5	2	2
+chana masala; India Palace	0.424755952381	4	4
+garlic naan; Masala Bay Fine Indian Dining	0.245833333333	4
+garlic naan; Flavor of India	0.189464285714	5	4
+garlic naan; Origin India Restaurant & Bar	0.245824159152	2	4	4	4	4	5	4	4	4
+chana masala; Passage To India	0.225955788039	5	5
+chicken tikka masala; New India Bazaar	0.168972816399	4	5
+chicken tikka masala; Indian Delhi Palace	0.164824709751	4	4	4	5	5	5	4	4	4	4	5
+tandoori chicken; Imans	0.305505952381	4
+garlic naan; India Gate	0.126698246606	2	2	4	4
+tandoori chicken; Mayuri Palace	0.230083349539	5	2	5	5
+chicken tikka masala; Jewel of the Crown	0.0667998054689	4	4	5	4	1	4	2	5
+garlic naan; Pataka Restaurant	0.154490740741	4
+tandoori chicken; Indian Paradise	0.157899440005	4	4	4	4	5	4	4	5	4	4
+chicken tikka masala; Saffron	0.00539838879424	2	2	1
+garlic naan; India Oven	0.125318627451	4	1
+chicken tikka masala; Aachi Southindian Kitchen	0.332098765432	5
+chana masala; India Grill	0.162567284137	4	4	2
+garlic naan; Delhi Indian Cuisine	0.281641888751	5	4	2	5	5	5	4	5	5	4	4	5	4	5	5	5	5	4
+lamb vindaloo; Mount Everest India's Cuisine	0.226313306678	4	4	5	4	5	5
+chicken tikka masala; Taj Palace	0.261433901732	5	4	4	5	4	4	2	2	5	5	4	4	5	4	5	2	5	4	5	5
+lamb vindaloo; Bay Leaf Cafe	0.345089285714	4
+chicken tikka masala; Namaste Indian Cuisine	0.151667400706	2	4	4	5	2
+garlic naan; Sutra Fine Indian Cuisine	0.194076732804	4	5	5	4	4
+lamb vindaloo; India Oven	0.36457220527	5	5	5	4	5	5	5	4	4	5	5	4	5	5
+lamb vindaloo; Al Hamra	0.262972907648	4	1	5	5	5
+garlic naan; Curry Corner	0.294392643614	4	4	5	2	2	5	4	4	4	5	5	5	2	4	4	5	5	5	4	2
+chana masala; Saffron Flavors of India	0.0764124503968	2	2
+tandoori chicken; Southern Spice	0.0819509958071	2	4
+chicken tikka masala; Sutra Fine Indian Cuisine	0.220287698413	4	4
+chana masala; Indian Paradise	0.252708991773	4	5	4
+garlic naan; Vinyasa	0.237142857143	4
+chicken tikka masala; Tandoori Times Indian Bistro	0.148069264062	2	5	1	4	4	4	5	5	2	1
+chicken tikka masala; India Grill	0.0819154614325	2	5
+chicken tikka masala; Star of India	0.182514379322	4	4	5	5	5	4	5	5	5
+chicken tikka masala; Saffron Flavors of India	0.137966936189	5	5	5	5	4	4	5	1	1
+chicken tikka masala; Taste of India	-0.0218181818182	4
+chicken tikka masala; Mint Indian Bistro	0.190929466357	5	4	5	5	4	4	4	2	5	5	4	1	4	5	5	5	5	4	4	2	4	5
+chicken tikka masala; Omar Khayyam	0.233333333333	4
+chicken tikka masala; Mayuri Palace	0.201581486569	4	4	4	2	4
+tandoori chicken; Sai India Curry	0.103487654321	4
+garlic naan; India Masala Bar & Grill	0.352544758482	5	5	5
+garlic naan; Pyaar India Restaurant	0.214772647987	4	4
+tandoori chicken; Gandhi India's Cuisine	0.077368693378	4	1	1	1	4	5
+garlic naan; Taste of India	0.212540792541	1
+lamb vindaloo; India Garden	0.165435139573	5
+tandoori chicken; Namaste Indian Cuisine	0.160989474339	4	5	5	2
+chana masala; Indus Village	0.195693277311	5
+garlic naan; Star of India	0.304142994429	4	4	5	5	5	4	1	4	4	5	5	5	4	5	5
+tandoori chicken; Al Hamra	0.322222222222	4
+tandoori chicken; Guru Palace	0.122575683073	4	4	4	4	4	4	4
+garlic naan; Britannia Spice	0.275159489633	4
+lamb vindaloo; Maharaja Restaurant	0.251301900363	5	5	4
+tandoori chicken; Mint Indian Bistro	0.219820428235	5	5	5	5	4	5	4	5	4	4	4	2	4	5	5	5	2	5
+tandoori chicken; Flavors of India	0.0861440617914	2	2	4	2	5	5
+tandoori chicken; India's Grill	-0.072311827957	2
+garlic naan; India Gate	0.19208234127	4	4	4	4
+chicken tikka masala; Indian Maharaja Palace	0.106995614035	5	2
+chicken tikka masala; Chutney's Indian Cuisine	0.185253854333	2	2
+garlic naan; The Dhaba	0.296318978332	4	4	5	5	5	4	4	4	4	5	5	5	4	4	5	5	2	4	5	4	5	5	5	4	5	5	5	4	5	4	5	4	4	5
+chicken tikka masala; Maharaja Restaurant E Pt Plaza	0.200777811124	5	5	4
+tandoori chicken; Taza Indian Kitchen	0.043815262216	2	4
+chana masala; The Dhaba	0.195982142857	4
+garlic naan; Indian Paradise 2	0.481015230429	5	4
+chana masala; Delhi Indian Cuisine	0.239596830368	4	5	4	4
+garlic naan; Passage To India	0.345004084967	5	5	5	4
+tandoori chicken; Haveli Restaurant	0.384333333333	4
+chicken tikka masala; Karaikudi Palace	0.173253348214	4	1
+chana masala; Taj Indian Restaurant	-0.1375	4
+chicken tikka masala; Gandhi India's Cuisine	0.17208072264	1	5	4
+chicken tikka masala; Al Hamra	0.0984375	5
+garlic naan; NASHA Indian Cuisine	0.160035714286	2
+garlic naan; Love India	0.379166666667	5	4
+chicken tikka masala; Indian Paradise	0.172597974436	4	5	5	4	4	4	5	4	4	2	5	4	5	1	2
+garlic naan; Indian Maharaja Palace	0.331165190217	4	2	4	5	4	5	4	5
+garlic naan; Southern Spice	0.169186294014	2	4	5	4	5
+chicken tikka masala; Samosa Factory	0.205934997372	4	4	5	4	4	2	5	2	5
+garlic naan; Khyber Halal	0.238141178813	5	5
+tandoori chicken; Indian Delhi Palace	0.131705972581	4	4	2	2	2	4	4	4	4
+garlic naan; Tandoori Times Indian Bistro	0.257585708375	4	5	4	4	5	4	2	5	4	4	1
+garlic naan; Kohinoor Cuisine of India	0.116597137975	1	4	4
+lamb vindaloo; Flavors of India	0.110203034812	5	5	5	4
+chana masala; Kabob n Kurry	0.155797296675	5	4
+garlic naan; Mint Indian Bistro	0.256266107818	5	4	5	5	5	4	4	5	4	5	4	5	5	4	1	4	4	2	5	4	5	4	5	5	4	4	5	5	4	4	4	4	2	5	4	5	5	4	5	5	4	4	5	5	4	5	4	2	4	4	4	5	4	4	5	5	4
+chicken tikka masala; Curry Garden	0.552380952381	5
+chicken tikka masala; Zest of India	-0.0984693877551	1
+lamb vindaloo; Indian Paradise	0.343888888889	4	4
+lamb vindaloo; OM Restaurant	0.114196455826	5	4	4	4
+garlic naan; Tandoori Village	0.0593386243386	4	1
+lamb vindaloo; Royal Taj	0.210538003663	5	4	4	1
+tandoori chicken; Star of India	0.220322929385	4	4	4	5	4	2	5	5
+lamb vindaloo; The Dhaba	0.365130545079	4	5	5	4
+tandoori chicken; Empress of India	0.219117647059	4
+lamb vindaloo; Saffron Flavors of India	0.183936336182	5	4	4	5
+tandoori chicken; Origin India Restaurant & Bar	0.182964545858	4	2	4	1	2	2
+chicken tikka masala; India Masala Bar & Grill	0.142473087393	4	5	5	2	1	5	2	1	5	4	4
+chicken tikka masala; Taza Indian Kitchen	-0.0603150287893	2	2
+garlic naan; India Garden	0.233805031008	4	4	4	5	5	5	5	5	4	4	5
+tandoori chicken; Maharaja Restaurant E Pt Plaza	0.242961740378	5	4	4	5
+tandoori chicken; Priya Indian Cuisine	0.0928034794111	4	4	4
+garlic naan; New India Bazaar	0.195555555556	4
+chana masala; Taste of India	0.212540792541	1
+lamb vindaloo; Namaste Indian Cuisine	0.344609958071	5	4	5	5	4	4
+tandoori chicken; Indus Village	0.211199525301	5	4
+chicken tikka masala; Taj Indian Restaurant	0.0707930756844	4	5	4
+chicken tikka masala; Indian Curry Bowl	-0.0481613339918	5	1	1	1	2
+garlic naan; Pak Afghan Halal Restaurant & Catering	0.230902777778	5
+chicken tikka masala; Tandoori Village	0.0990846560847	4	1
+lamb vindaloo; Mint Indian Bistro	0.300535782071	5	5	5	5	5	4	4	5
+chicken tikka masala; Pak Afghan Halal Restaurant & Catering	0.122	5
+garlic naan; India's Grill	0.293398394005	4	4	5	4	4	2	4
+chana masala; Dhaba Indian Bistro	0.409754901961	5	5
+chicken tikka masala; Flavor of India	0.193761574074	5	5	5
+garlic naan; The Mosque Kitchen	0.140910752665	4	4	4
+chicken tikka masala; Mantra Masala	0.176139299083	4	4	4	5	4	2	5	4	4	1	1	5	5
+lamb vindaloo; Taj Indian Restaurant	0.8	4
+lamb vindaloo; Mayuri Palace	0.234458333333	4	4
+chicken tikka masala; Curry Corner	0.127009162834	4	4	1	2	4	5	2	4	5	1	5	5	4	1	2	5	4	2	2
+chicken tikka masala; India Gate	0.059696969697	1
+chicken tikka masala; Zaidi's Grill	0.230405559353	4
+chana masala; Delhi Palace Cuisine of India	0.175880915638	4	4
+chicken tikka masala; Tandoori Times 2 Indian Bistro	0.184363581002	5	5	5	2	5	5	4	5	5	4	5
+garlic naan; Chennai Chettinaad Palace	0.117625	4
+garlic naan; Indus Village	0.337244897959	5
+chicken tikka masala; Tamba Indian Cuisine & Lounge	0.185921917923	1	5	5	5	5	5	4	4	4	5	4	4
+chana masala; Swagat India	0.250865800866	4	5
+chicken tikka masala; Bay Leaf Cafe	0.0588331969783	2	2	1	4	1	4	5	4	5	4
+chicken tikka masala; India Palace	0.204933712904	4	4	5	5	5	4	5	4	4	5	4	4	4	4	2	5	4	4	4	4	1	5	5	5	4	4	2	4	4	4	5	5	5	5	5	5	4	5	4	2	5	4	4
+tandoori chicken; Delhi Indian Cuisine	0.244208212905	5	2	4	5	5	4	4
+garlic naan; India Grill	0.303050123318	5	4	4	4	4	5	4	5
+tandoori chicken; Bombay Spice Grill	0.358202906162	5
+garlic naan; Copper Kettle	0.45625	5
+tandoori chicken; Khushi's	0.263768115942	4
+chicken tikka masala; Royal India Bistro	0.074218013468	1	5	4
+chicken tikka masala; Shezan Indian Cuisine	0.101023809524	4
+garlic naan; Jewel of the Crown	0.212953363571	4	4	4	2	5
+garlic naan; Zaidi's Grill	0.354053030303	5
+garlic naan; Bawarchi Indian Cuisine	0.239341269841	4	5	5
+chana masala; Mint Indian Bistro	0.0524545940171	4	5	4	1
+chicken tikka masala; Pyaar India Restaurant	0.070812532621	1
+lamb vindaloo; Kabab Palace	-0.094905767633	2
+garlic naan; Mother India's Cafe	0.177580687831	4	5
+chana masala; Kabab Palace	0.249041811847	4
+tandoori chicken; India Oven	0.191921768707	4
+chicken tikka masala; Bombay Spice Grill	0.131702801581	4	4	1	2	2	5	4	4	4	4	1	4
+chana masala; Taj Palace	0.288466008233	4	5
+garlic naan; Bay Leaf Cafe	0.171413915945	2	4	4
+garlic naan; Guru Palace	0.228739278043	4	4	4	4	4	1	4	5	2	2	2	4	5	4	5	5	4	5	1	5
+garlic naan; Swagat India	0.237577201933	4	4
+lamb vindaloo; Gandhi India's Cuisine	0.119318181818	2
+tandoori chicken; Kabab Palace	0.208655560709	5	4	4	5	4	4	5
+chicken tikka masala; Delhi Indian Cuisine	0.311305186042	5	5	5
+garlic naan; Tikka Mahal	0.265291666667	5
+chicken tikka masala; Swagat India	0.15078604511	4	4	5	4	4
+tandoori chicken; Saffron	0.0403884310134	2
+tandoori chicken; Pasand	0.252306688583	4	5	4
+garlic naan; Madras Ananda Bhavan	0.221490723782	5	4	4	2
+tandoori chicken; Karaikudi Palace	0.144109899088	4	5	2
+garlic naan; Cafe Krishna	0.413265306122	4
+garlic naan; Indian Paradise	0.438333333333	4
+tandoori chicken; Delhi Palace Cuisine of India	0.146404693251	4	2	4	5	4	4	5	4	4	4	2	4
+lamb vindaloo; Karaikudi Palace	0.0660230120756	4
+chana masala; Guru Palace	0.245545834181	4	4	4
+garlic naan; OM Restaurant	0.288067174328	5	5	4	5
+chicken tikka masala; Bollywood Grill Indian Cusine	0.0627777777778	4
+chicken tikka masala; Curry Leaf Indian Grill	0.0128200483092	2
+chicken tikka masala; India Palace	0.124843180439	5	4	1	1	5	4	5	5
+tandoori chicken; India Gate	0.134135898823	2	4	4
+chicken tikka masala; Southern Spice	0.148586281179	4	4	5	2	5
+tandoori chicken; India's Grill	0.38125	4
+garlic naan; Royal India Bistro	0.026952020202	1	4
+chicken tikka masala; India Masala	0.211539262821	4	4	5	5
+garlic naan; Namaste Indian Cuisine	0.202895502532	5	4	5	4	4	5	1	4	4	4
+garlic naan; Royal Taj	0.242081894179	2	4	4	4	5	5	4	5	2	5	4	4	5	5	4	5	4	4	4	4
+chicken tikka masala; Origin India Restaurant & Bar	0.266218208874	5	4	2	4
+garlic naan; Kismot	0.326064186491	5	5	5
+lamb vindaloo; NASHA Indian Cuisine	0.330769230769	5
+garlic naan; Delhi Palace Cuisine of India	0.25490098702	5	4	4	4	5	4	4	5	4	4	4	5

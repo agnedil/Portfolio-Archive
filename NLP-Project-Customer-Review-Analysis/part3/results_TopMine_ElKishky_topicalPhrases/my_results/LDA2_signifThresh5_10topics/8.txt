@@ -1,0 +1,1197 @@
+dining room	776
+bar area	588
+parking lot	516
+sit at the bar	469
+live music	400
+dining area	388
+sat at the bar	380
+large group	321
+outdoor seating	265
+people watching	257
+dance floor	256
+Bottom line	251
+hole in the wall	240
+panna cotta	224
+outdoor patio	208
+sit on the patio	196
+walked in the door	170
+seat at the bar	166
+dim lighting	158
+large party	150
+sat on the patio	150
+valet parking	149
+music playing	140
+dining experience	138
+sports bar	133
+walking distance	130
+sit at a table	127
+fine dining	123
+doors open	123
+Oyster Bar	119
+sit inside	119
+front door	118
+seating area	117
+view of the Bellagio fountains	115
+open bar	112
+open kitchen	112
+Frank Sinatra	111
+noise level	111
+patio seating	110
+dimly lit	107
+patio area	104
+private room	104
+tables and chairs	102
+lot of people	101
+group of people	101
+watch the game	100
+big group	100
+dining companion	99
+walked into the restaurant	97
+Il Fornaio	94
+tables seated	91
+seated at a table	91
+music was so loud	91
+table side	91
+bar next door	90
+full bar	90
+inside the restaurant	90
+tables inside	90
+Mandalay Bay	89
+table close	89
+opened the door	87
+hip hop	84
+back room	84
+lot of fun	83
+dark wood	83
+bar tender	83
+night club	82
+Open Table	81
+front of the house	81
+seated inside	81
+pretty cool	80
+hotel room	80
+small table	80
+table cloths	79
+walked past	79
+heat lamp	78
+seated on the patio	77
+fire pit	77
+pretty small	77
+save room	76
+sat at a table	75
+casual dining	74
+seated immediately	74
+Il Bosco	72
+side note	71
+brick walls	71
+Bellagio fountains	69
+main dining room	69
+decor is nice	68
+dive bar	67
+dinning room	67
+table by the window	66
+Bay Area	65
+flat screen	64
+seated by the window	64
+lounge area	64
+bar seating	64
+tables set	63
+front of the restaurant	63
+small group	63
+loud music	62
+Bar Bianco	61
+nice patio	61
+view of the fountains	60
+low lighting	60
+clubs in Vegas	60
+football game	59
+patio is nice	58
+Il Mulino	58
+lighting is dim	57
+restaurant opened	57
+room temperature	56
+nicely decorated	56
+live entertainment	56
+light rail	55
+Rat Pack	53
+nice people	53
+outdoor seating area	53
+tables to sit	52
+dress code	52
+bachelorette party	52
+parking spot	52
+bar table	51
+table in the bar	51
+tables open	50
+bathroom was clean	50
+window seat	50
+fine dining restaurant	50
+table on the patio	50
+live in the area	50
+plenty of seating	49
+accordion player	49
+walk inside	48
+overlooking the Bellagio fountains	48
+seated at a booth	47
+people walking	47
+band playing	47
+sit outside and enjoy	46
+Vegas club	46
+playing music	46
+nice view	46
+supper club	46
+high ceilings	46
+living room	45
+moment we walked	45
+waiting area	45
+bit loud	45
+air conditioning	45
+parking situation	45
+white table cloths	45
+indoor and outdoor seating	44
+entered the restaurant	44
+sat inside	43
+parking garage	43
+small space	43
+pretty close	42
+Sat night	42
+private party	42
+dining options	42
+seat people	42
+front desk	42
+pictures on the wall	42
+fountain show	41
+ambiance was nice	41
+line out the door	41
+inside seating	41
+restaurants in the area	41
+bit small	40
+area near the bar	40
+staying at the Palazzo	40
+Blue Moon	40
+background music	39
+lounge singer	39
+tables are small	39
+booth seats	39
+piano player	39
+inside is nice	39
+interior design	39
+great people watching	39
+plenty of parking	39
+larger group	39
+dark inside	39
+watch sports	38
+located inside	38
+people at the table	38
+restaurant is beautiful	38
+booths and tables	38
+TV show	38
+chairs and tables	38
+tables occupied	38
+street parking	38
+moved to another table	38
+round table	37
+park your car	37
+slot machines	37
+main dining area	37
+walk up to the bar	37
+gas station	37
+low key	37
+live jazz	37
+fun to watch	37
+park across the street	37
+patio dining	37
+music playing in the background	36
+small bar	36
+tables and booths	36
+sat in a booth	36
+casino floor	35
+Treasure Island	35
+nice light	35
+hotel casino	35
+restaurant is small	35
+big party	35
+people working	35
+people sitting	35
+sporting events	35
+older crowd	35
+high chairs	35
+high top tables	34
+seating is limited	34
+watch people	34
+open space	34
+white tablecloths	34
+hear the conversation	34
+sit and eat	34
+people are nice	34
+kids to play	34
+Parking is valet	34
+leave room	34
+table in front	34
+seating is comfortable	34
+Gordon Ramsay	33
+duck club	33
+kitchen is open	33
+close to my house	33
+weather is nice	33
+bar stools	33
+small restaurant	33
+bar lounge	33
+indoor and outdoor	33
+plenty of room	33
+lots of parking	33
+open air	33
+Playboy Club	33
+playing in the background	33
+weather permits	33
+dressed casually	32
+played it safe	32
+inside table	32
+watch football	32
+restaurant inside	32
+great patio	32
+tables were full	32
+dining partner	32
+picnic tables	31
+Butcher s Block	31
+table sat	31
+place was packed	31
+small children	31
+club upstairs	31
+jam packed	31
+bar open	31
+Christmas lights	30
+dine on the patio	30
+set up a table	30
+sat in the bar area	30
+moment we walked in the door	29
+Easy parking	29
+gondola ride	29
+play a game	29
+outdoor area	29
+dining establishment	29
+cloth napkins	29
+LAVO nightclub	29
+Venetian Palazzo	29
+cigarette smoke	29
+sit in the bar area	29
+place was crowded	28
+table with a view	28
+walked by our table	28
+room temp	28
+playing songs	28
+Il Posto	28
+fine dining establishment	28
+light fixtures	28
+DJ played	28
+staying at the hotel	28
+comfortable seating	28
+cars parked	28
+live band	27
+Palace Station	27
+close the door	27
+tables covered	27
+complimentary valet	27
+beautiful decor	27
+window table	27
+open seating	27
+enjoyed watching	27
+large group of people	27
+side table	27
+wall decorations	27
+leather booths	27
+clean tables	27
+Grey Goose	27
+wearing jeans	27
+playing the accordion	26
+windows open	26
+private dining room	26
+white linen	26
+beautiful view	26
+nice ambiance	26
+live close	26
+find parking	26
+exposed brick	26
+Moon Doggies	26
+degree weather	25
+people in line	25
+group of girls	25
+open windows	25
+set the bar	25
+carry on a conversation	25
+dance floor is small	25
+decor is beautiful	25
+pretty packed	25
+seating outdoors	25
+pretty empty	25
+paintings on the wall	25
+main room	25
+dinning area	24
+step inside	24
+bar set	24
+wasn t crowded	24
+paper table	24
+bachelor party	24
+parking is limited	24
+movie theater	24
+dark lighting	24
+nice and clean	24
+small room	24
+bar and patio	24
+small and intimate	23
+young lady	23
+open a restaurant	23
+lighting is nice	23
+patio tables	23
+small place	23
+seated promptly	23
+hot spot	23
+sit in a booth	23
+seated in the bar area	23
+sitting in front	23
+step foot	23
+candle lit	23
+interior decor	23
+floor to ceiling	23
+bar and watch	23
+people in our group	22
+club is small	22
+decided to sit at the bar	22
+enter the door	22
+walked in the front door	22
+drink at the bar	22
+moved to the area	22
+pretty crowded	22
+music selection	22
+great music	22
+limited seating	22
+soft on the inside	22
+outdoor dining	22
+TV in the bar	22
+black and white	22
+front window	22
+song while playing	22
+bit noisy	22
+nice guy	22
+tables of people	22
+decor inside	22
+table clean	22
+view of the Bellagio	22
+bar  The bartender	21
+big screen	21
+people in our party	21
+long line	21
+place is small	21
+gorgeous view	21
+nice setting	21
+front of the line	21
+neck of the woods	21
+patio to sit	21
+close to the tables	21
+night in Vegas	21
+pleasure of dining	20
+club lounge	20
+Parking was easy	20
+table overlooking	20
+stand in line	20
+line the walls	20
+indoor seating	20
+enjoy the patio	20
+restaurant close	20
+empty tables	20
+main event	20
+small bar area	20
+watching TV	20
+restaurant within walking	19
+wide open	19
+Tornado Room	19
+setting is nice	19
+party was seated	19
+staying at the Venetian	19
+party of  people	19
+bar to sit	19
+intimate setting	19
+hang out at the bar	19
+restaurant is nice	19
+light and airy	19
+closed my eyes	19
+parked in front	19
+beautiful setting	19
+door to Bar	19
+nice inside	18
+feed  people	18
+people seated	18
+table in the middle	18
+window overlooking	18
+live right down the street	18
+lighting  dark	18
+bar lounge area	18
+immediately seated	18
+upstairs to the club	18
+free valet	18
+patio is great	18
+opted to sit	18
+fun night	18
+music in the background	18
+space is small	18
+enjoy sitting	18
+door to Bar Bianco	18
+set the tone	18
+door when you walk	17
+cool vibe	17
+line of people	17
+bright lights	17
+smaller group	17
+corner table	17
+decor on the walls	17
+walls are lined	17
+candle light	17
+art on the walls	17
+limited parking	17
+bar was full	17
+small side	17
+Venetian Hotel	17
+seated in front	17
+wait in line	17
+sun was setting	16
+lit candle	16
+TV screens	16
+decor and ambiance	16
+nice outdoor	16
+converted house	16
+small dance floor	16
+patio is beautiful	16
+packed full	16
+room in the back	16
+live music nights	16
+lighting is low	16
+bar when you walk	16
+Bar Bianco next door	16
+fountains at the Bellagio	16
+interior is nice	16
+newly opened	16
+garage doors	16
+club nights	16
+nice restaurant	16
+beautiful patio	16
+front patio	16
+Parking is plentiful	16
+part of the restaurant	16
+music was great	16
+table in the corner	16
+nice outdoor seating	16
+crowd was older	15
+small club	15
+art work	15
+great view	15
+inside the Venetian	15
+work of art	15
+free parking	15
+comfortable booth	15
+hot summer	15
+Entertainment Book	15
+booths are comfortable	15
+room dining	15
+larger parties	15
+full of tables	15
+middle of the restaurant	15
+area seating	15
+Stone and Vine	15
+bar drinking	15
+bar and sat	15
+inside decor	15
+decor is modern	15
+area of the restaurant	14
+greeted at the door	14
+cute patio	14
+games to play	14
+romantic setting	14
+modern decor	14
+doors were locked	14
+small parking lot	14
+dining al fresco	14
+paper towels	14
+booked a table	14
+Bellagio fountain show	14
+walked in and were greeted	14
+seated our party	14
+wait for a table	14
+dance music	14
+pretty full	14
+close proximity	14
+bar is small	14
+crowded and loud	13
+walked in the front	13
+place was empty	13
+soft lighting	13
+casually dressed	13
+lived closer	13
+seated quickly	13
+place opened	13
+patio to enjoy	13
+bar and dining area	13
+nice quiet	13
+spot to park	13
+parking is free	13
+ate at the bar	13
+beautiful restaurant	13
+patio bar	12
+beautiful inside	12
+clean bathrooms	12
+light  bright	12
+sitting on the counter	12
+doors closed	12
+restaurant was clean	12
+parking lot is small	12
+view is nice	12
+ambience is nice	12
+grab a seat	12
+decor is cool	12
+nice relaxing	12
+fun experience	12
+lot of options	12
+middle of the table	12
+open patio	12
+screen TV	12
+relax and enjoy	12
+standing in front	12
+table and walked	12
+girls in our group	12
+front table	11
+loud and crowded	11
+fun place	11
+house converted	11
+water show	11
+table and we got moved	11
+seats open	11
+groups larger	11
+area and a dining	11
+Palazzo Venetian	11
+put on the table	11
+small and cozy	11
+wait at the bar	11
+lighting  candles	11
+nice ambience	11
+night and sat	11
+Bellagio water show	11
+decor of the restaurant	11
+bright spot	11
+weekend night	11
+main dining	11
+view was beautiful	11
+share between  people	11
+wait to be seated	11
+inside to sit	10
+fairly large	10
+window view	10
+light dressing	10
+girls night	10
+vibe was cool	10
+TV s to watch	10
+nice weather	10
+easy to find	10
+bar to wait	10
+Caesar s Palace	10
+past weekend	10
+stay open	10
+kitchen was closed	10
+setting is beautiful	10
+chose to sit	10
+nice place	10
+guy and girl	10
+living social	10
+inside is so dark	10
+lounge club	10
+patio opens	10
+area  I live	10
+wait a bit	9
+people to share	9
+night and they had live music	9
+wall art	9
+people eating	9
+smoking cigarettes	9
+room is small	9
+Fremont Street	9
+restaurants in a casino	9
+tables   turns	9
+sat immediately	9
+close to where I live	9
+sit outside and people	9
+book by its cover	9
+piping hot	9
+dining pleasure	9
+turn the table	9
+patio for outdoor	9
+restaurant decor	9
+covered tables	9
+people talk	9
+Palazzo Hotel	9
+guy was nice	9
+locked door	9
+hostess stand	9
+promptly seated	8
+booths are getting old  I sit	8
+cool decor	8
+enjoy a relaxed	8
+pretty dead	8
+nice interior	8
+seating area  the bar	8
+restaurant part	8
+seating indoors	8
+people   it s A LOT	8
+empty restaurant	8
+designed interior	8
+lounge bar	8
+hit the spot	8
+overlooking the Bellagio	8
+area or patio	8
+Long Island	8
+patio out front	8
+added bonus	8
+clean and modern	8
+actual restaurant	8
+wee bit	8
+close at pm	8
+crowd was pretty	8
+romantic evening	8
+great vibe	8
+patio is so cute	8
+place was pretty empty	8
+caught my eye	8
+ambiance was beautiful	8
+restaurant was empty	8
+nice and cozy	8
+area while we waited	8
+lounge area near the bar	8
+girls and  guys	8
+valet is free	7
+high top	7
+sitting too long	7
+romantic dinner	7
+bartenders behind the bar	7
+eat in one sitting	7
+door and was greeted	7
+open till	7
+tucked in the corner	7
+enjoyable experience	7
+walls are painted	7
+close early	7
+line was long	7
+place is tiny	7
+hotel we were staying	7
+back to the hotel	7
+selection of music	7
+clean and nice	7
+decor is cute	7
+front  walked	7
+safe bet	7
+groups smaller	7
+young kids	7
+walked in  there were  people	7
+lounge bar area	7
+bar area seating	7
+music and a lively	7
+front counter	7
+dining out for a casual	7
+casino restaurant	7
+noticed the table	7
+Bellagio fountain view	7
+patio  which is where we sat	7
+fountain drinks	7
+show tickets	6
+dinner party	6
+location opened	6
+dine outdoors	6
+table to put	6
+bar TV	6
+window in front	6
+guy working	6
+place is clean	6
+host stand	6
+place close	6
+quiet romantic	6
+al fresco	6
+Tables have paper	6
+older gentleman	6
+open until pm	6
+view is gorgeous	6
+intimate and romantic	6
+sit and wait	6
+casino hotel	6
+overlooking the fountains of Bellagio	6
+cool place	6
+decided to sit	6
+room for private	6
+people running	6
+game watching	6
+fountain view	6
+music and dancing	6
+view of the Fountains of Bellagio	6
+nice dinner	6
+restaurant   The front	6
+view  there was nothing anyone at our table	6
+front seating	6
+outdoor seating which is nice	6
+private dining	6
+crowded place	6
+catch a show	6
+guy behind the counter	6
+romantic and intimate	5
+riding a gondola	5
+opening of this place	5
+front  Parking	5
+loud and a bit	5
+dinning experience	5
+plenty of options	5
+valet is complimentary	5
+decided to stay	5
+difficult to find	5
+Sunday night	5
+groups as well as small	5
+Restaurant Impossible	5
+inside is beautiful	5
+young girl	5
+bit of a wait	5
+dinner companion	5
+immediately greeted	5
+tiny bit	5
+outdoor indoor	5
+live in Vegas	5
+groups rather than large	5
+door to enter	5
+room for the main	5
+bar area is small	5
+occupied tables	5
+girl at the counter	5
+restaurant  I d want it to be like this  Accesible fine dining	5
+bar area where you can sit	5
+stools at the bar	5
+open on Sundays	5
+talking to people	5
+setting is intimate	5
+party was big	5
+line in front	5
+head back	5
+restaurant  casual	5
+open late	5
+place is really cool	5
+people watching  Great	5
+al fresco dining	5
+space is too open	5
+arm and a leg	5
+hostess seated	5
+setting sun	5
+options when dining	5
+seating   There are plenty	5
+small bits	5
+night of fun	5
+Bellagio water	5
+fine dining experience	5
+decorated interior	5
+greet you when you walk	5
+hotel restaurant	5
+pretty big	5
+tables pushed	4
+table than at a high top	4
+greeted and seated	4
+table BUT we did request	4
+cozy and romantic	4
+push some tables	4
+restaurant but after entering	4
+inside a soft	4
+table cleared	4
+close to work	4
+small size	4
+place to hang	4
+setting for a romantic	4
+quiet but nice	4
+requested a table	4
+full and packed	4
+Vegas night	4
+clear the table	4
+showed up at pm	4
+small and quaint	4
+bar to hang	4
+hostess station	4
+view from the window	4
+back to the kitchen	4
+arrived early	4
+outdoor seating and indoor	4
+run restaurant	4
+shown to our table	4
+live nearby	4
+seated and waited	4
+group dinner	4
+side  she has a small	4
+table  I noticed	4
+group as big	4
+tender on the inside	4
+immediately sat	4
+seated at pm	4
+young man	4
+walls  they have pictures	4
+restaurant in the Venetian	4
+tables were empty	4
+inside at this location	4
+dirty tables	4
+place is nice	4
+conversations you hear	4
+ceiling to floor	4
+ambiance and decor	4
+shows up on the TV	4
+sports were on so i was watching	4
+Nightclub  and Lavo	4
+dinner with a group	4
+pm and were seated	4
+felt a bit	4
+college kids	3
+warm and cozy	3
+bar seating area	3
+open a location	3
+play with it if I were a kid	3
+casual restaurant	3
+nice size	3
+cozy and nice	3
+restaurant is located	3
+counter in front	3
+wait for our table at the bar	3
+dressing was light	3
+restaurants in Vegas	3
+grand opening	3
+large selection	3
+ambiance is great	3
+inside  We sat	3
+wait to go back	3
+restaurant tucked	3
+wood fired	3
+cloth table	3
+tiny place	3
+arrived at the table	3
+watch while enjoying	3
+parties and large	3
+clean restaurant	3
+mix and match	3
+sat empty	3
+mixed drinks	3
+kitchen was backed	3
+wait for  people	3
+downtown area	3
+eat a lot	3
+line waiting	3
+cute restaurant	3
+bit confused	3
+water show at the Bellagio	3
+fun  A lot	3
+Weather was about  degrees	3
+reserved a table	3
+crowd wasn	3
+fair share	3
+dined at this fine establishment	3
+location close	3
+Vegas restaurants	3
+closer to where I live	3
+early evening	3
+soft in the middle	3
+pm close	3
+floor and dance	3
+bit odd	3
+restaurant nearby	3
+conveniently located	3
+bar was a dive	3
+restaurant is cute	3
+great spot	3
+dining room through the main	3
+place is cute	3
+weather was perfect	3
+restaurants in the hotel	3
+people waiting	3
+close to this restaurant	3
+girl working	3
+party so we were in a private	3
+dining in a fine restaurant	3
+room and leaves	3
+run by the same people	3
+enjoyable evening	3
+part of the experience	3
+classic cocktails	3
+high school	3
+dine in the main	3
+sit anywhere we like and I chose	3
+tables were dirty	3
+arrived and were seated	3
+big enough to share	2
+early to be closing	2
+greeted immediately	2
+house dressing	2
+view is great	2
+dine in main room	2
+inside when you walk	2
+walls are brick	2
+place is great	2
+counter that walked	2
+pack for me in pretty	2
+work close	2
+completely empty	2
+size was large	2
+ambiance is romantic	2
+walked up to the counter	2
+evening enjoyable	2
+intimate  small	2
+middle of the road	2
+closed on Sundays	2
+chairs were TOO HIGH	2
+round of drinks	2
+long wait	2
+tickets   drinks	2
+super cute	2
+house and front	2
+close the kitchen	2
+outdoor   indoor seating	2
+accommodate large	2
+decided to grab	2
+great place	2
+cozy small	2
+white cloth tables	2
+school Vegas	2
+open outside  I would have not stayed	2
+vibe  great	2
+rest of the night	2
+work as a team	2
+hotel of the Venetian	2
+ambience is great	2
+fountain show at Bellagio	2
+warmly greeted	2
+pleasure of eating	2
+flat iron	2
+Vegas for the weekend	2
+door  The line	2
+wait long	2
+early bird	2
+reservations and were seated	2
+options are limited	2
+front door it s like you walked	2
+sat and waited	2
+Friday night	2
+water of the Bellagio	2
+great location	2
+garage parking	2
+bar area  We sat	2
+area and outdoor	2
+location of the restaurant	2
+super cool	2
+show to catch	2
+great experience	2
+beautiful ambiance	2
+cute place	2
+perfect weather	2
+decided to leave	2
+early dinner	2
+private room we dined	2
+night out with the girls	2
+free wifi	2
+laid back	2
+area  they also have a lounge	2
+lady at the counter	2
+cool   It was pretty	2
+bellagio view	2
+Bianco comes over to the bar	2
+packed place	2
+wait to sit	2
+long they had been sitting	2
+relaxing  a nice	2
+Venetian restaurant	2
+area at a table right by the bar	2
+wood  dark	2
+desk in front	2
+table of   with just one round	2
+pm pm	2
+front of you   Sitting	2
+bar sports	2
+kids are young	2
+romantic quiet	2
+pit fire	2
+seating as well as an indoor and outdoor	2
+hotel like the palazzo	2
+large enough to share	1
+soft drinks	1
+eyes closed	1
+accommodated my request	1
+watching  this is a fun	1
+white and black	1
+clean place	1
+oyster shooters	1
+promptly greeted	1
+upscale restaurant	1
+eating at one as a kid	1
+rest of my party	1
+seating yourself so we grabbed	1
+added a nice	1
+limited options	1
+watched the bar	1
+hit this place	1
+night and weekends	1
+tone had been set	1
+reservation on Open Table	1
+St location	1
+busy restaurant	1
+place to find	1
+toppings were plentiful	1
+pass this place	1
+greeted by the hostess	1
+games  football	1
+empty on a Sat	1
+place to grab	1
+walk in to the moment	1
+table and left	1
+pm reservation	1
+shared a large	1
+falls short	1
+wasn t crazy	1
+great bartender	1
+football watching	1
+room off the main dining	1
+area with bar seating	1
+book a reservation	1
+club out there  the duck	1
+close by   I would go pretty	1
+sit outside    so we opted	1
+start the evening	1
+fill our water	1
+drink for free	1
+number of people	1
+pricey side	1
+working girl	1
+lighted Christmas	1
+waited at the bar until a table	1
+working people	1
+place is cozy	1
+decided to eat	1
+seated and greeted	1
+show them the fountains	1
+inside was tender	1
+housed the closed	1
+restaurant when we do dine in has always been fine	1
+Thursday night	1
+seated upon arrival	1
+size of a small	1
+left full	1
+room for desert	1
+leave full	1
+great ambience	1
+back to Vegas	1
+foot steps	1
+eat if you are with people	1
+dinner last night	1
+area to the right and the bar   lounge	1
+romantic place	1
+cute decor	1
+Fountains Of Bellagio Show	1
+running late	1
+location has moved	1
+dining and has a private room	1
+door and around the front	1
+small and pretty	1
+Fornaio  Il	1
+establishment  from the dine	1
+dining in a fine	1
+large enough to accommodate	1
+street from where I live	1
+located in St	1
+work guys	1
+area in the lounge  we went up to the bar	1
+cozy place	1
+outdoors is nice	1
+experience  however  for the most part	1
+seating in their outdoor but indoor	1
+person in our party	1
+experience was great	1
+drink tickets	1
+pm on a Sunday	1
+dressing on the side	1
+line on the bottom	1
+Street location	1
+late night	1
+fancy restaurant	1
+lot to eat	1
+romantic and cozy	1
+background they played	1
+people seem to still like to come here in large groups	1
+table cloth is white	1
+line who is standing	1
+plenty of toppings	1
+romantic ambiance	1
+fills up quickly	1
+super nice	1
+casual place	1
+area and a dinning	1
+experience and a fun	1
+restaurant  has nothing to do with the actual	1
+dining and has a private	1
+large     people  groups	1
+Sunday evening	1
+area since moving	1
+entertaining   They usually have live	1
+place for a romantic	1
+nearby restaurants	1
+full leaves	1
+empty water	1
+WIFI for free	1
+find it difficult	1
+tablecloths with white	1
+places in Vegas	1
+pm opening	1
+full size	1
+restaurant in the middle	1
+tickets to a show	1
+Bellagio  The view of the fountains	1
+entire experience	1
+overlooked some of the other tables	1
+pack  and some jam	1
+experience dining	1
+shopping area	1
+nice added	1
+sitting area  the bar	1
+close to this place	1
+tables when we arrived	1
+theaters   You come out of the movie	1
+bar while we waited for a table	1
+restaurant run	1
+booth we sat	1
+ate here last night	1
+levels of noise	1
+dining experience very enjoyable	1
+hotel provides   I d probably not come back	1
+Mulino s  il	1
+counter guy	1
+room that we were trying to save	1
+experience very enjoyable	1
+smoke house	1
+played by the DJ	1
+weekend in Vegas	1
+table booked	1
+lit dimly	1
+place for a casual	1
+past us with out saying anything  We walked	1
+hostess walked	1
+run place	1
+open to such a wide	1
+modern and clean	1
+indoor seating  outdoor	1
+option   Lots	1
+quaint little restaurant	1
+approached our table	1
+partner and I dine	1
+place is fun	1
+drink fountains	1
+playing music in the background	1
+walk in the door to the moment	1
+great ambiance	1
+bartender was great	1
+seated in the outdoor area	1
+seated by the hostess	1
+quickly seated	1
+greeted quickly	1
+room for plenty	1
+decided to share	1
+summer  and a hot	1
+spot  The hot	1

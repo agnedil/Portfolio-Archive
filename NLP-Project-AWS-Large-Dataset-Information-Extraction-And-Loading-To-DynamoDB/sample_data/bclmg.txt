@@ -1,0 +1,125 @@
+EASTMAN KODAK COMPANY -- PHOTO RESIST, TYPE 4  -- 6750-00N004069
+<pre>=====================  Product Identification  =====================
+
+Product ID:PHOTO RESIST, TYPE 4
+MSDS Date:01/01/1985
+FSC:6750
+NIIN:00N004069
+MSDS Number: BCLMG
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-722-5151
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2-ETHOXYETHYL ACETATE (CELLOSOLVE ACETATE) (EGEEA)
+CAS:111-15-9
+RTECS #:KK8225000
+OSHA PEL:S,100 PPM
+ACGIH TLV:S, 5 PPM; 9192
+
+Ingred Name:POLYMERS						       
+			   15-20%
+
+Ingred Name:4-BUTYROLACTONE					       
+			   10-15%
+CAS:96-48-0
+RTECS #:LU3500000
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:EYES:IRRIT. SKIN:PRLNG/RPTD CONT-IRRIT,
+    SYSTEMIC TOXIC EFFECTS IF ABSORBED THRU SKIN. SEE SUP DATA
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:IMMED FLUSH W/ WATER FOR 15 MIN, SEE MD. SKIN:FLUSH W/
+    WATER. INHAL: REMOVE TO FRESH AIR. IF BREATH HAS STOPPED, GIVE ARTF
+    RESP(MOUTH-TO-MOUTH). IF BREATH IS DIFFICULT, GIVE OXYGEN CALL MD.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:135F; 57C (SCC)
+Extinguishing Media:WATER SPRAY, DRY CHEMICAL,CO*2
+Fire Fighting Procedures:WEAR SELF CONT-BREATH-APPAR & PROTECTIVE
+    CLOTHING
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMP PRODUCTS. COMBUSTIBLE MIXTURE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE SOURCES OF IGNITION. WEAR SUITABLE
+    PROTECTIVE CLOTHING. PREVENT RUN-OFF FROM ENTERING WATER WAYS.
+    SMALL SPILLS:COLLECT W/ ABSORBENT MATRL. LARGE SPILLS:USE SCBA.
+    ABSORB MATRL IN VERMICULITE OR  OTHER ABSORBENT, PLACE IN
+    IMPERVIOUS CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL PLACE. KEEP AWAY FROM
+    HEAT & FLAME. PROD RESIDUE MAY REMAIN IN PACKAGE, THEREFORE OBSERVE
+    ALL PRECAUTIONS FOR HANDLING PRODUCT.
+Other Precautions:AVOID BREATHING VAPOR. AVOID CONTACT W/ EYES,SKIN &
+    CLOTHING. USE W/ ADEQUATE VENTILATION. WASH THOROUGHLY AFTER
+    HANDLING. IF CONTACT OCCURS, FLUSH IMMED W/ WATER. KEEP AWAY FROM
+    OXIDIZERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:MFR RECOMNDS NIOSH/MSHA APPRVD ORGANIC VAP
+    RESPIRATOR IF NEEDED.
+Ventilation:LOCAL EXHAUST RECOMMEND TO KEEP BELOW TLV. SEE OTHER EQUIP.
+Protective Gloves:RECOMMENDED
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:MECH VENT:TEN AIR CHANGES PER HOUR FOR GOOD
+    ROOM VENT.
+Supplemental Safety and Health
+OVEREXPOSURE:INN:EXPOS AT MOD CONC HAS PRODUCED ADVERSE REPRODUCTIVE
+    EFFECT IN ANIMALS. FOR FURTHER INFORMATION CONTACT THE NAVY
+    ENVIRONMENTAL HEALTH CENTER. CONTAINER: 1 QUART.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:313F;156C
+Vapor Pres:<3
+Vapor Density:4.3
+Spec Gravity:1.033
+Solubility in Water:SLIGHT
+Appearance and Odor:YELLOW VISCOUS LIQUID, SOLVENT ODOR
+Percent Volatiles by Volume:75
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Hazardous Decomposition Products:CO*2, CO UPON COMBUSTION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MFR RECOMMENDS INCINERATION. DISPOSAL METHOD
+    MUST BE IAW FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

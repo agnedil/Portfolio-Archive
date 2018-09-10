@@ -1,0 +1,153 @@
+EASTMAN KODAK COMPANY -- 146 4544 DEVELOPER D-8,PART B  -- 6750-00D000105
+<pre>=====================  Product Identification  =====================
+
+Product ID:146 4544 DEVELOPER D-8,PART B
+MSDS Date:01/12/1994
+FSC:6750
+NIIN:00D000105
+Kit Part:Y
+MSDS Number: BBCHK
+=== Responsible Party ===
+Company Name:EASTMAN KODAK COMPANY
+Address:343 STATE STREET
+City:ROCHESTER
+State:NY
+ZIP:14650
+Country:US
+Info Phone Num:716-477-3194 MSDS :800- 242-2424
+Emergency Phone Num:716-722-5151
+CAGE:19139
+=== Contractor Identification ===
+Company Name:EASTMAN KODAK CO GOVERNMENT MARKETS CONTRACTS
+Address:343 STATE ST
+Box:City:ROCHESTER
+State:NY
+ZIP:14650-1115
+Country:US
+Phone:716-722-5151/(800) 242-2424
+CAGE:19139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM HYDROXIDE (CERCLA)
+CAS:1310-73-2
+RTECS #:WB4900000
+Fraction by Wt: 100%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9495
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:LD50 (ORAL, RAT) IS 100-200 MG/KG.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:TARGET ORGANS:EYES, SKIN, RESPIRATORY
+    & GI TRACTS. ACUTE- CORROSIVE. EYES/SKIN:CAUSES SEVERE IRRITATION &
+    BURNS. MAY CAUSE ALLERGIC SKIN REACTION. INHALATION:MAY CAUSE UPPER
+    RESPIRATORY TRACT IRRITATI ON & DAMAGE. INGESTION:MAY CAUSE
+    SEVEREBURNS OF GASTROINTESTINAL TRACT. CHRONIC- UNKNOWN.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SEVERE BURNS, IRRITATION, PAIN
+Medical Cond Aggravated by Exposure:PERSONS WITH PRE-EXISTING SKIN
+    DISORDERS OR EYE PROBLEMS OR IMPAIRED RESPIRATORY FUNCTION MAY BE
+    MORE SUSCEPTIBLE TO THE EFFECTS OF THE SUBSTANCE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:GET IMMEDIATE MEDICAL HELP FOR ALL CASES OF EXPOSURE.
+    EYES/SKIN:FLUSH WITH WATER FOR AT LEAST 15 MINUTES. HOLD EYELIDS
+    OPEN. REMOVE CONTAMINATED CLOTHING. INHALED:REMOVE TO FRESH AIR.
+    PROVIDE CPR/OXYG EN IF NEEDED. ORAL:DO NOT INDUCE VOMITING. IF
+    CONSCIOUS, DRINK A GLASS OF WATER. IF VOMITING OCCURS
+    SPONTANEOUSLY, KEEP AIRWAY CLEAR. NEVER GIVE ANYTHING BY MOUTH TO
+    AN UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:WATER SPRAY, CARBON DIOXIDE, FOAM OR DRY CHEMICAL
+    FOR SURROUNDING FIRE. USE WATER WITH CAUTION. REACTS WITH WATER.
+Fire Fighting Procedures:WEAR FULL PROTECTIVE CLOTHING AND
+    NIOSH-APPROVED SELF-CONTAINED BREATHING APPARATUS WITH FULL
+    FACEPIECE OPERATED IN THE POSITIVE PRESSURE MODE.
+Unusual Fire/Explosion Hazard:DIRECT CONTACT WITH MOISTURE OR WATER CAN
+    CAUSE VIOLENT EXOTHERMIC REACTION GENERATING SUFFICIENT HEAT TO
+    IGNITE NEARBY COMBUSTIBLE MATERIALS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE EQUIPMENTS. SCOOP UP AND PLACE
+    IN APPROVED CONTAINERS FOR DISPOSAL. NEUTRALIZE REMAINING TRACES OF
+    MATERIAL. SPILL AREA SHOULD THEN BE CLEANED TO REMOVE RESIDUAL
+    CONTAMINATION.
+Neutralizing Agent:DILUTE INORGANIC ACID (SULFURIC, HYDROCHLORIC,
+    PHOSPHORIC, NITRIC ACIDS).
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN TIGHTLY CLOSED CONTAINER IN
+    DRY PLACE AWAY FROM INCOMPATIBLE MATERIALS.
+Other Precautions:USE WITH ADEQUATE VENTILATION. DO NOT GET IN EYES, ON
+    SKIN OR ON CLOTHING. DO NOT GENERATE DUST. DO NOT BREATHE DUST,
+    MIST OR FUMES. KEEP OUT OF REACH OF CHILDREN. WASH THOROUGHLY AFTER
+    HANDLING. CAUT ION! EMPTY CONTAINER RETAINS RESIDUE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF ENGINEERING CONTROLS DO NOT MAINTAIN AIRBORNE
+    CONCENTRATIONS TO AN ACCEPTABLE LEVEL, A NIOSH-APPROVED DUST
+    RESPIRATOR MUST BE WORN. A PROGRAM SHOULD BE INSTITUTED TO ASSURE
+    COMPLIANCE WITH OSHA STA NDARD 29 CFR 1910.134.
+Ventilation:GOOD GENERAL VENTILATION IS SUFFICIENT FOR MOST CONDITIONS
+    (10 ROOM VOLUMES PER HOUR).
+Protective Gloves:RUBBER, PVC
+Eye Protection:SAFETY GLASSES WITH SIDE SHIELDS/GOGGLES
+Other Protective Equipment:RUBBER BOOTS, RUBBER APRON, EYE WASH
+    FOUNTAIN, SAFETY SHOWER
+Work Hygienic Practices:OBSERVE GOOD INDUSTRIAL HYGIENE PRACTICES AND
+    RECOMMENDED PROCEDURES. WASH THOROUGHLY BEFORE EATING,
+    DRINKING/SMOKING.
+Supplemental Safety and Health
+KEY1:C2. PRODUCT IS A KIT CONSISTING OF PART A AND B. FOR PART A, SEE
+    PNI A SAME NSN. PRODUCT CAN REACT VIOLENTLY WITH ACIDS OR WATER.
+    NEVER ADD WATER TO PRODUCT. ALWAYS ADD PRODUCT SLOWLY TO WATER WH
+    ILE STIRRING.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C2
+NRC/State Lic Num:NOT RELEVANT
+Melt/Freeze Pt:M.P/F.P Text:604F,318C
+Vapor Pres:NEGLIGIBLE
+Spec Gravity:2.13
+Viscosity:NOT RELEVANT
+Evaporation Rate &amp; Reference:NOT RELEVANT
+Solubility in Water:COMPLETE
+Appearance and Odor:WHITE SOLID - PUNGENT
+Percent Volatiles by Volume:NEGLIG
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER, STRONG ACIDS, ALUMINUM, TIN, ZINC & ALLOYS OF THESE METALS
+Stability Condition to Avoid:MOISTURE
+Hazardous Decomposition Products:NONE KNOWN
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISCHARGE, TREATMENT OR DISPOSAL MAY BE SUBJECT
+    TO LOCAL, STATE AND FEDERAL REGULATIONS. SMALL QUANTITIES MAY BE
+    DISSOLVED IN WATER AND NEUTRALIZED WITH ACID. THE NEUTRALIZED
+    SOLUTION CAN BE FLUSHED D OWN THE DRAIN IF PERMITTED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

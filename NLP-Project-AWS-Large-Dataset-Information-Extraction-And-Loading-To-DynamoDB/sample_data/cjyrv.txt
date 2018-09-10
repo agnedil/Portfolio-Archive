@@ -1,0 +1,122 @@
+ARROW POLYCHEM INC -- ARROW 904  -- 6850-00N093478
+<pre>=====================  Product Identification  =====================
+
+Product ID:ARROW 904
+MSDS Date:12/11/1996
+FSC:6850
+NIIN:00N093478
+Status Code:A
+MSDS Number: CJYRV
+=== Responsible Party ===
+Company Name:ARROW POLYCHEM INC
+Box:2011
+City:ARLINGTON HTS
+State:IL
+ZIP:60006
+Country:US
+Info Phone Num:708-392-1878
+Emergency Phone Num:330-666-0045
+Preparer's Name:D HUNSICKEN
+CAGE:TO428
+=== Contractor Identification ===
+Company Name:ARROW POLYCHEM INC
+Box:2011
+City:ARLINGTON HTS
+State:IL
+ZIP:60006
+Country:US
+Phone:708-392-1878
+CAGE:TO428
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLYTETRAFLUOROETHYLENE
+CAS:9002-84-0
+RTECS #:KX4025000
+
+Ingred Name:WOLLASTONITE
+CAS:13983-17-0
+RTECS #:ZC9750000
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:MAY CAUSE IRRITATION TO RESPIRATORY
+    TRACT, EYES, AND SKIN.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONTACT: FLUSH WITH LARGE AMOUNTS OF WATER FOR AT LEAST
+    15 MINUTES. CONSULT A PHYSICIAN IF IRRITATION PERSISTS. SKIN
+    CONTACT: WASH AFFECTED AREA WITH SOAP AND WATER. CONSULT A
+    PHYSICIAN IF IRRITAT ION PERSISTS. INHALATION: REMOVE TO FRESH AIR.
+    IF BREATHING IS DIFFICULT, SEEK MEDICAL ATTENTION. INGESTION: SEEK
+    MEDICAL ADVICE.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:CO*2, DRY CHEMICAL, WATERSPRAY, FOAM.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT .
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP, VACUUM, OR SHOVEL INTO APPROPRIATE
+    CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:SORAGE TEMPERATURE: STORE IN A COOL,
+    DRY AREA.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR.
+Ventilation:LOCAL EXHAUST.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH AND DELUGE SHOWER MEETING ANSI
+    DESIGN CRITERIA . APRON RECOMMENDED.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:2.5
+Evaporation Rate &amp; Reference:NA
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:OFF-WHITE POWDER.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+METAL POWDERS, OXIDIZERS.
+Stability Condition to Avoid:NONE KNONW.
+Hazardous Decomposition Products:DECOMPOSITION PRODUCTS UNDER FIRE
+    CONDITIONS: HYDROGEN FLUORIDE, CARBONYL FLUORIDE, CARBON MONOXIDE,
+    TOXIC FLUORINATED COMPOUNDS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE PER LOCAL, STATE, AND FEDERAL
+    REGULATIONS.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:METHYLENE CHLORIDE  CAS NO: 75-09-2 AND
+    METHANOL CAS NO: 67-56-1 SECTION 313 SUPPLIER NOTIFICATION -
+    INDICATES HAZARDOUS INGREDIENTS WHICH ARE TOXIC CHEMICALS SUBJECT
+    TO THE REPORTING REQUIREMENTS OF  SECTION 313 OF THE EMERGENCY
+    PLANNING AND COMMUNITY RIGHT-TO-KNOW ACT OF 1986 AND OF 40 CFR 372.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

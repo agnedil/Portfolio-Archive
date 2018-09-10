@@ -1,0 +1,120 @@
+STABOND CORP -- STABOND 0206  -- 8040-00F001557
+<pre>=====================  Product Identification  =====================
+
+Product ID:STABOND 0206
+MSDS Date:01/01/1985
+FSC:8040
+NIIN:00F001557
+MSDS Number: BBJNM
+=== Responsible Party ===
+Company Name:STABOND CORP
+Address:14010 S WESTERN AVE
+City:GARDENA
+State:CA
+ZIP:90249-3008
+Country:US
+Info Phone Num:213-770-0591
+Emergency Phone Num:213-770-0591
+CAGE:25670
+=== Contractor Identification ===
+Company Name:STABOND CORPORATION
+Address:14010 S WESTERN AVE
+Box:City:GARDENA
+State:CA
+ZIP:90249-3008
+Country:US
+Phone:213-770-0591/800-4249300
+CAGE:25670
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE,TOLUOL (IARC CARC- GROUP 3)     *98-1*
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 50%
+Other REC Limits:375 MG/CUM
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:NAPHTHA
+CAS:8030-30-6
+Fraction by Wt: 50%
+
+Ingred Name:SOLVENTS
+Fraction by Wt: 75%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:HEADACHE, NAUSEA, NARCOSIS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:HEADACHE, NAUSEA, NARCOSIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR, APPLY CPR IF UNCONSCIOUS.
+    OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:25F
+Lower Limits:1.2
+Upper Limits:9
+Extinguishing Media:CO2, FOAM/DRY CHEMICAL
+Unusual Fire/Explosion Hazard:HANDLE AS FLAMMABLE LIQUID HYDROCARBON IN
+    WET STATE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP WET MATERIAL ON ABSORBENT COMPOUND.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE NEAR HEATING
+    EQUIPMENT/OXIDIZING MATERIALS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR W/ACTIVATED CHARCOAL FILTER FOR
+    EXTENDED VAPOR EXPOSURE.
+Ventilation:LOCAL EXHAUST: USE ONLY IN WELL VENTILATED AREAS.
+    MECHANICAL(GENERAL): REQUIRED ON LARGE SURFACE APPLICATIONS.
+Protective Gloves:POLYETHYLENE/NITRILE/POLY VINYL ALCOHOL
+Eye Protection:GLASSES W/SIDE SHIELDS
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:200F
+Vapor Pres:80
+Vapor Density:3.5
+Spec Gravity:0.86
+Evaporation Rate &amp; Reference:(N-BU AC = 1): 2-3.8
+Solubility in Water:<2
+Appearance and Odor:BIEGE LIQUID W/AROMATIC HYDROCARBON ODOR
+Percent Volatiles by Volume:82
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING MATERIALS.
+Stability Condition to Avoid:FLAME.
+Hazardous Decomposition Products:TOXIC HALOGEN GASES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURY IN CLOSED METAL CONTAINER, IAW/FEDERAL,
+    STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

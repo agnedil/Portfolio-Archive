@@ -1,0 +1,126 @@
+NOVUS INC -- MOVUS PLASTIC POLISH NO.1  -- 7930-01-135-5375
+<pre>=====================  Product Identification  =====================
+
+Product ID:MOVUS PLASTIC POLISH NO.1
+MSDS Date:01/12/1990
+FSC:7930
+NIIN:01-135-5375
+MSDS Number: BWZQX
+=== Responsible Party ===
+Company Name:NOVUS INC
+Address:10425 HAMPSHIRE AVE SOUTH
+City:MINNEAPOLIS
+State:MN
+ZIP:55438
+Country:US
+Info Phone Num:612-944-8000
+Emergency Phone Num:612-944-8000
+Preparer's Name:MARIAM B HEHRE
+CAGE:56336
+=== Contractor Identification ===
+Company Name:AIN PLASTICS INC
+CAGE:AINPL
+Company Name:NOVUS INC
+Address:10425 HAMPSHIRE AVE SOUTH
+Box:City:MINNEAPOLIS
+State:MN
+ZIP:55438
+Country:US
+Phone:952-944-8000 (DAY)
+CAGE:56336
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: 3-7%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: MAY BE MILDLY IRRITATING TO
+    EYES, NOSE AND THROAT. MAY CAUSE MILD SKIN IRRITATION IN CERTAIN
+    INDIVIDUALS. CHRONIC: PROLONGED INHALATION MAY CAUSE MILD
+    RESPIRATORY IRRITATION.
+Explanation of Carcinogenicity:NOT CARCINOGENIC.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: MOVE VICTIM TO FRESH. SEEK MEDICAL ATTENTION IF
+    IRRITATION PERSISTA. SKIN: REMOVE CONTAMINATED CLOTHING. WASH SKIN
+    WITH SOAP & WATER. SEEK MEDICAL ATTENTION IF IRRITATION PERSISTS.
+    EYES: I MMEDIATELY FLUSH EYES WITH LARGE AMOUNTS OF WATER FOR 15
+    MINUTES. GET PROMPT MEDICAL ATTENTION. INGESTION: CONTACT LOCAL
+    POISON CONTROL OR PHYSICIAN IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:>199F,>93C
+Extinguishing Media:USE MEDIA SUITABLE FOR SURROUNDING MATERIALS.
+Fire Fighting Procedures:NO SPECIAL PROCEDURES REQUIRED.
+Unusual Fire/Explosion Hazard:NOT AVAILABLE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PERSONAL PROTECTIVE EQUIPMENT. CLEAN UP
+    WITH ABSORBENT MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN CLOSED CONTAINERS.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:FOR SYMPTOMS OF OVEREXPOSURE, WEAR A NIOSH
+    APPROVED RESPIRATOR FOR ORGANIC VAPORS.
+Ventilation:LOCAL EXHAUST MAY BE NECESSARY UNDER SOME USAGE/HANDLING
+    CONDITIONS. NEEDS SHOULD BE ADDRESSED BY HEALTHCARE PERSONNEL.
+Protective Gloves:NEOPRENE, CHEMICAL RESITANT
+Eye Protection:SAFETY GLASSES RECOMMENDED.
+Other Protective Equipment:EYE WASH STATION, SAFETY SHOWER SHOULD BE
+    AVAILABLE.
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:210F,99C
+Vapor Pres:<33
+Spec Gravity:1.006
+Evaporation Rate &amp; Reference:<1 (ETHER = 1)
+Solubility in Water:COMPLETE
+Appearance and Odor:WHITE OPAQUE LIQUID: SLIGHT ODOR.
+Percent Volatiles by Volume:94
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL,
+    STATE/PROVINCIAL AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

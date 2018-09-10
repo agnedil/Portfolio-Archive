@@ -1,0 +1,130 @@
+OXFORD CHEMICALS INC -- PENEDROL  -- 9150-00F002952
+<pre>=====================  Product Identification  =====================
+
+Product ID:PENEDROL
+MSDS Date:07/31/1985
+FSC:9150
+NIIN:00F002952
+MSDS Number: BBMBV
+=== Responsible Party ===
+Company Name:OXFORD CHEMICALS INC
+Box:80202
+City:ATLANTA
+State:GA
+ZIP:30366
+Country:US
+Info Phone Num:404-452-1100
+Emergency Phone Num:404-452-1100
+Preparer's Name:LOUISE MOORE
+CAGE:06645
+=== Contractor Identification ===
+Company Name:OXFORD CHEMICALS INC
+Box:City:ATLANTA
+State:GA
+ZIP:30366
+Country:US
+Phone:404-452-1100
+CAGE:06645
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM DISTILLATE, PETROLEUM OIL, BASE OIL	       
+    AROMATIC PETROLEUM SOLVENT
+CAS:8002-05-9
+RTECS #:SE7175000
+Fraction by Wt: 1-11%
+Other REC Limits:10 MG/CUM STEL
+OSHA PEL:5 MG/CUM MIST
+ACGIH TLV:5 MG/CUM MIST
+
+Ingred Name:CELLOSOLVE (2-ETHOXYETHANOL), DOWANOL EE, ETHYLENE GLYCOL
+    ETHYL ETHER, OXITOL
+CAS:110-80-5
+RTECS #:KK8050000
+Fraction by Wt: <5%
+Other REC Limits:19 MG/CUM
+OSHA PEL:200 PPM
+ACGIH TLV:18 MG/CUM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:PERCHLOROETHYLENE (TETRACHLOROETHYLENE) (2B ANIMAL
+    CARCINOGEN BY NTP)
+CAS:127-18-4
+RTECS #:KX3850000
+Fraction by Wt: 43-53%
+Other REC Limits:50 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:25PPM/100,A3 STEL;94
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:NO	 OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: HARMFUL OR FATAL. EYES:
+    IRRITATION.
+Explanation of Carcinogenicity:PERCHLOROETHYLENE IS A SUSPECTED 2B
+    ANIMAL CARCINOGEN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH WITH WATER FOR 15 MINUTES. INGESTION: DON'T
+    INDUCE VOMITING. GIVE A GLASS OF WATER. DON'T GIVE LARGE AMOUNTS OF
+    WATER AS THIS MAY CAUSE VOMITING. INHALATION: REMOVE TO FRESH AIR.
+    OBTA IN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Fire Fighting Procedures:COOL CANS WITH WATER IN VICINITY OF FIRE.
+Unusual Fire/Explosion Hazard:AEROSOL CANS MAY RUPTURE OR BURST ON
+    EXPOSURE TO TEMPS >120F. EXTREMELY FLAMMABLE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB ON INERT MATERIAL, FLUSH AREA WITH
+    WATER AND DETERGENT.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A DRY LOCATION AWAY FROM
+    TEMPERATURES IN EXCESS OF >120F.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN. DON'T BREATHE VAPORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:LOCAL EXHAUST
+Protective Gloves:RUBBER OR VINYL
+Eye Protection:SAFETY GLASSES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Density:6.2
+Spec Gravity:1.41
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:CLEAR OIL, PETROLEUM DISTILLATE ODOR.
+Percent Volatiles by Volume:100%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:TEMPERATURES ABOVE 120F
+Hazardous Decomposition Products:HYDROGEN CHLORIDE & SMALL AMOUNTS OF
+    CHLORINE/PHOSGENE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DON'T INCINERATE OR PUNCTURE CANS. DON'T PLACE
+    IN GARBAGE COMPACTOR. DISPOSE OF IN APPROVED METHOD ACCORDING TO
+    FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

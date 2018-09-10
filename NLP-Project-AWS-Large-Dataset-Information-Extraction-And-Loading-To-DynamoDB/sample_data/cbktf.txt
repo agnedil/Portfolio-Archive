@@ -1,0 +1,118 @@
+CELOTEX CORP -- DRY ORGANIC FELT (ALL GRADES AND TYPES)  -- 5640-00N069746
+<pre>=====================  Product Identification  =====================
+
+Product ID:DRY ORGANIC FELT (ALL GRADES AND TYPES)
+MSDS Date:11/10/1991
+FSC:5640
+NIIN:00N069746
+MSDS Number: CBKTF
+=== Responsible Party ===
+Company Name:CELOTEX CORP
+Address:4010 BOY SCOUT BLVD
+City:TAMPA
+State:FL
+ZIP:33607
+Country:US
+Info Phone Num:813-873-1700
+Emergency Phone Num:813-873-4102
+Preparer's Name:SMITH FUNK
+CAGE:IO378
+=== Contractor Identification ===
+Company Name:CELOTEX CORP
+Address:4010 BOY SCOUT BLVD
+Box:City:TAMPA
+State:FL
+ZIP:33607
+Country:US
+Phone:813-873-4230; 813-873-4102
+CAGE:IO378
+Company Name:THE CELOTEX CORP
+Address:4010 BOY SCOUT BLV.
+Box:City:TAMPA
+State:FL
+ZIP:33607
+Country:US
+Phone:813-573-1700
+CAGE:86105
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CELLULOSE
+CAS:9004-34-6
+RTECS #:FJ5691460
+Fraction by Wt: 100%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: IRRITATION OF EYES, NOSE,
+    THROAT, LUNGS. CHRONIC: NONE EXPECTED.
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:RESPIRATORY ILLNESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. EYES: FLUSH WITH RUNNING
+    WATER FOR AT LEAST 15 MINUTES. SKIN: WASH WITH SOAP AND WATER.
+    INGESTION: GIVE WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE CARBON DIOXIDE, DRY CHEMICAL, FOAM, WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE KNOWN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:NORMAL HOUSEKEEPING.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PRODUCT IS COMBUSTIBLE. KEEP AWAY FROM
+    FIRE SPARKS AND OPEN FLAME.
+Other Precautions:NONE SPECIFIED BY MANUFACTURER.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE ONLY NIOSH/MSHA APPROVED DEVICES. DUST MASK
+    DURING FABRICATION IF NECESSARY.
+Ventilation:NOT NECESSARY.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGS .
+Other Protective Equipment:EMERGENCY EYEWASH & DELUGE SHOWER MEETING
+    ANSI DESIGN CRITERIA .
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+Appearance and Odor:GREY FIBROUS MAT
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN.
+Stability Condition to Avoid:NONE KNOWN.
+Hazardous Decomposition Products:NONE KNOWN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,102 @@
+HURST GRAPHICS, INC. -- ANTI-MOLD  -- 6850-00F000243
+<pre>=====================  Product Identification  =====================
+
+Product ID:ANTI-MOLD
+MSDS Date:01/01/1985
+FSC:6850
+NIIN:00F000243
+MSDS Number: BBGFJ
+=== Responsible Party ===
+Company Name:HURST GRAPHICS, INC.
+Emergency Phone Num:213/223-4121
+CAGE:EO456
+=== Contractor Identification ===
+Company Name:HURST GRAPHICS INC
+Address:2500 SAN FERNANDO RD
+Box:City:LOS ANGELES
+State:CA
+ZIP:90065-1324
+Country:US
+Phone:213-223-4121
+CAGE:54627
+Company Name:HURST GRAPHICS, INC.
+CAGE:EO456
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ALKYL DIMETHYLBENZYLAMMONIUM CHLORIDES
+CAS:8001-54-5
+RTECS #:BO3150000
+Fraction by Wt: 0.75%
+
+Ingred Name:ETHYL ALCOHOL (ETHANOL)
+CAS:64-17-5
+RTECS #:KQ6300000
+Fraction by Wt: 0.2%
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:SEVERE EYE IRRITATION. MAY CAUSE SKIN
+    IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER AT LEAST 15 MINUTES AND GET MEDICAL
+    ATTENTION. SKIN: WASH WITH WATER. INGESTION: INDUCE VOMITING AND
+    GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WASH DOWN WITH WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID DAMAGE TO CONTAINERS.
+Other Precautions:AVOID CONTACT WITH EYES, SKIN OR CLOTHING. DO NOT
+    TAKE INTERNALLY. KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:LOCAL EXHAUST IS SUFFICIENT
+Protective Gloves:YES
+Eye Protection:YES
+Other Protective Equipment:FACE SHIELD
+Supplemental Safety and Health
+2500 SAN FERNANDO ROAD, LOS ANGELES, CALIF. 90065
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F
+Vapor Pres:17
+Vapor Density:0.62
+Spec Gravity:1.0
+Evaporation Rate &amp; Reference:1   WATER=1
+Solubility in Water:COMPLETE
+Appearance and Odor:DEEP-PINK COLORED LIQUID, FAINT ODOR.
+Percent Volatiles by Volume:99
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF ACCORDING TO FEDERAL, STATE AND LOCAL
+    REGULATIONS. THIS PRODUCT IS TOXIC TO FISH.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

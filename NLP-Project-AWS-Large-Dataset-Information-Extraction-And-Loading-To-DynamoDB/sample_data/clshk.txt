@@ -1,0 +1,213 @@
+ALLIED DIAGNOSTIC IMAGING RESOURCES INC -- 28006, PHOTALINE LASER 14 DEVELOPER REPLENISHER CONCENTRATE  -- 6750-01-426-9547
+<pre>=====================  Product Identification  =====================
+
+Product ID:28006, PHOTALINE LASER 14 DEVELOPER REPLENISHER CONCENTRATE
+MSDS Date:10/12/1999
+FSC:6750
+NIIN:01-426-9547
+Status Code:A
+MSDS Number: CLSHK
+=== Responsible Party ===
+Company Name:ALLIED DIAGNOSTIC IMAGING RESOURCES INC
+Address:5440 OAKBROOK PKWY
+City:NORCROSS
+State:GA
+ZIP:30093
+Country:US
+Info Phone Num:800-828-6011/770-448-0250
+Emergency Phone Num:770-448-0250
+Resp. Party Other MSDS Num.:G-L-14
+Preparer's Name:NOT PROVIDED
+CAGE:07JM6
+=== Contractor Identification ===
+Company Name:ALLIED DIAGNOSTIC IMAGING RESOURCES INC
+Address:5440 OAKBROOK PKWY
+Box:City:NORCROSS
+State:GA
+ZIP:30093
+Country:US
+Phone:800-828-6011
+CAGE:07JM6
+Company Name:ALLIED PHOTO PRODUCT CO,SUB OF ALLIED PRODUCT CORP
+Address:5440-A OAKBROOK PKY
+Box:City:NORCROSS
+State:GA
+ZIP:30093-2251
+Country:US
+Phone:770-448-0250
+CAGE:1CG79
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM HYDROXIDE
+CAS:1310-58-3
+RTECS #:TT2100000
+Minumum % Wt:1.
+Maxumum % Wt:2.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:NOT PROVIDED
+ACGIH STEL:C2 MG/M3
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:POTASSIUM SULFITE
+CAS:10117-38-1
+Minumum % Wt:10.
+Maxumum % Wt:15.
+Other REC Limits:NOT AVAILABLE
+OSHA PEL:NOT AVAILABLE
+ACGIH TLV:NOT AVAILABLE
+
+Ingred Name:POTASSIUM CARBONATE
+CAS:584-08-7
+RTECS #:TS7750000
+Minumum % Wt:5.
+Maxumum % Wt:10.
+Other REC Limits:NOT AVAILABLE
+OSHA PEL:NOT AVAILABLE
+ACGIH TLV:NOT AVAILABLE
+
+Ingred Name:HYDROQUINONE
+CAS:123-31-9
+RTECS #:MX3500000
+Minumum % Wt:1.
+Maxumum % Wt:5.
+Other REC Limits:NOT PROVIDED
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:WATER
+CAS:07732-18-5
+Minumum % Wt:65.
+Maxumum % Wt:75.
+Other REC Limits:NOT AVAILABLE
+OSHA PEL:NOT AVAILABLE
+ACGIH TLV:NOT AVAILABLE
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT PROVIDED
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: LOW HAZARD FOR ORDINARY
+    INDUSTRIAL HANDLING. EYES: VAPOR MAY CAUSE IRRITATION. CONTACT MAY
+    CAUSE BURNS. SKIN: REPEATED AND PROLONGED CONTACT MAY CAUSE
+    IRRITATION. INGESTION: DO NOT TAKE IN TERNALLY. MAY BE HARMFUL IF
+    SWALLOWED.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:EYES: VAPOR MAY CAUSE IRRITATION. CONTACT MAY
+    CAUSE BURNS. SKIN: REPEATED AND PROLONGED CONTACT MAY CAUSE
+    IRRITATION.
+Medical Cond Aggravated by Exposure:NOT PROVIDED
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH SKIN WITH SOAP AND WATER. IF IRRITATION OCCURS,
+    SEEK MEDICAL ATTENTION. EYES: FLUSH WITH LARGE AMOUNT OF WATER FOR
+    15 MINUTES. SEEK MEDICAL ATTENTION. INGESTION: DRINK WATER TO
+    DILUTE CONCE NTRATION. INDUCE VOMITING ONLY AS DIRECTED BY MEDICAL
+    PERSONNEL. SEEK MEDICAL ATTENTION. IMMEDIATELY GIVING FULL DETAILS
+    OF AMOUNT INGESTED AND TOXICITY. INHALATION: MOVE TO FRESH AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE METHOD APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:USE PROTECTIVE CLOTHING TO PREVENT CONTACT
+    WITH SKIN AND EYES.
+Unusual Fire/Explosion Hazard:WHEN HEATED TO DECOMPOSITION, IT CAN EMIT
+    TOXIC FUMES OF SO2 AND CO2.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR PROTECTIVE CLOTHING AS SPECIFIED IN
+    PERSONAL PROTECTION. NEUTRALIZE WITH SODIUM BICARBONATE. IF
+    FEDERAL, STATE AND LOCAL LAWS PERMIT, FLUSH TO SEWER WITH LARGE
+    AMOUNT OF WATER.
+Neutralizing Agent:SODIUM BICARBONATE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE OR CONSUME FOOD, DRINK OR
+    TOBACCO IN SURROUNDING AREA. KEEP TIGHTLY SEALED. STORE ABOVE 40F.
+    AVOID UNNECESSARY PERSONAL CONTACT. AVOID INCOMPATIBLE SUBSTANCES.
+    WASH THOROUGHLY AFTER HANDL ING.
+Other Precautions:NOT PROVIDED
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SHOULD NOT BE NECESSARY UNDER NORMAL CONDITIONS.
+    IF EXPOSED TO VAPORS THAT EXCEED TLV OR PEL, WEAR APPROVED VAPOR
+    RESPIRATOR.
+Ventilation:NOT PROVIDED
+Protective Gloves:IMPERVIOUS
+Eye Protection:PROTECTIVE GOGGLES.
+Other Protective Equipment:AS NECESSARY TO PREVENT SKIN CONTACT.
+    EYEWASH FACILITIES IN VICINITY OF USE.
+Work Hygienic Practices:NOT PROVIDED
+Supplemental Safety and Health
+ABBREVIATION: N/A = NOT APPLICABLE. N/AV = NOT AVAILABLE. N/K =
+    UNKNOWN. N/P = NOT PROVIDED. N/R = NOT RELEVANT. N/D = NOT
+    DETERMINED. N/E = NOT ESTABLISHED. CNS = CENTRAL NERVOUS SYSTEM. GI
+    = GASTROI NTESTINAL. SCBA = SELF CONTAINED BREATHING APPARATUS.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:B3
+NRC/State Lic Num:NOT RELEVANT
+Boiling Pt:>100.C, 212.F
+Melt/Freeze Pt:M.P/F.P Text:NOT PROVIDED
+Decomp Temp:Decomp Text:NOT PROVIDED
+Vapor Pres:17.0
+Vapor Density:0.6
+Spec Gravity:1.24
+pH:10.7
+Viscosity:NOT PROVIDED
+Evaporation Rate &amp; Reference:NOT AVAILABLE
+Solubility in Water:COMPLETE
+Appearance and Odor:PALE YELLOW LIQUID - ODORLESS.
+Percent Volatiles by Volume:50 APPROX.
+Corrosion Rate:NOT PROVIDED
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, STRONG BASES.
+Stability Condition to Avoid:KEEP AWAY FROM STRONG ACIDS.
+Hazardous Decomposition Products:WHEN HEATED TO DECOMPOSTION, IT CAN
+    EMIT TOXIC FUMES OF SO2 AND CO2.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:NOT PROVIDED
+
+=====================  Ecological Information  =====================
+
+Ecological:NOT PROVIDED
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:NEUTRALIZE WITH SODIUM BICARBONATE. IF FEDERAL,
+    STATE, AND/OR LOCAL LAWS PERMIT, FLUSH TO SEWER WITH LARGE AMOUNT
+    OF WATER. OTHERWISE, DISPOSE OF CONTAMINATED PRODUCT AND MATERIALS
+    USED IN CLEANING UP  SPILL IN A MANNER APPROVED FOR MATERIAL.
+    CONSULT PROPER FEDERAL, STATE AND/OR LOCAL REGULATORY AGEN CIES TO
+    ASCERTAIN PROPER DISPOSAL PROCEDURES.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:NOT PROVIDED
+Federal Regulatory Information:NOT PROVIDED
+State Regulatory Information:NOT PROVIDED
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

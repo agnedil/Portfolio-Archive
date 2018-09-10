@@ -1,0 +1,113 @@
+WINSOR & NEWTON INC -- WOC200472, WINTON OIL COLOURS RAW UMBER 200  -- 7510-00N034053
+<pre>=====================  Product Identification  =====================
+
+Product ID:WOC200472, WINTON OIL COLOURS RAW UMBER 200
+MSDS Date:06/17/1986
+FSC:7510
+NIIN:00N034053
+MSDS Number: BPTQM
+=== Responsible Party ===
+Company Name:WINSOR & NEWTON INC
+Address:555 WINSOR DR
+Box:1519
+City:SECAUCUS
+State:NJ
+ZIP:07094-0519
+Country:US
+Info Phone Num:201-804-8100
+Emergency Phone Num:201-804-8100
+CAGE:03103
+=== Contractor Identification ===
+Company Name:WINSOR & NEWTON COLART AMERICAS INC
+Address:11 CONSTITUTION AVE
+Box:City:PISCATAWAY
+State:NJ
+ZIP:08855-1396
+Country:US
+Phone:908-562-0770/800-628-3385
+CAGE:03103
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON HAZARDOUS INGREDIENTS.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PROLONGED CONTACT WITH SKIN MAY CAUSE
+    DERMATITIS. NAUSEA AND SICKNESS IF LARGE QUANTITIES INGESTED.
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: WASH OUT WITH WATER FOR AT LEAST 15 MINUTES. SKIN: WASH
+    WITH SOAP AND WATER. INHAL: REMOVE TO FRESH AIR. SUPPORT BREATHING
+    (GIVE O*2/ARTIFICIAL RESPIRATION) CALL MD . INGEST: GIVE WATER TO 
+    DRINK. GET MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:>230F,>110C
+Extinguishing Media:CARBON DIOXIDE OR DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT . KEEP COOL.
+Unusual Fire/Explosion Hazard:BLACK SMOKE EVOLVED MAY AFFECT EYES AND
+    LUNGS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB ON INERT MATERIAL. DO NOT USE COTTON
+    WASTE.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM HEAT.
+Other Precautions:AVOID INGESTION. AVOID CONTACT WITH SKIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR APPROPRIATE FOR
+    EXPOSURE OF CONCERN .
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:USE BARRIER CREAMS.
+Work Hygienic Practices:NORMAL HYGIENE.
+Supplemental Safety and Health
+NONE SPECIFIED BY MANUFACTURER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>300F,>149C
+Spec Gravity:1-3
+Solubility in Water:IMMISCIBLE
+Appearance and Odor:COLORED PASTE; CHARACTERISTIC VEGETABLE OIL ODOR.
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+COMBUSTIBLE MATTER E.G., COTTON WASTE.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:ACROLEIN MAY BE EVOLVED IN FIRE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE ACCORDING TO LOCAL REGULATIONS.
+    CONTROLLED LANDFILL. DISPOSE I/A/W ALL FEDERAL, STATE AND LOCAL
+    REGULATIONS .
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

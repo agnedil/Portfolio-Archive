@@ -1,0 +1,23 @@
+Documentation
+http://flask.pocoo.org/docs/1.0/
+
+Sample website
+https://github.com/pallets/flask-website
+
+Comprehensive tutorial
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
+Tutorials
+https://pythonspot.com/flask-web-app-with-python/
+https://realpython.com/introduction-to-flask-part-1-setting-up-a-static-site/
+http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask/#.W0vlXHXwaUk
+https://becominghuman.ai/full-stack-web-development-python-flask-javascript-jquery-bootstrap-802dd7d43053
+http://www.patricksoftwareblog.com/creating-a-simple-flask-web-application/
+https://github.com/realpython/discover-flask
+https://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972
+
+SQLLite with flask
+https://pythonspot.com/en/python-database-programming-sqlite-tutorial/
+
+Dynamic figures with flask
+https://stackoverflow.com/questions/41459657/how-to-create-dynamic-plots-to-display-on-flask

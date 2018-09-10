@@ -1,0 +1,78 @@
+W.M. HENRY COMPANY -- ALL PURPOSE ADHESIVE 200  -- 8040-00N004073
+<pre>=====================  Product Identification  =====================
+
+Product ID:ALL PURPOSE ADHESIVE 200
+MSDS Date:01/01/1985
+FSC:8040
+NIIN:00N004073
+MSDS Number: BCLMK
+=== Responsible Party ===
+Company Name:W.M. HENRY COMPANY
+Emergency Phone Num:213-583-4961
+CAGE:HO186
+=== Contractor Identification ===
+Company Name:HENRY W W CO
+Box:3001
+City:LANCASTER
+State:PA
+ZIP:17604
+Country:US
+Phone:717-396-2328;717-396-2935
+CAGE:11761
+Company Name:W.M. HENRY COMPANY
+CAGE:HO186
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:INERT MINERAL PIGMENT
+Fraction by Wt: <25%
+
+Ingred Name:PETROLEUM NAPHTHA
+Fraction by Wt: <10%
+
+Ingred Name:RUBBER, SYNTHETIC,TACKIFIED
+Fraction by Wt: <40%
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: <45%
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:183F;84C;TOC
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:MFR STATES NONE REQUIRED
+Supplemental Safety and Health
+VAPOR DENSITY & VP: SAME AS WATER.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>212F;100C
+Spec Gravity:1.1
+Solubility in Water:COMPLETE
+Appearance and Odor:CREAMY PASTE W/ SLIGHT LATEX ODOR.
+Percent Volatiles by Volume:55
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IAW FED; STATE & LOCAL CODES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

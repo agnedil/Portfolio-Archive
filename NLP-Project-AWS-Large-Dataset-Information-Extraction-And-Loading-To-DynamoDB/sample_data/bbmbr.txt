@@ -1,0 +1,91 @@
+OXFORD CHEMICALS INC -- GEL-AIRE MINT  -- 6850-00F002949
+<pre>=====================  Product Identification  =====================
+
+Product ID:GEL-AIRE MINT
+MSDS Date:07/30/1985
+FSC:6850
+NIIN:00F002949
+MSDS Number: BBMBR
+=== Responsible Party ===
+Company Name:OXFORD CHEMICALS INC
+Box:80202
+City:ATLANTA
+State:GA
+ZIP:30366
+Country:US
+Info Phone Num:404-452-1100
+Emergency Phone Num:404-452-1100
+Preparer's Name:LOUISE MOORE
+CAGE:06645
+=== Contractor Identification ===
+Company Name:OXFORD CHEMICALS INC
+Box:City:ATLANTA
+State:GA
+ZIP:30366
+Country:US
+Phone:404-452-1100
+CAGE:06645
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM DERIVATIVE
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CONSUMPTION OF PRODUCT
+    SELF-LIMITING--IF ILLNESS IS CAUSED BY INGESTING PRODUCT, VOMITING
+    & EXPULSION OF THE PRODUCT WOULD RESULT.
+Explanation of Carcinogenicity:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH OFF W/SOAP & WATER. INHALATION: REMOVE TO FRESH
+    AIR. EYES/INGESTION: OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:120F
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:USE ABSORBENTS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT OR OPEN FLAME.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:LOCAL EXHAUST
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:INSOLUBLE
+Appearance and Odor:GEL COLOR MATCHED TO FRAGRANCE.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT & OPEN FLAME
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE UNDER SAFE CONDITIONS OR IN
+    ACCORDANCE WITH LOCAL, STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

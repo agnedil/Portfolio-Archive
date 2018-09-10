@@ -1,0 +1,100 @@
+AMERICAN HOECHST CORPORATION -- ENCO FPC FINISHER PRESERVER CLEANER  -- 6850-00B010038
+<pre>=====================  Product Identification  =====================
+
+Product ID:ENCO FPC FINISHER PRESERVER CLEANER
+MSDS Date:11/04/1986
+FSC:6850
+NIIN:00B010038
+MSDS Number: BBBCX
+=== Responsible Party ===
+Company Name:AMERICAN HOECHST CORPORATION
+Address:RT 202-206 NORTH
+City:SOMERVILLE
+State:NJ
+ZIP:08876
+Country:US
+Emergency Phone Num:201 231-2244
+CAGE:2V751
+=== Contractor Identification ===
+Company Name:AMERICAN HOECHST CORPORATION
+Address:ROUTE 202-206 NORTH
+Box:3700
+City:SOMERVILLE
+State:NJ
+ZIP:08876
+Country:US
+Phone:201-231-2244
+CAGE:2V751
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NAPHTHA (PETROLEUM SPIRITS OR BENZIN)
+CAS:8030-30-6
+RTECS #:SE7555000
+Fraction by Wt: 10%
+OSHA PEL:100 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Effects of Overexposure:MAY CAUSE EYE OR SKIN IRRITATION
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION:CONSULT PHYSICIAN IF IRRITATION OF RESPIRATORY
+    PASSAGES OCCURS
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER,ALCOHOL FOAM,CARBON DIOXIDE,DRY CHEMICAL
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE ALL SPARKING DEVICES OR IGNITION
+    SOURCES.COLLECT ONTO INERT ABSORBENT. PLACE IN SUITABLE
+    CONTAINER.RINSE RESIDUAL WITH WATER
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN ORIGINAL CONTAINER. KEEP
+    TIGHTLY SEALED
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:CHEMICAL CARTRIDGE RESPIRATOR RECOMMENDED FOR
+    EXPOSURES EXCEEDING TLV
+Ventilation:LOCAL EXHAUST RECOMMENDED
+Protective Gloves:RUBBER GLOVES
+Eye Protection:SAFETY GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212 DEGF
+Vapor Density:AIR
+Spec Gravity:1.00
+Solubility in Water:NOT MEASURED
+Appearance and Odor:MILKY WHITE LIQUID,SWEET SMELL
+Percent Volatiles by Volume:89
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:THERMAL DECOMPOSITION MAY GENERATE
+    CARBON MONOXIDE AND CARBON DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF OR INCINERATE IN ACCORDANCE WITH
+    LOCAL REGULATIONS
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

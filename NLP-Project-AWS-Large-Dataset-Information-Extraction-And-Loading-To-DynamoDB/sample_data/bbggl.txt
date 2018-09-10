@@ -1,0 +1,83 @@
+COLLOIDAL PRODUCTS KALO LABORATORIES, INC. -- ORTHO X-77  -- 6850-00F000263
+<pre>=====================  Product Identification  =====================
+
+Product ID:ORTHO X-77
+MSDS Date:01/01/1985
+FSC:6850
+NIIN:00F000263
+MSDS Number: BBGGL
+=== Responsible Party ===
+Company Name:COLLOIDAL PRODUCTS KALO LABORATORIES, INC.
+Emergency Phone Num:707/763-2675
+CAGE:28226
+=== Contractor Identification ===
+Company Name:COLLOIDAL PRODUCTS KALO LABORATORIES, INC.
+CAGE:28226
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:FLUSH WITH WATER IN CASE OF CONTACT WITH SKIN OR EYES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:70 C T.C.C.
+Extinguishing Media:WATER, CO2, DRY CHEMICAL FOAM
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WASH AWAY WITH WATER OR SWEEP UP. SPILLS ARE
+    SLIPPERY, CLEAN UP IMMEDIATELY.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:ALTHOUGH NO SPECIAL PRECAUTIONS APPEAR
+    NECESSARY, GOOD INDUSTRIAL PRACTICE AS TO HOUSEKEEPING RSONAL
+    HYGIENE.
+Other Precautions:AVOIDANCE OF PROLONGED AND REPEATED SKIN CONTACT AND
+    SPLASHING IN EYES IS INDICATED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE
+Ventilation:LOCAL EXHAUST
+Eye Protection:NOT NECESSARY
+Supplemental Safety and Health
+1300 MCDOWELL BLVD. NORTH, PETALUMA, CA  94952.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:0.98
+Solubility in Water:COMPLETE
+Appearance and Odor:WATER WHITE - MILD ALCOHOL ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SMALL AMOUNTS MAY BE WASHED TO SEWER. LARGE
+    AMOUNTS MAY BE BURIED IN GROUND.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

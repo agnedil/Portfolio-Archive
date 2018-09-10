@@ -1,0 +1,129 @@
+J T BAKER INC -- NICKELOUS SULFATE 6-HYDRATE  -- 6810-00F000233
+<pre>=====================  Product Identification  =====================
+
+Product ID:NICKELOUS SULFATE 6-HYDRATE
+MSDS Date:03/09/1992
+FSC:6810
+NIIN:00F000233
+MSDS Number: BBGDV
+=== Responsible Party ===
+Company Name:J T BAKER INC
+Address:222 RED SCHOOL LANE
+City:PHILLIPSBURG
+State:NJ
+ZIP:08865-2219
+Country:US
+Info Phone Num:201-859-2151
+Emergency Phone Num:201-859-2151
+CAGE:DO803
+=== Contractor Identification ===
+Company Name:J T BAKER INC
+Address:222 RED SCHOOL LANE
+City:PHILLIPSBURG
+State:NJ
+ZIP:08865
+Country:US
+Phone:1-800-582-2537
+CAGE:DO803
+Company Name:MALLINCKRODT BAKER,  INC.
+Address:222 RED SCHOOL LANE
+Box:City:PHILLIPSBURG
+State:NJ
+ZIP:08865
+Country:US
+Phone:800-582-2537
+CAGE:70829
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NICKEL SULFATE HEXAHYDRATE (HUMAN CARCINOGEN BY IARC & NTP)
+    *94-3*
+CAS:10101-97-0
+RTECS #:QR9600000
+Fraction by Wt: 90-100%
+OSHA PEL:0.1 MG/CUM
+ACGIH TLV:0.1 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: IRRITATION OF UPPER
+    RESPIRATORY TRACT. SKIN: IRRITATION. PROLONGED CONTACT MAY CAUSE
+    DERMATITIS. EYES: IRRITATION. INGESTION: NAUSEA & VOMITING.
+Explanation of Carcinogenicity:SEE INGREDIENTS
+Effects of Overexposure:INHALATION: IRRITATION OF UPPER RESPIRATORY
+    TRACT. SKIN: IRRITATION. PROLONGED CONTACT MAY CAUSE DERMATITIS.
+    EYES: IRRITATION. INGESTION: NAUSEA & VOMITING.
+Medical Cond Aggravated by Exposure:DAMAGED SKIN, SINUS PROBLEMS,
+    PULMONARY DISEASE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: IMMEDIATELY INDUCE VOMITING. INHALATION: REMOVE TO
+    FRESH AIR. GIVE CPR/OXYGEN IF NEEDED. SKIN: IMMEDIATELY FLUSH
+    W/PLENTY OF WATER FOR 15 MINS. EYES: IMMEDIATELY FLUSH W/PLENTY OF
+    WATER FOR  15 MINS. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Extinguishing Media:APPROPRIATE FOR SURROUNDING FIRE
+Fire Fighting Procedures:WEAR PROPER PROTECTIVE EQUIPMENT & SCBA W/FULL
+    FACEPIECE OPERATED IN POSITIVE PRESSURE MODE. USE WATER TO COOL
+    EXPOSED CONTAINERS/REMOVE W/O RISK FROM AREA.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY EXPLODE WHEN
+    EXPOSED TO HEAT. DECOMPOSES AT MELTING POINT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR SCBA & FULL PROTECTIVE CLOTHING.
+    CAREFULLY PLACE MATERIAL INTO CLEAN/DRY CONTAINER W/CLEAN SHOVEL &
+    COVER. REMOVE FROM AREA. FLUSH AREA W/WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED. STORE
+    IN SECURE POISON AREA. USE W/ADEQUATE VENTILATION.
+Other Precautions:DON'T GET IN EYES, SKIN/CLOTHING. DON'T BREATHE DUST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:A RESPIRATOR W/DUST/MIST FILTER IS RECOMMENDED.
+    SELF CONTAINED BREATHING APPARATUS IF AIRBORNE CONCENTRATIONS
+    EXCEEDS TLV.
+Ventilation:GENERAL/LOCAL EXHAUST TO MEET TLV REQUIREMENTS.
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:UNIFORM, APRON
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+N/K					     .
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:1558F
+Spec Gravity:2.07
+Solubility in Water:>10%
+Appearance and Odor:BLUE TO BLUE-GREEN CRYSTALS W/NO ODOR
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:HEAT
+Hazardous Decomposition Products:OXIDES OF SULFUR, SULFUR DIOXIDE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IAW/FEDERAL, STATE & LOCAL
+    ENVIRONMENTAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

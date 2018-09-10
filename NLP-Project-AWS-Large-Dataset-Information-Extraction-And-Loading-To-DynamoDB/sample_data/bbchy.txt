@@ -1,0 +1,133 @@
+HERCULES CHEMICAL CO.INC. -- PVC PRIMER  -- 6850-00D000118
+<pre>=====================  Product Identification  =====================
+
+Product ID:PVC PRIMER
+MSDS Date:01/01/1985
+FSC:6850
+NIIN:00D000118
+MSDS Number: BBCHY
+=== Responsible Party ===
+Company Name:HERCULES CHEMICAL CO.INC.
+Address:29 WEST 38 STREET
+City:NEW YORK
+State:NY
+ZIP:10018-5595
+Country:US
+Info Phone Num:212-869-4330 -EXT.226
+Emergency Phone Num:212-869-4330 -EXT.226
+CAGE:84794
+=== Contractor Identification ===
+Company Name:HERCULES CHEMICAL CO INC
+Address:111 SOUTH STREET(OLD IS 29 W 38 ST)
+Box:City:PASSAIC
+State:NJ
+ZIP:07055-7398
+Country:US
+Phone:973-778-5000
+CAGE:84794
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TETRAHYDROFURAN  (SARA III)
+CAS:109-99-9
+RTECS #:LU5950000
+OSHA PEL:200 PPM/250 STEL
+ACGIH TLV:200 PPM/250STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK)  (SARA III)
+CAS:78-93-3
+RTECS #:EL6475000
+OSHA PEL:200 PPM/300 STEL
+ACGIH TLV:200 PPM/300STEL 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:CYCLOHEXANONE  (SARA III)
+CAS:108-94-1
+RTECS #:GW1050000
+OSHA PEL:S, 50 PPM
+ACGIH TLV:S, 25 PPM; 9293
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:DIZZY,HEADACHE,LACK OF COORDINATION;SEVERE
+    OVEREXPOSURE TO VAPOR CAN CAUSE NARCOSIS.EYE,NOSE IRRITAT
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:MOVE TO FRESH AIR.RESTORE BREATHING.USE OXYGEN.
+    SKIN:REMOVE CONTAMINATED CLOTHES AND WASH SKIN. WITH SOAP & WATER.
+    EYES:FLUSH WITH WATER FOR 15 MIN. CALL DR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:11F TCC.
+Lower Limits:1.1.
+Upper Limits:8.6.
+Extinguishing Media:DRY CHEMICAL,CO*2.
+Fire Fighting Procedures:USE SELF-CONTAINED BREATHING EQUIP.USE SPRAY
+    NOZZLE DISCHG.
+Unusual Fire/Explosion Hazard:ON LONG STANDING,MAY FORM PEROXIDES THAT
+    SHOULD BE DESTROYED BEFORE DISTILLATION.REACT W/OXIDIZERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE ALL IGNITION SOURCES.FLUSH WITH
+    WATER.AVOID FLUSHING INTO CONFINED AREAS.AVOID PROLONGED BREATHING
+    OF VAPORS. KEEP LIQUID OUT OF EYES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:HIGHLY FLAMMABLE. PREVENT SKIN CONTACT
+    TO AVOID DEFATTING ACTION.
+Other Precautions:USE NORMAL GOOD PERSONAL HYGIENE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SELF-CONTAINED BREATHING APPARATUS.POSITIVE
+    PRESS/AIRLINE MASKS.
+Ventilation:LOCAL EXHAUST AS REQUIRED
+Protective Gloves:PVA
+Eye Protection:CHEMICAL SAFETY GOGGLES.
+Other Protective Equipment:APRONS,BOOTS,EYE BATH,SAFETY SHOWER.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:145F
+Vapor Pres:70.
+Vapor Density:3
+Spec Gravity:0.824.
+Evaporation Rate &amp; Reference:S,BUTYL ACETATE
+Solubility in Water:33 %
+Appearance and Odor:CLEAR LIQUID ETHEREAL & ACETONE LIKE ODOR.
+Percent Volatiles by Volume:99.5
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:SPARKS & OPEN FLAME.
+Hazardous Decomposition Products:PEROXIDES ARE FORMED ON LONG EXPOSURE
+    TO AIR OR OXYGEN.
+Conditions to Avoid Polymerization:AVOID EXCESSIVE EXPOSURE TO AIR OR
+    OXYGEN.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE UNDER APPROVED CONTROL PROCEDURES IN
+    AN APPROVED INCINERATOR.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

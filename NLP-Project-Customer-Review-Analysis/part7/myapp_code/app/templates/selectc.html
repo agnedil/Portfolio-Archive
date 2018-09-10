@@ -1,0 +1,22 @@
+
+{% extends "base.html" %}
+
+{% block content %}
+    <h1 style="text-align:center">Please make your selection</h1>
+    <form action="" method="post" novalidate style="text-align:center">
+        {{ form.hidden_tag() }}
+        <p style="font-size:20px;">
+            {{ form.field1.label }}<br>
+            {{ form.field1(style="font-size:20px;") }}<br>
+            {% for error in form.field1.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>        	       
+	<p>{{ form.submit(style="font-size:20px;") }}</p>
+    </form>
+    <br>
+    <br> 	
+    <div class="div1" align="center">	
+	<img src="static/images/home.jpeg" alt="Best food" align="center" height=400>
+    </div>   
+{% endblock %}

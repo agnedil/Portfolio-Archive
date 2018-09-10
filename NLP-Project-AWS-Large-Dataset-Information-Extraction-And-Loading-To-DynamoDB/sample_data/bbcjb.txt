@@ -1,0 +1,151 @@
+HACH COMPANY -- 14188 CUVER 1 COPPER REAGENT  -- 6810-00D000121
+<pre>=====================  Product Identification  =====================
+
+Product ID:14188 CUVER 1 COPPER REAGENT
+MSDS Date:08/04/1989
+FSC:6810
+NIIN:00D000121
+MSDS Number: BBCJB
+=== Responsible Party ===
+Company Name:HACH COMPANY
+Address:100 DAYTON RD.
+Box:907
+City:AMES
+State:IA
+ZIP:50010-6402
+Country:US
+Info Phone Num:800-227-4224
+Emergency Phone Num:515-232-2533 (303-623-5716 MEDICAL)
+CAGE:4T252
+=== Contractor Identification ===
+Company Name:HACH CO
+Address:5600 LINDBERGH DR
+Box:389
+City:LOVELAND
+State:CO
+ZIP:80539
+Country:US
+Phone:970-669-3050/ 303-623-5716
+CAGE:91224
+Company Name:HACH COMPANY
+Address:100 DAYTON RD.
+Box:907
+City:AMES
+State:IA
+ZIP:50010
+Country:US
+Phone:800-227-4224
+CAGE:4T252
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM PHOSPHATE, DIBASIC  (SARA III)
+CAS:7558-79-4
+RTECS #:WC4500000
+Fraction by Wt: <50%
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:MONOBASIC POTASSIUM PHOSPHATE
+CAS:7778-77-0
+Fraction by Wt: <50%
+
+Ingred Name:SODIUM ASCORBATE
+CAS:134-03-2
+RTECS #:CI7671000
+Fraction by Wt: <20%
+
+Ingred Name:2-2'-BICINCHONIC ACID,DIPOTASSIUM SALT
+CAS:63451-34-3
+Fraction by Wt: <5%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL RAT LD50 IS NOT KNOWN
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PRODUCT IS IRRITATING TO
+    EYES,SKIN,RESPIRATORY TRACT.
+Explanation of Carcinogenicity:NEITHER PRODUCT OR INGREDIENTS ARE
+    LISTED AS CARCINOGENS BY THE NTP, IARC, OR OSHA.
+Effects of Overexposure:IRRITATION,STOMACH DISORDERS,HEART
+    PROBLEMS,CENTRAL NERVOUS SYSTEM DISORDERS.
+Medical Cond Aggravated by Exposure:NONE REPORTED
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER 15 MIN, HOLD LIDS OPEN.  SKIN:WASH WITH
+    SOAP & WATER. REMOVE CONTAMINATED CLOTHING AND LAUNDER BEFORE
+    REUSE.  INHALED:REMOVE TO FRESH AIR.  INGESTED:DO NOT INDUCE
+    VOMITING. GIVE 2 LA RGE GLASSES OF MILK OR WATER AND GET IMMEDIATE
+    MEDICAL CARE. GIVE NOTHING BY MOUTH IF UNCONSCIOUS.   IF IRRITATION
+    PERSISTS OR IS SEVERE,SEE A DOCTOR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE CARBON DIOXIDE, FOAM, DRY CHEMICAL, OR WATER
+    FOG.
+Fire Fighting Procedures:FIRE FIGHTERS SHOULD USE NIOSH APPROVED SCBA &
+    FULL PROTECTIVE EQUIPMENT WHEN FIGHTING CHEMICAL FIRE. USE WATER
+    SPRAY TO COOL NEARBY CONTAINERS EXPOSED TO FIRE.
+Unusual Fire/Explosion Hazard:FIRE OR EXCESSIVE HEAT MAY CAUSE
+    PRODUCTION OF HAZARDOUS DECOMPOSITION PRODUCTS OF PHOSPHORUS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COLLECT IN BEAKER FOR DISPOSAL.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL,DRY AREA.
+Other Precautions:WASH THOROUGHLY AFTER HANDLING.AVOID
+    SKIN,EYES/CLOTHING CONTACT.PRODUCT MAY GIVE POISONOUS GAS IF
+    HEATED.DO NOT BREATHE FUMES.KEEP AWAY FROM HEAT,SPARKS & OPEN
+    FLAMES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR WILL NOT NORMALLY BE NECESSARY.  USE
+    NIOSH/MSHA APPROVED RESPIRATOR FOR DUST IF EXPOSURE IS ABOVE THE
+    TLV/PEL.
+Ventilation:NOT NORMALLY REQUIRED.  USE LAB HOOD OR OTHER LOCAL EXHAUST
+    TO MAINTAIN EXPOSURE BELOW PEL/TLV.
+Protective Gloves:RUBBER, VINYL OR OTHER IMPERVIOUS
+Eye Protection:SAFETY GLASSES OR SPLASH GOGGLES
+Other Protective Equipment:EYE WASH,SAFETY SHOWER,LAB COAT OR APRON
+Work Hygienic Practices:USE GOOD CHEMICAL HYGIENE PRACTICE. AVOID
+    UNNECESSARY CONTACT.
+Supplemental Safety and Health
+CHANGE NUMBER 8276
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:359F/182C
+Spec Gravity:2.32
+Solubility in Water:SOLUBLE
+Appearance and Odor:WHITE POWDER,ODOR SIMILAR TO BROWN SUGAR * PH 5%
+    SOLN = 6.5
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE REPORTED
+Stability Condition to Avoid:HEAT,MOISTURE
+Hazardous Decomposition Products:PHOSPHORUS OXIDES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W FEDERAL,STATE,LOCAL REGULATIONS.
+    MFR SUGGESTS DISSOLVE IN EXCESS WATER,FLUSH TO DRAIN.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

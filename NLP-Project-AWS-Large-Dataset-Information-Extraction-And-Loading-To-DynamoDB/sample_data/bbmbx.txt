@@ -1,0 +1,96 @@
+OXFORD CHEMICALS INC -- COMMANDO  -- 7930-00F002954
+<pre>=====================  Product Identification  =====================
+
+Product ID:COMMANDO
+MSDS Date:07/25/1985
+FSC:7930
+NIIN:00F002954
+MSDS Number: BBMBX
+=== Responsible Party ===
+Company Name:OXFORD CHEMICALS INC
+Box:80202
+City:ATLANTA
+State:GA
+ZIP:30366
+Country:US
+Info Phone Num:404-452-1100
+Emergency Phone Num:404-452-1100
+Preparer's Name:LOUISE MOORE
+CAGE:06645
+=== Contractor Identification ===
+Company Name:OXFORD CHEMICALS INC
+Box:City:ATLANTA
+State:GA
+ZIP:30366
+Country:US
+Phone:404-452-1100
+CAGE:06645
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON-HAZARDOUS FOR INGREDIENTS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN: IRRITATION.
+Explanation of Carcinogenicity:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR 15 MINUTES. INGESTION: INDUCE
+    VOMITING BY ADMINISTERING SYRUP OF IPECAC U.S.P., OR STICK FINGER
+    DOWN THROAT IF SYRUP OF IPECAC IS NOT AVAILABLE. OBAIN MEDICAL
+    ATTENTION IN ALL  CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MOP UP EXCESS. FLUSH AREA WELL WITH WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN COOL, DRY LOCATION.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN. DON'T TAKE INTERNALLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE
+Ventilation:LOCAL EXHAUST
+Protective Gloves:NONE
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:NONE
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:208F
+Spec Gravity:1.027
+pH:8.7
+Solubility in Water:COMPLETE
+Appearance and Odor:GOLDEN ORANGE COLOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:FLUSH DOWN DRAIN.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

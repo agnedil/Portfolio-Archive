@@ -1,0 +1,166 @@
+CONTINENTAL COATINGS INC -- DPM 5948, 5083A-25109  -- 8010-00N069719
+<pre>=====================  Product Identification  =====================
+
+Product ID:DPM 5948, 5083A-25109
+MSDS Date:05/05/1991
+FSC:8010
+NIIN:00N069719
+MSDS Number: CBKSP
+=== Responsible Party ===
+Company Name:CONTINENTAL COATINGS INC
+Address:10938 BEECH AVENUE
+City:FONTANA
+State:CA
+ZIP:92337
+Country:US
+Info Phone Num:714-355-1200
+Emergency Phone Num:714-355-1288
+Preparer's Name:E KRISTY
+CAGE:0CTD6
+=== Contractor Identification ===
+Company Name:CONTINENTAL COATINGS
+Address:10938 BEECH AVE
+Box:City:FONTANA
+State:CA
+ZIP:92335
+Country:US
+Phone:714-355-1200
+CAGE:0CTD6
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHANOL, 2-BUTOXY-; (2-ETHOXYBUTANOL, BUTYL CELLOSOLVE).
+    VP: 0.6 @ 68F.
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 10%
+OSHA PEL:50 PPM, S
+ACGIH TLV:25 PPM, S
+
+Ingred Name:PROPIONIC ACID, 2-METHYL-, MONOESTER WITH
+    2,2,4-TRIMETHYL-1,3-PENTANEDIOL; (2,2,4-TRIMETHYLPENTANEDIOL-1,
+    (ING 3)
+CAS:25265-77-4
+RTECS #:UF6000000
+Fraction by Wt: <5%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:ING 2:3-MONOISOBUTYRATE). VP:125.0 @ 336F
+RTECS #:9999999ZZ
+
+Ingred Name:VOLATILE ORGANIC CONTENT (COATING):2.26 LB/GL (270 G/L).
+    VOC (MATERIAL):1.10 LB/GL (132 G/L)
+RTECS #:9999999VO
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:SUPP DATA:ANIMAL STUDIES HAVE CLEARLY DEMONSTRATED
+    DOSE-RELATED ADVERSE EFFECTS ON THE CNS, THE HEMATOPOIETIC (ING 6)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 5: TISSUE, THE BLOOD, THE KIDNEYS & THE LIVER
+    ASSOCIATED W/ADMINISTRATION OF ETHYLENE GLYCOL MONOBUTYL (ING 7)
+RTECS #:9999999ZZ
+
+Ingred Name:ING 6:ETHER (EGBE). (EXTRACTED FROM DHHS (NIOSH)
+    PUBLICATION NO. 90-118) .
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL: RPTD EXPOS AT EXTREMELY HIGH
+    CONCS(400 PPM/HIGHER) MAY CAUSE INJURY TO BONE MARROW AND BLOOD
+    CELLS, KIDNEY, LIVER AND TESTES. SKIN/EYE: MAY CAUSE SLIGHT IRRIT
+    W/PRLNGD CONTACT. PRLNGD RPTD CONT ACT MAY RESULT IN DERMATITIS,
+    CAUSES EYE IRRIT, REDNESS, BLURRED VISION. SKIN(ABSORP):
+    DERMATITIS,(EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: DEFATTING. INGEST: MAY CAUSE HDCH,
+    NAUSEA, VOMITING, DIZZINESS, WEAKNESS, POSS KIDNEY DMG MAY RSLT
+    FROM INGEST OF LGE QTYS OF MATL, EXCESS INHAL MAY CAUSE NAUS, HDCH,
+    WEAKNESS FATIGUE, DIZZ.  IN LAB INHAL STUDIES, BIRTH DEFECTS,
+    INCREASED FETAL LETHALITY & DELAYED FETAL DEVELOPMENT HAVE BEEN
+    OBSERVED(SUPDAT)
+Medical Cond Aggravated by Exposure:RESPIRATORY CONDITIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGEST: GIVE 2 GLASSES OF WATER, INDUCE VOMITING. CALL MD.
+    SKIN: REMOVE CONTAMD CLTHG & FLUSH W/WATER. INHAL: REMOVE TO FRESH
+    AIR. IF BRTHG IS DFCLT GIVE O*2 & CALL MD. EYE: IMMED FLUSH W/WATER
+    FOR AT  LEAST 15 MINS. CALL MD IF DISCOMFORT PERSISTS.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:FOAM, ALCOHOL FOAM, CO*2, DRY CHEMICAL, WATER FOG.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT. THIS PRODUCT CONTAINS WATER & WILL NOT IGNITE
+    UNDER NORMAL CONDITIONS.
+Unusual Fire/Explosion Hazard:NONE - THIS PRODUCT CONTAINS WATER AND
+    WILL NOT IGNITE UNDER NORMAL CONDITIONS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FINAL SPILLS SHOULD BE FLUSHED W/WATER. LARGER
+    SPILLS SHOULD BE COLLECTED FOR DISPOSAL BY MEANS OF AN APSORBANT
+    MATERIAL AVOID DISCHARGE TO NATURAL WATERS.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP AWAY FROM HEAT AND FLAME.
+Other Precautions:STORE AWAY FROM HEAT AND SUN. KEEP FROM FREEZING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH/MSHA APPROVED SPRAY MASK-CARTRIDGE
+    TYPE PREFFERRED. UNDER EXTREMELY HIGH USAGE CONDITIONS IF TLV
+    LIMITS ARE APPROACHED AN AIR SUPLIED RESPIRATOR IS ADVISED.
+Ventilation:PROVIDE SUFFICIENT MECHANICAL VENTILATION TO MAINTAIN
+    EXPOSURE LIMITS.
+Protective Gloves:BUTYL RUBBER GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGS.
+Other Protective Equipment:EMERGENCY EYEWASH & DELUGE SHOWER MEETING
+    ANSI DESIGN CRITERIA. WEAR IMPERVIOUS CLOTHING AND BOOTS.
+Work Hygienic Practices:WASH HANDS BEFORE EATING WITH SOAP & WATER.
+Supplemental Safety and Health
+EFTS OF OVEREXP:IN OFFSPRING OF FEMALE ANIMALS EXPOSED DURING PREGNANCY
+    W/APPARENT THRESHOLD RESPONSE LEVEL APPROACHING 400 PPM CONC IN
+    AIR. WARNING! DETECTABLE AMT OF CHEMICALS/SUBSTANCES KNOWN TO ST
+    ATE OF CALIFORNIA TO CAUSE CANCER, BIRTH DEFECTS/OTHER-REPRODUCTIVE
+    HARM MAY BE FOUND IN THIS PRODUCT. (ING 4)
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:340F,171C
+Vapor Pres:SEE ING
+Vapor Density:HVR/AIR
+Spec Gravity:1.3(H*2O=1)
+Evaporation Rate &amp; Reference:SLOWER THAN ETHER
+Solubility in Water:100%
+Appearance and Odor:LIQUID W/SOLVENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE.
+Stability Condition to Avoid:NONE.
+Hazardous Decomposition Products:CARBON DIOXIDE AND/OR CARBON MONOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATED IN A FURNACE WHERE PERMITTED UNDER
+    APPROPRIATE FEDERAL, STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

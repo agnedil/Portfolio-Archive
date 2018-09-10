@@ -1,0 +1,119 @@
+CHEVRON -- CHEVRON NALED TECHNICAL  -- 6840-00F000253
+<pre>=====================  Product Identification  =====================
+
+Product ID:CHEVRON NALED TECHNICAL
+MSDS Date:01/01/1985
+FSC:6840
+NIIN:00F000253
+MSDS Number: BBGFY
+=== Responsible Party ===
+Company Name:CHEVRON
+Emergency Phone Num:415//323-1514
+CAGE:0AHD1
+=== Contractor Identification ===
+Company Name:CHEVRON ENVIRONMENTAL HEALTH CENTER INC
+Address:15299 SAN PABLO AVE
+Box:4054
+City:RICHMOND
+State:CA
+ZIP:94804
+Country:US
+Phone:800-582-3835
+CAGE:0AHD1
+Company Name:CHEVRON PRODUCTS CO GLOBAL LUBRICANTS
+Address:555 MARKET STREET ROOM 803
+Box:City:SAN FRANCISCO
+State:CA
+ZIP:94105-2870
+Country:US
+Phone:800-228-3500/415-894-0703
+CAGE:2H740
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:DIMETHYL-1,2-DIBROMO-2,2-DICHLOROETHYL PHOSPHATE  (NALED) 
+    (SARA III)
+CAS:300-76-5
+RTECS #:TB9450000
+Fraction by Wt: 90%
+OSHA PEL:S, 3 MG/M3
+ACGIH TLV:S, 3 MG/M3; 9192
+EPA Rpt Qty:10 LBS
+DOT Rpt Qty:10 LBS
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:MATERIAL IS EXPECTED TO CAUSE EYE & SKIN
+    DAMAGE. SYMPTOM ARE DOSE-RELATED IN OCCURENCE, SEVERITY.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH IMMEDIATELY WITH FRESH WATER FOR 15 MINUTES, GET
+    MEDICAL ATTN. SKIN: IMMEDIATELY WASH WITH SOAP & WATER, GET MEDICAL
+    ATTN IMMEDIATELY. INGESTION: INDUCE VOMITING, GET MEDICAL ATTN
+    IMMEDIAT ELY. GIVE WATER & FOLLOW WITH DEMULCENTS.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:NON-FLAMMABLE
+Fire Fighting Procedures:SMOKE MAY PRESENT UNUSUAL HAZARDS.
+Unusual Fire/Explosion Hazard:AVOID CONTACT W/ FALLOUT AND RUNOFF
+    WATER. MINIMIZE USE OF WATER ON PESTICIDE FIRES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:CLEAN UP SPILLS AS SON AS POSSIBLE, OBSERVING
+    PERCAUTIONS ON PRODUCT LABEL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:READ ENTIRE LABEL AND OBSERVE ALL
+    PRECAUTIONS.
+Other Precautions:NOTE: NALED IS A CHOINERSTERASE INHIBITOR. ATROPINE
+    IS ANTIDOTAL. 2-PAM IS ALSO ANTIDODTAL & MAY BE USED IN CONJUCTION
+    W/ATRINE. IF GASTRIC LAVAGE IS INDICATED SHOULD BE DONE CAUTIOUSLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:APPROVED RESPIRATOR FOR PESTICIDES OR SELF-CONT
+    BRTHING APPAR.
+Ventilation:USE ADEQUATE VENTIL. TO KEEP MIST CONC. BELOW TLV
+Protective Gloves:NEOPRENE/RUBBER
+Eye Protection:CHEMICAL-SAFETY GOGGLES
+Other Protective Equipment:WASHING FACILITIES FOR EYES & SKIN SHOULD BE
+    AVAILABLE
+Supplemental Safety and Health
+225 BUSH STREET, SAN FRANCISCO, CALIF.	94104.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:230F
+Spec Gravity:1.96
+Solubility in Water:SLIGHT
+Appearance and Odor:LIGHT STRAW-COLORED LIQUID, SLGHTLY PUNGNT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+IRON OR ALKALINE MEDIA, ALUMINUM & MAGNESIUM
+Stability Condition to Avoid:DO NOT EXPOSE TO DIRECT SUNLIGHT(MAY CAUSE
+    SLOW DECOMP)
+Hazardous Decomposition Products:CO2, CO, TOXIC COMPOUNDS OF
+    PHOSPHORUS, CHLORINE & BROMINE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ABSORB SPILLS WITH ABSORBENT CLAY OR
+    DIATOMACEOUS EARTH, REPEATING UNTIL CONTAMINATION SURFACE IS DRY.
+    SCOUR SURFACE SEVERAL TIMES W/ STRONG DETERG. OR HYDRATED LIME &
+    WATER. CONTAMINATED CLEAN UP MAT ERIALS ARE HAZARDOUS. CONTAIN &
+    BURY-APPROVD AREA
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

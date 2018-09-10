@@ -1,0 +1,160 @@
+VALVOLINE INC -- ND 30, 26500012  -- 9150-00N069709
+<pre>=====================  Product Identification  =====================
+
+Product ID:ND 30, 26500012
+MSDS Date:08/13/1992
+FSC:9150
+NIIN:00N069709
+MSDS Number: CBKSL
+=== Responsible Party ===
+Company Name:VALVOLINE INC
+Box:14000
+City:LEXINGTON
+State:KY
+ZIP:40512
+Country:US
+Info Phone Num:606-264-7000
+Emergency Phone Num:800-274-5263
+CAGE:GO029
+=== Contractor Identification ===
+Company Name:VALVOLINE INC
+Box:14000
+City:LEXINGTON
+State:KY
+ZIP:40512
+Phone:(606) 268-7000
+CAGE:GO029
+Company Name:VALVOLINE OIL CO
+Address:3499 BLAZER PKY
+Box:14000
+City:LEXINGTON
+State:KY
+ZIP:40512
+Country:US
+Phone:606-357-7206 / 800-274-5263
+CAGE:72527
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MINERAL OIL, PETROLEUM DISTILLATE, SOLVENT DEWAXED
+    (SEVERE), HEAVY PARAFFINIC; (PETROLEUM LUBE OIL)
+CAS:64742-65-0
+RTECS #:PY8038501
+Fraction by Wt: 85-100%
+OSHA PEL:5 MG/M3 (MFR)
+ACGIH TLV:5 MG/M3 (MFR)
+
+Ingred Name:SUP DAT: CLAY, EARTH, FLOOR ABSORBENT, OR OTHER ABSORBENT
+    MATERIAL AND SHOVELED INTO CONTAINERS.
+RTECS #:9999999ZZ
+
+Ingred Name:VENT: (GENERAL AND/OR LOCAL EXHAUST) VENTILATION TO
+    MAINTAIN EXPOSURE BELOW PEL/TLV.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: EYES: NOT EXPECTED TO CAUSE
+    IRRITATION DURING NORMAL CONDITIONS OF USE. SKIN: PROLONGED OR
+    REPEATED CONTACT MAY BE MILDLY IRRITATING TO SKIN AND MAY CAUSE
+    DERMATITIS. INGESTION: NOT EXPECTED TO  BE TOXIC BY INGESTION.
+    PRODUCT HAS LAXATIVE PROPERTIES AND MAY CAUSE NAUSEA, ABDOMINAL
+    CRAMPS AND (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: DIARRHEA. INHALATION: NOT EXPECTED TO
+    BE AN INHALATION HAZARD AT NORMAL ROOM TEMPERATURE. HOWEVER, IF
+    EXPOSURES EXCEED THE PEL/TLV OF 5 MG/M3 FOR OIL MIST, THEN
+    INHALATION OF MIST MAY RESULT  IN RESPIRATORY IRRITATION AND
+    POSSIBLEDISCOMFORT.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: THORO WASH EXPOSED AREA W/SOAP & WATER. REMOVE CONTAM
+    CLTHG & LAUNDER BEFORE REUSE. EYES: FLUSH W/LGE AMTS OF WATER,
+    LIFTING UPPER & LOWER LIDS OCCAS. GET MED ATTN IF IRRIT PERSISTS.
+    INGEST: DO	NOT INDUCE VOMIT. KEEP PERS WARM & QUIET, & GET MED
+    ATTN. INHAL: REMOVE TO FRESH AIR. IF BRTHG IS DFCLT, ADMIN OXYGEN.
+    IF BRTHG HAS STOPPED GIVE ARTF RESP. KEEP PERS WARM, QUIET & GET
+    MED ATTN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:>430F,>221C
+Extinguishing Media:USE REGULAR FOAM, CARBON DIOXIDE OR DRY CHEMICAL.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPRVD SCBA & FULL PROT EQUIP
+    . WATER/FOAM MAY CAUSE FROTHING WHICH CAN BE VIOLENT & POSS
+    ENDANGER LIFE OF FIREFIGHTER, ESP IF (SUP DAT)
+Unusual Fire/Explosion Hazard:NEVER USE WELDING OR CUTTING TORCH ON OR
+    NEAR DRUM (EVEN EMPTY) BECAUSE PRODUCT (EVEN JUST RESIDUE) CAN
+    IGNITE EXPLOSIVELY.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SML SPILL: ABSORB LIQ ON VERMICULITE, FLOOR
+    ABSORB/OTHER ABSORB MATL. LGE SPILL: PVNT RUN-OFF TO SEWER,
+    STREAMS/OTHER BODIES OF WATER. IF RUN-OFF OCCURS, NOTIFY PROPER
+    AUTH AS REQ, THAT A SPILL HAS OC CURRED. PERS NOT WEARING PROT
+    EQUIP (SUP DAT)
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID PROLONGED OR REPEATED CONTACT TO
+    SKIN. CONTAINERS OF THIS MATERIAL MAY BE HAZARDOUS WHEN EMPTIED.
+Other Precautions:SINCE EMPTIED CONTAINERS RETAIN PRODUCT RESIDUES
+    (VAPOR, LIQUID AND/OR SOLID), ALL HAZARD PRECAUTIONS GIVEN IN THIS
+    MSDS MUST BE OBSERVED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED UNDER NORMAL CONDITIONS OF USE.
+    HOWEVER, IF OIL MISTS ARE GENERATED ABOVE RECOMMENDED PEL/TLV OF 5
+    MG/M3, THEN A NIOSH/MSHA APPROVED RESP IS ADVISED IN ABSENCE OF
+    PROPER ENVIRONMENTAL CON TROL. (SEE YOUR SAFETY EQUIP SUPPLIER.)
+Ventilation:NOT REQ UNDER NORM CNDTNS OF USE. HOWEVER, IF UNUSUAL
+    OPERATING CNDTNS EXIST, THEN PROVIDE SUFFICIENT MECHANICAL (ING 3)
+Protective Gloves:NITRILE RUBBER.
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGS .
+Other Protective Equipment:NORMAL WORK CLOTHING COVERING ARMS & LEGS.
+    EMERGENCY EYEWASH & DELUGE SHOWER MEETING ANSI DESIGN CRITERIA .
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+FIRE FIGHT PROC: SPRAYED INTO CONTRS OF HOT, BURNING LIQ. DENSE SMOKE
+    MAY BE GENETATED WHILE BURNING. SPILL PROC: SHOULD BE EXCLUDED FROM
+    AREA OF SPILL UNTIL CLEAN-UP HAS BEEN COMPLETED. STOP SPILL AT 
+    SOURCE, DIKE AREA OF SPILL TO PVNT SPREADING, PUMP LIQ TO SALVAGE
+    TANK. REMAINING LIQ MAY BE TAKEN UP ON SAND, (ING 2)
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:575F,302C
+Vapor Density:HVR/AIR
+Spec Gravity:0.889
+Evaporation Rate &amp; Reference:SLOWER THAN ETHER
+Appearance and Odor:LIGHT AMBER LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SMALL SPILL/LARGE SPILL: DISPOSE OF IN
+    ACCORDANCE WITH ALL LOCAL, STATE AND FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

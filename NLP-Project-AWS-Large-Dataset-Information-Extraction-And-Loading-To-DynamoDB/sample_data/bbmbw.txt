@@ -1,0 +1,93 @@
+OXFORD CHEMICALS INC -- EXTRAX  -- 7930-00F002953
+<pre>=====================  Product Identification  =====================
+
+Product ID:EXTRAX
+MSDS Date:07/29/1985
+FSC:7930
+NIIN:00F002953
+MSDS Number: BBMBW
+=== Responsible Party ===
+Company Name:OXFORD CHEMICALS INC
+Box:80202
+City:ATLANTA
+State:GA
+ZIP:30366
+Country:US
+Info Phone Num:404-452-1100
+Emergency Phone Num:404-452-1100
+Preparer's Name:LOUISE MOORE
+CAGE:06645
+=== Contractor Identification ===
+Company Name:OXFORD CHEMICALS INC
+Box:City:ATLANTA
+State:GA
+ZIP:30366
+Country:US
+Phone:404-452-1100
+CAGE:06645
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON-HAZARDOUS FOR INGREDIENTS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: HARMFUL. EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH W/WATER FOR AT LEAST 15 MINS. INGESTION:
+    DON'T INDUCE VOMITING. GIVE PLENTY OF WATER FOLLOWED BY CITRUS
+    JUICE OR 1 OZ OF VINEGAR IN WATER. FOLLOW W/MILK OR OLIVE OIL.
+    OBTAIN MEDICAL A TTENTION IN ALL CASES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MOP UP WITH WATER. FLUSH DOWN DRAIN.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE CONTAINER TIGHTLY CLOSED.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE
+Ventilation:LOCAL EXHAUST
+Protective Gloves:NONE
+Eye Protection:SAFETY GLASSES
+Supplemental Safety and Health
+PH IS FOR 1% SOLUTION.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:215F
+Spec Gravity:1.060
+pH:8
+Evaporation Rate &amp; Reference:(WATER = 1): COMPLETE
+Solubility in Water:COMPLETE
+Appearance and Odor:GREEN, LIQUID, SWEET ODOR.
+Percent Volatiles by Volume:90%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:TRIPLE RINSE CONTAINER WITH COLD WATER, THEN
+    DISPOSE OF IN ACCORDANCE WITH FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

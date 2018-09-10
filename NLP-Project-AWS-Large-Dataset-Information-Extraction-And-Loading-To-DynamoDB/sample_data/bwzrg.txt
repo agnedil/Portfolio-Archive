@@ -1,0 +1,153 @@
+PACIFIC SCIENTIFIC CO HTL/KIN-TECH DIVISION -- 2-100920 FIRE EXTINGUISHER CARTIDGE  -- 4210-01-206-9531
+<pre>=====================  Product Identification  =====================
+
+Product ID:2-100920 FIRE EXTINGUISHER CARTIDGE
+MSDS Date:11/20/1991
+FSC:4210
+NIIN:01-206-9531
+MSDS Number: BWZRG
+=== Responsible Party ===
+Company Name:PACIFIC SCIENTIFIC CO HTL/KIN-TECH DIVISION
+Address:1800 HIGHLAND AVE
+City:DUARTE
+State:CA
+ZIP:91010
+Country:US
+Info Phone Num:818-359-9317/FAX -7013 E. RICHARDS
+Emergency Phone Num:818-359-9317/602-796-1100
+CAGE:05167
+=== Contractor Identification ===
+Company Name:PACIFIC SCIENTIFIC CO HTL/KIN-TECH DIVISION
+Address:1800 HIGHLAND AVE
+Box:City:DUARTE
+State:CA
+ZIP:91010
+Country:US
+Phone:818-359-9317/602-796-1100
+CAGE:05167
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ZIRCONIUM
+CAS:7440-67-7
+RTECS #:ZH7070000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3/10 STEL;9495
+
+Ingred Name:POTASSIUM PERCHLORATE
+CAS:7778-74-7
+RTECS #:SC9700000
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:GRAPHITE, NATURAL
+CAS:7782-42-5
+RTECS #:MD9659600
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:15 MPPCF; Z-3
+ACGIH TLV:2 MG/M3 RDUST; 9495
+
+Ingred Name:VITON-B
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:LEAD AZIDE
+CAS:13424-46-9
+RTECS #:OF8650000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:RULE IN PROCESS
+ACGIH TLV:0.15 MG PB/M3
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: DUST AND FUMES RELEASE DURING
+    FIRE ARE IRRITATING TO RESPIRATORY SYSTEM, EYES. HARMFUL IF
+    INHALED. CHRONIC: NO DATA FOUND.
+Explanation of Carcinogenicity:NO INGREDIENT OF A CONCENTRATION OF 0.1%
+    OR GREATER IS LISTED AS A CARCINOGEN OR SUEPECTED CARCINOGEN.
+Effects of Overexposure:INHALED-IRRITATION. EYES-IRRITATION.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALED-REMOVE TO FRESH AIR. GET MEDICAL ATTENTION.
+    EYES-FLUSH WITH LOTS OF WATER FOR 15 MINUTES. GET MEDICAL
+    ATTENTION. SKIN-REMOVE CONTAMINATED CLOTHES. WASH WITH SOAP &
+    WATER. INGESTED-GET IMMEDIAT E MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Autoignition Temp:Autoignition Temp Text:340C
+Extinguishing Media:WATER FOG.
+Fire Fighting Procedures:MANTAIN SAFE QUANTITY-DISTANCE RELATIONSHIP TO
+    PROTECT AGAINST SHRAPNEL AND PROPOGATION TO NEARBY EXPLOSIVE
+    COMPONENTS.
+Unusual Fire/Explosion Hazard:WHEN SUBJECTED TO SUITABLE IMPETUS, THIS
+    UNIT WILL DETONATE CREATING A BLAST ACCOMPANIED BY SHRAPNEL AND A
+    FIREBALL.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:LEAD AZIDE DECOMPOSES BY FLOODING WITH A 10%
+    SOLUTION OS SODIUM HYDROXIDE, FORMING LEAD HYDROXIDE AND SODIUM
+    AZIDE. ALL OTHER MATERIALS ARE DISPOSED OF IAW WASTE DISPOSAL
+    INSTRUCTIONS BELOW.
+Neutralizing Agent:10% SOLUTION OF SODIUM HYDROXIDE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE IN AN
+    APPROVED MAGAZINE.
+Other Precautions:DO NOT DROP OR STRIKE UNITS. PROTECT FROM STRAY
+    ELECTRICAL SIGNALS, RF, AND STATIC. DO NOT REMOVE SHUNT PLUG PRIOR
+    TO MATING WITH ELECTRICAL CONNECTOR. USE ONLY AN APPROVED SQUIBB
+    TESTER BRIDGEWIRE RE SISTANCE CHECKS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED IN UNRUPTURED UNITS.
+Ventilation:DO NOT USE DUE TO EXPLOSIVE HAZARD OF RUPTURED UNITS.
+Protective Gloves:NONE NORMALLY REQUIRED.
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS.
+Other Protective Equipment:EAR PROTECTION. PERSONNEL SHIELDS AND STATIC
+    SUPPRESSION.
+Work Hygienic Practices:WASH HANDS AFTER HANDLING AND BEFORE EATING,
+    DRINKING, OR SMOKING. LAUNDER CONTAMINATED CLOTHES BEFORE REUSE.
+Supplemental Safety and Health
+MSDS PRESENTED BY CAGE 05167 FOR CONTRACT NUMBER SP076095MV350. THIS
+    MSDS REPRESENTS FINAL PRODUCT; APPARENTLY AN EXPELLING CHARGE FOR A
+    HALON FIRE SUPPRESSION SYSTEM. FOR COMPONENTS SEE PNI B THIS NS
+    N/CAGE AND PNI A/CAGE 80236 (OLIN), THIS NSN.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:E2
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:DARK GREY PRESSED CAKE & WHITE TO BUFF PRESSED CAKE
+    IN A CARTIDGE.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:SOURCES OF IGNITION, FRICTION,
+    INCOMPATIBLE MATERIALS, STRONG EVOLUTION OF LIGHT.
+Hazardous Decomposition Products:DECOMPOSITION OF POTASSIUM PERCHLORATE
+    CAN INCLUDE CHLORINE AND CHLORINE DIOXIDE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF EXCESS OR BROKEN UNITS BY INDIVIDUAL
+    FUNCTIONING IN A SAFETY CHEMBER OR BURNING IN A SUITABLE
+    INCINERATOR ONE AT A TIME WITH ADEQUATE PERSONNEL SAFETY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

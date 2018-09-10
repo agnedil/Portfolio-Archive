@@ -1,0 +1,121 @@
+HACH CHEMICAL CO. -- 1429,SILVER NITRATE SOLN FOR HI RANGE CL KT  -- 6850-00D000113
+<pre>=====================  Product Identification  =====================
+
+Product ID:1429,SILVER NITRATE SOLN FOR HI RANGE CL KT
+MSDS Date:01/01/1985
+FSC:6850
+NIIN:00D000113
+Kit Part:Y
+MSDS Number: BBCHT
+=== Responsible Party ===
+Company Name:HACH CHEMICAL CO.
+Address:100 DAYTON RD.
+Box:907
+City:AMES
+State:IA
+ZIP:50010-6402
+Country:US
+Info Phone Num:800-227-4224
+Emergency Phone Num:515-232-2533
+CAGE:4T252
+=== Contractor Identification ===
+Company Name:HACH CO
+Address:5600 LINDBERGH DR
+Box:389
+City:LOVELAND
+State:CO
+ZIP:80539
+Country:US
+Phone:970-669-3050/ 303-623-5716
+CAGE:91224
+Company Name:HACH COMPANY
+Address:100 DAYTON RD.
+Box:907
+City:AMES
+State:IA
+ZIP:50010
+Country:US
+Phone:800-227-4224
+CAGE:4T252
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILVER NITRATE  (SARA III)
+CAS:7761-88-8
+RTECS #:VW4725000
+Fraction by Wt: 50.0%
+OSHA PEL:0.01 MG AG/M3
+ACGIH TLV:0.01 MG AG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: 25.0%
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:CORROSIVE TO SKIN & EYES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:WASH WITH SOAP & WATER.FLUSH WITH WATER FOR 15 MIN.CALL
+    DR. INHAL:REMOVE FROM EXPOSURE.INGEST:GIVE PLENTY OF MILK OR
+    WATER.CALL DR.IMMEDIATELY. CALL THE LOCAL POISON CONTROL CENTER OR
+    DR. FIRST.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:FOAM.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COVER WITH SODIUM BISULFATE OR ROVER,HACH CAT
+    NO.300.MIX WELL & SPRAY WITH WATER.SCOOP SLURRY INTO A CONTAINER OF
+    WATER & NEUTRALIZE WITH SODA ASH.WASH SITE THOROUGHLY WITH SOAP
+    SOLUTION CONTAINING SO DIUM BISULFATE OR ROVER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN DARK,COOL PLACE FROM REDUCING
+    AGENTS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:RESPIRATOR.
+Ventilation:LOCAL EXHAUST HOOD & MECHANICAL IS RECOMMENDED
+Protective Gloves:RUBBER
+Eye Protection:SAFETY GOGGELS
+Other Protective Equipment:LABORATORY COAT.
+Supplemental Safety and Health
+ITEM IS A HIGH RANGE CHLORIDE KIT.THE MANUFACTURER HAS SPECIFIED THE
+    SHIPPING NAME;CORROSIVE LIQUID,N.O.S. (SILVER NITRATE SOLUTION).
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C2
+Solubility in Water:APPRECIABLE
+Appearance and Odor:CLEAR,COLORLESS SOLUTION.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH STATE & LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

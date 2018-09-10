@@ -1,0 +1,147 @@
+SHEFFORD-MEADE INC -- MOORCLEAN-1000  -- 6850-01-447-3931
+<pre>=====================  Product Identification  =====================
+
+Product ID:MOORCLEAN-1000
+MSDS Date:04/02/1994
+FSC:6850
+NIIN:01-447-3931
+Status Code:A
+MSDS Number: CJYRT
+=== Responsible Party ===
+Company Name:SHEFFORD-MEADE INC
+Address:498 RED LION RD
+City:WEST CHESTER
+State:PA
+ZIP:19382
+Country:US
+Info Phone Num:610-793-3340
+Emergency Phone Num:610-793-3340
+Preparer's Name:NOT PROVIDED.
+CAGE:9U847
+=== Contractor Identification ===
+Company Name:FOSS ENVIRONMENTAL SERVICES
+Address:200 SW MICHIGAN ST SUITE 300
+Box:City:SEATTLE
+State:WA
+ZIP:98106
+Country:US
+Phone:206-768-1461
+Contract Num:SP0450-00-M-D406
+CAGE:0U566
+Company Name:SHEFFORD-MEADE INC
+Address:498 RED LION RD
+Box:City:WEST CHESTER
+State:PA
+ZIP:19382
+Country:US
+Phone:610-793-3340
+CAGE:9U847
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON-HAZARDOUS INGREDIENT(S)
+= Wt:100.
+Other REC Limits:NOT PROVIDED.
+OSHA PEL:NOT PROVIDED.
+ACGIH TLV:NOT PROVIDED.
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NOT PROVIDED.
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: AS WITH WATER, PROLONGED SKIN
+    CONTACT MAY LEAD TO MINOR SKIN IRRITATION. PROLONGED INHALATION MAY
+    LEAD TO CHEMICAL PNEUMONITIS. SWALLOWING: NOT EXPECTED TO BE
+    ACUTELY TOXIC BY INGESTION. EYE CO NTACT: MAY CAUSE MINOR EYE
+    IRRITATION. PRODUCT CANNOT BE ABSORBED THROUGH THE SKIN. CHRONIC:
+    NONE KNOWN.
+Explanation of Carcinogenicity:NOT APPLICAPLE.
+Effects of Overexposure:PROLONGED INHALATION MAY LEAD TO IRRITATION OF
+    UPPER RESPIRATORY TRACT. IRRITATION OF EYES AND SKIN. INGESTION:
+    NAUSEA AND DIARRHEA.
+Medical Cond Aggravated by Exposure:AS WITH WATER, PERSONS PRONE TO
+    RESPIRATORY PROBLEMS SHOULD AVOID PROLONGED INHALATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SWALLOWING: IF MATERIAL IS SWALLOWED, DO NOT INDUCE VOMITING,
+    INSTEAD DRINK PLENTY OF WATER AND CONTACT PHYSICIAN. SKIN: WASH
+    THOROUGHLY WITH SOAP AND WATER. INHALATION: NONE. EYES: FLUSH WITH
+    WATER 1 5 MINUTES. IF IRRITATION CONTINUES, CONTACT PHYSICIAN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DILUTE WITH LOTS OF WATER. DISPOSE INTO SEWER
+    OR WASTE.
+Neutralizing Agent:STRONG ACIDS
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE ABOVE FREEZING IN SEALED
+    CONTAINERS.
+Other Precautions:AS WITH ALL CHEMICALS, USE PROPER HANDLING
+    TECHNIQUES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT APPLICABLE FOR INTENDED USE. HOWEVER, IF
+    UNUSUAL OPERATING CONDITIONS CREATE CONCENTRATIONS IN EXCESS OF THE
+    TLV, AN APPROVED RESPIRATOR IS RECOMMENDED
+Ventilation:NONE NEEDED FOR INTENDED USE. SPECIAL VENTILATION NECESSARY
+    ONLY IF CONCENTRATIONS IN EXCESS OF TLV ARE CREATED.
+Protective Gloves:IMPERVIOUS PROTECTIVE GLOVES FOR PROLONGED OR
+    REPEATED EXPOSURE
+Eye Protection:NONE NORMALLY BUT SAFETY GLASSES OR FACE SHIELD WILL
+    REDUCE POSSIBLE CONTACT
+Other Protective Equipment:NONE NORMALLY NECESSARY FOR INTENDED USE.
+Work Hygienic Practices:NOT PROVIDED.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+NRC/State Lic Num:NOT RELEVANT.
+Boiling Pt:=100.C, 212.F
+Spec Gravity:1
+Solubility in Water:COMPLETE
+Appearance and Odor:TRANSLUCENT, DARK RED SOLUTION WITH SLIGHT ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:NONE
+
+===================  Toxicological Information	===================
+
+Toxicological Information:NOT PROVIDED.
+
+=====================  Ecological Information  =====================
+
+Ecological:NOT PROVIDED.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DILUTE WITH WATER TO CONTROL PH DOWN TO 7-9 FOR
+    NORMAL DISPOSAL.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:NOT PROVIDED.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:NOT APPLICAPLE.
+Federal Regulatory Information:NOT PROVIDED.
+State Regulatory Information:NOT PROVIDED.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

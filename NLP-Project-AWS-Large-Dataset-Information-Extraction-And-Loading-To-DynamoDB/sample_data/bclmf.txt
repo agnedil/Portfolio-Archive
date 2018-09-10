@@ -1,0 +1,121 @@
+HANDY & HARMON -- HANDY FLUX TYPE LT  -- 3439-00N004067
+<pre>=====================  Product Identification  =====================
+
+Product ID:HANDY FLUX TYPE LT
+MSDS Date:01/01/1985
+FSC:3439
+NIIN:00N004067
+MSDS Number: BCLMF
+=== Responsible Party ===
+Company Name:HANDY & HARMON
+Emergency Phone Num:212-752-3400
+CAGE:HO184
+=== Contractor Identification ===
+Company Name:HANDY & HARMAN
+Address:850 THIRD AVENUE
+Box:City:NEW YORK
+State:NY
+ZIP:10022
+Country:US
+Phone:212-752-3400
+CAGE:73977
+Company Name:HANDY & HARMON
+CAGE:HO184
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POTASSIUM FLUOBORATE (POTASSIUM BORO FLUORIDE)
+CAS:14075-53-7
+RTECS #:ED2800000
+Fraction by Wt: < 15%
+OSHA PEL:2.5 MG/M3 (F)
+ACGIH TLV:2.5 MG/M3 (F); 8990
+
+Ingred Name:POTASSIUM HYDROXIDE  (SARA III)
+CAS:1310-58-3
+RTECS #:TT2100000
+Fraction by Wt: <25%
+OSHA PEL:C, 2 MG/M3
+ACGIH TLV:C 2 MG/M3; 9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:BORIC ACID (K*3BO*3)
+CAS:10043-35-3
+RTECS #:ED4550000
+Fraction by Wt: <50%
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: < 30%
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:FLUORIDES ARE TOXIC IF SWALLOWED. KOH IS TOXIC
+    & IRRITANT, PRLNG CONTACT MAY CAUSE DERMAT-SUPP DATA
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN & EYES: FLUSH WITH WATER FOR 15 MINUTES. INHALATION:
+    REMOVE PERSON FROM EXPOSURE. GIVE ARTIFICIAL RESPIRATION IF
+    BREATHING STOPS. INGESTION: INDUCE VOMITING. NEVER GIVE ANYTHING BY
+    MOUTH TO UNCON SCIOUS PERSON.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DILUTE & WASH SPILLAGE WITH WATER. AVOID SKIN
+    & EYE CONTACT & HIGH TEMPERATURES. WEAR RUBBER GLOVES DURING SPILL
+    CLEAN-UP.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MAINTAIN FLUX AT NORMAL ROOM TEMPS.
+    USE FLUX AT TEMPS 1050-1600F. FLUX IS USED WITH BRAZING FILLER
+    METALS CONTAINING CADMIUM. SEE OTHER PRECAUTIONS.
+Other Precautions:CADMIUM OXIDE FUMES, TLV OF 0.5 MG/CUM, ARE A GREATER
+    HAZARD THAN FLUORIDE FUMES FROM FLUX. ZINC OXIDE FUMES, TLV OF 5
+    MG/CUM, MAY ALSO BE EMITTED FROM FILLER METAL BURNING BRAZING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SEE SUPP DATA
+Ventilation:LOCAL EXHT, MECH VENT OR NATURAL VENT TO KEEP < TLV.
+Protective Gloves:WELDING GLOVES
+Eye Protection:GLASSES W/ SIDE SHIELD
+Other Protective Equipment:CLOTHING FOR TORCH BRAZING. EYE: FILTER LENS
+    SHADE 3 OR 4.
+Supplemental Safety and Health
+PH: 9, RESP PROTECTION: NIOSH/MSHA APPRVD AIRLINE RESP OR HOSE MASK,
+    TYPE C HOSE OR SELF CONT BRTH APPAR IN CONFINED AREAS. OVEREXPOS:
+    EXPOS TO DECOMP PRODUCTS ON HEATING IS TOXIC.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:>212F;100C
+Spec Gravity:1.7
+Appearance and Odor:WHITE PASTE, NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:PRODUCT IS STABLE AT ROOM TEMPERAURE
+Hazardous Decomposition Products:BF*3, HF, KF & B*2O*3 FROM HEATING
+    DURING BRAZING.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:LOCAL REGS MAY REQUIRE REMOVAL OF FLUORIDE &
+    SUSPENDED TRACE METALS BEFORE DISCHARGING EFFLUENT. MFR RECOMNDS
+    PRECIPITATION & DISPOSAL OF PRECIPITATE TO SECURE CHEM LANDFILL IF
+    HAZ WASTE. DISPOSAL MET HOD MUST BE IAW FED, STATE & LOCAL REGS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

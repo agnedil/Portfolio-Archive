@@ -1,0 +1,90 @@
+COLUMBIA RIBBON & CARBON MFG,CO.,INC. -- HECTO CLEANER  -- 8520-00N004108
+<pre>=====================  Product Identification  =====================
+
+Product ID:HECTO CLEANER
+MSDS Date:01/01/1985
+FSC:8520
+NIIN:00N004108
+MSDS Number: BCLNJ
+=== Responsible Party ===
+Company Name:COLUMBIA RIBBON & CARBON MFG,CO.,INC.
+Emergency Phone Num:516-676-2730
+CAGE:13680
+=== Contractor Identification ===
+Company Name:COLUMBIA RIBBON & CARBON MFG.CO.,INC.
+CAGE:13680
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BENTONITE (AS NUISANCE DUST OR PARTICULATES NOT OTHERWISE
+    REGULATED)
+CAS:1302-78-9
+RTECS #:CT9450000
+Fraction by Wt: 7%
+OSHA PEL:15 MG/M3 TOTAL DUST
+ACGIH TLV:10 MG/M3 TDUST;8990
+
+Ingred Name:CARBITOL (DIETHYLENE GLYCOL MONOETHYL ETHER).
+CAS:111-90-0
+RTECS #:KK8750000
+Fraction by Wt: 38%
+
+Ingred Name:GLYCERIN
+CAS:56-81-5
+RTECS #:MA8050000
+Fraction by Wt: 7%
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 (MIST) 9293
+
+Ingred Name:SODIUM DIOCTYL SULFOSUCCINATE(AEROSOL OT)
+CAS:577-11-7
+RTECS #:WN0525000
+Fraction by Wt: 1%
+
+Ingred Name:SOAP
+Fraction by Wt: 2%
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:NOT FOR INTERNAL USE.
+
+=====================  Fire Fighting Measures  =====================
+
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH W/ WATER
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NONE
+Other Precautions:NOT FOR INTERNAL USE.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:MFR STATES NONE NEEDED
+Other Protective Equipment:NONE
+Supplemental Safety and Health
+INGRED: WATER 44%
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:COMPLETE
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IAW FED, STATE & LOCAL CODES.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

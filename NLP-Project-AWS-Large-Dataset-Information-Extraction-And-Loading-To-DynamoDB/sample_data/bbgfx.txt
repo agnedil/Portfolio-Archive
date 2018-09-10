@@ -1,0 +1,94 @@
+NALCO CHEMICAL COMPANY -- NALCO 2527T BALL  -- 6840-00F000252
+<pre>=====================  Product Identification  =====================
+
+Product ID:NALCO 2527T BALL
+MSDS Date:01/01/1985
+FSC:6840
+NIIN:00F000252
+MSDS Number: BBGFX
+=== Responsible Party ===
+Company Name:NALCO CHEMICAL COMPANY
+CAGE:89524
+=== Contractor Identification ===
+Company Name:ONDEO NALCO COMPANY
+Address:ONDEO NALCO CENTER
+Box:City:NAPERVILLE
+State:IL
+ZIP:60563-1198
+Country:US
+Phone:(630) 305-1000
+CAGE:89524
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYLENE BISTHIOCYANATE
+CAS:6317-18-6
+RTECS #:XL1560000
+Fraction by Wt: 10%
+
+Ingred Name:BIS (TRIBUTYLTIN) OXIDE
+CAS:56-35-9
+RTECS #:JN8750000
+Fraction by Wt: 1%
+OSHA PEL:S, 0.1 MG/M3 (SN)
+ACGIH TLV:S,0.1 MG/M3(SN);8990
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:CORROSIVE TO TISSUE. CAUSES EYE AND SKIN
+    DAMAGES. HARMFUL IF SWALLOWED OR ABSORBED THROUGH SKIN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH WITH WATER FOR AT LEAST 15 MINUTES.
+    CALL PHYSICIAN. SKIN: IMMEDIATELY FLOOD WITH WATER FOR 15 MINUTES.
+    REMOVE AND LAUNDER CONTAMINATED CLOTHING. CALL A PHYSIAN.
+    INGESTION: INDU CE VOMITING, GIVE WATER, CALL A PHYSICIAN.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP OR VACUUM SPILLS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT TAKE INTERNALLY. DO NOT CONTACT
+    EYE, SKIN OR CLOTHING. REMOVE AND LAUNDER CONTAMINATED OTHING
+    BEFORE REUSE. DISCARD CONTAMINATED SHOES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:DUST MASK IF DUSTING IS A PROBLEM
+Protective Gloves:RUBBER, GAUNTLE
+Eye Protection:SAFETY GOGGLES, FACESHIEL
+Other Protective Equipment:EYE WASH FOUNTAIN, IMPERVIOUS APRON
+Supplemental Safety and Health
+2901 BUTTERFIELD ROAD, OAK BROOK, ILLINOIS  60521.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:15 OZ.
+Solubility in Water:SOLUBLE
+Appearance and Odor:BROWN BALL BRIQUETTE W/ SWEETISH ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+Hazardous Decomposition Products:ADVERSE CONDITIONS: OXIDES OF SULFUR &
+    CYANIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DO NOT DISPOSE OF WASTE INTO LAKES, STREAMS, OR
+    PONDS. TOXIC TO FIISH. MAY AFFECT BIOLOGICAL WASTEWATER TREATMENT
+    SYSTEMS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

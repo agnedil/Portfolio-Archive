@@ -1,0 +1,128 @@
+HACH COMPANY -- 1812 FERROIN INDICATOR SOLUTION  -- 6810-01-290-0198
+<pre>=====================  Product Identification  =====================
+
+Product ID:1812 FERROIN INDICATOR SOLUTION
+MSDS Date:07/15/1986
+FSC:6810
+NIIN:01-290-0198
+MSDS Number: BBCJG
+=== Responsible Party ===
+Company Name:HACH COMPANY
+Address:100 DAYTON RD
+Box:907
+City:AMES
+State:IA
+ZIP:50010-0642
+Country:US
+Info Phone Num:303-669-3050
+Emergency Phone Num:515-232-2533
+CAGE:4T252
+=== Contractor Identification ===
+Company Name:HACH CO
+Address:5600 LINDBERGH DR
+Box:389
+City:LOVELAND
+State:CO
+ZIP:80539
+Country:US
+Phone:970-669-3050/ 303-623-5716
+CAGE:91224
+Company Name:HACH COMPANY
+Address:100 DAYTON RD.
+Box:907
+City:AMES
+State:IA
+ZIP:50010
+Country:US
+Phone:800-227-4224
+CAGE:4T252
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:FERROIN (COMPLEX OF O-PHENANTHROLINE AND FERROUS
+    IONS,PROBABLY FERROUS SULFATE).
+CAS:14634-91-4
+Fraction by Wt: <5%
+
+Ingred Name:DEMINERALIZED WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: TO 100%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PRODUCT IS IRRITATING TO EYES. PRODUCT
+    MUST BE MISTED OR DECOMPOSED TO BE INHALED,A CONDITION NOT LIKELY
+    TO HAPPEN DURING ANY FOR SEEN USE. SLIGHT ORAL TOXICITY
+Effects of Overexposure:MAY CAUSE IRRITATION
+Medical Cond Aggravated by Exposure:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH W/WATER. SKIN:FLUSH WITH WATER. INHALED:REMOVE TO
+    FRESH AIR. INGESTED:GIVE LARGE AMOUNTS OF MILK OR WATER. GET
+    MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:USE MEDIA APPROPRIATE FOR THE SURROUNDING FIRE.
+Fire Fighting Procedures:WEAR SELF CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB ON INERT MATERIAL.
+Neutralizing Agent:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE TIGHTLY CLOSED. PROTECT FROM
+    EVAPORATION.
+Other Precautions:AVOID INGESTION & SKIN/EYE CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY NEEDED. USE NIOSH RESPIRATOR OR
+    SUPPLIED AIR RESPIRATOR IF EXPOSED ABOVE TLV.
+Ventilation:USE HOOD OR OTHER LOCAL EXHAUST TO MAINTAIN EXPOSURE BELOW
+    TLV FOR NUISANCE DUST,OR MIST.
+Protective Gloves:NONE
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:EYE WASH,SAFETY SHOWER, LAB COAT OR APRON.
+Work Hygienic Practices:USE NORMAL CHEMICAL HYGIENE PRACTICES
+Supplemental Safety and Health
+PREVIOUS MSDS SHOWED FERROUS SULFATE AND O-PHENANTHROLINE AS
+    INGREDIENTS. THIS ONE SHOWS"FERROIN"DESCRIBED IN MERK INDEX AS
+    SHOWN UNDER INGREDIENT 1. THIS IS NOT A REFORMULATION.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:C3
+Boiling Pt:=100.C, 212.F
+Spec Gravity:0.994
+pH:4.5
+Solubility in Water:MISCIBLE
+Appearance and Odor:CLEAR,DARK,RED-BROWN LIQUID, NO ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:HEAT EVAPORATION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W FEDERAL,STATE,LOCAL REGS. MFR
+    SUGGESTS FLUSH TO DRAIN.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

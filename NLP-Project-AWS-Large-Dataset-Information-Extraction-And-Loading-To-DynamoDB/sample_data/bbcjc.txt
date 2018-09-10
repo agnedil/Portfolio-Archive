@@ -1,0 +1,169 @@
+HACH CO. -- NITRIC ACID ACS GRADE  -- 6810-00D000122
+<pre>=====================  Product Identification  =====================
+
+Product ID:NITRIC ACID ACS GRADE
+MSDS Date:05/08/1992
+FSC:6810
+NIIN:00D000122
+MSDS Number: BBCJC
+=== Responsible Party ===
+Company Name:HACH CO.
+Address:100 DAYTON RD.
+Box:389
+City:LOVELAND
+State:CO
+ZIP:80539
+Country:US
+Info Phone Num:800-227-4224
+Emergency Phone Num:800-227-4224
+Preparer's Name:REGULATORY AFFAIRS DEPT
+CAGE:91224
+=== Contractor Identification ===
+Company Name:HACH CO
+Address:5600 LINDBERGH DR
+Box:389
+City:LOVELAND
+State:CO
+ZIP:80539
+Country:US
+Phone:970-669-3050/ 303-623-5716
+CAGE:91224
+Company Name:HACH COMPANY
+Address:100 DAYTON RD.
+Box:907
+City:AMES
+State:IA
+ZIP:50010
+Country:US
+Phone:800-227-4224
+CAGE:4T252
+Company Name:O & S SUPPLY INC.
+Address:1001 N. MAIN ST.
+Box:1564
+City:SUMTER
+State:SC
+ZIP:29105
+Country:US
+Phone:803-775-7323
+CAGE:3N991
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: 30%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:NITRIC ACID  (SARA III)
+CAS:7697-37-2
+RTECS #:QU5775000
+Fraction by Wt: 70%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:2 PPM
+ACGIH TLV:2 PPM/4 STEL; 9394
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT) IS 430 MG/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: EXPOSURE MAY BE CORROSIVE TO
+    EYES, SKIN AND RESPIRATORY TRACT. SWALLOWING MAY CAUSE SEVERE GI
+    TRACT IRRITATION, BURNS TO MUCOUS MEMBRANES OF MOUTH-THROAT AND
+    ESOPHAGUS. CHRONIC: PROLONGED OR RE PEATED EXPOSURE MAY CAUSE
+    CHRONIC PULOMNARY DISEASE OR BRONCHITIS, TOOTH EROSION.
+Explanation of Carcinogenicity:NITRIC ACID IS NOT LISTED AS A
+    CARCINOGEN BY NTP OR IARC.
+Effects of Overexposure:INHALED: DRYNESS OF NOSE & THROAT, COUGH, CHEST
+    PAIN, DYSPNEA. EYES: BURNS, BLINDNESS, PAIN, TEARING, BLURRED
+    VISION, REDNESS, SWELLING. SKIN: DEEP ULCERS, SKIN STAINED BRIGHT
+    YELLOW TO YELLOW-BROWN,  BURNS, REDNESS, BLISTERS. INGESTED: SEVERE
+    PAIN IN MOUTH-THROAT-STOMACH, NAUSEA, VOMITING.
+Medical Cond Aggravated by Exposure:EYE, SKIN OR RESPIRATORY DISORDERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALED:REMOVE TO FRESH AIR.GIVE ARTIFICIAL RESPIRATIONIF
+    BREATHING STOPPED.GIVE OXYGENIF BREATHING DIFFICULT.SKIN:REMOVE
+    CONTAMINATED CLOTHES.FLUSH WITH LOTS OF WATER.SEE DOCTOR IF BURNS
+    DEVELOP.EYS: FLUSH WITH LOTS OF WATER FOR 15 MINUTES,HOLD LIDS
+    OPEN.GET IMMEDIATE MEDICAL ATTENTION.INGESTED:DO NOT INDUCE
+    VOMITING.IF CONSCIOUS,GIVE 1-2 GLASSES WATER/MILK.GET IMMEDIATE
+    MEDICAL HELP.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:WATER MIST OR SPRAY
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE GEAR.
+Unusual Fire/Explosion Hazard:MAY EMIT TOXIC FUMES; MAY REACT
+    EXPLOSIVELY WITH OXIDIZABLE MATERIALS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DILUTE WITH EXCESS WATER, NEUTRALIZE WITH SODA
+    ASH TO BETWEEN A PH OF 6-9 AND FLUSH TO DRAIN WITH EXCESS OF WATER.
+    ANY DISCHARGE MUST BE IN ACCORDANCE WITH LOCAL, STATE AND FEDERAL
+    REGULATIONS.
+Neutralizing Agent:SODA ASH OR 20% SODIUM BICARBONATE SOLUTION.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE AWAY FROM
+    COMBUSTIBLE MATERIALS, STRONG ALKALIS AND OTHER INCOMPATIBLE
+    MATERILAS.
+Other Precautions:DO NOT BREATH MIST OR VAPOR. AVOID CONTACT WITH EYES,
+    SKIN AND CLOTHING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF ENGINEERING CONTRAOL FAIL OR NON-ROUTINE USE
+    OR EMERGENCY OCCURS; USE NIOSH/MSHA APPROVED RESPIRATOR OR SUPPLIED
+    AIR RESPIRATOR OR SCBA, AS REQUIRED. USE IAW 29 CFR 1910.134.
+Ventilation:USE LOCAL EXHAUST OR FUME HOOD TO MAINTAIN EXPOSURE BELOW
+    REGULATORY LIMITS.
+Protective Gloves:NEOPRENE ELBOW LENGTH GLOVES
+Eye Protection:SAFETY GLASSES/CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:NEOPRENE BOOTS, APRON, EYE WASH STATION &
+    SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS AFTER USE AND BEFORE EATING,
+    DRINKING, OR SMOKING. LAUNDER CONTAMINATED CLOTHES BEFORE REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:D4
+Boiling Pt:B.P. Text:252F,122C
+Melt/Freeze Pt:M.P/F.P Text:-29F,-34C
+Vapor Pres:62 MM HG
+Vapor Density:2-3(AIR=1)
+Spec Gravity:1.41 (WATER=1)
+pH:<0.5
+Solubility in Water:APPRECIABLE
+Appearance and Odor:COLORLESS TO YELLOW LIQUID; CHOKING ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ALKALIS, METALLIC POWDERS, CARBIDES, HYDROGEN SULFIDE,
+    TURPENTINE, ORGANIC ACIDS, COMBUSTIBLE/OXIDIZABLE MATERIAL
+Stability Condition to Avoid:CONTACT WITH WATER OR MOISTURE, CONTACT
+    WITH OTHER INCOMPATIBLES.
+Hazardous Decomposition Products:NITROGEN OXIDES, HYDROGEN NITRATE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL REGULATIONS. EPA WASTE NUMBER D002 MAY APPLY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

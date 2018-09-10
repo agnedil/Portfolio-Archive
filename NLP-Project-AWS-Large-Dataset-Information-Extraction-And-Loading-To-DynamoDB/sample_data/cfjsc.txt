@@ -1,0 +1,139 @@
+FORMAX MANUFACTURING CORPORATION -- 85150-00-184-5827 TRIPOLI BUFFING COMPOUND  -- 5350-00-184-5827
+<pre>=====================  Product Identification  =====================
+
+Product ID:85150-00-184-5827 TRIPOLI BUFFING COMPOUND
+MSDS Date:11/18/1993
+FSC:5350
+NIIN:00-184-5827
+MSDS Number: CFJSC
+=== Responsible Party ===
+Company Name:FORMAX MANUFACTURING CORPORATION
+Address:5176 BELLEVUE STREET
+City:DETROIT
+State:MI
+ZIP:48207
+Country:US
+Info Phone Num:800-424-9300 (CHEMTREC)
+Emergency Phone Num:800-424-9300 (CHEMTREC)
+CAGE:84563
+=== Contractor Identification ===
+Company Name:COMPOSITION MATERIALS CO INC
+Address:1375 KINGS HIGHWAY EAST
+Box:City:FAIRFIELD
+State:CT
+ZIP:06430
+Country:US
+Phone:203-384-6111
+CAGE:98231
+Company Name:FORMAX MANUFACTURING CORP
+Address:3178 BELLEVUE
+Box:City:DETROIT
+State:MI
+ZIP:48207
+Country:US
+Phone:313-921-7030
+CAGE:84563
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TRIPOLI ABRASIVE
+CAS:1317-95-9
+RTECS #:VV7336000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:0.1 MG/M3
+ACGIH TLV:0.1 MG/M3 RDUST
+
+Ingred Name:HYDROGENATED TALLOWS (FATTY ACIDS)
+CAS:68062-64-4
+Fraction by Wt: 17.0%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:PETROLEUM OIL
+CAS:70592-78-8
+Fraction by Wt: 5-7%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:SURFACTANT(AMINES
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL: COUGHING, SHORTNESS OF BREATH.
+    SKIN: IRRITATION. EYE: IRRITATION. CHRONIC: MAY AFFECT BREATHING
+    CAPACITY. DISABLING PULMONARY FIBROSIS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL: REMOVE TO FRESH AIR. GIVE ARTIFICIAL RESP IF NEEDED.
+    GET MED AID. INGEST: GET MED AID. SKIN: GET MED AID. EYE: WASH
+    W/LARGE AMOUNTS OF WATER, GET MED AID.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:>400F,>204C
+Lower Limits:NA
+Upper Limits:NA
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM.
+Fire Fighting Procedures:TREAT AS OIL FIRE.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP INTO CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:HANDLE W/ADEQUATE VENT FOR NUISSANCE
+    DUST.
+Other Precautions:KEEP FROM FREEZING. STORE AWAY FROM EXCESSIVE HEAT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR FOR PARTICULATES
+    FROM BUFFING DEBRIS.
+Ventilation:LOCAL EXHAUST: GENERAL ROOM VENTILATION. MECHANICAL
+    (GENERAL) RECOMMENDED.
+Protective Gloves:AS DESIRED.
+Eye Protection:SAFETY GLASSES.
+Other Protective Equipment:PROTECTIVE WORK CLOTHES, BODY APRON, SAFETY
+    SHOES OR OTHER AS NEEDED. HEARING PROTECTION.
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>200F,>93C
+Vapor Pres:NA
+Vapor Density:NA
+Spec Gravity:1.8
+Evaporation Rate &amp; Reference:NA
+Solubility in Water:NILL
+Appearance and Odor:HARD CAKE, BLAND ODOR.
+Percent Volatiles by Volume:0.0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS OR REDUCING AGENTS.
+Stability Condition to Avoid:NA
+Hazardous Decomposition Products:HYDROCARBONS, SMOKE, CO2, CO.
+Conditions to Avoid Polymerization:USING W/OUT SUFFICIENT DUST
+    COLLECTING SYSTEM.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE OR DISPOSE IN ACCORDANCE
+    W/FEDERAL/STATE/LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

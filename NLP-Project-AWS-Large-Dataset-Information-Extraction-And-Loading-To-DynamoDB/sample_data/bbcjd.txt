@@ -1,0 +1,121 @@
+HACH CHEMICAL COMPANY -- ALIZARIN YELLOW R,INDICATOR SOLUTION,3G2  -- 6810-00D000123
+<pre>=====================  Product Identification  =====================
+
+Product ID:ALIZARIN YELLOW R,INDICATOR SOLUTION,3G2
+MSDS Date:01/01/1985
+FSC:6810
+NIIN:00D000123
+MSDS Number: BBCJD
+=== Responsible Party ===
+Company Name:HACH CHEMICAL COMPANY
+Address:100 DAYTON RD.
+Box:907
+City:AMES
+State:IA
+ZIP:50010-6402
+Country:US
+Info Phone Num:800-227-4224
+Emergency Phone Num:515-232-2533
+CAGE:4T252
+=== Contractor Identification ===
+Company Name:HACH CO
+Address:5600 LINDBERGH DR
+Box:389
+City:LOVELAND
+State:CO
+ZIP:80539
+Country:US
+Phone:970-669-3050/ 303-623-5716
+CAGE:91224
+Company Name:HACH COMPANY
+Address:100 DAYTON RD.
+Box:907
+City:AMES
+State:IA
+ZIP:50010
+Country:US
+Phone:800-227-4224
+CAGE:4T252
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ALIZARIN YELLOW R
+CAS:2243-76-7
+RTECS #:VO5310000
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:SKIN:DERMATITIS;EYES:CONJUNCTIVITIS;ACUTE ORAL
+    TOXICITY:OPTIC NEURITIS & ATROPHY;INHAL:IRRIT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHAL:MOVE TO FRESH AIR.SKIN:WASH W/SOAP & WATER.EYES:FLUSH
+    W/WATER.INGEST:GIVE PLENTY OF WATER.GIVE ETHYL ALCOHOL 50%(100
+    PROOF)0.75 ML/RG. INITIALLY FOLLOWED BY 0.50 ML/KG PER 4 HR FOR 4
+    DAYS.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:60 F OC.
+Extinguishing Media:CO*2,FOAM,OR DRY CHEMICALS.
+Fire Fighting Procedures:WATER MAY BE INEFFECTIVE ON METHANOL FIRES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGNITION SOURCES;FLUSH WITH
+    WATER,ABSORB WITH APPROPRIATE MATERIAL & PLACE IN APPROVED
+    CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROTECT AGAINST PHYSICAL DAMAGE.KEEP
+    TIGHTLY CLOSED IN COOL,WELL-VENTILATED PLACE.SEPARATE FROM
+    OXIDIZABLE & CORROSIVE MATERIALS.
+Other Precautions:AVOID INGESTION,INHAL.OF VAPOR,& SKIN/EYE CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:AS REQUIRED BY NATURE OF WORK FOR USE OF
+    MATERIAL
+Ventilation:LOCAL EXHAUST RECOMMENDED
+Protective Gloves:RECOMMENDED
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:AS DICTATED BY WORK CONDITIONS.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:148 F
+Spec Gravity:0.9
+Solubility in Water:SOLUBLE
+Appearance and Odor:ORANGE-RED SOLUTION W/SLIGHT ALCOHOL ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+CORROSIVES,OXIDIZERS
+Stability Condition to Avoid:SOURCES OF IGNITION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:OBSERVE APPROPRIATE FEDERAL,STATE,AND LOCAL
+    DISPOSAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

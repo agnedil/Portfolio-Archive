@@ -1,0 +1,171 @@
+LECO CORP -- LECOSET 7007, LIQUID, 813-091  -- 6810-00N069690
+<pre>=====================  Product Identification  =====================
+
+Product ID:LECOSET 7007, LIQUID, 813-091
+MSDS Date:08/01/1995
+FSC:6810
+NIIN:00N069690
+MSDS Number: CBKSB
+=== Responsible Party ===
+Company Name:LECO CORP
+Address:3000 LAKEVIEW
+City:ST JOSEPH
+State:MI
+ZIP:49085
+Country:US
+Info Phone Num:616-983-5531
+Emergency Phone Num:800-424-9300(CHEMTREC)
+Preparer's Name:DUANE OSTENSON
+CAGE:94174
+=== Contractor Identification ===
+Company Name:LECO CORPORATION
+Address:3000 LAKEVIEW AVE.
+Box:City:ST JOSEPH
+State:MI
+ZIP:49085-2396
+Country:US
+Phone:616-983-5531
+CAGE:94174
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHACRYLIC ACID, METHYL ESTER; (METHYL METHACRYLATE) (SARA
+    313) (CERCLA) LD50(ORAL,RAT):7872 MG/KG
+CAS:80-62-6
+RTECS #:OZ5075000
+Fraction by Wt: 94-96%
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHACRYLATE; (1,4-BUTANEDIOLDI-METHACRYLATE)
+CAS:2082-81-7
+Fraction by Wt: 3%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:PHOSPHOROUS ACID, TRIS(1-METHYLETHYL)ESTER); (PHOSPHOROUS
+    ACID TRIISOPROPYLESTER)
+CAS:116-17-6
+RTECS #:TH2800000
+Fraction by Wt: 0.8%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:P-TOLUIDINE, N,N-DIMETHYL-; (N,N-DIMETHYL-P-TOLUIDINE)
+CAS:99-97-8
+RTECS #:XU5803000
+Fraction by Wt: 0.7%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:SEE INGREDIENT 1
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE:PROLONGED EXPOSURE CAN CAUSE
+    NARCOTIC EFFECT. EYES:VAPOR OR MIST IS IRRITATING. SKIN:HARMFUL IF
+    ABSORBED. INHALATION:HARMFUL. VAPOR OR MIST IS IRRITATING TO MUCOUS
+    MEMBRANES AND UPPER RESPIRATOR Y TRACT. SYMPTOMS OF EXPOSURE MAY
+    INCLUDE BURNING SENSATION, COUGHING, WHEEZING, LARYNGITIS,
+    SHORTNESS (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:HLTH HAZS:OF BREATH, HEADACHE, NAUSEA AND
+    VOMITING. INGESTION:HARMFUL. CHRONIC:NOT AVAILABLE.
+Medical Cond Aggravated by Exposure:MAY CAUSE ALLERGIC RESPIRATORY AND
+    SKIN REACTIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:RINSE IMMED W/OPENED LID FOR @ LST 15 MIN W/PLENTY OF
+    RUNNING WATER & SEEK MED ADVICE. SKIN:IMMED TAKE OF ALL CONTAM
+    CLTHG & WASH SKIN W/PLENTY OF WATER. AFTER CONT, WASH IMMED
+    W/POLYETHYLENE GLY COL 300/ETHYL ALCOHOL 2:1 & RINSE W/PLENTY OF
+    SOAP & WATER. INHAL:REMOVE TO FRESH AIR. IF NOT BRTHG, GIVE ARTF
+    RESP. IF BRTHG IS DFCLT, GIVE OXYG. INGEST:WASH OUT MOUTH W/WATER
+    PROVIDED PERS (SUP DAT)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:50.0F,10.0C
+Lower Limits:SUPP DATA
+Upper Limits:SUPP DATA
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL POWDER, ALCOHOL OR
+    POLYMER FOAM.
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT . USE WATER SPRAY TO COOL FIRE-EXPOSED
+    CONTAINERS.
+Unusual Fire/Explosion Hazard:FLAM LIQ. VAP MAY TRAVEL CONSIDERABLE
+    DIST TO SOURCE OF IGNIT & FLASH BACK. MAY UNDERGO POLYMERIZATION.
+    CNTNR EXPLO MAY OCCUR UNDER FIRE CNDTNS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:EVACUATE AREA. SHUT OFF ALL IGNIT SOURCES.
+    WEAR NIOSH/MSHA APPRVD SCBA, RUB BOOTS & HVY RUB GLOVES. COVER
+    W/ACTIVATED CARBON ABSORB, TAKE UP & PLACE IN CLSD CNTNRS.
+    TRANSPORT OUTDOORS. VENT AREA & WAS H SITE AFTER MATL PICKUP IS
+    COMPLETE. (SUPDAT)
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:FILL ONLY 80% OF THE CONTAINER.
+    MAINTAIN WELL-VENT WORKING PLACE AND/OR EXHAUST FILTER. DO NOT
+    BREATHE VAPORS. DO NOT GET IN EYES, ON SKIN/ON CLTHG.
+Other Precautions:AVOID PROLONGED OR REPEATED EXPOSURE. CORROSIVE,
+    LACHRYMATOR, SENSITIZER. IT IS ADVISABLE TO USE MATERIAL WITHIN 6
+    MONTHS. KEEP CONTAINER CLOSED. KEEP AWAY FROM HEAT, SPARKS AND OPEN
+    FLAME. REFRIGERAT E. DO NOT STORE UNDER INERT ATM.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPROVED RESPIRATOR.
+Ventilation:USE ONLY IN A CHEMICAL FUME HOOD.
+Protective Gloves:WEAR HEAVY RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEM WORKERS GOGGS(SUPDAT)
+Other Protective Equipment:ANSI APPROVED EMERGENCY EYE WASH AND DELUGE
+    SHOWER .
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+VP:40 MBAR @ 68F(20C), 64 MBAR @ 86F(30C), 0.5 MPAS @ 104F(40C).
+    LEL:2.1% (% BY VOL IN AIR, 77F(25C),1011 MBAR) UEL:12.5% (% BY VOL
+    IN AIR, 77F(25C), 1011 MBAR). FIRST AID PROC:IS CONSCIOUS. CALL MD.
+     SPILL PROC:DO NOT EMPTY INTO WATERS ANDDRAINS. EYE PROT:AND FULL
+    LENGTH FACE SHIELD .
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F,100C
+Melt/Freeze Pt:M.P/F.P Text:-55F,-48C
+Vapor Pres:SUPP DATA
+Spec Gravity:0.936
+Solubility in Water:SLIGHTLY SOLUBLE
+Appearance and Odor:YELLOWISH LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING AGENTS, PEROXIDES, BASES, ACIDS, REDUCING AGENTS, AMINES,
+    HALOGENS, HEAT. MAY POLYMERIZE ON EXPOS TO LIGHT.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:TOXIC FUMES OF CARBON MONOXIDE, CARBON
+    DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURN IN A CHEMICAL INCINERATOR EQUIPPED WITH AN
+    AFTERBURNER AND SCRUBBER BUT EXERT EXTRA CARE IN IGNITING AS THIS
+    MATERIAL IS HIGHLY FLAMMABLE. OBSERVE ALL FEDERAL, STATE AND LOCAL
+    LAWS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.
