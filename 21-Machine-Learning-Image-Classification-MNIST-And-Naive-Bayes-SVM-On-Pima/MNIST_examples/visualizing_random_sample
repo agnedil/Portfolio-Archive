@@ -1,0 +1,1 @@
+plt.imshow(np.reshape(train[random.randint(1,1000)], [28,28]), cmap='Greys_r'); plt.title('Visualizing a random sample'); plt.show()

@@ -1,0 +1,230 @@
+reflect seismolog 
+wikipedium free encyclopedium jump navig search thi articl may confus unclear reader 
+octob learn remov thi templat messag seismic reflect datum 
+reflect seismolog seismic reflect method explor geophys use principl seismolog estim properti earth subsurfac reflect seismic wave 
+method requir control seismic sourc energi dynamit tovex blast special air gun seismic vibrat common known trademark name vibrosei 
+reflect seismolog similar sonar echoloc 
+thi articl surfac seismic survey vertic seismic profil see vsp 
+seismic reflect outlin 
+content 
+histori environment impact land marin outlin method reflect experi reflect transmiss normal incid reflect transmiss non normal incid interpret reflect sourc nois air wave ground roll rayleigh wave scholt wave surfac wave refract head wave conic wave multipl reflect cultur nois applic hydrocarbon explor land survey acquisit marin survey acquisit streamer marin survey acquisit ocean bottom seismic ob time laps acquisit seismic datum process seismic interpret seismic attribut analysi crustal studi see also read refer extern link 
+histori 
+seismic test 
+reflect refract seismic wave geolog interfac within earth first observ record earthquak generat seismic wave 
+basic model earth deep interior base observ earthquak generat seismic wave transmit earth interior eg mohorovic use human generat seismic wave map detail geolog upper kilomet earth crust follow short thereaft ha develop main due commerci enterpris particular petroleum industri 
+seismic reflect explor grew seismic refract explor method wa use find oil associ salt dome ludger mintrop german mine surveyor devis mechan seismograph success use detect salt dome germani 
+appli german patent wa issu 
+found compani seismo wa hire conduct seismic explor texa mexico result first commerci discoveri oil use refract seismic method discoveri orchard salt dome texa led boom seismic refract explor along gulf coast method led discoveri shallow gulf coast salt dome refract seismic method fade 
+canadian inventor reginald fessenden wa first conceiv use reflect seismic wave infer geolog 
+hi work wa initi propag acoust wave water motiv sink titan iceberg 
+also work method detect submarin dure world war appli first patent seismic explor method wa issu 
+due war wa unabl follow idea 
+john clarenc karcher discov seismic reflect independ work unit state bureau standard nation institut standard technolog method sound rang detect artilleri 
+discuss colleagu idea develop reflect could aid explor petroleum 
+sever mani affili univers oklahoma karcher help form geolog engin compani incorpor oklahoma april 
+first field test conduct near oklahoma citi oklahoma 
+earli reflect seismolog wa view skeptic mani oil industri 
+earli advoc method comment 
+one person tri introduc method general consult practic senior writer definit recal mani time reflect even consid par divin rod least devic background tradit 
+geolog engin compani fold due drop price oil 
+oil price rebound karcher help form geophys research corpor grc part oil compani amerada 
+karcher left grc help found geophys servic incorpor gsi 
+gsi wa one success seismic contract compani year wa parent even success compani texa instrument 
+earli gsi employe henri salvatorus left compani found anoth major seismic contractor western geophys 
+mani compani use reflect seismolog hydrocarbon explor hydrolog engin studi applic form sinc method wa first invent 
+major servic compani today includ cgg ion geophys petroleum geo servic polarcu tg westerngeco 
+major oil compani also activ conduct research seismic method well collect process seismic datum use personnel technolog 
+reflect seismolog ha also found applic non commerci research academ govern scientist around world 
+environment impact 
+human activ seismic reflect survey may impact earth natur environ hydrocarbon industri environment group partak research investig effect 
+land 
+land conduct seismic survey may requir build road transport equip personnel veget may need clear deploy equip 
+survey relat undevelop area signific habitat disturb may occur mani govern requir seismic compani follow strict rule regard destruct environ exampl use dynamit seismic sourc may disallow 
+seismic process techniqu allow seismic line deviat around natur obstacl use pre exist non straight track trail 
+care plan thi great reduc environment impact land seismic survey 
+recent use inerti navig instrument land survey instead theodolit decreas impact seismic allow wind survey line tree 
+marin 
+main environment concern marin seismic survey potenti nois associ high energi seismic sourc disturb injur anim life especi cetacean whale porpois dolphin mammal use sound primari method communic one anoth high level long durat sound caus physic damag hear los wherea lower level nois caus temporari threshold shift hear obscur sound vital marin life behaviour disturb 
+studi ha shown migrat humpback whale leav minimum km gap themself oper seismic vessel rest humpback whale pod cow exhibit increas sensit leav increas gap km 
+convers studi found male humpback whale attract singl oper airgun believ confus low frequenc sound whale breach behavimi 
+addit whale sea turtl fish squid show alarm avoid behavimi presenc approach seismic sourc 
+difficult compar report effect seismic survey nois marin life becaus method unit often inadequ document 
+gray whale avoid regular migratori feed ground km area seismic testingcit need similar breath gray whale wa shown rapid indic discomfort panic whale 
+circumstanti evid thi ha led research believ avoid panic might respons increas whale beach although research ongo question 
+offer anoth point view joint paper intern associ geophys contractor iagc intern associ oil gas produc ogp argu nois creat marin seismic survey compar natur sourc seismic nois state 
+sound produc dure seismic survey compar magnitud mani natur occur man made sound sourc 
+furthermor specif characterist seismic sound oper procedur employ dure seismic survey result risk marin mammal expect except low 
+fact three decad world wide seismic survey activ varieti research project shown evid would suggest sound ep seismic activ ha result ani physic auditori injuri ani marin mammal speci 
+outlin method 
+thi section cite ani sourc 
+pleas help improv thi section ad citat reliabl sourc 
+unsourc materi may challeng remov 
+decemb learn remov thi templat messag 
+seismic wave mechan perturb travel earth speed govern acoust imped medium travel 
+acoust seismic imped defin equat 
+seismic wave veloc greek rho densiti rock 
+seismic wave travel earth encount interfac two materi differ acoust imped wave energi reflect interfac refract interfac 
+basic seismic reflect techniqu consist generat seismic wave measur time taken wave travel sourc reflect interfac detect array receiv geophon surfac know travel time sourc variou receiv veloc seismic wave geophysicist attempt reconstruct pathway wave order build imag subsurfac 
+common geophys method reflect seismolog may seen type invers problem 
+given set datum collect experiment physic law appli experi experiment wish develop abstract model physic system studi 
+case reflect seismolog experiment datum record seismogram desir result model structur physic properti earth crust 
+common type invers problem result obtain reflect seismolog usual uniqu one model adequ fit datum may sensit relat small error datum collect process analysi 
+reason great care must taken interpret result reflect seismic survey 
+reflect experi 
+general principl seismic reflect send elast wave use energi sourc dynamit explos vibrosei earth layer within earth reflect portion wave energi back allow rest refract 
+reflect energi wave record predetermin time period call record length receiv detect motion ground place 
+land typic receiv use small portabl instrument known geophon convert ground motion analogu electr signal 
+water hydrophon use convert pressur chang electr signal 
+receiv respons singl shot known trace record onto datum storag devic shot locat move along proce repeat 
+typic record signal subject signific amount signal process befor readi interpret thi area signific activ research within industri academium 
+general complex geolog area studi sophist techniqu requir remov nois increas resolut 
+modern seismic reflect survey contain larg amount datum requir larg amount comput process often perform supercomput comput clusterscit need 
+reflect transmiss normal incid 
+wave reflect interfac normal incid 
+seismic wave encount boundari two materi differ acoust imped energi wave reflect boundari energi transmit boundari 
+amplitud reflect wave predict multipli amplitud incid wave seismic reflect coeffici determin imped contrast two materi 
+wave hit boundari normal incid head express reflect coeffici simpli 
+
+similar amplitud incid wave multipli transmiss coeffici predict amplitud wave transmit boundari 
+formula normal incid transmiss coeffici 
+sum squar amplitud reflect transmit wave ha equal squar amplitud incid wave easi show observ chang strength reflector seismologist infer chang seismic imped 
+turn use thi inform infer chang properti rock interfac densiti elast moduluscit need 
+reflect transmiss non normal incid 
+diagram show mode convers occur wave reflect interfac non normal incid 
+situat becom much complic case non normal incid due mode convers wave wave describ zoeppritz equat 
+karl zoeppritz deriv equat determin amplitud reflect refract wave planar interfac incid wave function angl incid six independ elast paramet equat unknown solv give intuit understand reflect amplitud vari rock properti involv 
+reflect transmiss coeffici govern amplitud reflect vari angl incid use obtain inform among mani thing fluid content rock 
+practic use non normal incid phenomena known avo see amplitud versu offset ha facilit theoret work deriv workabl approxim zoeppritz equat advanc comput process capac 
+avo studi attempt succ predict fluid content oil gas water potenti reservoir lower risk drill unproduct well identifi new petroleum reservoir 
+term simplif zoeppritz equat common use wa develop known shuey equat 
+term simplif known shuey approxim valid angl incid les degre usual case seismic survey given 
+interpret reflect 
+time take reflect particular boundari arriv geophon call travel time 
+seismic wave veloc rock known travel time may use estim depth reflector 
+simpl vertic travel wave travel time surfac reflector back call two way time twt given formula 
+wave veloc rock 
+seri appar relat reflect sever seismogram often refer reflect event 
+correl reflect event seismologist creat estim cros section geolog structur generat reflect 
+interpret larg survey usual perform program use high end three dimension comput graphic 
+sourc nois 
+sourc nois seismic record 
+top left air wave top right head wave bottom left surfac wave bottom right multipl 
+addit reflect interfac within subsufac number seismic respons detect receiv either unwant unneed 
+air wave 
+airwav travel direct sourc receiv exampl coher nois 
+easili recogniz becaus travel speed speed sound air 
+ground roll rayleigh wave scholt wave surfac wave 
+rayleigh wave typic propag along free surfac solid elast constant densiti air veri low compar rock surfac earth approxim free surfac 
+low veloc low frequenc high amplitud rayleigh wave frequent present seismic record obscur signal degrad overal datum qualiti 
+known within industri ground roll exampl coher nois attenu care design seismic survey scholt wave similar ground roll occur sea floor fluidsolid interfac possibl obscur mask deep reflect marin seismic record veloc wave vari wavelength said dispers shape wavetrain vari distanc 
+refract head wave conic wave 
+head wave refract interfac travel along within lower medium produc oscillatori motion parallel interfac 
+thi motion caus disturb upper medium detect surfac phenomenon utilis seismic refract 
+multipl reflect 
+event seismic record ha incur one reflect call multipl 
+multipl either short path peg leg long path depend upon whether interfer primari reflect 
+multipl bottom bodi water interfac base water rock sediment beneath air water interfac common marin seismic datum suppress seismic process 
+cultur nois 
+cultur nois includ nois weather effect plane helicopt electr pylon ship case marin survey detect receiv 
+applic 
+reflect seismolog use extens number field applic categoris three group defin depth investig near surfac applic applic aim understand geolog depth approxim km typic use engin environment survey well coal miner explor recent develop applic seismic reflect geotherm energi survey although depth investig km deep thi case hydrocarbon explor use hydrocarbon industri provid high resolut map acoust imped contrast depth km within subsurfac 
+thi combin seismic attribut analysi explor geophys tool use help geologist build geolog model area interest 
+crustal studi investig structur origin earth crust moho discontinu beyond depth km 
+method similar reflect seismolog use electromagnet instead elast wave ha smaller depth penetr known ground penetr radar gpr 
+hydrocarbon explor 
+reflect seismolog common refer seismic reflect abbrevi seismic within hydrocarbon industri use petroleum geologist geophysicist map interpret potenti petroleum reservoir 
+size scale seismic survey ha increas alongsid signific concurr increas comput power dure last year 
+thi ha led seismic industri labori therefor rare acquir small survey routin acquir larg scale high resolut survey 
+goal basic principl remain method slight chang year 
+primari environ seismic explor land transit zone marin 
+land land environ cover almost everi type terrain exist earth bring logist problem 
+exampl thi environ jungl desert arctic tundra forest urban set mountain region savannah 
+transit zone tz transit zone consid area land meet sea present uniqu challeng becaus water shallow larg seismic vessel deep use tradit method acquisit land 
+exampl thi environ river delta swamp marsh coral reef beach tidal area surf zone 
+transit zone seismic crew often work land transit zone shallow water marin environ singl project order obtain complet map subsurfac 
+diagram equip use marin seismic survey 
+marin marin zone either shallow water area water depth les metr would normal consid shallow water area marin seismic oper deep water area normal associ sea ocean gulf mexico 
+seismic survey typic design nation oil compani intern oil compani hire servic compani cgg petroleum geo servic westerngeco acquir 
+anoth compani hire proce datum although thi often compani acquir survey 
+final finish seismic volum deliv oil compani geolog interpret 
+land survey acquisit 
+see also vibrosei desert land seismic camp receiv line desert land crew record truck 
+land seismic survey tend larg entiti requir hundr ton equip employ anywher hundr thousand person deploy vast area mani month number option avail control seismic sourc land survey particular common choic vibrosei dynamit 
+vibrosei non impuls sourc cheap effici requir flat ground oper make use difficult undevelop area 
+method compris one heavi terrain vehicl lower steel plate onto ground vibrat specif frequenc distribut amplitud produc low energi densiti allow use citi built area dynamit would caus signific damag though larg weight attach vibrosei truck caus environment damag dynamit impuls sourc regard ideal geophys sourc due produc almost perfect impuls function ha obviou environment drawback 
+long time wa onli seismic sourc avail weight drop wa introduc around allow geophysicist make trade imag qualiti environment damag 
+compar vibrosei dynamit also oper ineffici becaus sourc point need drill dynamit place hole 
+land seismic survey requir substanti logist support 
+addit day day seismic oper must also support main camp cater wast manag laundri etc smaller camp exampl distanc far drive back main camp vibrat truck vehicl equip mainten medic personnel secur 
+unlik marin seismic survey land geometri limit narrow path acquisit mean wide rang offset azimuth usual acquir largest challeng increas rate acquisit 
+rate product obvious control fast sourc vibrosei thi case fire move next sourc locat 
+attempt made use multipl seismic sourc time order increas survey effici success exampl thi techniqu independ simultaneou sweep iss 
+marin survey acquisit streamer 
+marin seismic survey use tow streamer plan view nat maz survey plan view watswaz survey seismic datum collect usg gulf mexico 
+tradit marin seismic survey conduct use special equip vessel tow one cabl contain seri hydrophon constant interv see diagram 
+cabl known streamer survey use onli streamer survey employ though common 
+streamer deploy beneath surfac water set distanc away vessel 
+seismic sourc usual airgun array airgun sourc avail also deploy beneath water surfac locat vessel first receiv 
+two ident sourc often use achiev faster rate shoot 
+marin seismic survey generat signific quantiti datum streamer even km long contain hundr channel seismic sourc typic fire everi second 
+seismic vessel sourc tow singl streamer known narrow azimuth tow streamer naz nat 
+earli wa accept thi type acquisit wa use initi explor inadequ develop product well accur posit 
+thi led develop multus azimuth tow streamer maz tri break limit linear acquisit pattern nat survey acquir combin nat survey differ azimuth see diagram thi success deliv increas illumin subsurfac better signal nois ratio 
+seismic properti salt pose addit problem marin seismic survey attenu seismic wave structur contain overhang difficult imag 
+thi led anoth variat nat survey type wide azimuth tow streamer waz wat wa first test mad dog field thi type survey involv vessel sole tow set streamer separ vessel tow seismic sourc locat start end last receiv line see diagram 
+thi configur wa tile time receiv vessel move away sourc vessel time eventu creat effect survey time number streamer 
+end result wa seismic dataset larger rang wider azimuth deliv breakthrough seismic imag three common type marin tow streamer seismic survey 
+marin survey acquisit ocean bottom seismic ob 
+marin survey acquisit limit seismic vessel also possibl lay cabl geophon hydrophon sea bed similar way cabl use land seismic survey use separ sourc vessel 
+thi method wa origin develop oper necess order enabl seismic survey conduct area obstruct product platform without compromis result imag qualiti ocean bottom cabl obc also extens use area seismic vessel cannot use exampl shallow marin water depth transit zone environ deploy rov deep water repeat valu see 
+convent obc survey use dual compon receiv combin pressur sensor hydrophon vertic particl veloc sensor vertic geophon recent develop expand method use fmi compon sensor ie hydrophon three orthogon geophon 
+fmi compon sensor advantag abl also record shear wave travel water still contain valuabl inform 
+addit oper advantag obc also ha geophys advantag convent nat survey aris increas fold wider rang azimuth associ survey geometri howev much like land survey wider azimuth increas fold come cost abil larg scale obc survey sever limit 
+ocean bottom node obn extens obc method use batteri power cablel receiv place deep water wa first triall atlanti oil field partnership bp fairfield industri placement node flexibl cabl obc easier store deploy due smaller size lower weight 
+time laps acquisit 
+time laps survey seismic survey repeat period time 
+refer fourth dimens thi case time 
+time laps survey acquir order observ reservoir chang dure product identifi area barrier flow may detect convent seismic 
+time laps survey consist baselin survey monitor repeat survey acquir field wa product 
+survey repeat nat survey cheaper acquir field histor alreadi nat baselin survey 
+survey collect use ocean bottom cabl becaus cabl accur place previou locat remov 
+better repetit exact sourc receiv locat lead improv repeat better signal nois ratio 
+number survey also set field ocean bottom cabl purchas perman deploy 
+thi method known life field seismic lof perman reservoir monitor prm 
+obn ha proven anoth veri good way accur repeat seismic acquisit 
+world first survey use node wa acquir atlanti oil field node place rov water depth within meter previous place 
+seismic datum process 
+see also deconvolut seismic migrat multidimension seismic datum process 
+three main process seismic datum process deconvolut common midpoint cmp stack migrat 
+deconvolut proce tri extract reflect seri earth assumpt seismic trace reflect seri earth convolv distort filter thi proce improv tempor resolut collaps seismic wavelet nonuniqu unl inform avail well log assumpt made 
+deconvolut oper cascad individu deconvolut design remov particular type distort 
+cmp stack robust proce use fact particular locat subsurfac sampl numerou time differ offset 
+thi allow geophysicist construct group trace rang offset sampl subsurfac locat known common midpoint gather averag amplitud calcul along time sampl result signific lower random nois also lose valuabl inform relationship seismic amplitud offset 
+les signific process appli short befor cmp stack normal moveout correct static correct 
+unlik marin seismic datum land seismic datum ha correct elev differ shot receiv locat 
+thi correct form vertic time shift flat datum known static correct need correct later process sequenc becaus veloc near surfac accur known 
+thi correct known residu static correct 
+seismic migrat proce seismic event geometr locat either space time locat event occur subsurfac rather locat wa record surfac therebi creat accur imag subsurfac 
+seismic interpret 
+see also geolog model 
+goal seismic interpret obtain coher geolog stori map process seismic reflect simpl level seismic interpret involf trace correl along continuou reflector throughout dataset use basi geolog interpret 
+aim thi produc structur map reflect spatial variat depth certain geolog layer 
+use map hydrocarbon trap identifi model subsurfac creat allow volum calcul made 
+howev seismic dataset rare gife pictur clear enough thi 
+thi main becaus vertic horizont seismic resolut often nois process difficulti also result lower qualiti pictur 
+due thi alway degre uncertainti seismic interpret particular dataset could one solut fit datum 
+case datum need constrain solut exampl form seismic acquisit borehol log graviti magnet survey datum 
+similar mental seismic processor seismic interpret general encourag optimist order encourag work rather abandon survey area seismic interpret complet geologist geophysicist seismic interpret understand field 
+hydrocarbon explor featur interpret particular tri delin part make petroleum reservoir sourc rock reservoir rock seal trap 
+seismic attribut analysi 
+see also seismic attribut 
+seismic attribut analysi involf extract deriv quantiti seismic datum analys order enhanc inform might subtl tradit seismic imag lead better geolog geophys interpret datum exampl attribut analys includ mean amplitud lead delin bright spot dim spot coher amplitud versu offset 
+attribut show presenc hydrocarbon call direct hydrocarbon indic 
+crustal studi 
+use reflect seismolog studi tecton earth crust wa pioneer group consortium continent reflect profil cocorp inspir deep seismic explor countri birp great britain ecor franc british institut reflect profil syndic birp wa start result oil hydrocarbon explor north sea 
+becam clear wa lack understand tecton process form geolog structur sedimentari basin explor 
+effort produc signific result show possibl profil featur thrust fault penetr crust upper mantl marin seismic survey 
+see also 
+deconvolut seg popular file format seismic reflect datum depth convers convers acoust wave two way travel time actual depth ligo seismic wave seismic refract swell filter passiv seismic seismic migrat synthet seismogram seismic unix open sourc softwar process seismic reflect datum explor geophys 
+read 
+research reflect seismolog may found particular book journal societi explor geophysicist american geophys union european associ geoscientist engin 

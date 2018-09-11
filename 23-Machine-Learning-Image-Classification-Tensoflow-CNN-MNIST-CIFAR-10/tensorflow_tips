@@ -1,0 +1,22 @@
+installed from here (link from HW9 home):
+https://www.tensorflow.org/install/install_linux#ValidateYourInstallation
+(NOTE LINKS TO 2 ML CRASH COURSES!!!)
+
+Note that you must activate the Virtualenv environment each time you use TensorFlow:
+$ source ~/tensorflow/bin/activate      # bash, sh, ksh, or zsh
+$ source ~/tensorflow/bin/activate.csh  # csh or tcsh
+
+Run TensorFlow programs from this shell. Your prompt will look like this:
+(tensorflow)$ 
+
+When you are done using TensorFlow:
+(tensorflow)$ deactivate 
+The prompt will revert back to your default prompt
+
+tensorboard --logdir=dir
+
+ssh -i "mykp.pem" ec2-user@ec2-52-55-13-26.compute-1.amazonaws.com
+
+https://github.com/agnedil/working2.git
+
+

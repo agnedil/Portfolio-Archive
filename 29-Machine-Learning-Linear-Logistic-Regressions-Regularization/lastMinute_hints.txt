@@ -1,0 +1,35 @@
+https://stats.stackexchange.com/questions/97777/variablity-in-cv-glmnet-results
+lambdas = NULL
+for (i in 1:n)
+{
+    fit <- cv.glmnet(xs,ys)
+    errors = data.frame(fit$lambda,fit$cvm)
+    lambdas <- rbind(lambdas,errors)
+}
+# take mean cvm for each lambda
+lambdas <- aggregate(lambdas[, 2], list(lambdas$fit.lambda), mean)
+
+# select the best one
+bestindex = which(lambdas[2]==min(lambdas[2]))
+bestlambda = lambdas[bestindex,1]
+
+# and now run glmnet once more with it
+fit <- glmnet(xy,ys,lambda=bestlambda)
+
+
+https://www.statmethods.net/stats/regression.html
+cv.lm(df=mydata, fit, m=3)
+Sum the MSE for each fold, divide by the number of observations, and take the square root to get the cross-validated standard error of estimate
+
+https://machinelearningmastery.com/evaluate-machine-learning-algorithms-with-r/
+
+Some good test metrics to use for different problem types include:
+
+Classification:
+
+Accuracy: x correct divided by y total instances. Easy to understand and widely used.
+Kappa: easily understood as accuracy that takes the base distribution of classes into account.
+Regression:
+
+RMSE: root mean squared error. Again, easy to understand and widely used.
+Rsquared: the goodness of fit or coefficient of determination.

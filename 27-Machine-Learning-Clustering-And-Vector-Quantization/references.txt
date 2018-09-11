@@ -1,0 +1,6 @@
+k-means with plotting of results
+https://rpubs.com/gabrielmartos/ClusterAnalysis
+chi-squared distance
+https://stat.ethz.ch/pipermail/r-help/2005-January/063976.html
+hkmeans
+https://www.rdocumentation.org/packages/factoextra/versions/1.0.5/topics/hkmeans

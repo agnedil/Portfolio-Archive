@@ -1,0 +1,3 @@
+hint for loading MINST data - from Martin Thoma at https://martin-thoma.com/classify-mnist-with-pybrain/
+hint for saving nympy array to file - from askewchan at https://stackoverflow.com/questions/22557322/numpy-savetxt-formatted-as-integer-is-not-saving-zeroes
+hints form scipy doc, e.g. https://docs.scipy.org/doc/numpy/reference/generated/numpy.concatenate.html

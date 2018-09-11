@@ -1,0 +1,7 @@
+Python utilities to download and parse the MNIST dataset:
+	https://github.com/datapythonista/mnist
+python-mnist 0.5:
+	https://pypi.python.org/pypi/python-mnist/0.5
+	https://github.com/sorki/python-mnist
+
+You can use OpenCV contours to locate potential digits within your actual image, some of the techniques will depend on the actual data you are working from

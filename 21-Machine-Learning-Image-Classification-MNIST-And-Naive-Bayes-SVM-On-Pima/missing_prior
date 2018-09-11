@@ -1,0 +1,130 @@
+﻿@63
+
+
+Naive Bayes by hand
+I am studying the Naive Bayes implementation provided as the first example of R code in the instructor's website. I am puzzled by this line:
+ 
+  ptrlogs    <- (1/2) * rowSums(apply(ptrscales, c(1,2),
+                function(x) x^2), na.rm = T) - sum(log(ptrsd))
+It seems to be subtracting the sum of logs of standard deviations from the squared normalized features, adding and dividing by two.
+ 
+What is this expected to represent? I would have assumed that ptrlogs would store the log-likelihoods of the subset of the training set where the label is diabetic-positive.
+ 
+I realize that there are errors in the code but if this is the case, I am not sure how useful the sample code is going to be at least for my style of learning.
+
+
+hw1
+
+edit·good question6
+Updated 9 days ago by Paco Cruz
+
+the students' answer,
+where students collectively construct a single answer
+It comes from the log of normal density function:
+sum(log(p(x_i, m, s)) = sum(log(1/sqrt(2*pi*s^2) exp(-(x-m)^2/(2*s^2)))) = const + sum(-log(s) - 1/2(x-m)^2/s^2)
+
+----- Edit by Paco (OP)
+Thank you Olga, I couldn't recognize after all the normalization. I may be wrong, but shouldn't it be:
+sum(log(p(x_i, m, s)) = sum(log(1/sqrt(2*pi*s^2) exp(-(x-m)^2/(2*s^2))))
+= const + sum(-log(s) - 1/2(x-m)^2/s^2)
+= const - sum(log(s)) - 1/2 sum((x-m)^2/s^2)) 
+As follows:
+
+ 
+Edit - Matt
+For anyone who is rusty on their Exponents and Log rules (like me) and is questioning how this was solved, I found these very helpful:
+https://brownmath.com/alge/loglaws.htm
+https://brownmath.com/alge/expolaws.htm
+ 
+
+The likelihood formula p(x|y) refers to the probability density function, not the probability itself.  Therefore, you can just plug the point value there.
+Matthew Bitter 6 days ago 
+So do we log this result again as per the slide or is it already taken care of in the ptrsd Ln?
+
+
+Zachary 4 days ago 
+Do we not need to add another log(p(y)) after calculating the summation?
+
+Jeff Hong 1 day ago 
+shouldn't there be an additional expression for log(p(y)) added to both ptelogs and ntelogs, based on the observed counts of either y=1 or y=0 in ptrlogs and ntrlogs?
+Matthew Weirath 1 day ago 
+This post was EXTREMELY helpful, thank you!
+ 
+And Jeff you are correct about log(p(y)).  The professor has mentioned multiple times there are likely issues with the code on purpose.
+
+@73
+
+Homework Vs Code Fragment
+It looks like that the code fragment listed in the course homepage implements the HW1 Problem 1.  Can I assume the code fragment is bug free and can be used directly(with minor modification)?  The reason I asked is that I think some term are missing in the formula.
+ 
+In particular, I have question in the first code fragment:
+A naive bayes classifier on the Pima indians dataset; I averaged over 10 test train splits, and ignored examples with NA values; mainly interesting for simple code tricks http://luthuli.cs.uiuc.edu/~daf/courses/AML-18/RCodeClassification/pimanbholdout.R
+ 
+I don't see log(p(y)) implemented in the code.  In the text, it said, "The usual way to find a model of p(y) is to count the number of training examples in each class, then divide by the number of classes." .  Why don't we have log(p(y)) in the solution?  i.e. why we don't have log(p(y)) in 
+ptrlogs<--(1/2)*rowSums(apply(ptrscales,c(1, 2), function(x)x^2), na.rm=TRUE)-sum(log(ptrsd))
+The above R code seems to be just log(p(x|y)) (with some constant term dropped)
+ 
+We can't assume p(y=1) = p(y=0) as we actually have a class distribution:
+ 
+Class Value Number of instances
+0 500
+1 268
+ 
+
+
+hw1
+
+edit·good question3
+Updated 7 days ago by Michael Chan
+
+the students' answer,
+where students collectively construct a single answer
+Click to start off the wiki answer
+
+the instructors' answer,
+where instructors collectively construct a single answer
+There are errors in the code. A quote from the website above the code sample: 
+
+"I've cleaned some of these up a bit, but they're not intended to be production code, etc; just to show some R tricks. Among other things, these codes contain known errors! "
+
+thanks!1
+Updated 7 days ago by Chris Benson
+
+followup discussions
+for lingering questions and comments
+Resolved Unresolved
+Hussein Elmessilhy 6 days ago
+Actually I don't know how it is implementing P(x|y), I thought it's implementing Sum over all vals(x^2) - Log(Sum(standard deviation)),
+and x was originally subtracted from the mean. How does this substitutes x value with a pdf of a normal distribution ?
+Keh-Harng Feng 6 days ago It's computing the log likelihood of a normal distribution. In any case you really don't have to do it the same way. You can just compute the density from a Gaussian and then take the log of it.
+Jiarui Sun 6 days ago 
+U can also have a look @63
+Hussein Elmessilhy 6 days ago 
+Thanks a lot!
+Reply to this followup discussion
+Resolved Unresolved
+Matthias 1 hour ago
+As indicated above, in the text on page 18 it says: "The usual way to find a model of p(y) is to count the number of training examples in each class, then divide by the number of classes."
+
+Let's say our 80% training dataset had
+ 
+class N
+0       213
+1       401
+total  614
+ 
+The text implies a
+p(y=0)=213/2=106.2
+and p(y=1) of 401=200.5.
+
+Sorry to say this, but this doesn't make any sense to me: We are talking about a prior probability, by definition we can't have values greater one. 
+
+The following would make more sense, in my opinion
+ 
+"The usual way to find a model of p(y) is to count the number of training examples in each class, then divide by the total number of training examples"
+I.e., p(y=0)=213/614=0.65 and p(y=1)=213/614=0.35
+Feedback is much appreciated :-)
+ 
+Adding to this, could you recommend literature that complements the lecture nodes so that we could re-read concepts from another source?
+ 
+

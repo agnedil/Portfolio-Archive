@@ -1,0 +1,257 @@
+﻿Geophysical survey
+
+
+Contents
+
+     * [7]1 Introduction
+     * [8]2 Types of geophysical survey
+     * [9]3 Geophysical signal detection
+          + [10]3.1 Measurement of Earth’s magnetic fields
+          + [11]3.2 Seismic wave measurement using gravitational wave sensor
+          + [12]3.3 Measurement of seismic waves using atom interferometer
+     * [13]4 Existing approaches in geophysical signal recognition
+          + [14]4.1 3D sampling
+               o [15]4.1.1 Sampling
+               o [16]4.1.2 Analog to digital conversion
+          + [17]4.2 Spectrum analysis
+               o [18]4.2.1 Multi-dimensional Fourier transform
+               o [19]4.2.2 Wavelet transform
+               o [20]4.2.3 Beamforming
+          + [21]4.3 Classical Estimation Theory
+     * [22]5 Applications
+          + [23]5.1 Estimating positions of underground objects
+          + [24]5.2 Array processing for seismographic applications
+          + [25]5.3 Visualization of 3D data
+     * [26]6 References
+
+Introduction[[27]edit]
+
+   Geophysical survey is the systematic collection of [28]geophysical data for spatial studies. Detection and
+   analysis of the geophysical signals forms the core of Geophysical signal processing. The magnetic and
+   gravitational fields emanating from the Earth's interior hold essential information concerning seismic
+   activities and the internal structure. Hence, detection and analysis of the electric and Magnetic fields is
+   very crucial. As the Electromagnetic and gravitational waves are multi-dimensional signals, all the 1-D
+   transformation techniques can be extended for the analysis of these signals as well. Hence this article also
+   discusses multi-dimensional signal processing techniques.
+
+   Geophysical surveys may use a great variety of sensing instruments, and data may be collected from above or
+   below the Earth's surface or from aerial, orbital, or marine platforms. Geophysical surveys have many
+   applications in [29]geology, [30]archaeology, [31]mineral and energy exploration, [32]oceanography, and
+   [33]engineering. Geophysical surveys are used in industry as well as for academic research.
+
+   The sensing instruments such as [34]gravimeter, [35]gravitational wave sensor and [36]magnetometers detect
+   fluctuations in the gravitational and magnetic field. The data collected from a geophysical survey is analysed
+   to draw meaningful conclusions out of that. Analysing the spectral density and the time-frequency localisation
+   of any signal is important in applications such as oil exploration and seismography.
+
+Types of geophysical survey[[37]edit]
+
+   There are many methods and types of instruments used in geophysical surveys. Technologies used for geophysical
+   surveys include:^[38][1]
+    1. [39]Seismic methods, such as [40]reflection seismology, [41]seismic refraction, and [42]seismic tomography.
+    2. [43]Seismoelectrical method
+    3. [44]Geodesy and [45]gravity techniques, including [46]gravimetry and [47]gravity gradiometry.
+    4. [48]Magnetic techniques, including [49]aeromagnetic surveys and [50]magnetometers.
+    5. [51]Electrical techniques, including [52]electrical resistivity tomography, [53]induced polarization,
+       [54]spontaneous potential and marine control source electromagnetic (mCSEM) or EM seabed logging.^[55][2]
+    6. [56]Electromagnetic methods, such as [57]magnetotellurics, [58]ground penetrating radar and
+       [59]transient/time-domain electromagnetics, [60]magnetic resonance sounding (MRS).^[61][3]
+    7. Borehole geophysics, also called [62]well logging.
+    8. [63]Remote sensing techniques, including [64]hyperspectral.
+
+Geophysical signal detection[[65]edit]
+
+   This section deals with the principles behind measurement of geophysical waves. The magnetic and gravitational
+   fields are important components of geo-physical signals. Hence, a brief discussion is important. This section
+   also deals with the equipment used in detecting the magnetic and gravitational waves.
+
+Measurement of Earth’s magnetic fields[[66]edit]
+
+   Magnetometers are used to measure the magnetic fields, magnetic anomalies in the earth. The sensitivity of
+   magnetometers depends upon the requirement. For example, the variations in the geomagnetic fields can be to the
+   order of several aT where 1aT = 10^−18T . In such cases, specialized magnetometers such as the
+   [67]superconducting quantum interference device (SQUID) are used.
+
+   SQUID
+
+   Jim Zimmerman co-developed the rf SQUID (Superconducting QUantum Interference Device) during his tenure at Ford
+   research lab.^[68][4] However, events leading to the invention of SQUID were in fact, serendipitous. John
+   Lambe,^[69][4] during his experiments on Nuclear Magnetic Resonance noticed that the electrical properties of
+   Indium varied due to a change in the magnetic field of the order of few [70]nT. But, Lambe was not able to
+   fully recognise the utility of SQUID.
+
+   SQUIDs have the capability to detect magnetic fields of extremely low magnitude. This is due to the virtue of
+   the [71]Josephson junction. Jim Zimmerman pioneered the development of SQUID by proposing a new approach to
+   making the Josephson junctions. He made use of [72]niobium wires and Niobium ribbons to form two Josephson
+   junctions connected in parallel. The ribbons act as the interruptions to the superconducting current flowing
+   through the wires. The junctions are very sensitive to the magnetic fields and hence are very useful in
+   measuring fields of the order of 10^^-18T.
+
+Seismic wave measurement using gravitational wave sensor[[73]edit]
+
+   Gravitational wave sensors can detect even a minute change in the gravitational fields due to the influence of
+   heavier bodies. Large seismic waves can interfere with the gravitational waves and may cause shifts in the
+   atoms. Hence, the magnitude of seismic waves can be detected by a relative shift in the gravitational
+   waves.^[74][5]
+
+Measurement of seismic waves using atom interferometer[[75]edit]
+
+   The motion of any mass is affected by the gravitational field.^[76][6] The motion of planets is affected by the
+   Sun's enormous gravitational field. Likewise, a heavier object will influence the motion of other objects of
+   smaller mass in its vicinity. However, this change in the motion is very small compared to the motion of
+   heavenly bodies. Hence, special instruments are required to measure such a minute change.
+   Describes the atom interferometer principle
+
+   [77]Atom interferometers work on the principle of [78]diffraction. The [79]diffraction gratings are nano
+   fabricated materials with a separation of a quarter wavelength of light. When a beam of atoms pass through a
+   diffraction grating, due the inherent wave nature of atoms, they split and form interference fringes on the
+   screen. An atom interferometer is very sensitive to the changes in the positions of atoms.As heavier objects
+   shifts the position of the atoms nearby, displacement of the atoms can be measured by detecting a shift in the
+   interference fringes.
+
+Existing approaches in geophysical signal recognition[[80]edit]
+
+   This section addresses the methods and mathematical techniques behind signal recognition and signal analysis.
+   It considers the time domain and frequency domain analysis of signals. This section also discusses various
+   transforms and their usefulness in the analysis of multi-dimensional waves.
+
+3D sampling[[81]edit]
+
+Sampling[[82]edit]
+
+   The first step in any signal processing approach is analog to digital conversion. The geophysical signals in
+   the analog domain has to be converted to digital domain for further processing.
+
+Analog to digital conversion[[83]edit]
+
+   As the name suggests, the gravitational and electromagnetic waves in the analog domain are detected, sampled
+   and stored for further analysis. The signals can be sampled in both time and frequency domains. The signal
+   component is measured at both intervals of time and space. Ex, time-domain sampling refers to measuring a
+   signal component at several instances of time. Similarly, spatial-sampling refers to measuring the signal at
+   different locations in space.
+
+   Traditional sampling of 1D time varying signals is performed by measuring the amplitude of the signal under
+   consideration in discrete intervals of time. Similarly sampling of space-time signals (signals which are
+   functions of 4 variables – 3D space and time), is performed by measuring the amplitude of the signals at
+   different time instances and different locations in the space. For example, the earth's gravitational data is
+   measured with the help of [84]gravitational wave sensor or gradiometer^[85][7] by placing it in different
+   instances at different instances of time.
+
+Spectrum analysis[[86]edit]
+
+Multi-dimensional Fourier transform[[87]edit]
+
+   The Fourier expansion of a time domain signal is the representation of the signal as a sum of its frequency
+   components, specifically sum of sines and cosines. [88]Joseph Fourier came up with the Fourier representation
+   to estimate the heat distribution of a body. The same approach can be followed to analyse the multi-dimensional
+   signals such as gravitational waves and electromagnetic waves.
+
+   The 4D Fourier representation of such signals is given by
+          
+
+     *  represents temporal frequency and k represents spatial frequency.
+     * s(x,t) is a 4-dimensional space-time signal which can be imagined as travelling plane waves. For such plane
+       waves, the plane of propagation is perpendicular to the direction of propagation of the considered
+       wave.^[89][8]
+
+Wavelet transform[[90]edit]
+
+   The motivation for development of the Wavelet transform was the Short-time fourier transform.The signal to be
+   analysed, say f(t) is multiplied with a window function w(t) at a particular time instant. Analysing the
+   Fourier coefficients of this signal gives us information about the frequency components of the signal at a
+   particular time instant.^[91][9]
+
+   The STFT is mathematically written as:
+
+          
+   The Wavelet transform is defined as
+         
+
+   A variety of window functions can be used for analysis. Interestingly, wavelet functions are used for both time
+   and frequency localisation. For example,one of the windows used in calculating the Fourier coefficients is the
+   Gaussian window which is optimally concentrated in time and frequency. This optimal nature can be explained by
+   considering the time scaling and time shifting parameters a and b respectively. By choosing the appropriate
+   values of a and b, we can determine the frequencies and the time associated with that signal. By representing
+   any signal as the linear combination of the wavelet functions, we can localize the signals in both time and
+   frequency domain. Hence wavelet transforms are important in geophysical applications where spatial and temporal
+   frequency localisation is important.^[92][10]
+
+   Time frequency localisation using wavelets
+
+   Geophysical signals are continuously varying functions of space and time. The wavelet transform techniques
+   offer a way to decompose the signals as a linear combination of shifted and scaled version of basis functions.
+   The amount of "shift" and "scale" can be modified to localize the signal in time and frequency.
+
+Beamforming[[93]edit]
+
+   Simply put, space-time signal filtering problem^[94][11] can be thought as localizing the speed and direction
+   of a particular signal.^[95][12] The design of filters for space-time signals follows a similar approach as
+   that of 1D signals. The filters for 1-D signals are designed in such a way that if the requirement of the
+   filter is to extract frequency components in a particular non-zero range of frequencies, a [96]bandpass filter
+   with appropriate passband and stop band frequencies in determined. Similarly, in the case of multi-dimensional
+   systems, the wavenumber-frequency response of filters is designed in such a way that it is unity in the
+   designed region of (k, ) a.k.a. wavenumber – frequency and zero elsewhere.^[97][12]
+   Spatial distribution of phased arrays to filter geophysical signals
+
+   This approach is applied for filtering space-time signals.^[98][12] It is designed to isolate signals
+   travelling in a particular direction. One of the simplest filters is weighted delay and sum beamformer. The
+   output is the average of the linear combination of delayed signals. In other words, the beamformer output is
+   formed by averaging weighted and delayed versions of receiver signals. The delay is chosen such that the
+   passband of beamformer is directed to a specific direction in the space.^[99][12]
+
+Classical Estimation Theory[[100]edit]
+
+   This section deals with the estimation of the power spectral density of the multi-dimensional signals.The
+   spectral density function can be defined as a multidimensional Fourier transform of the autocorrelation
+   function of the random signal.^[101]
+          
+
+   The spectral estimates can be obtained by finding the square of the magnitude of the Fourier transform also
+   called as Periodogram. The spectral estimates obtained from the periodogram have a large variance in amplitude
+   for consecutive periodogram samples or in wavenumber. This problem is resolved using techniques that constitute
+   the classical estimation theory. They are as follows:
+
+   1.Bartlett suggested a method that averages the spectral estimates to calculate the power spectrum. Average of
+   spectral estimates over a time interval gives a better estimate.^[102][14]
+          
+
+   2.Welch's method suggested to divide the measurements using data window functions, calculate a periodogram,
+   average them to get a spectral estimate and calculate the power spectrum using Fast Fourier Transform
+   (FFT).This increased the computational speed.^[104][15]
+          
+
+   4.The periodogram under consideration can be modified by multiplying it with a window function. Smoothing
+   window will help us smoothen the estimate. Wider the main lobe of the smoothing spectrum, smoother it becomes
+   at the cost of frequency resolution.^[106][13]
+
+          
+
+   For further details on spectral estimation, please refer [108]Spectral Analysis of Multi-dimensional signals
+
+Applications[[109]edit]
+
+Estimating positions of underground objects[[110]edit]
+
+   The method being discussed here assumes that the mass distribution of the underground objects of interest is
+   already known and hence the problem of estimating their location boils down to parametric localisation.Say
+   underground objects with center of masses (CM[1], CM[2]…CM[n]) are located under the surface and at positions
+   p[1], p[2]...p[n]. The gravity gradient(components of the gravity field) is measured using a spinning wheel
+   with accelerometers also called as the gravity gradiometer.^[111][7] The instrument is positioned in different
+   orientations to measure the respective component of the gravitational field. The values of gravitational
+   gradient tensors are calculated and analyzed. The analysis includes observing the contribution of each object
+   under consideration. A maximum likelihood procedure is followed and [112]Cramér–Rao bound (CRB) is computed to
+   assess the quality of location estimate.
+
+Array processing for seismographic applications[[113]edit]
+
+   Various sensors located on the surface of earth spaced equidistantly receive the seismic waves. The seismic
+   waves travel through the various layers of earth and undergo changes in their properties - amplitude change,
+   time of arrival, phase shift. By analyzing these properties of the signals, we can model the activities inside
+   the earth.
+
+Visualization of 3D data[[114]edit]
+
+   The method of volume rendering is an important tool to analyse the scalar fields. Volume rendering simplifies
+   representation of 3D space. Every point in a 3D space is called a [115]voxel. Data inside the 3-d dataset is
+   projected to the 2-d space(display screen) using various techniques. Different data encoding schemes exist for
+   various applications such as MRI, Seismic applications.

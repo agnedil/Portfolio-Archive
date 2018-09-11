@@ -1,0 +1,336 @@
+Part 1C. Naive Bayes using caret and klaR packages. NAs Ignored
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 82 23
+         1 18 30
+                                          
+               Accuracy : 0.732           
+                 95% CI : (0.6545, 0.8003)
+    No Information Rate : 0.6536          
+    P-Value [Acc > NIR] : 0.02367         
+                                          
+                  Kappa : 0.3948          
+ Mcnemar's Test P-Value : 0.53217         
+                                          
+            Sensitivity : 0.8200          
+            Specificity : 0.5660          
+         Pos Pred Value : 0.7810          
+         Neg Pred Value : 0.6250          
+             Prevalence : 0.6536          
+         Detection Rate : 0.5359          
+   Detection Prevalence : 0.6863          
+      Balanced Accuracy : 0.6930          
+                                          
+       'Positive' Class : 0               
+                                          
+
+Part 1C. Naive Bayes using caret and klaR packages. NAs Ignored
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 83 26
+         1 17 27
+                                          
+               Accuracy : 0.719           
+                 95% CI : (0.6407, 0.7886)
+    No Information Rate : 0.6536          
+    P-Value [Acc > NIR] : 0.05152         
+                                          
+                  Kappa : 0.3535          
+ Mcnemar's Test P-Value : 0.22247         
+                                          
+            Sensitivity : 0.8300          
+            Specificity : 0.5094          
+         Pos Pred Value : 0.7615          
+         Neg Pred Value : 0.6136          
+             Prevalence : 0.6536          
+         Detection Rate : 0.5425          
+   Detection Prevalence : 0.7124          
+      Balanced Accuracy : 0.6697          
+                                          
+       'Positive' Class : 0               
+                                          
+
+Part 1C. Naive Bayes using caret and klaR packages. NAs Ignored
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 83 22
+         1 17 31
+                                         
+               Accuracy : 0.7451         
+                 95% CI : (0.6684, 0.812)
+    No Information Rate : 0.6536         
+    P-Value [Acc > NIR] : 0.009661       
+                                         
+                  Kappa : 0.4243         
+ Mcnemar's Test P-Value : 0.521839       
+                                         
+            Sensitivity : 0.8300         
+            Specificity : 0.5849         
+         Pos Pred Value : 0.7905         
+         Neg Pred Value : 0.6458         
+             Prevalence : 0.6536         
+         Detection Rate : 0.5425         
+   Detection Prevalence : 0.6863         
+      Balanced Accuracy : 0.7075         
+                                         
+       'Positive' Class : 0              
+                                         
+
+Part 1C. Naive Bayes using caret and klaR packages. NAs Ignored
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 82 23
+         1 18 30
+                                          
+               Accuracy : 0.732           
+                 95% CI : (0.6545, 0.8003)
+    No Information Rate : 0.6536          
+    P-Value [Acc > NIR] : 0.02367         
+                                          
+                  Kappa : 0.3948          
+ Mcnemar's Test P-Value : 0.53217         
+                                          
+            Sensitivity : 0.8200          
+            Specificity : 0.5660          
+         Pos Pred Value : 0.7810          
+         Neg Pred Value : 0.6250          
+             Prevalence : 0.6536          
+         Detection Rate : 0.5359          
+   Detection Prevalence : 0.6863          
+      Balanced Accuracy : 0.6930          
+                                          
+       'Positive' Class : 0               
+                                          
+
+Part 1C. Naive Bayes using caret and klaR packages. NAs Ignored
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 89 21
+         1 11 32
+                                          
+               Accuracy : 0.7908          
+                 95% CI : (0.7178, 0.8523)
+    No Information Rate : 0.6536          
+    P-Value [Acc > NIR] : 0.0001499       
+                                          
+                  Kappa : 0.5167          
+ Mcnemar's Test P-Value : 0.1116118       
+                                          
+            Sensitivity : 0.8900          
+            Specificity : 0.6038          
+         Pos Pred Value : 0.8091          
+         Neg Pred Value : 0.7442          
+             Prevalence : 0.6536          
+         Detection Rate : 0.5817          
+   Detection Prevalence : 0.7190          
+      Balanced Accuracy : 0.7469          
+                                          
+       'Positive' Class : 0               
+                                          
+
+Part 1C. Naive Bayes using caret and klaR packages. NAs Ignored
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 80 27
+         1 20 26
+                                          
+               Accuracy : 0.6928          
+                 95% CI : (0.6132, 0.7648)
+    No Information Rate : 0.6536          
+    P-Value [Acc > NIR] : 0.1753          
+                                          
+                  Kappa : 0.2999          
+ Mcnemar's Test P-Value : 0.3815          
+                                          
+            Sensitivity : 0.8000          
+            Specificity : 0.4906          
+         Pos Pred Value : 0.7477          
+         Neg Pred Value : 0.5652          
+             Prevalence : 0.6536          
+         Detection Rate : 0.5229          
+   Detection Prevalence : 0.6993          
+      Balanced Accuracy : 0.6453          
+                                          
+       'Positive' Class : 0               
+                                          
+
+Part 1C. Naive Bayes using caret and klaR packages. NAs Ignored
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 87 22
+         1 13 31
+                                          
+               Accuracy : 0.7712          
+                 95% CI : (0.6965, 0.8352)
+    No Information Rate : 0.6536          
+    P-Value [Acc > NIR] : 0.001098        
+                                          
+                  Kappa : 0.4738          
+ Mcnemar's Test P-Value : 0.176296        
+                                          
+            Sensitivity : 0.8700          
+            Specificity : 0.5849          
+         Pos Pred Value : 0.7982          
+         Neg Pred Value : 0.7045          
+             Prevalence : 0.6536          
+         Detection Rate : 0.5686          
+   Detection Prevalence : 0.7124          
+      Balanced Accuracy : 0.7275          
+                                          
+       'Positive' Class : 0               
+                                          
+
+Part 1C. Naive Bayes using caret and klaR packages. NAs Ignored
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 80 23
+         1 20 30
+                                          
+               Accuracy : 0.719           
+                 95% CI : (0.6407, 0.7886)
+    No Information Rate : 0.6536          
+    P-Value [Acc > NIR] : 0.05152         
+                                          
+                  Kappa : 0.371           
+ Mcnemar's Test P-Value : 0.76037         
+                                          
+            Sensitivity : 0.8000          
+            Specificity : 0.5660          
+         Pos Pred Value : 0.7767          
+         Neg Pred Value : 0.6000          
+             Prevalence : 0.6536          
+         Detection Rate : 0.5229          
+   Detection Prevalence : 0.6732          
+      Balanced Accuracy : 0.6830          
+                                          
+       'Positive' Class : 0               
+                                          
+
+Part 1C. Naive Bayes using caret and klaR packages. NAs Ignored
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 84 23
+         1 16 30
+                                         
+               Accuracy : 0.7451         
+                 95% CI : (0.6684, 0.812)
+    No Information Rate : 0.6536         
+    P-Value [Acc > NIR] : 0.009661       
+                                         
+                  Kappa : 0.419          
+ Mcnemar's Test P-Value : 0.336668       
+                                         
+            Sensitivity : 0.8400         
+            Specificity : 0.5660         
+         Pos Pred Value : 0.7850         
+         Neg Pred Value : 0.6522         
+             Prevalence : 0.6536         
+         Detection Rate : 0.5490         
+   Detection Prevalence : 0.6993         
+      Balanced Accuracy : 0.7030         
+                                         
+       'Positive' Class : 0              
+                                         
+
+Part 1C. Naive Bayes using caret and klaR packages. NAs Ignored
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 82 20
+         1 18 33
+                                          
+               Accuracy : 0.7516          
+                 95% CI : (0.6754, 0.8179)
+    No Information Rate : 0.6536          
+    P-Value [Acc > NIR] : 0.005891        
+                                          
+                  Kappa : 0.4466          
+ Mcnemar's Test P-Value : 0.871131        
+                                          
+            Sensitivity : 0.8200          
+            Specificity : 0.6226          
+         Pos Pred Value : 0.8039          
+         Neg Pred Value : 0.6471          
+             Prevalence : 0.6536          
+         Detection Rate : 0.5359          
+   Detection Prevalence : 0.6667          
+      Balanced Accuracy : 0.7213          
+                                          
+       'Positive' Class : 0               
+                                          
+
+Part 1C. Naive Bayes using caret and klaR packages. NAs Ignored
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 82 19
+         1 18 34
+                                          
+               Accuracy : 0.7582          
+                 95% CI : (0.6824, 0.8237)
+    No Information Rate : 0.6536          
+    P-Value [Acc > NIR] : 0.003479        
+                                          
+                  Kappa : 0.4636          
+ Mcnemar's Test P-Value : 1.000000        
+                                          
+            Sensitivity : 0.8200          
+            Specificity : 0.6415          
+         Pos Pred Value : 0.8119          
+         Neg Pred Value : 0.6538          
+             Prevalence : 0.6536          
+         Detection Rate : 0.5359          
+   Detection Prevalence : 0.6601          
+      Balanced Accuracy : 0.7308          
+                                          
+       'Positive' Class : 0               
+                                          
+
+Part 1C. Naive Bayes using caret and klaR packages. NAs Ignored
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 85 19
+         1 15 34
+                                          
+               Accuracy : 0.7778          
+                 95% CI : (0.7036, 0.8409)
+    No Information Rate : 0.6536          
+    P-Value [Acc > NIR] : 0.000586        
+                                          
+                  Kappa : 0.5004          
+ Mcnemar's Test P-Value : 0.606905        
+                                          
+            Sensitivity : 0.8500          
+            Specificity : 0.6415          
+         Pos Pred Value : 0.8173          
+         Neg Pred Value : 0.6939          
+             Prevalence : 0.6536          
+         Detection Rate : 0.5556          
+   Detection Prevalence : 0.6797          
+      Balanced Accuracy : 0.7458          
+                                          
+       'Positive' Class : 0               
+                                          
+

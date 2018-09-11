@@ -1,0 +1,26 @@
+prcomp
+https://www.rdocumentation.org/packages/stats/versions/3.4.3/topics/prcomp
+5 PCA functions in R
+http://www.gastonsanchez.com/visually-enforced/how-to/2012/06/17/PCA-in-R/
+factoextra library
+http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/118-principal-component-analysis-in-r-prcomp-vs-princomp/
+
+general theory and visualization
+https://www.r-bloggers.com/computing-and-visualizing-pca-in-r/
+http://www.gastonsanchez.com/visually-enforced/how-to/2012/06/17/PCA-in-R/
+PLOTTING!:
+https://cran.r-project.org/web/packages/ggfortify/vignettes/plot_pca.html
+dissimilarity matrix:
+https://www.rdocumentation.org/packages/arules/versions/1.5-5/topics/dissimilarity
+variance-covariance matrix
+https://www.rdocumentation.org/packages/pbdDMAT/versions/0.4-2/topics/covariance
+some theory:
+http://rcourse.iop.kcl.ac.uk/2014/5fri/3/updated_kh_pca_slides_030614.pdf
+https://stats.stackexchange.com/questions/254592/calculating-pca-variance-explained/254598
+visualize the eigenvalues/variances
+http://www.sthda.com/english/rpkgs/factoextra/reference/eigenvalue.html
+
+
+
+
+

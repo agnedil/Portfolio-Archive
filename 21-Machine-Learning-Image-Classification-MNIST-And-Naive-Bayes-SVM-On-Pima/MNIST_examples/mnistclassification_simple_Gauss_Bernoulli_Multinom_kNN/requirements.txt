@@ -1,0 +1,4 @@
+python-mnist
+scikit-learn
+numpy
+scipy
