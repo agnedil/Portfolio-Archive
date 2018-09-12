@@ -1,0 +1,20 @@
+https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
+
+OTHER RESOURCES
+
+from scratch:
+https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/
+
+sci-kit learn:
+http://dataaspirant.com/2017/02/01/decision-tree-algorithm-python-with-scikit-learn/
+
+r solutions (CART w/gini - see all):
+https://eight2late.wordpress.com/2016/02/16/a-gentle-introduction-to-decision-trees-using-r/
+https://stackoverflow.com/questions/40423195/is-there-any-function-that-calculates-gini-index-for-cartdecision-tree-algorith
+https://rstudio-pubs-static.s3.amazonaws.com/108298_75e23efda7f845f98af2c549a26b5958.html
+https://www.r-bloggers.com/trees-with-the-rpart-package/
+
+more on the topic:
+https://codereview.stackexchange.com/questions/147625/decision-tree-node-split-by-gini-coefficient-used-in-randomferns-randomforest-a
+http://gabrielelanaro.github.io/blog/2016/03/03/decision-trees.html
+http://www.learnbymarketing.com/481/decision-tree-flavors-gini-info-gain/
