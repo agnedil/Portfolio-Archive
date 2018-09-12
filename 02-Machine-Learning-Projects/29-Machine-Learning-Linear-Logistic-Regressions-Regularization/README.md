@@ -8,11 +8,11 @@
 
     c) Using glmnet to produce:
 
-        - a regression regularized by L2 (ridge regression), estimating the regularization coefficient that produces the minimum error;
+    - a regression regularized by L2 (ridge regression), estimating the regularization coefficient that produces the minimum error;
 
-        - a regression regularized by L1 (lasso regression), estimating the regularization coefficient that produces the minimum error;
+    - a regression regularized by L1 (lasso regression), estimating the regularization coefficient that produces the minimum error;
 
-        - a regression regularized by elastic net (equivalently, a regression regularized by a convex combination of L1 and L2) trying three values of alpha, the weight setting how big L1 and L2 are, and estimating the regularization coefficient that produces the minimum error.
+    - a regression regularized by elastic net (equivalently, a regression regularized by a convex combination of L1 and L2) trying three values of alpha, the weight setting how big L1 and L2 are, and estimating the regularization coefficient that produces the minimum error.
 
 
 2. Logistic regression. Dataset: a dataset giving whether a Taiwanese credit card user defaults against a variety of features (the UCI Machine Learning dataset repository). Predicting whether the user defaults; ignore outliers, but try the above various regularization schemes.
