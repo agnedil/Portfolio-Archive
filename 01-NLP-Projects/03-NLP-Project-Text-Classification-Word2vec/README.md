@@ -1,12 +1,12 @@
-# Text Classification Using Word2vec
+## Text Classification Using Word2vec
 
-OVERVIEW
+### OVERVIEW
 
 This is an attempt to implement Google’s word2vec algorithm using the gensim module in Python. It is an algorithm for building vector representations of words (i.e. word embeddings) – words used in text in a similar way have similar vector representations. One can use words mapped into vector space to look for words having similar semantics. The model takes a list of sentences which, in turn, must be lists of words.
 
 For reference, the API documentation for the wrod2vec implementation in Python is provided here: https://radimrehurek.com/gensim/models/word2vec.html. Some word2vec functions are deprecated as stated in this API doc, and one can find their alternatives in the KeyedVectors submodule here: https://radimrehurek.com/gensim/models/keyedvectors.html. A simple, but very useful tutorial by the author of the module can be found here: https://rare-technologies.com/word2vec-tutorial/
 
-REQUIREMENTS
+### REQUIREMENTS
 
 Install gensim:
 $ sudo pip install --upgrade gensim
@@ -39,7 +39,7 @@ $ conda install -c anaconda numpy
 $ conda install -c anaconda nltk
 $ conda install -c anaconda scipy
 
-DESCRIPTION
+### DESCRIPTION
 
 As input my project takes several general (raw) text files in different categories. For simplicity, I selected two categories: Facilities and Geoscience. But you can add more folders with raw text files from different categories, add empty folders with category names in the “models” directory, and add categories and corresponding paths to the code. This is relatively easy and will enable you to have more than just two categories.
 
@@ -53,7 +53,7 @@ Once this is done, the code from the remaining portion of __main__ starts execut
 
 This is a general overview. In addition to this document, the code itself is heavily commented describing every meaningful operation, so I hope you can clearly understand every step I made. Once you preprocess raw text files and train models, there is no need to run the entire program each time you want to evaluate the log-likelihoods for these or other sample phrases. At that point you can simply comment CreateVocab() and ModelTrain() (put the comment sign # before them) in __main__, eliminating these two stages, and use the models saved to disk by loading them using the remaining code in __main__.
 
-NOTES
+### NOTES
 1) Logging of computer actions is currently turned on in line 14. It is meant for error analysis and more detailed description of the process. You can comment it to turn it off.
 
 2) CreateVocab() preprocesses raw text files. If you try it on different raw text files, there may be a warning (which I used to get in PyCharm) about being unable to decode certain Unicode characters due to the way Python 2.7 handles Unicode, but they did not interrupt my program or impact the results. This problem is resolved in Python 3. It is described here: https://wiki.python.org/moin/UnicodeDecodeError

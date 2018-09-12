@@ -6,7 +6,7 @@ Note: The code in this repository uses this dataset: https://www.kaggle.com/yelp
 
 ## Part 1
 Topic modeling using gensim's LDA and PLSA (as scikit-learn's NMF with Kullback-Leibler divergence) for all reviews and for positive vs. negative reviews; visualization of results using graph-tool and wordclouds.
-TODO: try tree-node diagram from D3.js instead of graph-tool, looks better.
+TODO: try tree-node diagram from D3.js instead of graph-tool.
 
 Other major libraries used: NLTK, graph_tool, wordcloud, json, pickle
 
@@ -28,15 +28,15 @@ Other major libraries used: numpy, collections (defaultdict)
 ## Part 6
 Classification of restaurant reviews to predict the hygiene conditions and whether they will pass inspection using scikit-learn's CountVectorizer and TfidfTransformer for feature extraction, Naive Bays (multinomialNB), SGD, Logistic Regression, Linear SVC and NuSVC, Random Forest, AdaBoost as classifiers. Additional use of the xgboost module, StackingClassifier from the mlxtend module, RandomUnderSampler and RandomOverSampler from the imblearn module to account for the imbalanced dataset.
 
-Comparison of stemming vs. lemmatization for feature extraction. Comparison of algorithm performance with unigrams, bigrams, trigrams, up to 5-grams. Experimenting with different stopword lists. First place on the leaderboard!
+Comparison of stemming vs. lemmatization for feature extraction. Comparison of algorithm performance with unigrams, bigrams, trigrams, up to 5-grams. Experimenting with different stopword lists. First place on the leaderboard out of 12 participants!
 
 Other major libraries used: NLTK
 
 ## Part 7
-Web application using Flask based on the results from previous stages with preprocessing of a large dataset to be able to provide users with instantaneous information about dish and restaurant recommendations. As an example, 5 dishes were chosen from 5 different cuisines.
+Web application using Flask based on the results from previous stages with preprocessing of a large dataset to be able to provide users with instantaneous dish and restaurant recommendations. Implemented with 5 dishes from each of 5 cuisines in the interest of time.
 
 More cuisines and dishes can be easily added. If more reviews are preprocessed, those can be added seamlessly in real time. Visualization using complex D3.js library from JavaScript.
 
-For a limited time, the webapp is available here: http://agnedil.pythonanywhere.com/result
+For a limited time, the webapp is available at http://agnedil.pythonanywhere.com/result
 
 Other major libraries used: collections (defaultdict), TextBlob, numpy

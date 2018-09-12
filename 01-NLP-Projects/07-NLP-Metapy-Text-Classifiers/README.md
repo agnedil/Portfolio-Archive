@@ -4,27 +4,27 @@ Building inverted and forward indices from a text corpus and using NaiveBayes, K
 
 Metapy is a Python wrapper for the MeTa toolkit. MeTA is a modern data sciences toolkit featuring:
 
-   - text tokenization, including deep semantic features like parse trees
+   - Text tokenization, including deep semantic features like parse trees;
 
-   - inverted and forward indexes with compression and various caching strategies
+   - Inverted and forward indexes with compression and various caching strategies;
 
-   - a collection of ranking functions for searching the indexes
+   - A collection of ranking functions for searching the indexes;
 
-   - topic models
+   - Topic models;
 
-   - classification algorithms
+   - Classification algorithms;
 
-   - graph algorithms
+   - Graph algorithms;
 
-   - language models
+   - Language models;
 
-   - CRF implementation (POS-tagging, shallow parsing)
+   - CRF implementation (POS-tagging, shallow parsing);
 
-   - wrappers for liblinear and libsvm (including libsvm dataset parsers)
+   - Wrappers for liblinear and libsvm (including libsvm dataset parsers);
 
-   - UTF8 support for analysis on various languages
+   - UTF8 support for analysis on various languages;
 
-   - multithreaded algorithms
+   - Multithreaded algorithms.
 
 References:
 
