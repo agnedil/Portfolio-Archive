@@ -37,6 +37,6 @@ Web application using Flask based on the results from previous stages with prepr
 
 More cuisines and dishes can be easily added. If more reviews are preprocessed, those can be added seamlessly in real time. Visualization using complex D3.js library from JavaScript.
 
-For a limited time, the webapp is available at http://agnedil.pythonanywhere.com/result
+For a limited time, the webapp is available at http://agnedil.pythonanywhere.com/
 
 Other major libraries used: collections (defaultdict), TextBlob, numpy
