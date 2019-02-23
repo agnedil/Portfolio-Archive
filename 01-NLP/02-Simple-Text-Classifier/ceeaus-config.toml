@@ -1,0 +1,31 @@
+stop-words = "lemur-stopwords.txt"
+
+prefix = "."
+dataset = "ceeaus2"
+corpus = "line.toml"
+index = "ceeaus2-idx"
+
+#[[analyzers]]
+#method = "ngram-word"
+#ngram = 1
+#filter = "default-unigram-chain"
+
+method = "ngram-word"
+ngram = 1
+    [[analyzers.filter]]
+    type = "icu-tokenizer"
+    
+    [[analyzers.filter]]
+    type = "lowercase"
+    
+    [[analyzers.filter]]
+    type = "length"
+    min = 1
+    max = 35
+    
+    #[[analyzers.filter]]
+    #type = "alpha"
+    
+    [[analyzers.filter]]
+    type = "english-normalizer"
+    
