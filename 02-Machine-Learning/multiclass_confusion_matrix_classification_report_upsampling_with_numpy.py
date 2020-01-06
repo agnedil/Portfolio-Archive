@@ -1,3 +1,5 @@
+import numpy as np
+
 # return comprehensive metrics (confustion matrix + classification report) for multiple classes
 # implemented entirely with numpy (no scikit-learn)
 def metrics(actual, predicted):
@@ -100,3 +102,15 @@ def cv_upsampled(model, X, Y, cv=100):
         all_ytrue.extend(test_y)
         
     return scores, all_ytrue, all_ypred
+
+
+#Usage:
+# model should have predict and score functions; X, Y are numpy arrays
+
+# without upsampling
+#x_scores, true, pred = cross_val_scores(model, X, Y, cv=100, for_cm=True)
+#results = metrics(true, pred)
+
+# with upsampling
+#x_scores, true, pred = cv_upsampled(model, X, Y, cv=100)
+#results = metrics(true, pred)
