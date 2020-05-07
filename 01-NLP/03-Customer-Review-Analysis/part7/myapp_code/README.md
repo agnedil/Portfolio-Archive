@@ -1,2 +1,0 @@
-# myapp
-Flask app
