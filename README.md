@@ -7,13 +7,23 @@ Some of the major or most important projects include:
 ### NLP
 (Python)
 
+* Text classification solutions using Word2vec, sci-Kit learn, Metapy and a number of other tools
+
+* Document similarity solution for a large collection of documents to search for dulplicated, near-duplicates, and versions of documents
+
+* Batchers sending multiple REST API calls to a text mining engine (to test a docment classification model, extract key words from text, parse log files)
+
+* Word sense disambiguation for conversation analysis
+
+* Sentiment classifier for customer reviews
+
+* Custom part-of-speech tagger
+
 * Comprehensive Customer Review Analysis Consisting of 7 Distinct Steps From Topic Modeling To Web App
 
 * Information Extraction from a Large AWS Public Dataset of Material Safety Data Sheets For Subsequent Use in Safety Recommendations
 
-* Text Classification Using Word2vec, Sci-Kit Learn, Metapy And A Number of Other Tools (several projects)
-
-* NLP with Apache Storm Topologies
+* Apache Storm Topologies for NLP
 
 * Topic Modeling
 
