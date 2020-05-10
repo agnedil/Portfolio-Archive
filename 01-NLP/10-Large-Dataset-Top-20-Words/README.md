@@ -1,5 +1,5 @@
 # Finding Top 20 Words In A Very Large Dataset
-(no libraries or regex allowed)
+(no libraries or regex used)
 
 * Input: a huge list of Wikipedia titles, one in each line (input.txt)
 
