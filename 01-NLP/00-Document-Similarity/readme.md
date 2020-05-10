@@ -5,7 +5,8 @@ Steps:
 2. Comparison of different approaches using the selected library (02_doc_similarity_sklear_test_approaches.ipynb)
 3. Final solution (03_doc_similarity_final_solution.ipynb)
 
-The final solution implements the following:  
+The final solution implements the following:
+
 a. Connect to a remote relational database  
 b. Run SQL query and retrieve document text  
 c. Convert documents into word vectors (tf-idf)  
