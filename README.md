@@ -1,6 +1,6 @@
 # Portfolio - partial repository of non-proprietory projects
 
-**_Although I code every day, I don't push my code to this public repository due the proprietory nature of my work. This repository contains some of my non-proprietory projects divided into categories. Some of the major ones include:_**
+**_Although I code every day, I don't push code to this public repository due the proprietory nature of my work. This repository contains some of non-proprietory projects divided into categories. The major ones include:_**
 
 ### NLP
 (Python)
