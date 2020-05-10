@@ -1,0 +1,113 @@
+EXPANDED RUBBER & PLASTICS CORP. -- STAFOAM 106, COMPONENT T (CATALYST)  -- 6850-00F001464
+<pre>=====================  Product Identification  =====================
+
+Product ID:STAFOAM 106, COMPONENT T (CATALYST)
+MSDS Date:01/01/1987
+FSC:6850
+NIIN:00F001464
+MSDS Number: BBJJP
+=== Responsible Party ===
+Company Name:EXPANDED RUBBER & PLASTICS CORP.
+Emergency Phone Num:(213) 321-4260
+CAGE:25598
+=== Contractor Identification ===
+Company Name:EXPANDED RUBBER AND PLASTIC CORP
+Address:14000 S WESTERN AVE
+Box:City:GARDENA
+State:CA
+ZIP:90249-3008
+Country:US
+Phone:310-321-4260
+CAGE:25598
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE-2,4-DIISOCYANATE (TDI)  (SARA III)
+CAS:584-84-9
+RTECS #:CZ6300000
+Fraction by Wt: 90%
+OSHA PEL:C,0.02 PPM/0.02 STEL
+ACGIH TLV:0.005PPM/0.02STEL;93
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:ETHOCEL (ETHYL CELLULOSE THERMOPLASTICS)
+CAS:9004-32-4
+RTECS #:FJ5950000
+Fraction by Wt: 10%
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:MUCOUS MEMBRANE IRRITATION & TIGHTNESS OF THE
+    CHEST. RESPIRATORY TRACT IRRIT, COUGHING, HEADACHE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/WATER FOR 15 MIN. CONSULT PHYS. SKIN: WASH
+    W/WATER & TINCTURE OF GREEN SOAP. INHALATION: REMOVE TO
+    UNCONTAMINATED AREA, ADMINISTER OXYGEN IF NEEDED. INGESTION: DON'T
+    INDUCE VOMITING, GIV E MILK OR WATER AND GET MEDICAL HELP.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:270F, C.O.C.
+Extinguishing Media:WATER FOG, CO2, DRY CHEMICAL
+Fire Fighting Procedures:PROTECT AGAINST TDI/NITROGEN DIOXIDE VAPORS
+    WITH SCBA.A
+Unusual Fire/Explosion Hazard:AVOID WATER CONTAMINATION IN CLOSED
+    CONTAINERS OR CONFINED SPACES; CO GAS WILL BE GENERATED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SPILLED CHEMICALS SHOULD BE COVERED WITH
+    SAWDUST & TREATED WITH DILUTE AMMONIUM HYDRIDE OR ALCOHOL & WATER
+    IN AN OPEN CONTAINER BEFORE DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:MUST BE STORED IN TIGHTLY CLOSED
+    CONTAINERS AND PROTECTED FROM MOISTURE. AVOID TEMPERATURES >9 (32C)
+    OR <70F (21C.)
+Other Precautions:THIS PRODUCT REACTS WITH WATER & OTHER SUBSTANCES TO
+    PROVIDE CO2 GAS WHICH CAN CAUSE SEALED CONTAINERS TO EXPAND, &
+    POSSIBLYUPTURE. DON'T RESEAL CONTAINER IF CONTAMINATION IS
+    SUSPECTED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:CANISTER TYPE GAS MASK, EQUIPPED FOR ORGANIC
+    VAPORS; SCBA.
+Ventilation:PROVIDE MECHANICAL VENTILATION TO KEEP <TLV.
+Protective Gloves:CHEM-RESISTANT
+Eye Protection:GOGGLES
+Other Protective Equipment:EYE WASH STATIONS & SAFETY SHOWERS.
+Supplemental Safety and Health
+MSDS UNDATED.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity: 1.2
+Solubility in Water:REACTS
+Appearance and Odor:WATER WHITE TO PALE YELLOW, PUNGENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER, ALCOHOLS, STRONG BASES, CARBOXYLIC ACIDS & METAL CPDS
+Hazardous Decomposition Products:NOX, CO, TRACES OF HYDROGEN CYANIDE.
+Conditions to Avoid Polymerization:CONTACT W/MOISTURE & OTHER MTRLS
+    WHICH REACT W/ISOCYANATES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WASTE DISPOSAL SHOULD BE IN ACCORDANCE WITH
+    FEDERAL, STATE, AND LOCAL ENVIRONMENTAL CONTROL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,146 @@
+CAROLINA BIOLOGICAL SUPPLY -- LYOPHILIZED CATALASE FOR 125 ML  -- -
+<pre>=====================  Product Identification  =====================
+
+Product ID:LYOPHILIZED CATALASE FOR 125 ML
+MSDS Date:03/01/1999
+FSC:NIIN:Submitter:D DG
+Status Code:A
+MSDS Number: CJYSR
+=== Responsible Party ===
+Company Name:CAROLINA BIOLOGICAL SUPPLY
+Address:2700 YORK RD
+City:BURLINGTON
+State:NC
+ZIP:27215-3387
+Country:US
+Info Phone Num:800-227-1150/800-424-9300
+Emergency Phone Num:800-227-1150
+Chemtrec Ind/Phone:(800)424-9300
+CAGE:59896
+=== Contractor Identification ===
+Company Name:CAROLINA BIOLOGICAL SUPPLY CO
+Address:2700 YORK RD
+Box:City:BURLINGTON
+State:NC
+ZIP:27215-3387
+Country:US
+Phone:800-227-1150/910-584-0381
+Contract Num:MDA414-98-A-0118-0127
+CAGE:59896
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CATALASE (FROM BOVINE LIVER)
+CAS:9001-05-2
+RTECS #:FI4378000
+= Wt:100.
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50(RAT): UNKNOWN.
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EMERGENCY OVERVIEW: PROLONGED OR
+    REPEATED EXPOSURE MAY CAUSE ALLERGIC REACTION IN CERTAIN SENSITIVE
+    INDIVIDUALS. EYES-MAY CAUSE IRRITATION. SKIN-MAY CAUSE IRRITATION.
+    INGESTION-MAY CAUSE GASTROINTESTI NAL DISCOMFORT. INHALATION-MAY
+    CAUSE IRRITATION TO RESPIRATORY TRACT.
+Explanation of Carcinogenicity:NOT LISTED AS CAUSING CANVER BY IARC,
+    NTP OR OSHA.
+Medical Cond Aggravated by Exposure:NO DATA AVAILABLE.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES-FLUSH WITH WATER FOR  AT LEAST 15 MINS, RAISING &
+    LOWERING EYELIDS OCCASIONALLY. GET MEDICAL ATTENTION IF IRRITATION
+    PERSISTS. SKIN-THOROUGHLY WASH EXPOSED AREA FOR AT LEAST 15 MIN.
+    REMOVE CONTAM INATED CLOTHES. LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE. GET MEDICAL AID IF IRRITATION PERSISTS. INGESTION-IF
+    SWALLOWED, IF CONSCIOUS, GIVE PLENTY OF WATER. IMMEDIATELY CALL A
+    PHYSICIAN OR POISON C ONTROL CENTER. NEVER GIVE ANYTHING BY MOUTH
+    TO AN UNCONSCIOUS PERSON. INHALATION-REMOVE TO FRESH AIR. GIVE
+    OXYGEN IF BREATHING IS DIFFICULT; GIVE ARTIFICIAL RESPIRATION IF
+    BREATHING HAS STOPPED. KEEP  PERSON WARM, QUIET, & GET MEDICAL AID.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE DRY CHEMICAL, CARBON DIOXIDE OR APPROPIATE
+    FOAM.
+Fire Fighting Procedures:FIREFIGHTERS SHOULD WEAR FULL PROTECTIVE
+    EQUIPMENT AND NIOSH APPROVED SELF-CONTAINED BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:NONE EXPECTED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA OF SPILL. CLEAN-UP PERONNEL
+    SHOULD WEAR PROPER PROTECTIVE EQUIPMENT. AVOID CREATING DUST. SWEEP
+    OR SCOOP UP AND CONTAINERIZE FOR DISPOSAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL, DRY PLACE AWAY FROM
+    HEAT. DO NOT GET IN EYE, ON SKIN OR CLOTHING.
+Other Precautions:WASH THOROUGHLY AFTER HANDLING. DO NOT TAKE
+    INTERNALLY.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NEEDED UNDER NORMAL CONDITIONS OF USE WITH
+    ADEQUATE VENTILATION. NIOSH APPROVED EQUIPMENT SHOULD BE WORN IF
+    PELS ARE EXCEEDED.
+Ventilation:LOCAL EXHAUST: ACCEPTABLE. MECHANICAL (GENERAL): REQUIRED.
+Protective Gloves:RUBBER, NEOPRENE, PVC OR EQUIVALENT.
+Eye Protection:SPLASH PROOF SAFETY GOGGLES SHOULD BE WORN.
+Other Protective Equipment:LAB COAT, EYE WASH STATION & SAFETY SHOWER.
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING, DO NOT TAKE
+    INTERNALLY.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T6
+Appearance and Odor:SOLID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NO DATA AVAILABLE.
+Stability Condition to Avoid:NO DATA AVAILABLE.
+Hazardous Decomposition Products:UNKNOWN.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:CHRONIC: MUTATION DATA CITED.
+
+=====================  Ecological Information  =====================
+
+Ecological:EPA WASTE NUMBER: NONE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE AND
+    FEDERAL ENVIRONMENTAL REGULATIONS. ALWAYS CONTACT A PERMITTED WASTE
+    DISPOSER (TSD) TO ASSURE COMPLIANCE.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:NOT REGULATED.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:HAZARD CATEGORY FOR SARA SECTION 311/312
+    REPORTING: ACUTE.
+Federal Regulatory Information:EPA TSCA STATUS: ON TSCA INVENTORY.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

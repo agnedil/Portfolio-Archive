@@ -1,0 +1,158 @@
+NATIONAL STARCH AND CHEMICAL CORP -- C-5A ANTI-SEIZE  -- 8030-00-155-6444
+<pre>=====================  Product Identification  =====================
+
+Product ID:C-5A ANTI-SEIZE
+MSDS Date:03/27/1996
+FSC:8030
+NIIN:00-155-6444
+MSDS Number: CFJRZ
+=== Responsible Party ===
+Company Name:NATIONAL STARCH AND CHEMICAL CORP
+Address:10 FINDERNE AVE
+City:BRIDGEWATER
+State:NJ
+ZIP:08807
+Country:US
+Preparer's Name:KATHY GRIFFITH
+CAGE:85091
+=== Contractor Identification ===
+Company Name:NATIONAL STARCH AND CHEMICAL CORP
+Address:10 FINDERNE AVE
+Box:6500
+City:BRIDGEWATER
+State:NJ
+ZIP:08807
+Country:US
+Phone:908-685-5379; FAX:908685-5306
+CAGE:85091
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:GRAPHITE, NATURAL
+CAS:7782-42-5
+RTECS #:MD9659600
+Fraction by Wt: 20.0%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:2.5 MG/M3
+ACGIH TLV:2.5 MG/M3
+
+Ingred Name:HYDROTREATED PETROLEUM DISTILLATE
+CAS:64742-52-5
+RTECS #:PY8035000
+Fraction by Wt: 25.0%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:COPPER (SARA 313) (CERCLA)
+CAS:7440-50-8
+RTECS #:GL5325000
+Fraction by Wt: 25.0%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1 MG/M3
+ACGIH TLV:1 MG/M3
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:PETROLEUM DISTILLATE
+CAS:64742-18-3
+RTECS #:PY8032000
+Fraction by Wt: 15.0%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3/STEL 10
+
+Ingred Name:SILICON DIOXIDE
+CAS:14808-60-7
+RTECS #:VV7330000
+Fraction by Wt: 0.2%
+Other REC Limits:0.1 MG/M3
+OSHA PEL:0.1 MG/M3
+ACGIH TLV:0.1 MG/M3
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE: IRRITATION. SKIN:
+    IRRITATION/ULCERATION/PERFORATION NASAL SEPTUM. INGESTION:
+    TOXIC/IRRIT/NAUSEA. CHRONIC: METAL FUME FEVER/METALIC
+    TASTE/SKIN/HAIR DISCOLORATION.
+Medical Cond Aggravated by Exposure:PREEXISTING PULMINARY AND
+    DERMATOLOGICAL DISORDERS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMED FLUSH W/LOTS WATER. GET MED AID. SKIN: WASH
+    W/SOAP & WATER. GET MED AID. INHALATION: MOVE TO FRESH AIR. GET MED
+    AID. INGEST: DON'T INDUCE VOMITING. GIVE GLASS WATER/MILK. CALL
+    DR/POISON CO NTROL IMMED. NEVER GIVE ANYTHING BY MOUTH TO
+    UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:PMCC
+Flash Point:300F,149C
+Lower Limits:1.0
+Upper Limits:6.0
+Extinguishing Media:CO2, DRY CHEMICAL, FOAM, WATER FOG
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA & FULL PROTECTIVE
+    CLOTHING. USE WATER TO COOL FIRE-EXPOSED CONTAINERS.WATER STREAM
+    MAY CAUSE FROTHING & SPREAD FLAMES.
+Unusual Fire/Explosion Hazard:MAY FORM EXPLOSIVE MIXTURES W/AIR. CLOSED
+    CONTAINERS MAY RUPTURE W/EXTREME HEAT & EMIT TOXIC GASES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:RECLAIM CLEAN MATERIAL. SWEEP/SHOVEL
+    CONTAMINATED MATERIAL INTO APPROPRIATE WASTE CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:FOR INDUSTRIAL USE ONLY. STORE AWAY
+    FROM HEAT. KEEP AWAY FROM CHILDREN.
+Other Precautions:DON'T REUSE EMPTY CONTAINERS W/O COMMERCIAL
+    CLEANING/RECONDITIONING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE NIOSH APPROVED DUST/MIST RESPIRATOR.
+Ventilation:GENERAL VENTILATION.
+Protective Gloves:CLOTH OR SYNTHETIC
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:CLEAN CLOTHING, EYEWASH, SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS BEFORE EATING. DON'T EAT PRODUCT.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:550 TO 4215
+Vapor Pres:NA
+Vapor Density:>AIR
+Spec Gravity:1.3017
+pH:NA
+Viscosity:HIGH
+Evaporation Rate &amp; Reference:SLOWER THAN BUAC
+Solubility in Water:INSOLUBLE
+Appearance and Odor:COPPER COLORED PASTE, SLIGHT PETROLEUM ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG LEWIS/MINERAL ACIDS/STRONG
+    BASES/OXIDANTS/NITRATES/NITRITES/CHLORINATED HYDROCARBONS/CHLORIDES
+    PALLADIUM/SELENIUM
+Stability Condition to Avoid:HEAT, MANGANESE, MAGNESIUM, POTASSIUM
+    CHLORATE, SODIUM CARBONATE, SULFATES, DIVORANE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ACCORDING TO APPLICABLE FEDERAL/STATE/LOCAL
+    REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

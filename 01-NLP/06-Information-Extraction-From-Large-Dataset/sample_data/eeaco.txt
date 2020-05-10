@@ -1,0 +1,221 @@
+Promega Corporation -- LIGHTSMITH II Terminal Transferase (TdT), F138  -- -
+<pre>=====================  Product Identification  =====================
+
+Product ID:LIGHTSMITH II Terminal Transferase (TdT), F138
+MSDS Date:06/13/2002
+MSDS Number: EEACO
+Kit Part:=== Responsible Party ===
+Company Name:Promega Corporation
+Address:2800 Woods Hollow Road
+City:Madison
+State:WI
+ZIP:53711
+Country:US
+Info Phone Num:1-800-356-9526, (608)-274-4330
+Chemtrec Ind/Phone:1-800-424-9300
+=== Contractor Identification ===
+Company Name:Promega Corporation
+Address:2800 Woods Hollow Road
+Box:City:Madison
+State:WI
+ZIP:53711
+Country:US
+Phone:1-800-356-9526, (608)-274-4330
+CAGE:
+
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:cobalt dichloride
+CAS:7646-79-9
+Minumum % Wt:10
+Maxumum % Wt:15
+OSHA PEL:0.1* mg/m³  *For metal dust
+ACGIH TLV:0.02,A3 mg/m³  as Co
+
+Ingred Name:dimethylarsinic acid
+CAS:75-60-5
+Minumum % Wt:5
+Maxumum % Wt:10
+OSHA PEL:0.1* mg/m³  *For metal dust
+ACGIH TLV:0.02,A3 mg/m³  as Co
+
+=====================  Hazards Identification  =====================
+
+Health Hazards Acute and Chronic:Hazard description T Toxic  N
+    Dangerous for the environment  Information pertaining to particular
+    dangers for man and  environment The product has to be  labelled
+    due to the calculation procedure of the "General  Classification
+    guideline for preparations of the EU" in the latest  valid version.
+    R 49 May  cause cancer by inhalation. R 20/22  Harmful by
+    inhalation and if swallowed. R  42/43 May cause sensitization by
+    inhalation and skin contact.  R 51/53 Toxic to aquatic organisms,
+    may  cause long-term adverse effects in the aquatic environment 
+    NFPA ratings (scale 0-4) Health = 3 Fire = 0  Reactivity = 0  HMIS
+    Ratings Health = *2  Flammability = 0 Reactivity = 0
+Medical Cond Aggravated by Exposure:
+
+=======================  First Aid Measures  =======================
+
+First Aid:General information Symptoms	of poisoning may even occur
+    after several hours; therefore medical  observation for at least 48
+    hours after the accident.  After inhalation Supply fresh  air and
+    to be sure call for a doctor. In  case of unconsciousness place
+    patient stably in side position for  transportation.  After skin
+    contact Immediately  wash with water and soap and rinse thoroughly.
+     After eye contact Rinse opened  eye for several minutes under
+    running water.  After swallowing Immediately call a doctor.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:Not applicable
+Extinguishing Media:Suitable extinguishing agents CO2, extinguishing
+    powder or water spray. Fight  larger fires with water spray or
+    alcohol resistant foam.  Protective equipment: Mount respiratory
+    protective device.
+Fire Fighting Procedures:Keep respiratory protective device  available.
+Unusual Fire/Explosion Hazard:Danger of explosion: Product  does not
+    present an explosion hazard. Auto igniting:    Product is not
+    selfigniting.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:Person-related safety precautions: Not
+    required.  Measures for environmental protection: Inform respective
+    authorities in case of seepage  into water course or sewage system.
+    Dilute with plenty of water. Do not allow to enter sewers/surface
+    or ground  water.  Measures for cleaning/collecting: Absorb with
+    liquid-binding material (sand,  diatomite, acid binders, universal
+    binders, sawdust). Dispose contaminated material as waste according
+    to	item 13. Ensure adequate ventilation.
+Neutralizing Agent:
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:Handling  Information for safe
+    handling: Ensure good ventilation/exhaustion at the  workplace.
+    Open and handle receptacle	with care. Prevent formation of
+    aerosols.  No special precautions are necessary if	used correctly.
+     Information about protection against explosions and fires:  Keep
+    respiratory protective device  available.  Storage	Requirements to
+    be met by storerooms and receptacles:  No special requirements. 
+    Information about storage in one common storage facility:  Not
+    required.
+Other Precautions:Further information about storage conditions: Keep
+    receptacle tightly sealed.	Storage class  Class according to
+    regulation on flammable liquids: Not  Applicable
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:In case	of brief exposure or low pollution use
+    respiratory filter device. In  case of intensive or longer exposure
+    use respiratory protective device  that is independent of
+    circulating air.
+Protective Gloves:Protective gloves.
+Eye Protection:Goggles recommended during refilling.
+Work Hygienic Practices:Keep away from foodstuffs, beverages and feed. 
+    Immediately remove all soiled and  contaminated clothing Wash hands
+    before  breaks and at the end of work. Store  protective clothing
+    separately.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:100 ° C
+Melt/Freeze Pt:undetermined
+Spec Gravity:Not determined
+Solubility in Water:Fully miscible  pH-value:	 at 20 ° C  0.0
+Appearance and Odor:Form: Fluid  Color: Colorless  Odor: Odorless
+Corrosion Rate:
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:Stability Condition to
+    Avoid:Reacts with strong acids
+Hazardous Decomposition Products:No decomposition if used according to 
+    specifications. Dangerous products of decomposition: Carbon
+    monoxide and carbon dioxide Arsenic compounds Chlorine compounds
+Conditions to Avoid Polymerization:
+
+===================  Toxicological Information	===================
+
+Toxicological Information:Acute toxicity: LD/LC50  values that are
+    relevant for classification:    7646-79-9 cobalt dichloride Oral:
+    LD50: 80 mg/kg (rat) 75-60-5 dimethylarsinic acid Oral: LD50: 644
+    mg/kg (rat)  Primary irritant effect:  on the skin: No irritant
+    effect.  on the eye: Irritating effect.  Sensitization:
+    Sensitization  possible through inhalation. Sensitization possible
+    through skin contact.  Additional toxicological information: The
+    product shows the following dangers according  to the calculation
+    method of the General EU Classification Guidelines	for
+    Preparations as issued in the latest version: Harmful Irritant 
+    Carcinogenic if inhaled.
+
+=====================  Ecological Information  =====================
+
+Ecological:General notes: Water danger	class 3 (German Regulation)
+    (Self-assessment): extremely hazardous for	water. Do not allow
+    product to reach  ground water, water course or sewage system, even
+    in small quantities.  Danger to drinking water if even  extremely
+    small quantities leak into the ground. Also poisonous for fish and
+    plankton in water  bodies.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:Product:  Recommendation Must not be  disposed
+    of together with household garbage. Do not allow product to  reach
+    sewage system.  Uncleaned packagings:  Recommendation: Disposal
+    must  be made according to official regulations.  Recommended
+    cleansing agent: Water, if necessary with  cleansing agents.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:Contact Promega Safety Department for  additional
+    transportation information	DOT regulations:  Hazard class:    6.1 
+    Identification number:  UN2810  Packing group:   III   Proper
+    shipping name (technical name): TOXIC  LIQUID, ORGANIC, N.O.S.
+    (CACODYLIC ACID)  Label    6.1  Land transport ADR/RID
+    (cross-border)  ADR/RID class:   6.1  Toxic substances  Danger code
+    (Kemler):  60  UN-Number:	 2810  Packaging group:   III 
+    Description of goods:  2810 TOXIC LIQUID,  ORGANIC, N.O.S.
+    (CACODYLIC ACID)   Maritime transport IMDG:  IMDG Class:	6.1  UN
+    Number:    2810  Label    6.1  Packaging group:   III  EMS Number: 
+      6.1-02  Marine pollutant:   No  Proper shipping name:  TOXIC
+    LIQUID,  ORGANIC, N.O.S. (CACODYLIC ACID)  Air transport ICAO-TI
+    and IATA-DGR:  ICAO/IATA Class:   6.1  UN/ID Number:    2810  Label
+       6.1  Packaging group:   III  Proper shipping name:  TOXIC
+    LIQUID,  ORGANIC, N.O.S. (CACODYLIC ACID)
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:Section 355	(Extremely hazardous
+    substance):    None of the ingredients is listed.  Section 313
+    (Specific toxic  chemical listings):    75-60-5 dimethylarsinic
+    acid
+Federal Regulatory Information:TSCA (Toxic Substance Control Act):   
+    7732-18-5 water, distilled, conductivity  or of similar purity 
+    Proposition 65 Chemicals  known to cause cancer:	75-60-5
+    dimethylarsinic acid Chemicals known to cause reproductive 
+    toxicity:	 75-60-5 dimethylarsinic acid  Cancerogenity categories
+    EPA (Environmental Protection Agency)    None of the ingredients is
+    listed.  IARC (International Agency for  Research on Cancer)   
+    None of the ingredients is listed.	NTP (National Toxicology
+    Program)	None of the ingredients is listed.  TLV (Threshold
+    Limit Value  established by ACGIH)	  None of the ingredients is
+    listed.  MAK (German Maximum Workplace  Concentration)    None of
+    the ingredients is listed.	NIOSH-Ca (National Institute for 
+    Occupational Safety and Health)   None of the ingredients is
+    listed. OSHA-Ca (Occupational Safety & Health  Administration)   
+    None of the ingredients is listed.
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,137 @@
+GENERAL ELECTRIC CO., SILICONE PRODUCT DIV. -- RTV SILICONE SEALANT  -- 2835-01-230-7320
+<pre>=====================  Product Identification  =====================
+
+Product ID:RTV SILICONE SEALANT
+MSDS Date:03/18/1993
+FSC:2835
+NIIN:01-230-7320
+MSDS Number: BWZRK
+=== Responsible Party ===
+Company Name:GENERAL ELECTRIC CO., SILICONE PRODUCT DIV.
+Address:260 HUDSON RIVER ROAD
+City:WATERFORD
+State:NY
+ZIP:12188
+Country:US
+Info Phone Num:518-237-3330/FAX 518-233-3795
+Emergency Phone Num:518-237-3330
+Preparer's Name:DA POLSINELLI
+CAGE:01139
+=== Contractor Identification ===
+Company Name:GENERAL ELECTRIC CO, SILICONE PRODUCTS BUSINESS DEPT
+Address:260 HUDSON RIVER RD
+Box:City:WATERFORD
+State:NY
+ZIP:12188
+Country:US
+Phone:518-237-3330/800-332-3390
+CAGE:01139
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILANE, METHYLTRIACETOXY-
+CAS:4253-34-3
+RTECS #:VV4500000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:NOT ESTABLISHED.
+ACGIH TLV:NOT ESTABLISHED.
+
+Ingred Name:IRON OXIDE FUME (FE2O3)
+CAS:1309-37-1
+RTECS #:NO7400000
+Fraction by Wt: 1-5%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:10 MG/M3 (FE)
+ACGIH TLV:5 MG/M3(FE),B2; 9192
+
+Ingred Name:TRADE SECRET COMPONENT
+Fraction by Wt: -10.4%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:TRADE SECRET COMPONENT
+Fraction by Wt: 10-30%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POLYDIMETHYLSILOXANE
+CAS:70131-67-8
+Fraction by Wt: 60-80%
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION-MAY BE HARMFUL IF SWALLOWED.
+    SKIN-UNCURED PRODUCT CONTACT WILL IRRITATE LIPS, GUMS AND TONGUE.
+    INHALATION-CAUSES IRRITATION OF THE MOUTH, NOSE AND THROAT.
+    EYE-UNCURED PRODUCT CONTACT IRRITAT ES EYES.
+Explanation of Carcinogenicity:NOT CARCINOGENIC.
+Effects of Overexposure:NONE SPECIFIED BY MANUFACTURER.
+Medical Cond Aggravated by Exposure:NONE KNOWN.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION-RINSE MOUTH WITH WATER SEVERAL TIMES. SKIN-REMOVE
+    COMPLETELY WITH A DRY PAPER CLOTH OR PAPER TOWEL, BEFORE WASHING
+    WITH DETERGENT AND WATER. INHALATION-MOVE PERSON TO FRESH AIR.
+    EYES-IMMEDIA TELY FLUSH EYES WITH PLENTY OF WATER FOR AT LEAST 15
+    MIN AND GET MEDICAL ATTENTION IF IRRITATION PERSISTS.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:ALL STANDARD FIREFIGHTING MEDIA.
+Fire Fighting Procedures:NONE KNOWN.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE, SCRAPE OR SOAK UP IN AN INERT MATERIAL
+    AND PUT IN A CONTAINER FOR DISPOSAL. WASH WALKING SURFACES WITH
+    DETERGENT AND WATER TO REDUCE SLIPPING HAZARD. WEAR PROPER
+    PROTECTIVE EQUIPMENT.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED WHEN NOT IN USE.
+    AVOID CONTACT WITH SKIN AND EYES.
+Other Precautions:UNCURED PRODUCT CONTACT IRRITATES EYES.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE IN A WELL VENTILATED AREA.
+Ventilation:USE ONLY IN WELL VENTILATED AREA.
+Protective Gloves:CLOTH GLOVES.
+Eye Protection:SAFETY GLASSES.
+Other Protective Equipment:NONE KNOWN
+Work Hygienic Practices:EYEWASH STATIONS.
+Supplemental Safety and Health
+USE IN A WELL VENTILATED AREA.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Evaporation Rate &amp; Reference:<1 (N-BUTYL ACETATE=1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:SOLID. ACETIC ACID ODOR. RED COLOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE KNOWN
+Stability Condition to Avoid:NONE KNOWN
+Hazardous Decomposition Products:CARBON MONOXIDE, CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:1
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,141 @@
+CHEVRON -- CPS255059, GEAR COMPOUND EP ISO 68  -- 9150-00N034064
+<pre>=====================  Product Identification  =====================
+
+Product ID:CPS255059, GEAR COMPOUND EP ISO 68
+MSDS Date:02/01/1991
+FSC:9150
+NIIN:00N034064
+MSDS Number: BPTQY
+=== Responsible Party ===
+Company Name:CHEVRON
+Box:4054
+City:RICHMOND
+State:CA
+ZIP:94804
+Country:US
+Info Phone Num:800-582-3835
+Emergency Phone Num:800-457-2022;800-424-9300(CHEMTREC)
+CAGE:0AHD1
+=== Contractor Identification ===
+Company Name:CHEVRON ENVIRONMENTAL HEALTH CENTER INC
+Address:15299 SAN PABLO AVE
+Box:4054
+City:RICHMOND
+State:CA
+ZIP:94804
+Country:US
+Phone:800-582-3835
+CAGE:0AHD1
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:LUBRICATING BASE OIL (CONTAINING ANY OF THE FOLLOWING CAS #
+    64741-88-4, 64741-89-5, 64741-96-4, 64741-97-5, (ING 2)
+Fraction by Wt: >97%
+OSHA PEL:5 MG/M3, OIL MIST
+ACGIH TLV:5 MG/M3, OIL MIST
+
+Ingred Name:ING 1:64742-01-4, 64642-52-5, 64742-53-6, 64742-54-7,
+    64742-62-7, 64742-65-0, 72623-83-7).
+RTECS #:9999999ZZ
+
+Ingred Name:ADDITIVES
+Fraction by Wt: <3%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYE/SKIN:SUBSTANCE IS NOT EXPECTED TO
+    CAUSE PRLNGD/SIGNIFICANT EYE OR SKIN IRRIT. INHAL/INGEST:SYSTEMIC
+    TOX OF THIS SUBSTANCE HAS NOT BEEN DETERMINED. HOWEVER, IT SHOULD
+    BE PRACTICALLY NON-TOX TO INTE RNAL ORGANS IF INHALED/INGESTED.
+    (THIS HAZ EVALUATION IS BASED ON DATA FROM SIMILAR MATERIALS).
+Explanation of Carcinogenicity:NOT RELEVANT
+Effects of Overexposure:SEE HEALTH HAZARDS
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH W/FRESH WATER FOR AT LEAST 15 MIN. REMOVE CONTACT
+    LENSES IF WORN. SKIN:WASH THORO W/SOAP & WATER. REMOVE & WASH
+    CONTAM CLTHG. INGEST:GIVE WATER/MILK TO DRINK & TELEPHONE FOR MED
+    ADVICE. CON SULT MED PERSONNEL BEFORE INDUCING VOMIT. IF MED ADVICE
+    CANNOT BE OBTAINED, TAKE PERSON & PROD CONTR TO NEAREST MED EMERG
+    TREATMENT CENTER/HOSPITAL. INHAL:REMOVE TO FRESH AIR. SUPPORT
+    (SUPDAT)
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:>401F,>205C
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, FOAM AND WATER FOG.
+Fire Fighting Procedures:USE NIOSH/MSHA APPROVED SCBA AND FULL
+    PROTECTIVE EQUIPMENT .
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP SOURCE OF LEAK/RELEASE. CLEAN UP RELEASES
+    AS SOON AS POSS, OBSERVE PRECAUTIONS IN PROT EQUIP. CONTAIN LIQ TO
+    PREV FURTHER CONTAM OF SOIL, SURF WATER/GROUNDWATER. CLEAN UP SMALL
+    SPILLS USING APPRO P TECHNIQUES SUCH AS SORBENT MATL/(SUPDAT)
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT WELD, HEAT OR DRILL CONTAINER.
+    RESIDUE MAY IGNITE WITH EXPLOSIVE VIOLENCE IF HEATED SUFFICIENTLY.
+Other Precautions:DO NOT USE PRESSURE TO EMPTY DRUM OR EXPLOSION MAY
+    RESULT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NO SPECIAL RESP PROT IS NORMALLY REQ. HOWEVER,
+    IF OPERATING CONDTNS CREATE AIRBORNE CONC WHICH EXCEED REC EXPOS
+    STANDARDS, USE OF AN APPRVD RESP IS REQ.
+Ventilation:USE ADEQ VENT TO KEEP AIRBORNE CONC OF MATL BELOW REC EXPOS
+    STANDARD.
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:NONE SPECIFIED BY MANUFACTURER.
+Supplemental Safety and Health
+FIRST AID PROC:BREATHING (GIVE O*2/ARTIF RESP) . SPILL PROC:PUMPING.
+    WHERE FEASIBLE AND APPROPRIATE, REMOVE CONTAMINATED SOIL. FOLLOW
+    PRESCRIBED PROCEDURES FOR REPORTING AND RESPONDING TO LARGER 
+    RELEASES.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V6
+Spec Gravity:0.88 @ 15.6C
+Solubility in Water:INSOLUBLE
+Appearance and Odor:DARK GREEN VISCOUS LIQUID.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+MAY REACT WITH STRONG OXIDIZING AGENTS, SUCH AS CHLORATES, NITRATES,
+    PEROXIDES, ETC.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NORM COMBUST FORMS CO*2, H*2O VAPS &
+    MAY PRODUCE SO*X, NO*X & OXIDES OF PHOSPHORUS. INCOMPLETE COMBUST
+    CAN PRODUCE CO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSAL MUST BE IN ACCORDANCE WITH LOCAL, STATE
+    AND FEDERAL REGULATIONS . PLACE CONTAM MATL IN DISP CONTRS & DISP
+    OF IN A MANNER CONSISTENT W/APPLIC REGS. CONTACT LOC ENVIRON/HLTH
+    AUTHORITIES F OR APPROVED DISP OF THIS MATL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

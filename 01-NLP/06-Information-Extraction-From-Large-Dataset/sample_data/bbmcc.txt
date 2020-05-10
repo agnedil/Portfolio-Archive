@@ -1,0 +1,149 @@
+DAP INC -- WELDWOOD NONFLAMMABLE CONTACT CEMENT  -- 8040-00F002958
+<pre>=====================  Product Identification  =====================
+
+Product ID:WELDWOOD NONFLAMMABLE CONTACT CEMENT
+MSDS Date:03/11/1993
+FSC:8040
+NIIN:00F002958
+MSDS Number: BBMCC
+=== Responsible Party ===
+Company Name:DAP INC
+Address:5300 HUBERVILLE RD
+Box:277
+City:DAYTON
+State:OH
+ZIP:45401-0277
+Country:US
+Info Phone Num:513-667-4461/800-543-3840
+Emergency Phone Num:513-667-4461/800-543-3840
+CAGE:90300
+=== Contractor Identification ===
+Company Name:DAP INC.
+Box:277
+City:DAYTON
+State:OH
+ZIP:45401-0277
+Country:US
+Phone:513-253-7154/800-543-3840
+CAGE:90300
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROETHANE) (CHLOROTHENE NU),
+    AEROTHANE TT, CHLOROTHENE
+CAS:71-55-6
+RTECS #:KJ2975000
+Fraction by Wt: 80-90%
+Other REC Limits:450 PPM STEL
+OSHA PEL:350 PPM
+ACGIH TLV:1910 MG/CUM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:DIETHYLENE ETHER (DIOXANE), (DIETHYLENE DIOXIDE),
+    1,4-DIOXANE (A2 ANIMAL CARCINOGEN BY NTP, IARC)
+CAS:123-91-1
+RTECS #:JG8225000
+Fraction by Wt: 1-5%
+Other REC Limits:25 PPM
+OSHA PEL:S, 100 PPM
+ACGIH TLV:S, 25 PPM; 9293
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:TRADE SECRET COMPONENT
+
+Ingred Name:VOL ORGANIC CMPD LESS WATER LESS EXEMPT SOLVENT: 180-192
+    G/L; VOC MATERIAL: 29-40 G/L; TOTAL VOLATILE: 1140-1150 G/L
+RTECS #:9999999VO
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:YES    IARC:YES	  OSHA:NO
+Health Hazards Acute and Chronic:EYES/SKIN: IRRITATION. INHALATION:
+    NOSE & RESPIRATORY TRACT IRRITATION. HARMFUL. MAY AFFECT THE BRAIN
+    OR NERVOUS SYSTEM CAUSING DIZZINESS, HEADACHE OR NAUSEA. INGESTION:
+    HARMFUL OR FATAL. VOMITING, DI ARRHEA & DEPRESSED RESPIRATION.
+Explanation of Carcinogenicity:SEE INGREDIENTS
+Effects of Overexposure:INHALATION: BRAIN & NERVOUS SYSTEM DAMAGE.
+    SKIN: DEFATTING LEADING TO DERMATITIS.
+Medical Cond Aggravated by Exposure:1,1,1-TRICHLOROETHANE: ACUTE OR
+    CHRONIC LIVER DISEASE & RHYTHM DISORDERS OF THE HEART.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/PLENTY OF WATER FOR 15 MINS. SKIN: WASH W/SOAP
+    & WATER. INHALATION: REMOVE TO FRESH AIR. INGESTION: DON'T INDUCE
+    VOMITING. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>200F
+Extinguishing Media:FOAM, CO2, DRY CHEMICALS, WATER FOG
+Fire Fighting Procedures:USE WATER SPRAY TO COOL EXPOSED SURFACES.
+Unusual Fire/Explosion Hazard:VAPORS HEAVIER THAN AIR & WILL COLLECT IN
+    LOW AREAS. USE IN A CONFINED AREA W/OUT PROPER VENTILATIONMAY LEAD
+    TO UNCONSCIOUSNESS & DEATH. CHECK ALL LOW AREAS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DIKE SPILL AREA. USE ABSORBENT MATERIAL OR
+    SCRAPE UP DRIED MATERIAL & PLACE INTO CONTAINERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM CAUSTICS & OXIDIZERS.
+    KEEP CONTAINERS AWAY FROM EXCESSIVE HEAT & FREEZING. KEEP
+    CONTAINERS TIGHTLY CLOSED WHEN NOT IN USE.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN. INTENTIONAL MISUSE BY
+    DELIBERATELY CONCENTRATING & INHALING VAPORS MAY BE HARMFUL OR
+    FATAL.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF 8-HR EXPOSURE LIMIT OR VALUE IS EXCEEDED FOR
+    ANY COMPONENT, USE AN APPROVED NIOSH/OSHA RESPIRATOR.
+Ventilation:PROVIDE SUFFICIENT MECHANICAL VENTILATION (LOCAL OR GENERAL
+    EXHAUST) TO KEEP BELOW TLV.
+Protective Gloves:SOLVENT IMPERVIOUS
+Eye Protection:GOGGLES OR SAFETY GLASSES W/SIDE SHIELDS
+Other Protective Equipment:EYEWASH & SOLVENT IMPERVIOUS APRON IF BODY
+    CONTACT W/PRODUCT OCCURS. BARRIER CREAMS MAY BE USED.
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:161F
+Vapor Pres:100
+Vapor Density:4.5
+Spec Gravity:1.30
+Evaporation Rate &amp; Reference:(ETHYL ETHER = 1): 2.6
+Appearance and Odor:OPAQUE LIQUID W/PUNGENT SOLVENT ODOR.
+Percent Volatiles by Volume:85-90%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS & CAUSTICS
+Stability Condition to Avoid:EXCESSIVE HEAT & FREEZING
+Hazardous Decomposition Products:NORMAL COMBUSTION PRODUCTS SUCH AS CO,
+    CO2 & NITROGEN OXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. DON'T REUSE EMPTY CONTAINER. LIQUIDS CANNOT BE
+    DISPOSED OF INA LANDFILL.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,151 @@
+ALPHA METALS -- SOLDER ALLOYS  -- 3439-00B010041
+<pre>=====================  Product Identification  =====================
+
+Product ID:SOLDER ALLOYS
+MSDS Date:10/07/1986
+FSC:3439
+NIIN:00B010041
+MSDS Number: BBBCZ
+=== Responsible Party ===
+Company Name:ALPHA METALS
+Address:600 ROUTE 440
+City:JERSEY CITY
+State:NJ
+ZIP:07304
+Country:US
+Info Phone Num:201 434-6778
+Emergency Phone Num:CHEMTREC 1-800-424-9300
+CAGE:96613
+=== Contractor Identification ===
+Company Name:FRYS METALS INC (FORMER ALPHA METALS)
+Address:600 ROUTE 440
+Box:City:JERSEY CITY
+State:NJ
+ZIP:07304
+Country:US
+Phone:201-434-6778
+CAGE:96613
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BISMUTH
+CAS:7440-69-9
+RTECS #:EB2600000
+
+Ingred Name:ANTIMONY  (SARA III)
+CAS:7440-36-0
+RTECS #:CC4025000
+OSHA PEL:0.5 MG/M3
+ACGIH TLV:0.5 MG SB/M3; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:INDIUM
+CAS:7440-74-6
+RTECS #:NL1050000
+OSHA PEL:0.1 MG/M3
+ACGIH TLV:0.1 MG/M3; 9192
+
+Ingred Name:SILVER  (SARA III)
+CAS:7440-22-4
+RTECS #:VW3500000
+OSHA PEL:0.01 MG/M3
+ACGIH TLV:0.1 MG/M3; 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:LEAD  (SARA III)
+CAS:7439-92-1
+RTECS #:OF7525000
+OSHA PEL:0.05 MG/M3;1910.1025
+ACGIH TLV:0.15 MG/M3;DUST 9192
+EPA Rpt Qty:1 LB
+DOT Rpt Qty:1 LB
+
+Ingred Name:TIN
+CAS:7440-31-5
+RTECS #:XP7320000
+OSHA PEL:2 MG/M3
+ACGIH TLV:2 MG/M3; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Health Hazards Acute and Chronic:INHALATION:EXCESSIVE OVEREXPOSURE MAY
+    RESULT IN AN ACUTE OR CHRONIC ILLINESS. IF SYMPTOMS ARE PRESENT,
+    THE PERSON SHOULD BE REMOVED FROM EXPOSURE AND A PHYSICIAN
+    CONSULTED.INGESTION: CALL A PHYSICIAN  OR POISON CONTROL CENTER AT
+    ONCE.
+Effects of Overexposure:EXPOSURE TO HIGH LEVELS OF AIRBORNE OR INGESTED
+    LEAD MAY PRODUCE SYMPTOMS OF
+    ANEMIA,INSOMNIA,WEAKNESS,CONSTIPATION,NAUSEA AND ABDOMINAL PAIN.
+    PROLONGED OVEREXPOSURE MAY RESULT IN KIDNEY AND NERVOUS SY STEM
+    INVOLVEMENT.
+Medical Cond Aggravated by Exposure:WOMEN OF CHILD BEARING AGE SHOULD
+    AVOID EXPOSURE TO LEAD DUE TO POST-NATAL EFFECTS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:FOR HOT METAL BURNS,EXPOSED AREA SHOULD BE COOLED WITH
+    WATER AND MEDICAL ATTENTION SOUGHT.AFTER HANDLING SOLID SOLDER
+    WIRE,BAR,ETC.,WASH THOROUGHLY WITH SOAP AND WATER.DUST VAPOR AND/OR
+    FUME ARE  NOT READILY ABSORBED THROUGH SKIN.EYES:FLUSH WITH
+    WATER,CONTACT A PHYSICIAN.DUST OR FUME MAY CAUSE IRRITATION.
+
+=====================  Fire Fighting Measures  =====================
+
+Fire Fighting Procedures:USE NIOSH APPROVED SELF-CONTAINED BREATHING
+    APPARATUS AND FULL PROTECTIVE CLOTHING IF INVOLVED IN A FIRE
+Unusual Fire/Explosion Hazard:MODERATE IN THE FORM OF DUST WHEN EXPOSED
+    TO HEAT OR HIGH TEMPERATURES,LEAD EMITS HIGHLY TOXIC FUMES
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VACUUMING IS RECOMMENDED.DO NOT USE DRY
+    SWEEPING OR COMPRESSED AIR CLEANING SYSTEMS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:FOOD AND DRINK SHOULD NOT BE CONSUMED
+    OR TOBACCO PRODUCTS USED NOR COSMETICS APPLIED IN AREAS WHERE
+    SOLDER MAY BE USED.WASH HANDS BEFORE EATING,DRINK
+Other Precautions:SINCE EMPTY CONTAINERS MAY RETAIN PRODUCT
+    RESIDUES(VAPOR,LIQUID, OR SOLID) ALL LABELED HAZARD PRECAUTIONS
+    MUST BE OBSERVED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:A NIOSH APPROVED DUST/FUME RESPIRATOR SHOULD BE
+    WORN WHERE APPLICABLE LIMITS MAY BE EXCEEDED.
+Ventilation:PROVIDE SUFFICIENT MECHANICAL(GENERAL AND/OR LOCAL
+    EXHAUST)VENTILATION TO MAINTAIN EXPOSURE BELOW TLV'S.
+Protective Gloves:GLOVES SHOULD BE WORN TO REDUCE BURN EXP
+Eye Protection:SAFETY GLASSES AND/OR FACE PROTECTION
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Solubility in Water:NO
+Appearance and Odor:SILVER-GRAY METAL,ODORLESS,VARIOUS SHAPES AND SIZES
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZING MATERIALS,ACIDS,HYDROGEN PEROXIDE
+Hazardous Decomposition Products:LEAD OXIDE FUME AND/OR LEAD
+    PARTICULATE MAY BE ENVOLVED
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SCRAP OR WASTE SOLDER SHOULD BE RECYLCED OR
+    STORE IN SEALED DRY CONTAINERS FOR LATER DISPOSAL.MUST BE IN
+    ACCORDANCE WITH FEDERAL,STATE AND LOCAL LAWS AND REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

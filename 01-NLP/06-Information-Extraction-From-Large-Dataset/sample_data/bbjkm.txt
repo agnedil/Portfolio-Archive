@@ -1,0 +1,101 @@
+B&B CHEMICAL COMPANY -- B&B 713, JET-2  -- 6850-00F001486
+<pre>=====================  Product Identification  =====================
+
+Product ID:B&B 713, JET-2
+MSDS Date:03/04/1987
+FSC:6850
+NIIN:00F001486
+MSDS Number: BBJKM
+=== Responsible Party ===
+Company Name:B&B CHEMICAL COMPANY
+Address:875 WEST 20TH STREET
+City:HIALEAH
+State:FL
+ZIP:33010
+Info Phone Num:(305) 888-5247
+Emergency Phone Num:(305) 888-5247
+CAGE:21361
+=== Contractor Identification ===
+Company Name:B & B TRITECH, INC.
+Address:875 WEST 20TH. STREET,
+Box:City:HIALEAH
+State:FL
+ZIP:33010-2310
+Country:US
+Phone:305-888-5247
+CAGE:21361
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SILICATE BINDERS (SODIUM SILICATE)
+CAS:1344-09-8
+ACGIH TLV:10 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:SKIN/EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:SKIN/EYES: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: INDUCE VOMITING. DRINK WATER. SKIN: FLUSH W/SOAP &
+    WATER. EYES: FLUSH W/PLENTY OF WATER OF AT LEAST 15 MINUTES. GET
+    MED ATTN. INHALATION: REMOVE TO FRESH AIR.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:NONE
+Extinguishing Media:WATER FOG, CO2, & DRY CHEMICAL
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB W/SAND OR INERT MATERIALS. MOP,
+    SQUEEGEE & INDUSTRIAL VACCUM.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID EXTREME TEMPERATURES & SKIN/EYE
+    CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NOT REQUIRED
+Ventilation:USE WITH ADEQUATE VENTILATION
+Protective Gloves:CHEMICAL
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:APRON
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>200F
+Spec Gravity:1.104
+Evaporation Rate &amp; Reference:SLOWER THAN ETHER
+Solubility in Water:COMPLETE
+Appearance and Odor:LIQUID MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZERS
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL, STATE, AND
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

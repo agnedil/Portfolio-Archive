@@ -1,0 +1,115 @@
+OXFORD CHEMICALS INC -- WHITE LUBE  -- 7930-00F002942
+<pre>=====================  Product Identification  =====================
+
+Product ID:WHITE LUBE
+MSDS Date:08/12/1985
+FSC:7930
+NIIN:00F002942
+MSDS Number: BBMBJ
+=== Responsible Party ===
+Company Name:OXFORD CHEMICALS INC
+Box:80202
+City:ATLANTA
+State:GA
+ZIP:30366
+Country:US
+Info Phone Num:404-452-1100
+Emergency Phone Num:404-452-1100
+Preparer's Name:LOUISE MOORE
+CAGE:06645
+=== Contractor Identification ===
+Company Name:OXFORD CHEMICALS INC
+Box:City:ATLANTA
+State:GA
+ZIP:30366
+Country:US
+Phone:404-452-1100
+CAGE:06645
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM DISTILLATE, PETROLEUM OIL, BASE OIL	       
+    AROMATIC PETROLEUM SOLVENT
+CAS:8002-05-9
+RTECS #:SE7175000
+Other REC Limits:10 MG/CUM STEL
+OSHA PEL:5 MG/CUM MIST
+ACGIH TLV:5 MG/CUM MIST
+
+Ingred Name:METHYL CHLOROFORM (1,1,1-TRICHLOROETHANE) (CHLOROTHENE NU),
+    AEROTHANE TT, CHLOROTHENE
+CAS:71-55-6
+RTECS #:KJ2975000
+Other REC Limits:450 PPM STEL
+OSHA PEL:350 PPM
+ACGIH TLV:1910 MG/CUM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+Ozone Depleting Chemical:1
+
+Ingred Name:LITHIUM GREASE
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: HARMFUL. EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH WATER FOR 15 MINUTES. SKIN: WASH W/SOAP &
+    WATER. INGESTION: DON'T INDUCE VOMITING. INHALATION: REMOVE TO
+    FRESH AIR. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:FOAM, DRY CHEMICAL, CO2
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:FLAMMABLE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SOAK UP ON APPROPRIATE ABSORBENT MATERIAL.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE WHERE TEMPERATURE EXCEEDS
+    120F.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED AS LONG AS NOT USED IN SMALL
+    CLOSED AREA.
+Ventilation:GENERAL VENTILATION IS ADEQUATE.
+Eye Protection:GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Pres:34 PSIG
+Spec Gravity:1.195
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:THICK LIQUID, TAN TO YELLOW, MILD SWEETISH ODOR
+Percent Volatiles by Volume:80%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+Stability Condition to Avoid:TEMPERATURES >120F
+Hazardous Decomposition Products:TRACE AMOUNTS OF PHOSGENE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. CONTENTS UNDER PRESSURE. DON'T PUNCTURE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,150 @@
+MALLINCKRODT INC. -- PETROLEUM ETHER  -- 6850-00F001488
+<pre>=====================  Product Identification  =====================
+
+Product ID:PETROLEUM ETHER
+MSDS Date:02/15/1989
+FSC:6850
+NIIN:00F001488
+MSDS Number: BBJKP
+=== Responsible Party ===
+Company Name:MALLINCKRODT INC.
+Address:PARIS BYPASS
+Box:M
+City:PARIS
+State:KY
+ZIP:40361
+Country:US
+Info Phone Num:606-987-7000
+Emergency Phone Num:606-987-7000 OR 314-982-5000
+CAGE:62910
+=== Contractor Identification ===
+Company Name:MALLINCKRODT SPECIALTY CHEMICALS CO
+Address:222 RED SCHOOL LANE
+Box:City:PHILLIPSBURG
+State:NJ
+ZIP:08865
+Country:US
+Phone:908-859-2151
+CAGE:62910
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:V M & P NAPHTHA, LIGROINE, MINERAL SPIRITS
+CAS:8032-32-4
+RTECS #:OI6180000
+Fraction by Wt: 100%
+Other REC Limits:STEL 400 PPM
+OSHA PEL:300 PPM
+ACGIH TLV:300 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: INTOXICATION & PERIPHERAL
+    NERVE DISORDERS, CENTRAL NERVOUS SYSTEM DEPRESSION, THROAT
+    IRRITATION. INGESTION: LOCAL IRRITATION W/BURNING SENSATION IN
+    MOUTH/ESOPHAGUS/STOMACH, VOMITING, BLURR ED VISION, DIARRHEA,
+    CHEMICAL PNEUMONIA, NERVOUS SYSTEM DISORDERS. SKIN:
+    IRRITATION/DEFAT. EYE: IRRITATION/REDNESS/PAIN.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: LOSS OF APPETITE, MUSCLE WEAKNESS,
+    IMPAIRMENT OF MOTOR ACTION, DIZZINESS, & DROWSINESS. HARMFUL &
+    FATAL. SKIN: DRYNESS & CRACKING, ASSOCIATED DERMATITIS.
+Medical Cond Aggravated by Exposure:SKIN DISORDERS OR EYE PROBLEMS, OR
+    IMPAIRED LIVER, KIDNEY, OR RESPIRATORY FUNCTION
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. IF NOT BREATHING, GIVE
+    ARTIFICIAL RESPIRATION. IF BREATHING IS DIFFICULT, GIVE OXYGEN.
+    INGESTION: ASPIRATION HAZARD. DON'T INDUCE VOMITING. IF SPONTANEOUS
+    VOMITING OCC URS, HOLD HEAD LOWER THAN HIPS. SKIN/EYES: IMMEDIATELY
+    FLUSH W/PLENTY OF WATER FOR AT LEAST 15 MINS. OBTAIN MEDICAL
+    ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:-57C/-70F
+Lower Limits:1%
+Upper Limits:6%
+Extinguishing Media:DRY CHEMICAL, C02, FOAM
+Fire Fighting Procedures:WEAR FULL PROTECTIVE CLOTHING/SCBA W/FULL
+    FACEPIECE OPERATED IN PRESSURE DEMAND/OTHER POSITIVE PRESSURE MODE.
+    USE WATER SPRAY IF LEAK/SPILL HASN'T IGNITED.
+Unusual Fire/Explosion Hazard:VAPORS FLOW ALONG SURFACE TO DISTANT
+    IGNITION SOURCE/FLASHBACK. VAPOR-AIR MIXTURE IS EXPLOSIVE AT TEMPS
+    >-70F. AUTOIGNITION TEMP: 450-500F. VIOLENT COMBUSTION.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. REMOVE IGNITION SOURCE. WEAR
+    PROTECTIVE CLOTHING. CONTAIN/RECOVER WHEN POSSIBLE. COLLECT AS
+    HAZARDOUS WASTE/ATOMIZE IN SUITABLE RCRA APPROVED COMBUSTION
+    CHAMBER/ABSORB W/VERMICULITE/DR Y SAND/EARTH. DON'T FLUSH TO SEWER.
+    FLUSH W/WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:ATTACKS SOME FORMS OF
+    PLASTIC/RUBBER/COATING. STORE IN TIGHTLY CLOSED CONTAINERS IN
+    COOL/DRY/WELL-VENTILATED AREA. AVOID EYE/SKIN/CLOTHING CONTACT.
+Other Precautions:STORE IN NITROGEN ATMOSPHERE/OUTSIDE/DETACHED. INSIDE
+    SHOULD BE IN STANDARD FLAMMABLE LIQUID STORAGE. BOND/GROUND
+    CONTAINERS TO AVOID STATIC SPARKS. DON'T SMOKE. USE NON-SPARKING
+    TOOLS. DON'T WEAR CON TACT LENSES. AVOID VAPOR INHALATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF PEL IS EXCEEDED A FULL FACEPIECE CHEMICAL
+    CARTRIDGE NIOSH APPROVED RESPIRATOR MAY BE WORN UP TO MAXIMUM USE
+    CONCENTRATION SPECIFIED BY RESPIRATOR SUPPLIER. ALTERNATIVELY, A
+    SUPPLIED AIR FULL FACEPI ECE RESPIRATOR/AIRLINED HOOD IS WORN.
+Ventilation:LOCAL/GENERAL EXHAUST: RECOMMENDED TO KEEP LIMITS DOWN.
+    LOCAL EXHAUST: PREFERRED BECAUSE IT CONTROLS EMISSIONS.
+Protective Gloves:REQUIRED
+Eye Protection:CHEMICAL SAFETY GOGGLES/FULL FACESHIELD
+Other Protective Equipment:EYE WASH FOUNTAIN, QUICK-DRENCH FACILITIES,
+    CLEAN-BODY PROTECTIVE CLOTHING
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE. WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+PRECAUTIONS (CONT'D): DANGER  DON'T OPEN UNLESS CONTENTS ARE AT ROOM
+    TEMPERATURE (72F) OR BELOW. ALLOW AT LEAST 24 HOURS FOR MATERIAL TO
+    COOL TO ROOM TEMPERATURE BEFORE OPENING CONTAINER.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:95-140F
+Melt/Freeze Pt:M.P/F.P Text:<-73C/-99F
+Vapor Pres: 40
+Vapor Density: 3
+Spec Gravity:0.63-0.68
+Evaporation Rate &amp; Reference:(BU AC = 1):  10
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CLEAR, COLORLESS LIQUID W/GASOLINE OR KEROSENE
+    ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:EXTREME HEAT, FLAMES, SUNLIGHT, SPARKS, &
+    OTHER SOURCES OF IGNITION, PHYSICAL DAMAGE
+Hazardous Decomposition Products:CO2, CO
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS. EXTREMELY FLAMMABLE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,319 @@
+basmati rice; Paymon's Mediterranean Cafe & Hookah Lounge	0.264220534327	4	5	4	4	4	4	2
+basmati rice; Market Grille Cafe	0.17029827109	4	5	5	4	2	4
+basmati rice; Fusion Mediterranean Delight	0.360526315789	5
+basmati rice; Juba Restaurant	0.259698025552	5
+chicken kabob; Pars Persian Cuisine	0.233656528992	5	5	1	2
+greek salad; Market Grille Cafe	0.189548364778	5	4	4	5	5	5	5	4	4	5	4	4	4	4	4	2	4	4	5	4	4	2	4
+chicken kabob; Pita Cafe	0.044019138756	2
+greek salad; Opa! Souvlaki	0.0839172979798	4	4
+greek salad; Pita Di Vita	0.208514492754	4
+chicken kabob; Paymon's Mediterranean Cafe & Hookah Lounge	0.151324468356	5	5	4	2
+chicken kabob; Skewers Persian Grill	0.533333333333	5
+greek salad; Gyro King	0.152003968254	4	4
+lobster bisque; Different Pointe of View	0.356126864431	4	5	5	4	5	4	5	5	4	5	4	5	5	2	2	4	5	4	4	5	4	5	5	5	4	5	5
+basmati rice; Spices Mediterranean Kitchen	0.264705882353	4
+basmati rice; Shish Kabob House	0.0356986531987	1
+chicken kabob; Greek American Grille	-0.0227272727273	5
+basmati rice; Pita House	0.299038461538	5
+chicken kabob; ZK Grill	0.112698218176	5	2	2
+chicken kabob; Cleopatra	0.070785374926	1	5
+greek salad; Greek Wraps	0.319837826856	5	5	5	4	5	5	5	4	5	5
+greek salad; Athen's Gyros & Pasta	0.297629460269	5	4	4	5	5	4
+greek salad; Its All Greek	0.297756410256	5
+greek salad; Atlantis Taverna	0.22	4
+greek salad; Mozart Cafe & Bakery	0.248767507003	4
+greek salad; Princess Mediterranean Market & Deli	0.725	5
+greek salad; Cous Cous Mediterranean Cafe	0.188119353255	4	4	4	5
+chicken kabob; Manna Mediterranean	0.188156985976	4	5	5
+greek salad; Pita Kitchen	0.196757086644	5	5	4	4	4	4	4	4	5	4	4	5	5	5	5	4	5	5	4
+chicken kabob; Parsley Mediterranean Grill	0.1	4
+greek salad; Gyro Time Restaurant	0.263996279656	4	4	4
+chicken kabob; Kabob Korner	0.13168991172	5	4	4	4	4	4	1
+chicken kabob; Gyros Express	0.0805555555556	4
+greek salad; Olives	0.179970853797	4	5	4	4	4	1	1
+basmati rice; Crave Cafe & Lounge	0.117378472222	2
+chicken kabob; Phoenicia	0.281164148352	5	5
+greek salad; Cleopatra	0.319583333333	5
+chicken kabob; The Greeks Grill	0.0958736159447	4	5	5
+greek salad; Persian King	-0.100865800866	1
+greek salad; Herb 'n Flavors	0.222619047619	2
+greek salad; Gyro House	0.211935864436	2	5	5	5
+chicken kabob; Persian Room	0.229689501948	4	4	4	5	5	5	4	5	4
+greek salad; Zoes Kitchen	0.125156513996	4	4	2	4	2	5	5	4	4	5	4	4
+basmati rice; ZK Grill	0.3828125	5
+greek salad; Pita Shack	0.222982355063	5	5	5	4
+baba ghanoush; Gyro House	0.21369047619	5
+baba ghanoush; JT Gyros	0.239166666667	5
+greek salad; Athenian Express	0.380481586866	4	4	4	4	4
+chicken kabob; Kabob Grill	0.16965387111	4	4	4	4	4	4	4	5	5	4	4
+greek salad; Ammos Mediterranean Grill	0.239527417027	4	4	2	4
+greek salad; The Mad Greek	0.204079086854	4	2	5	4	4	5
+chicken kabob; Spices Mediterranean Kitchen	-0.203648915187	1
+baba ghanoush; Cafe Afify	-0.0529761904762	2
+greek salad; Nick's Restaurant	0.0399131944444	1	4
+greek salad; Niro's Gyros	0.274704635642	4	4	4	4	5
+chicken kabob; Cafe Afify	0.108804563492	4
+baba ghanoush; Cous Cous Mediterranean Cafe	0.336570294785	4	5
+greek salad; Tzikii Pita Grill	0.364052287582	5
+baba ghanoush; The Fat Greek	0.263888888889	4
+baba ghanoush; Paymon's Mediterranean Cafe & Lounge	0.310520006614	5	5	5
+chicken kabob; Banzo	0.158333333333	4
+greek salad; My Big Fat Greek Restaurant	0.205807537134	4	4	4	5	4	4	2
+chicken kabob; Filfila Mediterranean Cafe	0.088125	4
+chicken kabob; Ambrosia Café	0.29701754386	4	4
+basmati rice; Olives	0.270535587098	5	2
+chicken kabob; Shish Kebab House	0.284549689441	5	2
+basmati rice; Royal Persis	0.199389637888	2	4
+basmati rice; Cleopatra	0.162686331471	4	4	1
+greek salad; Yalla Mediterranean Grill	0.216666666667	4
+baba ghanoush; Pitta Souvli	0.383194972138	4	5	5
+baba ghanoush; People's Bakery	0.179910714286	4
+greek salad; Persian Room	0.155583354928	4	5	5	2	2
+basmati rice; Persian Garden Cafe	0.221400629461	4	5
+chicken kabob; Opa Restaurant	0.0208976157083	4	1
+chicken kabob; Garbanzo Mediterranean Grill	0.201857864358	4
+basmati rice; Baladie Café	0.270581282752	5
+baba ghanoush; The Mad Greek	0.264310515873	5	4
+greek salad; Gyros Town	0.056755952381	2
+greek salad; Pita Jungle	0.244935851186	5	4	4
+greek salad; Baladie Café	0.238909315806	5	5	5	5	5	4	5	5	5	5	5	4	5	5	4
+chicken kabob; Mediterranean Hookah Lounge and Cafe	0.2325	4
+greek salad; Spices Mediterranean Kitchen	0.192269805358	4	2
+chicken kabob; Ammos Mediterranean Grill	-0.00454545454545	2
+greek salad; Cyprus Grill of Phoenix	0.211029813446	5	4	4	4	2	4	5	5	4	4	5	4	4	1
+greek salad; The Olive Mediterranean Grill	0.196789554531	4	4
+greek salad; Golden Valley	0.116086552337	5
+chicken kabob; Yassou	0.2325	5	5
+baba ghanoush; Pita Kitchen	0.314423076923	4
+chicken kabob; Pita Kitchen	0.348912037037	5	4	5
+greek salad; Jimmy's Krazy Greek Restaurant	0.427284146185	5	4
+greek salad; Babylon Gyros & Shish Kabobs	0.157070328283	4	4	5	4	5
+baba ghanoush; My Big Fat Greek Restaurant	0.189635964912	1	5
+baba ghanoush; Flame Kabob	0.273745690768	4	4	4	4
+greek salad; Shawarma Plus	0.340646853147	5	4
+chicken kabob; Mijana	0.0990476190476	4
+chicken kabob; Shish Cafe Inc	0.228992779982	5	4	4	2
+chicken kabob; Shish Kabob House	0.160375732897	5	4	5	2	5	5	5	2	1	5	2	5
+greek salad; Shish Kabob House	0.195375136691	5	2	4
+greek salad; ZK Grill	0.219341661666	2	4	2	5
+greek salad; Saba's Mediterranean Cuisine	0.309545454545	5	5
+greek salad; Crave Cafe & Lounge	0.168651282647	4	4
+chicken kabob; Greek Grill & Fry Co.	0.137638888889	4	5
+baba ghanoush; Saba's Mediterranean Cuisine	0.306818181818	4
+greek salad; Pitta Souvli	0.25103989986	4	4	4	4	4	5	5	4	2	5	5	5	5
+greek salad; Hedary's Mediterranean Restaurant	0.208323354192	4	4	4
+greek salad; Euro Pizza Cafe	0.325881469456	4	4	4	5
+greek salad; The Fat Greek	0.308528527873	4	4	5	4	5	4	5	4	5	5	5	5	5	4	2	5	5	5	5	5
+chicken kabob; The Great Greek	0.217013888889	5
+chicken kabob; My Big Fat Greek Restaurant	0.233511904762	5	4
+chicken kabob; Flame Kabob	0.325232919255	5
+lobster bisque; Queen Creek Olive Mill	0.25375	4
+chicken kabob; Shawarma King	0.296944444444	5
+greek salad; Gyro Time Restaurant	0.159025869963	4	1
+chicken kabob; Zaytoon Mediterranean Market and Kabob	0.212525575831	4	5	5	5	5	4	4	5	4	1	4	5	4	4	4	5	5	5
+greek salad; Khoury's Mediterranean Restaurant	0.231445171582	4	5	4	5	5	4	4	5
+greek salad; Chicago Gyros	0.263374298156	5	5	5	4	5	4	4	5	5	5	5	5	4	5	5	5
+chicken kabob; Khoury's Mediterranean Restaurant	0.199830357143	4	4
+chicken kabob; The Mediterranean Grill	0.126683608059	5	4
+chicken kabob; Athens Bar & Grill	0.207670454545	5
+greek salad; Mijana	0.287050865801	5
+chicken kabob; ZK Grill	0.269741572998	4	4	5	5	4	5	5	5	5
+chicken kabob; Bunky's Cafe	0.313566468254	5	4
+chicken kabob; Pita House	0.298447971781	4	5
+greek salad; Pita Jungle	0.00875	2
+baba ghanoush; Crave Cafe & Lounge	0.199637681159	4
+basmati rice; Sami's Gyros	0.539285714286	4
+greek salad; Pita Jungle	0.231004238817	4	5
+basmati rice; Al-Hana	0.181145833333	4
+basmati rice; Fresh Kabob	0.265625	5
+greek salad; Market Grille Cafe	0.227891416323	2	4	5	5	4	4	4	4	4	5	2	4	1	2	5
+basmati rice; Al's Gyro's	0.279220779221	5
+chicken kabob; The Village Mediterranean Grill	0.112170518875	2	4
+baba ghanoush; Tzikii Pita Grill	0.364052287582	5
+chicken kabob; Athen's Gyros & Pasta	0.224768518519	2
+basmati rice; Rania's Kabob Grill	0.291173486957	5	5	5	5
+greek salad; Pars Persian Cuisine	0.315848214286	4
+baba ghanoush; Ali Baba Cuisine	0.364285714286	4
+baba ghanoush; Pita Jungle	-0.196875	2
+greek salad; My Big Fat Greek Restaurant	0.170746451472	2	4	4	2	4	4	2	4	4	2
+baba ghanoush; Good Fellas Grill	0.309567136687	5	5
+baba ghanoush; Paprika Mediterranean Experience	0.287485795455	5	5
+greek salad; Pita Jungle	0.235822813143	4	5	5	5	4	5	4	4	4
+lobster bisque; Bunky's Cafe	0.540297619048	5
+greek salad; Eden's Grill Inn	0.229257825508	5	5	5	5
+baba ghanoush; Zaytoon Mediterranean Market and Kabob	0.336305683564	5
+greek salad; Pita Jungle	0.330647964337	5	5	4	5	4
+greek salad; Pita Heaven	0.136863146103	4	4	5	4	1	5
+basmati rice; Saba's Mediterranean Cuisine	0.424285714286	4
+basmati rice; Saba's Mediterranean Cuisine	0.292222222222	4
+greek salad; Daphne's California Greek	0.169091710758	2	4	2
+chicken kabob; Dooby's Grill Cafe	0.0384166666667	5
+chicken kabob; Zoes Kitchen	0.224202215608	4	5	5	5
+greek salad; Gyro Express	0.255636592955	4	4	4	4	5	5	4	4	4
+greek salad; Mediterranean Cafe	0.396329365079	4	5
+greek salad; Sage	0.255426406926	5
+basmati rice; Olive Tree Market & Grill	0.292634755291	5	5
+baba ghanoush; Pita Jungle	0.282586065987	4	4	5	4
+greek salad; Naya Mediterranean Cuisine	0.248352380952	5
+chicken kabob; Greek Bistro	0.0626264880952	4	5
+chicken kabob; Market Grille Cafe	0.20625	4
+chicken kabob; Royal Cuisine	0.181698717949	5	2
+greek salad; Pita Jungle	0.318611111111	5	4
+chicken kabob; Daphne's California Greek	0.00833333333333	4
+greek salad; Georges Gyros	0.311345793226	5	4	5	4	5	4	4	4	4	4	4	5	5
+greek salad; Pita Jungle	0.136111111111	4	4
+greek salad; My Big Fat Greek Restaurant	0.256557345277	4	2	4	4	4	5	1	2	4
+lobster bisque; Bon Chef Cafe	0.311984246682	4	4	5	5	5	5	4	5	5	5	1	5	5	2	4	1	4	4	4
+baba ghanoush; Bunky's Cafe	0.252800734619	5
+chicken kabob; Bunky's Cafe	0.0496954365079	4
+chicken kabob; Paprika Mediterranean Experience	0.0861111111111	4
+chicken kabob; Herb 'n Flavors	0.235283564815	5
+greek salad; Z's Greek	0.227159285962	5	4	5	4	5	4	5	5	4	5	5	4	4	5	5	4	4	5	4	5	5	5	4	4	4	5	5	4	4	5	4	5	4	4	5	4	4
+greek salad; Zoes Kitchen	0.12137199582	5	5	4
+greek salad; Greekfest Restaurant	0.209362500739	2	4	4	4
+chicken kabob; Garden Cafe	0.138708381566	4	5	2
+basmati rice; ZK Grill	0.267633583506	4	5	4	5	5
+greek salad; Gyros Palace	0.398134920635	5
+greek salad; Parthenon Gyros Restaurant	0.1325	4
+greek salad; Pita Jungle	0.154671036809	4	4	5	1	4	4
+baba ghanoush; Hedary's Mediterranean Restaurant	0.28210978836	4
+chicken kabob; Rania's Kabob Grill	0.201707006824	5	5	5	5
+greek salad; The Golden Greek	0.266622189418	5	4	5	4	5	5	2	4	5	4
+chicken kabob; Stephano's Greek & Mediterranean Grill	0.166914618946	5	4	5	5
+greek salad; My Big Fat Greek Restaurant	0.259675587895	1	4	4	4	5	4	4	5	5	4	4	5	4
+greek salad; Shish Kabobs & Gyros	0.222234113452	4	4	4
+chicken kabob; Kabob Factory	0.0141798941799	2
+greek salad; FEZ	0.516904761905	5
+chicken kabob; Pita Shack	0.21560515873	4	5
+baba ghanoush; Naya Mediterranean Cuisine	0.248352380952	5
+greek salad; The Greeks Grill	0.216033247016	4	4	5	4	5	4	4	5	5
+greek salad; Pita Jungle	0.292133739784	4	4	2	4	2
+chicken kabob; Shish Kabobs & Gyros	0.211028311966	4	4	5	5
+greek salad; My Big Fat Greek Restaurant	0.15210271893	5	5	5	4	1	1
+greek salad; Phoenicia	0.290765878898	4	4
+baba ghanoush; Pita Jungle	0.189750421949	2	5
+basmati rice; The Village Mediterranean Grill	0.220597484277	4
+greek salad; Pita House	0.0899034992785	1	4	5	4	1	4
+chicken kabob; Princess Mediterranean Market & Deli	0.232825502044	5	5	5	4
+greek salad; Greek Bistro	0.248557723053	5	2	4	4	4	5	5
+greek salad; Pita Jungle	0.276931619147	4	4	4	4	4	4
+greek salad; Bacchanal Ristorante	0.230565619968	4	2
+chicken kabob; Gyrosology	0.226315789474	5
+chicken kabob; Baladie Café	0.266071428571	5
+chicken kabob; Olive Tree Market & Grill	0.117565526295	5	4	5	4	2
+greek salad; Munich Gyros	0.266203703704	4	5	4
+basmati rice; Kabob Korner	0.0937281468531	4
+baba ghanoush; The Mediterranean Grill	0.387375541126	4
+greek salad; My Big Fat Greek Restaurant	0.1384447965	5	1	5	5	4	4	4	4	1	4	1	2	1
+baba ghanoush; Marrakech Moroccan Restaurant	0.316325	4
+greek salad; Crazy Jim's	0.138250161872	5	5	4	5	5	4	5	4	4	4	1
+greek salad; Parsley Mediterranean Grill	0.267418300654	5	4	2
+greek salad; Athens Bar & Grill	0.346760900719	4	5	5	5
+chicken kabob; Olives	0.128174603175	4
+greek salad; Greek American Grille	0.134082086895	4	5	4
+greek salad; Mediterranean House	0.248701298701	4
+greek salad; Opa Restaurant	0.155006001698	4	5	1	5	1	4
+chicken kabob; Juba Restaurant	0.259698025552	5
+greek salad; Zita Mediterranean Eatery	0.313333333333	1
+baba ghanoush; Chicago Gyros	0.272505346216	4	4	5	4
+chicken kabob; Royal Persis	0.12625	5
+baba ghanoush; Pita Jungle	0.2384	4
+greek salad; Paymon's Mediterranean Cafe & Lounge	0.28226379901	5	4	4	4	4	5	4	4	5	5	4
+chicken kabob; King Gyros	0.249652777778	5	4
+basmati rice; Chicago Gyros	0.363118912338	5
+chicken kabob; Hedary's Mediterranean Restaurant	0.272868217054	4
+baba ghanoush; Stephano's Greek & Mediterranean Grill	0.538888888889	5
+greek salad; Saba's Mediterranean Cuisine	0.377962962963	4
+greek salad; My Big Fat Greek Restaurant	-0.00867607526882	1	2
+chicken kabob; Ali Baba Cuisine	0.163095238095	5
+chicken kabob; Greek Wraps	0.25298010227	5	5	4	4	5	5	5	4
+basmati rice; Zaytoon Mediterranean Market and Kabob	0.218624543195	4	4	4	4	4	5	5
+basmati rice; Banzo	0.176028806584	5
+greek salad; Olive & Ivy	0.32410130719	4
+chicken kabob; Cous Cous Mediterranean Cafe	0.232040494228	5	5	5
+greek salad; Oliveo Grill	0.251168568122	5	4	4
+chicken kabob; Saba's Mediterranean Cuisine	0.252857142857	4
+greek salad; La Piccola Cucina	0.184439336447	1	4	5	2	2	4	1	2	4
+greek salad; Chicago Gyros	0.200340136054	5
+chicken kabob; Eden's Grill Inn	0.231980112619	5	5	5	5	5	5	5
+baba ghanoush; Pita House	0.386865662932	5	4
+greek salad; Mediterranean Gate	0.175925925926	4
+greek salad; Kabob Korner	0.129601284133	2	4	2	5
+basmati rice; Parsley Mediterranean Grill	0.149131313131	5	2
+greek salad; Kyklos Greek Cafe	0.19922989548	4	4	5
+greek salad; Pita Jungle	0.239396202363	4	4	5	4	2	2	4	4	5	5
+basmati rice; Kabob Factory	0.420512820513	5
+chicken kabob; MAYA New York Pizza, Bar & Grill	0.230395545315	5	4
+baba ghanoush; Shawarma King	0.417	5
+greek salad; Pita Jungle	0.304061645591	4	4	4	5
+greek salad; King Gyros	0.491111111111	5	4
+greek salad; Gyrosology	0.237638888889	5
+greek salad; Mediterranean Hookah Lounge and Cafe	0.319915674603	5
+greek salad; The Munchies Cafe	0.14427902864	2	4
+greek salad; Romeo's Euro Cafe	0.1275	4
+chicken kabob; Paymon's Mediterranean Cafe & Lounge	0.0339552808303	4	2	5	1
+chicken kabob; Saba's Mediterranean Cuisine	0.110203059286	2
+lobster bisque; Marbella Tapas	0.48	4
+greek salad; My Big Fat Greek Restaurant	0.401128472222	4	4
+greek salad; Euro Grill	0.200156641604	5
+greek salad; Good Fellas Grill	0.296733821734	5
+chicken kabob; Zoes Kitchen	-0.0536463163591	4	5	4	4	5	4	4	4	1	4
+greek salad; Gyros Express	0.197343808455	2	4
+chicken kabob; Pita Jungle	0.101061111111	5
+greek salad; Manna Mediterranean	0.118598498086	5	1
+greek salad; Dino's Greek and Italian Grill	0.242128393415	5	4	4	4	5	4
+baba ghanoush; Garbanzo Mediterranean Grill	0.149837662338	4
+chicken kabob; Yalla Mediterranean Grill	0.136599729339	5	5
+greek salad; Marbella Tapas	0.151470588235	2
+greek salad; Greek Gyros	0.234429993334	2	5	4	4	4	4	5
+basmati rice; Eden's Grill Inn	0.297175543974	4	4	5	4	4
+baba ghanoush; Al-Hana	0.279467914192	4	4
+basmati rice; Shish Cafe Inc	0.10119047619	5
+chicken kabob; Naya Mediterranean Cuisine	0.112321428571	4
+greek salad; George's Famous Gyros	0.208373168039	4	4	5	4	4	5	4	4	4	5	4	5	4	5	5	5	2	5
+basmati rice; Kabob Grill	0.0174380952381	4
+baba ghanoush; Flame Kabob	0.27375	4
+basmati rice; Market Grille Cafe	0.277548871197	4	4	4	4	2	4	4
+greek salad; Filfila Mediterranean Cafe	0.214956399654	4	5	5	5
+greek salad; Ambrosia Café	0.319166666667	4	4
+chicken kabob; Market Grille Cafe	0.181247715643	5	5	5
+baba ghanoush; Khoury's Mediterranean Restaurant	0.46873015873	5
+basmati rice; Persian Room	0.255746859916	4	4	4	5	4	5	4	5	4	2	5	4	5	5	4	5	5
+chicken kabob; Crazy Pita Rotisserie & Grill	0.262840909091	5
+chicken kabob; Babylon Gyros & Shish Kabobs	0.183994230769	4	4	5	5	4
+chicken kabob; Husnu's	0.339268707483	4
+baba ghanoush; The Nile	0.395454545455	5
+greek salad; Yassou	0.225846474035	5	5	4	5	5	5	2	5	5	5	5	5	5	4	5	1	5	4	4	5	4
+basmati rice; Pars Persian Cuisine	0.206753641595	5	5	2	5	5	5	4	2	4
+chicken kabob; Greek Patio	0.270588235294	4
+greek salad; Greek Patio	0.136827209596	1	4	2	4
+chicken kabob; Stephano's Greek & Mediterranean Grill	0.313877344877	4	4	5	5
+greek salad; Olympic Flame	0.203067801339	4	4	4	5
+greek salad; Meet Point Restaurant	0.00261904761905	2
+greek salad; Paisley Violin	0.333225524476	4	4
+chicken kabob; Good Fellas Grill	0.221249424703	5	4	5	5	5	4	5	5	5
+chicken kabob; Flame Kabob	0.240342050582	2	4	4	4
+baba ghanoush; Herb 'n Flavors	0.434546783626	4	4
+baba ghanoush; Saba's Mediterranean Cuisine	0.07625	4
+greek salad; Gyro House	0.329028802717	2	5	5	4	5	5
+chicken kabob; Marbella Tapas	0.273727139894	5	5	5	5
+chicken kabob; Crazy Pita Rotisserie & Grill	0.237085137085	5
+greek salad; Sultan's Grill	0.197799897471	2	5
+greek salad; Olive Tree Market & Grill	0.203210903859	5	4	4	5	2	5	5	5
+greek salad; Gyro's House	0.199571874204	4	5	5	5
+greek salad; Pita Cafe	0.14854412481	1	5	5	2	5
+basmati rice; Bunky's Cafe	0.0496954365079	4
+greek salad; Paymon's Mediterranean Cafe & Hookah Lounge	0.330884775627	4	5	4	4	5
+greek salad; Stephano's Greek & Mediterranean Grill	0.326177592249	4	5
+chicken kabob; Fresh Kabob	0.155313637955	4	5	5	4
+greek salad; The Great Greek	0.234782539329	4	5	5	5	4	5	4	4	4	4	5	5	5	4	5	5	5	5	5	5	5	5	4	5	5	5	5	5	5	5	5	2	5	4	5	4	5	4	5	5	4	5	4	4
+greek salad; George's Famous Gyros & Pasta	0.207063472457	5	5	5	4	4	5
+baba ghanoush; Pita Jungle	0.157339774423	5	2
+baba ghanoush; Eden's Grill Inn	0.51875	5
+greek salad; Stephano's Greek & Mediterranean Grill	0.110748447516	4	4
+baba ghanoush; Princess Mediterranean Market & Deli	0.297123015873	4
+lobster bisque; Cous Cous Mediterranean Cafe	0.180769230769	4
+baba ghanoush; Fresh Kabob	0.198237529097	5	4	5	5
+greek salad; Sami's Gyros	0.24751965559	4	4	4	4
+basmati rice; Paymon's Mediterranean Cafe & Lounge	0.232455320843	2	5	4	4	5	4	5
+greek salad; Greek Grill & Fry Co.	0.0689943389943	2	5	5

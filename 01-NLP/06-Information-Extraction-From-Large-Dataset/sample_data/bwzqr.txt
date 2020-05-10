@@ -1,0 +1,150 @@
+W R GRACE & CO. -- 1-050-58-0202 SILICA GEL  -- 6850-01-054-8898
+<pre>=====================  Product Identification  =====================
+
+Product ID:1-050-58-0202 SILICA GEL
+MSDS Date:01/01/1990
+FSC:6850
+NIIN:01-054-8898
+MSDS Number: BWZQR
+=== Responsible Party ===
+Company Name:W R GRACE & CO.
+Address:10 E BALTIMORE STREET
+Box:2117
+City:BALTIMORE
+State:MD
+ZIP:21202-1630
+Country:US
+Info Phone Num:301-659-9000
+Emergency Phone Num:301-874-2009:301-659-9058
+Preparer's Name:DAVISON CHEMICAL DIVISION
+CAGE:16210
+=== Contractor Identification ===
+Company Name:AIR PRODUCTS AND CHEMICALS INC
+Address:7201 HAMILTON BLVD
+Box:City:ALLENTOWN
+State:PA
+ZIP:18195-1501
+Country:US
+Phone:800-345-3148/ 800-752-1597
+CAGE:00742
+Company Name:HENDERSON SALES AND SERVICE INC
+Box:830876
+City:RICHARDSON
+State:TX
+ZIP:75083
+Country:US
+CAGE:62618
+Company Name:SUD-CHEMIE INC/SUB CHEMIE PERFORMANCE PACKAGING DIV
+Address:926 SOUTH 8TH ST (FORMALLY HUMIDIAL)
+Box:610
+City:COLTON
+State:CA
+ZIP:92324-0610
+Country:US
+Phone:909-825-1793
+CAGE:00334
+Company Name:W R GRACE & CO. DAVISON CHEMICAL DIVISION
+Address:10 E BALTIMORE STREET
+Box:2117
+City:BALTIMORE
+State:MD
+ZIP:21202-1630
+Country:US
+Phone:410-659-9000
+CAGE:16210
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AMORPHOUS SILICA (SILICA GEL)
+CAS:63231-67-4
+RTECS #:VV7322000
+Fraction by Wt: 100%
+Other REC Limits:NONE SPECIFIED
+OSHA PEL:6 MG/M3
+ACGIH TLV:10 MG/M3
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT) IS > 31600 MG/KG
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EXPOSURE MAY CAUSE IRRITATION OF THE
+    SKIN AND MUCOUS MEMBRANE OF NOSE AND THROAT DUE TO DRYING ACTION.
+Explanation of Carcinogenicity:NO INGREDIENT OF A CONCENTRATION OF 0.1%
+    OR GREATER IS LISTED AS A CARCINOGEN OR SUEPECTED CARCINOGEN.
+Effects of Overexposure:SKIN-IRRITATION. INHALED-IRRITATION OF MUCOUS
+    MEMBRANES OF NOSE AND THROAT.
+Medical Cond Aggravated by Exposure:NONE SPECIFIED BY MANUFACTURER.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES-IMMEDIATELY FLUSH WITH LOTS OF WATER FOR 15 MINUTES. SEE
+    DOCTOR IF SYMPTOMS PERSIST. SKIN-WASH WITH SOAP & WATER.
+    INHALED-REMOVE TO FRESH AIR. INGESTION-MATERIAL WILL PASS THROUGH
+    THE BODY NORMAL LY.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:DLA-HMIS: WEAR SELF-CONTAINED BREATHING
+    APPARATUS AND FULL PROTECTIVE GEAR.
+Unusual Fire/Explosion Hazard:NONE SPECIFIED BY MANUFACTURER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP OR VACUUM UP OR FLUSH TO SEWER.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP TIGHTLY SEALED TO PROTECT
+    QUALITY.
+Other Precautions:WHEN POURING INTO A CONTAINER OF FLAMMABLE LIQUID,
+    GROUND AND BOND BOTH CONTAINERS ELECTRICALLY TO PREVENT A STATIC
+    ELECTRIC SPARK.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:IF ENGINEERING CONTROLS FAIL OR NON-ROUTINE USE
+    OR AN EMERGENCY OCCURS; WEAR AN MSHA/NIOSH APPROVED RESPIRATOR OR
+    AN AIR-SUPPLIED RESPIRATOR OR SCBA, AS REQUIRED. USE IN ACCORDANCE
+    WITH 29 CFR 1910.13 4 AND MANUFACTURER'S RECOMMENDATIONS.
+Ventilation:NONE SPECIFIED BY MANUFACTURER.
+Protective Gloves:CLOSE WEAVE COTTON GLOVES.
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER. DLA-HMIS:
+    EYE WASH STATION.
+Work Hygienic Practices:DLA-HMIS: WASH HANDS AFTER HANDLING AND BEFORE
+    EATING, DRINKING, OR SMOKING. LAUNDER CONTAMINATED CLOTHES BEFORE
+    REUSE.
+Supplemental Safety and Health
+MSDS PROVIDED TO DGSC FOR CONTRACT SP0450-95-M-PP26 BY CAGE 00334.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Spec Gravity:2.1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:DRY WHITE GRANULES, FINE SIZED; ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+HYDROGEN FLUORIDE.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:NONE SPECIFIED BY MANUFACTURER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN AN APPROVED LANDFILL IN ACCORDANCE
+    WITH LOCAL, STATE AND FEDERAL REGULATIONS. COVER PROMPTLY TO AVOID
+    BLOWING OF DUST.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

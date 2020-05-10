@@ -1,0 +1,101 @@
+MICHIGAN CHROME & CHEMICAL COMPANY -- MICCROLSOL E-1005 ORANGE (SEE SUPP DATA)  -- 8030-00N004080
+<pre>=====================  Product Identification  =====================
+
+Product ID:MICCROLSOL E-1005 ORANGE (SEE SUPP DATA)
+MSDS Date:01/01/1985
+FSC:8030
+NIIN:00N004080
+MSDS Number: BCLMT
+=== Responsible Party ===
+Company Name:MICHIGAN CHROME & CHEMICAL COMPANY
+Emergency Phone Num:313-921-3711
+CAGE:01058
+=== Contractor Identification ===
+Company Name:MICHIGAN CHROME AND CHEMICAL CO
+Address:8615 GRINNELL AVE
+Box:City:DETROIT
+State:MI
+ZIP:48213-1152
+Country:US
+CAGE:01058
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:POLY VINYL CHLORIDE RESIN
+RTECS #:KV0350000
+Fraction by Wt: 58.8%
+
+Ingred Name:MIXED PLASTICIZERS
+Fraction by Wt: 32.5%
+
+Ingred Name:MIXED STABILIZERS
+Fraction by Wt: 2.75%
+
+Ingred Name:PIGMENTS (WHEN COMBINED WITH FILLER 6% OF PRODUCT)
+
+Ingred Name:FILLER
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:NONE KNOWN
+
+=======================  First Aid Measures  =======================
+
+First Aid:WIPE OFF EXCESS & WASH WITH SOAP & WATER.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:SEE SUPP DATA
+Extinguishing Media:CO*2,DRY CHEMICAL, FOG WATER SPRAY, FOAM
+Fire Fighting Procedures:SAME AS FOR OIL AND PAINT FIRES.
+Unusual Fire/Explosion Hazard:DENSE BLACK CHOKING SMOKE FORMS AT VERY
+    HIGH TEMPS. POSSIBLE CHLORIDES, SUCH AS HCL.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE OR SCRAP YP & SWEEP DOWN WITH ABSORBENT
+    COMPOUND
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM HEAT. KEEP COVERED
+    WHEN NOT IN USE. IF STORED OUTSIDE IN WINTER, LET PRODUCT WARM UP
+    TO AT LEAST 60F; 16C BEFORE USING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:MANUFACTURER STATES NONE REQUIRED
+Ventilation:LOCAL EXHAUST FROM CURING OVEN ALSO PAINT OVEN TYPE
+Protective Gloves:RECOMMENDED
+Eye Protection:RECOMND FOR SPLASHING
+Supplemental Safety and Health
+OTHER TRADE NAME:MICCROSOL E-1236 ORANGE. FLASHPOINT: PRODUCT CURES
+    BEFORE REACHING FLASHPOINT.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:B.P. Text:NONE
+Spec Gravity:1.236
+Solubility in Water:TRACE
+Appearance and Odor:VISCOUS ORANGE LIQ, CHARACTERISTIC ODOR OF VINYL
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+WATER, PAINT THINNERS & OXIDIZING AGENTS
+Hazardous Decomposition Products:HCL AT TEMPS >800F.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MANUFACTURER RECOMMENDS APPROVED LANDFILL.
+    DISPOSAL METHODS MUST BE IAW FEDERAL. STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,246 @@
+   Natural-gas processing
+
+   Natural-gas processing is a complex industrial process designed to clean raw natural gas by separating
+   impurities and various [6]non-methane hydrocarbons and fluids to produce what is known as pipeline quality dry
+   natural gas.^[7][1]
+
+   Natural-gas processing begins at the well head. The composition of the raw natural gas extracted from producing
+   wells depends on the type, depth, and location of the underground deposit and the geology of the area. Oil and
+   natural gas are often found together in the same reservoir. The natural gas produced from oil wells is
+   generally classified as associated-dissolved, meaning that the natural gas is associated with or dissolved in
+   crude oil. Natural gas production absent any association with crude oil is classified as “non-associated.” In
+   2009, 89 percent of U.S. wellhead production of natural gas was non-associated.^[8][2]
+
+   Natural-gas processing plants purify raw [9]natural gas by removing common contaminants such as water,
+   [10]carbon dioxide (CO[2]) and [11]hydrogen sulfide (H[2]S). Some of the substances which contaminate natural
+   gas have economic value and are further processed or sold. A fully operational plant delivers pipeline-quality
+   dry natural gas that can be used as [12]fuel by residential, commercial and industrial consumers.
+
+Contents
+
+     * [13]1 Types of raw-natural-gas wells
+     * [14]2 Contaminants in raw natural gas
+     * [15]3 Description of a natural-gas processing plant
+          + [16]3.1 Helium recovery
+     * [17]4 Consumption
+     * [18]5 Applications of natural gas
+     * [19]6 See also
+     * [20]7 References
+     * [21]8 External links
+     * [22]9 Further reading
+
+Types of raw-natural-gas wells[[23]edit]
+
+   Raw natural gas comes primarily from any one of three types of wells: crude oil wells, gas wells, and
+   condensate wells.
+
+   Natural gas that comes from crude oil wells is typically called associated gas. This gas can have existed as a
+   gas cap above the crude oil in the underground formation, or could have been dissolved in the crude oil.
+
+   Natural gas from gas wells and from condensate wells, in which there is little or no crude oil, is called
+   non-associated gas. Gas wells typically produce only raw natural gas, while condensate wells produce raw
+   natural gas along with other low molecular weight hydrocarbons. Those that are liquid at ambient conditions
+   (i.e., [24]pentane and heavier) are called [25]natural gas condensate (sometimes also called [26]natural
+   gasoline or simply condensate).
+
+   Natural gas is called sweet gas when relatively free of [27]hydrogen sulfide; gas that does contain hydrogen
+   sulfide is called [28]sour gas. Natural gas, or any other gas mixture, containing significant quantities of
+   hydrogen sulfide, carbon dioxide or similar acidic gases, is called [29]acid gas
+
+   Raw natural gas can also come from methane deposits in the pores of coal seams, and especially in a more
+   concentrated state of [30]adsorption onto the surface of the coal itself. Such gas is referred to as coalbed
+   gas or [31]coalbed methane ([32]coal seam gas in Australia). Coalbed gas has become an important source of
+   energy in recent decades.
+
+Contaminants in raw natural gas[[33]edit]
+
+   Raw natural gas typically consists primarily of [34]methane (CH[4]), the shortest and lightest [35]hydrocarbon
+   molecule. It also contains varying amounts of:
+     * Heavier gaseous hydrocarbons: [36]ethane (C[2]H[6]), [37]propane (C[3]H[8]), [38]normal butane
+       (n-C[4]H[10]), [39]isobutane (i-C[4]H[10]), [40]pentanes and even higher [41]molecular weight hydrocarbons.
+       When processed and purified into finished by-products, all of these are collectively referred to as Natural
+       Gas Liquids or NGL.
+     * [42]Acid gases: [43]carbon dioxide (CO[2]), [44]hydrogen sulfide (H[2]S) and [45]mercaptans such as
+       [46]methanethiol (CH[3]SH) and [47]ethanethiol (C[2]H[5]SH).
+     * Other gases: [48]nitrogen (N[2]) and [49]helium (He).
+     * Water: [50]water vapor and liquid water. Also dissolved salts and dissolved gases (acids).
+     * Liquid hydrocarbons: perhaps some [51]natural-gas condensate (also referred to as casinghead gasoline or
+       natural gasoline) and/or [52]crude oil.
+     * [53]Mercury: very small amounts of mercury primarily in elemental form, but chlorides and other species are
+       possibly present.^[54][3]
+     * [55]Naturally occurring radioactive material (NORM): natural gas may contain [56]radon, and the
+       [57]produced water may contain dissolved traces of [58]radium, which can accumulate within piping and
+       processing equipment.^[[59]citation needed] This can render piping and equipment radioactive over time.
+
+   The raw natural gas must be purified to meet the quality standards specified by the major [60]pipeline
+   transmission and distribution companies. Those quality standards vary from pipeline to pipeline and are usually
+   a function of a pipeline system's design and the markets that it serves. In general, the standards specify that
+   the natural gas:
+     * Be within a specific range of heating value (caloric value). For example, in the United States, it should
+       be about 1035 ± 5% [61]BTU per cubic foot of gas at 1 atmosphere and 60°F (41 [62]MJ ± 5% per cubic metre
+       of gas at 1 atmosphere and 15.6°C).
+     * Be delivered at or above a specified [63]hydrocarbon dew point temperature (below which some of the
+       hydrocarbons in the gas might condense at pipeline pressure forming liquid slugs that could damage the
+       pipeline).
+     * Dew-point adjustment serves the reduction of the concentration of water and heavy hydrocarbons in natural
+       gas to such an extent that no condensation occurs during the ensuing transport in the pipelines
+     * Be free of particulate solids and liquid water to prevent erosion, corrosion or other damage to the
+       pipeline.
+     * Be dehydrated of water vapor sufficiently to prevent the formation of methane hydrates within the gas
+       processing plant or subsequently within the sales gas transmission pipeline. A typical water content
+       specification in the U.S. is that gas must contain no more than seven pounds of water per million
+       [64]standard cubic feet (MMSCF) of gas.^[65][4]^[66][5]
+     * Contain no more than trace amounts of components such as hydrogen sulfide, carbon dioxide, mercaptans, and
+       nitrogen. The most common specification for hydrogen sulfide content is 0.25 grain H[2]S per 100 cubic feet
+       of gas, or approximately 4 ppm. Specifications for CO[2] typically limit the content to no more than two or
+       three percent.
+     * Maintain mercury at less than detectable limits (approximately 0.001 [67]ppb by volume) primarily to avoid
+       damaging equipment in the gas processing plant or the pipeline transmission system from mercury
+       amalgamation and embrittlement of aluminum and other metals.^[68][3]^[69][6]^[70][7]
+
+Description of a natural-gas processing plant[[71]edit]
+
+   There are a great many ways in which to configure the various [72]unit processes used in the processing of raw
+   natural gas. The [73]block flow diagram below is a generalized, typical configuration for the processing of raw
+   natural gas from non-associated gas wells. It shows how raw natural gas is processed into sales gas pipelined
+   to the end user markets.^[74][8]^[75][9]^[76][10]^[77][11]^[78][12] It also shows how processing of the raw
+   natural gas yields these byproducts:
+     * Natural-gas condensate
+     * [79]Sulfur
+     * Ethane
+     * Natural-gas liquids (NGL): propane, butanes and C[5]+ (which is the commonly used term for pentanes plus
+       higher molecular weight hydrocarbons)^[80][13]^[81][14]^[82][15]
+
+   Raw natural gas is commonly collected from a group of adjacent wells and is first processed at that collection
+   point for removal of free liquid water and natural gas condensate. The condensate is usually then transported
+   to an oil refinery and the water is disposed of as wastewater.
+
+   The raw gas is then pipelined to a gas processing plant where the initial purification is usually the removal
+   of acid gases (hydrogen sulfide and carbon dioxide). There are many processes that are available for that
+   purpose as shown in the flow diagram, but [83]amine treating is the process that was historically used.
+   However, due to a range of performance and environmental constraints of the amine process, a newer technology
+   based on the use of polymeric membranes to separate the carbon dioxide and hydrogen sulfide from the natural
+   gas stream has gained increasing acceptance. Membranes are attractive since no reagents are consumed.^[84][16]
+
+   The acid gases, if present, are removed by membrane or amine treating can then be routed into a sulfur recovery
+   unit which converts the hydrogen sulfide in the acid gas into either elemental sulfur or sulfuric acid. Of the
+   processes available for these conversions, the [85]Claus process is by far the most well known for recovering
+   elemental sulfur, whereas the conventional [86]Contact process and the WSA ([87]Wet sulfuric acid process) are
+   the most used technologies for recovering [88]sulfuric acid.
+
+   The residual gas from the Claus process is commonly called tail gas and that gas is then processed in a tail
+   gas treating unit (TGTU) to recover and recycle residual sulfur-containing compounds back into the Claus unit.
+   Again, as shown in the flow diagram, there are a number of processes available for treating the Claus unit tail
+   gas and for that purpose a WSA process is also very suitable since it can work autothermally on tail gases.
+
+   The next step in the gas processing plant is to remove water vapor from the gas using either the regenerable
+   [89]absorption in liquid [90]triethylene glycol (TEG),^[91][5] commonly referred to as [92]glycol dehydration,
+   deliquescent chloride desiccants, and or a [93]Pressure Swing Adsorption (PSA) unit which is regenerable
+   [94]adsorption using a solid adsorbent.^[95][17] Other newer processes like [96]membranes may also be
+   considered.
+
+   Mercury is then removed by using adsorption processes (as shown in the flow diagram) such as [97]activated
+   carbon or regenerable [98]molecular sieves.^[99][3]
+
+   Although not common, nitrogen is sometimes removed and rejected using one of the three processes indicated on
+   the flow diagram:
+     * [100]Cryogenic process ([101]Nitrogen Rejection Unit),^[102][18] using low temperature [103]distillation.
+       This process can be modified to also recover helium, if desired (see also [104]industrial gas).
+     * Absorption process,^[105][19] using lean oil or a special solvent^[106][20] as the absorbent.
+     * Adsorption process, using activated carbon or molecular sieves as the adsorbent. This process may have
+       limited applicability because it is said to incur the loss of butanes and heavier hydrocarbons.
+
+   The next step is to recover the natural gas liquids (NGL) for which most large, modern gas processing plants
+   use another cryogenic low temperature distillation process involving expansion of the gas through a
+   [107]turbo-expander followed by distillation in a demethanizing [108]fractionating column.^[109][21]^[110][22]
+   Some gas processing plants use lean oil absorption process^[111][19] rather than the cryogenic turbo-expander
+   process.
+
+   The recovered NGL stream is sometimes processed through a fractionation train consisting of three distillation
+   towers in series: a deethanizer, a depropanizer and a debutanizer. The overhead product from the deethanizer is
+   ethane and the bottoms are fed to the depropanizer. The overhead product from the depropanizer is propane and
+   the bottoms are fed to the debutanizer. The overhead product from the debutanizer is a mixture of normal and
+   iso-butane, and the bottoms product is a C[5]+ mixture. The recovered streams of propane, butanes and C[5]+ may
+   be "sweetened" in a [112]Merox process unit to convert undesirable mercaptans into [113]disulfides and, along
+   with the recovered ethane, are the final NGL by-products from the gas processing plant. Currently, most
+   cryogenic plants do not include fractionation for economic reasons, and the NGL stream is instead transported
+   as a mixed product to standalone fractionation complexes located near refineries or chemical plants that use
+   the components for [114]feedstock. In case laying pipeline is not possible for geographical reason,or the
+   distance between source and consumer exceed 3000 km, natural gas is then transported by ship as [115]LNG
+   (liquefied natural gas) and again converted into its gaseous state in the vicinity of the consumer.
+
+   The residue gas from the NGL recovery section is the final, purified sales gas which is pipelined to the
+   end-user markets. Rules and agreements are made between buyer and seller regarding the quality of the gas.
+   These usually specify the maximum allowable concentration of CO[2], H[2]S and H[2]O as well as requiring the
+   gas to be commercially free from objectionable odours and materials, and dust or other solid or liquid matter,
+   waxes, gums and gum forming constituents, which might damage or adversely affect operation of the buyers
+   equipment. When an upset occurs on the treatment plant buyers can usually refuse to accept the gas, lower the
+   flow rate or re-negotiate the price.
+   [116]NatGasProcessing.png
+
+Helium recovery[[117]edit]
+
+   If the gas contains significant helium content, the helium may be recovered by fractional distillation. Natural
+   gas may contain as much as 7% helium, and is the commercial source of the noble gas.^[118][23] For instance,
+   the [119]Hugoton Gas Field in Kansas and Oklahoma in the United States contains concentrations of helium from
+   0.3% to 1.9%, which is separated out as a valuable byproduct.^[120][24]
+
+Consumption[[121]edit]
+
+   Natural gas consumption patterns, across nations, vary based on access. Countries with large reserves tend to
+   handle the raw-material natural gas more generously, while countries with scarce or lacking resources tend to
+   be more economical. Despite the considerable findings, the predicted availability of the natural-gas reserves
+   has hardly changed.
+
+Applications of natural gas[[122]edit]
+
+     * Fuel for industrial heating and [123]desiccation process
+     * Fuel for the operation of public and industrial power stations
+     * Household fuel for cooking, heating and providing hot water
+     * Fuel for environmentally friendly compressed or liquid natural gas vehicles
+     * Raw material for [124]chemical synthesis
+     * Raw material for large-scale fuel production using [125]gas-to-liquid (GTL) process (e.g. to produce
+       sulphur-and aromatic-free diesel with low-emission combustion)
+
+See also[[126]edit]
+
+     * [127]Natural gas prices
+     * [128]Oil refinery
+     * [129]List of natural gas and oil production accidents in the United States
+
+References[[130]edit]
+
+    1. [131]^ [132]Fact Sheet: Natural Gas Processing Plants
+    2. [133]^ [134]https://mitei.mit.edu/system/files/NaturalGas_Chapter2_Supply.pdf
+    3. ^ [135]^a [136]^b [137]^c [138]"Mercury Removal from Natural Gas and Liquids" (PDF). UOP LLC. Archived from
+       [139]the original (PDF) on 2011-01-01.
+    4. [140]^ [141]Dehydration of Natural Gas by Prof. Jon Steiner Gudmundsson, Norwegian University of Science
+       and Technology
+    5. ^ [142]^a [143]^b [144]Glycol Dehydration (includes a flow diagram)
+    6. [145]^ [146]Desulfurization of and Mercury Removal From Natural Gas by Bourke, M.J. and Mazzoni, A.F.,
+       Laurance Reid Gas Conditioning Conference, Norman, Oklahoma, March 1989.
+    7. [147]^ [148]Using Gas Geochemistry to Assess Mercury Risk, OilTracers, 2006
+    8. [149]^ [150]Natural Gas Processing: The Crucial Link Between Natural Gas Production and Its Transportation
+       to Market
+    9. [151]^ [152]Example Gas Plant
+   10. [153]^ [154]From Purification to Liquefaction Gas Processing
+   11. [155]^ [156]Feed-Gas Treatment Design for the Pearl GTL Project
+   12. [157]^ [158]Benefits of integrating NGL extraction and LNG liquefaction
+   13. [159]^ [160]"MSDS: Natural gas liquids" (PDF). ConocoPhillips.
+   14. [161]^ [162]"What are natural gas liquids and how are they used?". United States Energy Information
+       Administration. April 20, 2012.
+   15. [163]^ [164]"Guide to Understanding Natural Gas and Natural Gas Liquids". STI Group. 2014-02-19.
+   16. [165]^ Baker, R. W. "Future Directions of Membrane Gas Separation Technology" Ind. Eng. Chem. Res. 2002,
+       volume 41, pages 1393-1411. [166]doi:[167]10.1021/ie0108088
+   17. [168]^ [169]Molecular Sieves (includes a flow diagram of a PSA unit)
+   18. [170]^ Gas Processes 2002, Hydrocarbon Processing, pages 84–86, May 2002 (schematic flow diagrams and
+       descriptions of the Nitrogen Rejection and Nitrogen Removal processes)
+   19. ^ [171]^a [172]^b [173]Market-Driven Evolution of Gas Processing Technologies for NGLs Advanced Extraction
+       Technology Inc. website page
+   20. [174]^ [175]AET Process Nitrogen Rejection Unit Advanced Extraction Technology Inc. website page
+   21. [176]^ [177]Cryogenic Turbo-Expander Process Advanced Extraction Technology Inc. website page
+   22. [178]^ Gas Processes 2002, Hydrocarbon Processing, pages 83–84, May 2002 (schematic flow diagrams and
+       descriptions of the NGL-Pro and NGL Recovery processes)
+   23. [179]^ Winter, Mark (2008). [180]"Helium: the essentials". University of Sheffield. Retrieved 2008-07-14.
+   24. [181]^ Dwight E. Ward and Arthur P. Pierce (1973) "Helium" in United States Mineral Resources, US
+       Geological Survey, Professional Paper 820, p.285-290

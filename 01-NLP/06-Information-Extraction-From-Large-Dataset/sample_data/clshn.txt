@@ -1,0 +1,156 @@
+FISKE BROTHERS REFINING CO -- LUBRIPLATE NO. 100, 105, 107, 110, NO. 115  -- 9150-00-140-4434
+<pre>=====================  Product Identification  =====================
+
+Product ID:LUBRIPLATE NO. 100, 105, 107, 110, NO. 115
+MSDS Date:01/01/2000
+FSC:9150
+NIIN:00-140-4434
+Status Code:A
+MSDS Number: CLSHN
+=== Responsible Party ===
+Company Name:FISKE BROTHERS REFINING CO
+Address:1500 OAKDALE AVE
+City:TOLEDO
+State:OH
+ZIP:43605
+Country:US
+Info Phone Num:419-691-2491
+Emergency Phone Num:(800) 255-3924 CHEM-TEL
+Preparer's Name:JAMES R. KONTAK
+CAGE:9N579
+=== Contractor Identification ===
+Company Name:FISKE BROTHERS REFINING CO
+Address:1500 OAKDALE AVE
+Box:City:TOLEDO
+State:OH
+ZIP:43605
+Country:US
+Phone:419-691-2491
+CAGE:9N579
+Company Name:SDB CONSULTANTS LTD
+Address:401 WHITNEY AVE SUITE 120
+Box:City:GRETNA
+State:LA
+ZIP:70056
+Country:US
+Phone:504-366-9105
+Contract Num:SP0450-02-M-L394
+CAGE:0PGK2
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:NON-HAZARDOUS
+
+=====================  Hazards Identification  =====================
+
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:THRESHOLD LIMIT VALUE	 5MG/M3 FOR OIL
+    MIST IN AIR OSHA REGULATION 29 CFR 1910.1000.
+Effects of Overexposure:PROLONGED OR REPEATED SKIN CONTACT MAY CAUSE
+    SKIN IRRITATION. PRODUCT CONTACTING THE EYES MAY CAUSE EYE
+    IRRITATION. HUMAN HEALTH RISKS VARY FROM PERSON TO PERSON. AS A
+    PRECAUTION, EXPOSURE TO LIQUIDS,  VAPORS, MISTS AND FUMES SHOULD BE
+    MINIMIZED. THIS PRODUCT HAS A LOW ORDER OF ACUTE ORAL TOXICITY, BUT
+    MINUTE AMOUNTS ASPIRATED INTO THE LUNGS DURING INGESTION MAY CAUSE
+    MILD TO SEVERE PULMONARY INJUR Y.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE: FLUSH WITH CLEAR WATER FOR 15 MINUTES OR UNTIL
+    IRRITATION SUBSIDES. IF IRRITATION PERSISTS, CONSULT A PHYSICIAN.
+    SKIN: REMOVE ANY CONTAMINATED CLOTHING AND WASH WITH SOAP AND WARM
+    WATER. IF INJEC TED BY HIGH PRESSURE UNDER SKIN, REGARDLESS OF THE
+    APPEARANCE OR ITS SIZE, CONTACT A PHYSICIAN IMMEDIATELY. DELAY MAY
+    CAUSE LOSS OF AFFECTED PART OF THE BODY. INHALATION: VAPOR PRESSURE
+    IS VERY LOW AN D INHALATION AT ROOM TEMPERATURE IS NOT A PROBLEM.
+    IF OVERCOME BY VAPOR FROM HOT PRODUCT, IMMEDIATELY REMOVE FROM
+    EXPOSURE AND CALL A PHYSICIAN. INGESTION: IF INGESTED, CALL A
+    PHYSICIAN IMMEDIATELY. D O NOT INDUCE VOMITING.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:COC
+Flash Point:=182.2C, 360.F
+Lower Limits:0.9%
+Upper Limits:7.0%
+Extinguishing Media:FOAM, DRY CHEMICAL, CARBON DIOXIDE OR WATER SPRAY
+    (FOG).
+Fire Fighting Procedures:COOL EXPOSED CONTAINERS WITH WATER. USE
+    AIR-SUPPLIED BREATHING EQUIPMENT FOR ENCLOSED OR CONFINED SPACES.
+Unusual Fire/Explosion Hazard:DO NOT STORE OR MIX WITH STRONG OXIDANTS.
+    EMPTY CONTAINERS RETAIN RESIDUE. DO NOT CUT, DRILL, GRIND, OR WELD,
+    AS THEY MAY EXPLODE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCRAPE UP GREASE, WASH REMAINDER WITH SUITABLE
+    PETROLEUM SOLVENT OR ADD ABSORBENT. KEEP PETROLEUM PRODUCTS OUT OF
+    SEWERS AND WATER COURSES. ADVISE AUTHORITIES IF PRODUCT HAS ENTERED
+    OR MAY ENTER SEWER S AND WATER COURSES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED WHEN NOT IN
+    USE. DO NOT HANDLE OR STORE NEAR HEAT, SPARKS, FLAME, OR STRONG
+    OXIDANTS.
+Other Precautions:REMOVE OIL-SOAKED CLOTHING AND LAUNDER BEFORE REUSE.
+    CLEANSE SKIN THOROUGHLY AFTER CONTACT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NOT NEEDED.
+Ventilation:LOCAL EXHAUST: USED TO CAPTURE FUMES AND VAPORS.
+Protective Gloves:USE OIL-RESISTANT GLOVES, IF NEEDED.
+Eye Protection:IF CHANCE OF EYE CONTACT, WEAR GOGGLES.
+Other Protective Equipment:USE OIL-RESISTANT APRON, IF NEEDED.
+Supplemental Safety and Health
+PRODUCT NAME OR NUMBER : LUBRIPLATE NO. 100, NO. 105, NO. 107, NO. 110,
+    NO. 115 . FORMULA: CALCIUM SOAP, MINERAL OIL AND ADDITIVES.
+    GENERIC/CHEMICAL NAME: PETROLEUM LUBRICATING GREASE. USDA
+    AUTHORIZAT ION: H-2.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Boiling Pt:>287.8C, 550.F
+Melt/Freeze Pt:M.P/F.P Text:SEMI-SOLID
+Vapor Pres:<0.01
+Vapor Density:>5
+Spec Gravity:0.89 - 0.93
+Evaporation Rate &amp; Reference:<0.01
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:SMOOTH, OFF-WHITE GREASE WITH MINERAL OIL ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH STRONG OXIDANTS LIKE LIQUID CHLORINE, CONCENTRATED
+    OXYGEN.
+Hazardous Decomposition Products:MAY FORM SO2. IF INCOMPLETE
+    COMBUSTION, CARBON MONOXIDE.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:THRESHOLD LIMIT VALUE 5 MG/M 3 FOR OIL MIST
+    IN AIR. OSHA REGULATION 29 CFR 1910.1000.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:ASSURE CONFORMITY WTH APPLICABLE DISPOSAL
+    REGULATIONS. DISPOSE OF ABSORBED MATERIAL AT AN APPROVED WASTE
+    DISPOSAL FACILITY OR SITE.
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:SARA/TITLE III, SECTION 313 STATUS - ZINC
+    COMPOUNDS -   <4%.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

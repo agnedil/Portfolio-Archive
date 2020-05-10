@@ -1,0 +1,124 @@
+SPRAY PRODUCTS CORP -- ENGINE STARTING FLUID  -- 6850-00F001532
+<pre>=====================  Product Identification  =====================
+
+Product ID:ENGINE STARTING FLUID
+MSDS Date:01/01/1985
+FSC:6850
+NIIN:00F001532
+MSDS Number: BBJMK
+=== Responsible Party ===
+Company Name:SPRAY PRODUCTS CORP
+Address:CONSHOHOCKEN RD
+Box:737
+City:NORRISTOWN
+State:PA
+ZIP:19404-5000
+Country:US
+Info Phone Num:215-277-1010
+Emergency Phone Num:215-277-1010
+CAGE:12625
+=== Contractor Identification ===
+Company Name:SPRAY PRODUCTS CORP
+Box:UNKNOW
+CAGE:12604
+Company Name:SPRAY PRODUCTS CORPORATION
+Address:CONSHOHOCKEN RD
+Box:737
+City:NORRISTOWN
+State:PA
+ZIP:19404
+Country:US
+Phone:610-277-1010
+CAGE:12625
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYL ETHER, DIETHYL ETHER, ETHER, ANESTHETIC ETHER
+CAS:60-29-7
+RTECS #:KI5775000
+Fraction by Wt: 60%
+Other REC Limits:500 PPM STEL
+OSHA PEL:400 PPM
+ACGIH TLV:400 PPM
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:HEPTANE		    *98-1*
+CAS:142-82-5
+RTECS #:MI7700000
+Fraction by Wt: 40%
+Other REC Limits:400 PPM
+OSHA PEL:2000 MG/CUM
+ACGIH TLV:1640 MG/CUM
+
+Ingred Name:UPPER CYLINDER LUBRICANT
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:DROWSINESS, STUPOR/UNCONSCIOUSNESS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:DROWSINESS, STUPOR/UNCONSCIOUSNESS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. OBTAIN MEDICAL ATTENTION IN
+    ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:120.2F
+Lower Limits:1.85
+Upper Limits:48
+Extinguishing Media:WATER ALCOHOL FOAM, CO2/DRY CHEMICALS.
+Unusual Fire/Explosion Hazard:NOT MISCIBLE IN WATER.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:KEEP HEAT & IGNITION SOURCES AWAY. SMALL
+    AMOUNTS MAY BE FLUSHED AWAY W/WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM HEAT/IGNITION SOURCES
+    & OXIDIZING MATERIALS. DO NOT STORE >120F.
+Other Precautions:USE ADEQUATE VENTILATION/USE ONLY OUTDOORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:MECHANICAL(GENERAL)
+Eye Protection:SAFETY GLASSES/GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:V3
+Boiling Pt:B.P. Text:94F
+Vapor Pres:442
+Vapor Density:2.56
+Spec Gravity:0.71
+Solubility in Water:6.5%
+Appearance and Odor:COLORLESS LIQUID W/CHARACTERISTIC ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:NO
+OXIDIZING MATERIALS
+Stability Condition to Avoid:HEAT, IGNITION SOURCES, TEMPS >120F.
+Hazardous Decomposition Products:CO2, PEROXIDES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:BURY DEFECTIVE CONTAINERS AT A PROPER WASTE
+    DISPOSAL AREA, IAW/FEDERAL, STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

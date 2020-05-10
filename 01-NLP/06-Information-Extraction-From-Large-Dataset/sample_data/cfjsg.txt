@@ -1,0 +1,222 @@
+GRIGGS PAINT -- TT-L-32A, #17875 WHITE LACQUER, #700W39  -- 8010-00-242-6315
+<pre>=====================  Product Identification  =====================
+
+Product ID:TT-L-32A, #17875 WHITE LACQUER, #700W39
+MSDS Date:05/01/1995
+FSC:8010
+NIIN:00-242-6315
+MSDS Number: CFJSG
+=== Responsible Party ===
+Company Name:GRIGGS PAINT
+Address:3602 S 16TH PLACE
+City:PHOENIX
+State:AZ
+ZIP:85040
+Country:US
+Info Phone Num:602-243-3293
+Emergency Phone Num:800-424-9300 CHEMTREC
+Preparer's Name:ROBERT COMMISSO
+CAGE:DO312
+=== Contractor Identification ===
+Company Name:GRIGGS PAINT
+Address:3602 S 16TH PLACE
+Box:City:PHOENIX
+State:AZ
+ZIP:85040
+Country:US
+Phone:602-243-3293
+CAGE:58963
+Company Name:GRIGGS PAINT
+Address:3602 S 16TH PL
+City:PHOENIX
+State:AZ
+ZIP:85040-1319
+Phone:602-243-3293
+CAGE:DO312
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:XYLENES (O-,M-,P- ISOMERS) (SARA 313) (CERCLA) (VP = 5.1 @
+    68F
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 8.0%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:METHYL ISOBUTYL KETONE  (HEXONE) (SARA 313) (CERCLA) (VP =
+    16 @ 68F)
+CAS:108-10-1
+RTECS #:SA9275000
+Fraction by Wt: 3.0%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:50 PPM
+ACGIH TLV:75 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:PROPYLENE GLYCOL MONOMETHYL ETHER ACETATE (VP = 3.7 @ 68F)
+CAS:108-65-6
+RTECS #:AI8925000
+Fraction by Wt: <5.0%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:N-BUTYL ALCOHOL (SARA 313) (CERCLA) (VP = 4.3 @ 68F)
+CAS:71-36-3
+RTECS #:EO1400000
+Fraction by Wt: 1.0%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:CELLULOSE NITRATE
+CAS:9004-00-0
+Fraction by Wt: 5.0%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:ISOPROPYL ALCOHOL (SARA 313) (VP = 90 @ 68F)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: <5.0%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:400 PPM
+ACGIH TLV:500 PPM
+
+Ingred Name:ALIPHATIC PETROLEUM DISTILLATES (SARA 313) (VP = 15 @ 100F)
+CAS:64742-89-8
+Fraction by Wt: 4.0%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:300 PPM
+ACGIH TLV:300 PPM
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK) (SARA 313) (CERCLA)
+    (VP = 70 @ 68F)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 15.0%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:200 PPM
+ACGIH TLV:200 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:DI-SEC-OCTYL PHTHALATE (DI-2-ETHYLHEXYLPHTHALATE) (SARA
+    313) (CERCLA)(VP = 1.2 @ 200F)
+CAS:117-81-7
+RTECS #:TI0350000
+Fraction by Wt: 3.0%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:5 MG/M3
+ACGIH TLV:5 MG/M3
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:VOC = 4.78 LB/GL
+RTECS #:9999999VO
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:NOT RELEVANT
+ACGIH TLV:NOT RELEVANT
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHAL: DROWSINESS, DIZZINESS, FATIGUE,
+    COMA, LUNG CHANGES, NAUSEA, VOMITING, COUGH, PULMONARY IRRITATION,
+    CNS DEPRESSION. EYE: IRRITATION. SKIN: IRRITATION &/OR DERMITITIS,
+    ABSORPTION (IRRITATION, DEF ATTING & DERMITITIS). INGEST:
+    PNEUMONITIS, PULMONARY EDEMA, HEMORRAGE, GI DISTURBANCE.
+Medical Cond Aggravated by Exposure:DISEASES OF SKIN, CENTRAL NERVOUS
+    SYSTEM, LIVER AND KIDNEYS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: IMMEDIATELY FLUSH W/LARGE AMOUNTS WATER FOR 15 MINUTES.
+    SEEK MED AID. SKIN: WASH THOROUGHLY W/SOAP & WATER. SEEK MED AID.
+    INGEST: IMMEDIATELY SEEK MED AID. DONT INDUCE VOMITING. DONT GIVE
+    ANYTHI NG BY MOUTH TO UNCONSCIOUS PERSON.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:61.0F,10.0C
+Autoignition Temp:Autoignition Temp Text:474F
+Lower Limits:0.3
+Upper Limits:7.0
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL, WATER FOG.
+Fire Fighting Procedures:APPROVED GAS MASK REQUIRED FOR FIRE FIGHTING
+    PERSONNEL. WATER MAY BE INEFFECTIVE, MAY BE USED TO COOL
+    CONTAINERS. IF WATER IS USED, FOG NOZZLES ARE PREFERRED.
+Unusual Fire/Explosion Hazard:KEEP CONTAINERS TIGHTLY CLOSED. ISOLATE
+    FROM IGNITION SOUCES. CLOSED CONTAINERS MAY EXPLODE WHEN EXPOSED TO
+    HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:STOP LEAK IF NO RISK INVOLVED. REMOVE ALL
+    SOURCES OF IGNITION. STAY UPWIND. ABSORB WITH INERT MATERIAL. FLUSH
+    AREA W/WATER. VENTILATE AREA FOR AT LEAST 24 HOURS OR UNTIL AREA
+    HAS BEEN DECLARED SAFE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED & UPRIGHT TO
+    PREVENT LEAKAGE. AVOID IGNITION SOURCES.
+Other Precautions:MAINTAIN GOOD PERSONAL HYGIENE. DO NOT USE IN
+    CONFINED AREAS, TANKS OR PITS WITHOUT ADEQUATE VENTILATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE MSHA/NIOSH APPROVED UNITS. USE UNITS PER
+    CURRENT 29 CFR 1910.134 REGULATIONS & FOLLOW MANUFACTURERS'
+    INSTRUCTIONS & WARNINGS. AIR PURIFYING OV/FILTER UNITS MAY BE
+    ACCEPTABLE.
+Ventilation:LOCAL AND MECHANICAL EXHAUST.
+Protective Gloves:RUBBER GLOVES
+Eye Protection:SAFETY GLASSES W/SIDE SHIELDS OR GOGGLES
+Other Protective Equipment:EYE BATH AND SAFETY SHOWER.
+Work Hygienic Practices:MAINTAIN GOOD PERSON HYGIENE. DO NOT USE IN
+    CONFINED AREAS WITHOUT ADEQUATE VENTILATION.
+Supplemental Safety and Health
+NK
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F2
+Boiling Pt:B.P. Text:172 TO 724F
+Decomp Temp:Decomp Text:NA
+Vapor Density:>AIR
+Spec Gravity:1.1
+pH:NA
+Viscosity:20 #4 FC
+Evaporation Rate &amp; Reference:SLOWER THAN ETHER
+Solubility in Water:ESSENTIALLY NIL
+Appearance and Odor:VISCOUS LIQUID WITH STRONG SOLVENT ODOR
+Percent Volatiles by Volume:67.7
+Corrosion Rate:NA
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:IGNITION SOURCES.
+Hazardous Decomposition Products:CO & CO2.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:USE INERT ABSORBENT MATERIAL ON SPILLS. DISPOSE
+    IN ACCORDANCE WITH ALL FEDERAL, STATE & LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

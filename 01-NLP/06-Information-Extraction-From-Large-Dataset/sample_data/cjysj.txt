@@ -1,0 +1,139 @@
+ANDPAK-EMA INC FORMERLY ZIP-CHEM PRODUCTS -- 68 1002 D-5604 VAPO-DUSTER  -- -
+<pre>=====================  Product Identification  =====================
+
+Product ID:68 1002 D-5604 VAPO-DUSTER
+MSDS Date:05/12/1993
+FSC:NIIN:Submitter:F BT
+Status Code:A
+MSDS Number: CJYSJ
+=== Responsible Party ===
+Company Name:ANDPAK-EMA INC FORMERLY ZIP-CHEM PRODUCTS
+Address:1860 DOBBIN DR
+City:SAN JOSE
+State:CA
+ZIP:95113
+Country:US
+Info Phone Num:408-729-0291
+Emergency Phone Num:408-729-0291
+Preparer's Name:SAIFI RANIWALA
+CAGE:0GUK5
+=== Contractor Identification ===
+Company Name:ANDPAK-EMA INC FORMERLY ZIP-CHEM PRODUCTS
+Address:1860 DOBBIN DR
+City:SAN JOSE
+State:CA
+ZIP:95113
+Country:US
+Phone:408-729-0291
+CAGE:0GUK5
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CHLORODIFLUOROMETHANE
+CAS:75-45-6
+RTECS #:PA6390000
+= Wt:100.
+ACGIH TLV:3540 MG/M3;1000 PPM
+Ozone Depleting Chemical:2
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: HARMFUL, MAY CAUSE
+    IRREGULARITIES/DEATH. INTENTIONAL MISUSE CAN BE FATAL. SKIN: LIQUID
+    CAN CAUSE FROSTBITE, BURNING SENSATION/IRRITATION. EYES: MILD
+    IRRITANT, BLURRING OF VISION. INGESTION : REPEATED EXPOSURE MAY
+    CAUSE SLIGHT LIVER EFFECTS & SLIGHT DECREASE IN RATE OF WEIGHT
+    GAIN.
+Explanation of Carcinogenicity:NOT LISTED.
+Effects of Overexposure:HEART IRREGULARITIES, UNCONSCIOUSNESS,
+    FROSTBITE, IRRITATION, DISCOMFORT, TEARING, BLURRING OF VISION,
+    WEIGHT GAIN
+Medical Cond Aggravated by Exposure:INDIVIDUALS W/PREEXISTING DISEASES
+    OF THE CENTRAL NERVOUS/CARDIOVASCULAR SYSTEM.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: IMMEDIATELY REMOVE TO FRESH AIR. KEEP PERSON
+    CALM. GIVE CPR/OXYGEN IF NECESSARY. SKIN: FLUSH W/WATER. TREAT FOR
+    FROSTBITE IF NEEDED. EYES: IMMEDIATELY FLUSH W/PLENTY OF COLD
+    WATER. OBTAIN  MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:FOAM, ALCOHOL FOAM, CO2, DRY CHEMICAL, WATER FOG
+Fire Fighting Procedures:USE STANDARD FIREFIGHTING TECHNIQUES TO FIGHT
+    FIRES INVOLVING THIS MATERIAL. THE MATERIAL ITSELF IS
+    NON-FLAMMABLE. USE EXTINGUISHING MEDIA APPROPRIATE FOR COMBUSTIBLES
+    IN AREA.
+Unusual Fire/Explosion Hazard:VAPORS ARE HEAVIER THAN AIR & WILL
+    COLLECT IN LOW AREAS & OTHER CONFINED AREAS. CONTENTS UNDER
+    PRESSURE MAY EXPLODE IF HEATED ABOVE 120F.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA. DON'T FLUSH TO SEWERS. REMOVE
+    OPEN FLAMES. USE SELF CONTAINED BREATHING APPARATUS FOR LARGE
+    SPILLS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T STORE >120F. DON'T STORE/USE
+    NEAR HEAT, SPARKS/FLAMES. STORE OUT OF REACH OF CHILDREN. FOR
+    PROFESSIONAL USE ONLY. TO BE USED ONLY BY THOSE PERSONS WHO HAVE
+    BEEN PROPERLY TRAINED TO USE THIS PROD UCT & INSTRUCTED IN ITS SAFE
+    HANDLING.
+Other Precautions:DON'T BREATHE VAPORS. DON'T GET IN EYES/ON SKIN.
+    DON'T TAKE INTERNALLY. NOTE TO PHYSICIANS: BECAUSE OF POSSIBLE
+    DISTURBANCE OF CARDIAC RHYTHM, CATECHOLAMINE DRUGS, SUCH AS
+    EPINEPHRINE SHOULD BE USED W /SPECIAL CAUTION IN SITUATIONS OF
+    EMERGENCY LIFE SUPPORT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE SELF CONTAINED BREATHING APPARATUS IF
+    WORKING IN AN AREA W/EXTREMELY HIGH VAPOR CONCENTRATION.
+Ventilation:LOCAL/MECHANICAL TO KEEP BELOW EXPOSURE LIMITS OF
+    INGREDIENTS.
+Protective Gloves:BUTYL LINED RECOMMENDED
+Eye Protection:CHEMICAL GOGGLES
+Work Hygienic Practices:USE GOOD HYGIENIC PRACTICES WHEN DEALING W/THIS
+    PRODUCT. USE IN WELL VENTILATED AREA.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=-41.1C, -42.F
+Vapor Density:>1
+Spec Gravity:1.2
+Evaporation Rate &amp; Reference:FASTER THAN ETHER
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:COLORLESS W/SLIGHT ETHEREAL ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ALKALI, ALKALINE EARTH METALS; POWDERED ALUMINUM, ZINC, BERYLIUM
+Stability Condition to Avoid:OPEN FLAMES, HIGH TEMPERATURES, HEAT,
+    SPARKS, OTHER IGNITION SOURCES
+Hazardous Decomposition Products:HYDROCHLORIC & HYDROFLUORIC ACIDS,
+    CARBONYL HALIDES AT HIGH TEMPERATURES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:RECLAIM BY DISTILLATION/REMOVE TO A PERMITTED
+    WASTE FACILITY. DISPOSE OF IN ACCORDANCE W/LOCAL, STATE & FEDERAL
+    REGULATIONS.
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

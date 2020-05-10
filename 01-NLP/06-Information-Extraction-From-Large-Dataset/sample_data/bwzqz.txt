@@ -1,0 +1,122 @@
+BARTLETT CHEMICALS -- SODIUM HEXAMETAPHOSPHATE  -- 6810-01-164-3941
+<pre>=====================  Product Identification  =====================
+
+Product ID:SODIUM HEXAMETAPHOSPHATE
+MSDS Date:01/01/1987
+FSC:6810
+NIIN:01-164-3941
+MSDS Number: BWZQZ
+=== Responsible Party ===
+Company Name:BARTLETT CHEMICALS
+Address:4955 RIVER ROAD
+Box:10710
+City:JEFFERSON
+State:LA
+ZIP:70121
+Country:US
+Info Phone Num:504-734-1971
+Emergency Phone Num:504-734-1971
+CAGE:1V771
+=== Contractor Identification ===
+Company Name:BARTLETT CHEMICALS
+Address:4955 RIVER ROAD
+Box:10710
+City:JEFFERSON
+State:LA
+ZIP:70121
+Country:US
+Phone:504-734-1971
+CAGE:1V771
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SODIUM PHOSPHATE, TRIBASIC	(SARA III)
+CAS:10124-56-8
+RTECS #:OY3675000
+Fraction by Wt: 90-100%
+Other REC Limits:NONE RECOMMENDED
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT) IS 7250 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: IRRITATION OF UPPER
+    RESPIRATORY TRACT. SKIN: IRRITATION. EYE: IRRITATION.
+Explanation of Carcinogenicity:NONE IDENTIFIED.
+Effects of Overexposure:INGESTION: HEADACHE, NAUSEA, VOMITING,
+    DIZZINESS, GASTROINTESTINAL IRRITATION.
+Medical Cond Aggravated by Exposure:NONE IDENTIFIED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION-IF SWALLOWED & PERSON IS CONSCIOUS, IMMEDIATELY
+    GIVE LARGE AMOUNTS OF WATER. GET MEDICAL ATTENTION. INHALATION-MOVE
+    THE EXPOSED PERSON TO FRESH AIR. SKIN-IMMEDIATELY WASH SKIN WITH
+    PLENTY OF  SOAP AND WATER FOR AT LEAST 15 MINUTES. EYE-IMMEDIATELY
+    FLUSH WITH PLENTY OF WATER FOR AT LEAST 15 MINUTES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE EXTINGUISHING MEDIA APPROPIATE FOR SURROUNDING
+    FIRE.
+Fire Fighting Procedures:FIREFIGHTERS SHOULD WEAR PROPER PROTECTIVE
+    EQUIPMENT & SELF-CONTAINED BREATHING APPARATUS WITH FULL FACEPIECE
+    OPERATED IN POSITIVE PRESSURE MODE.
+Unusual Fire/Explosion Hazard:NONE IDENTIFIED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WEAR SUITABLE PROTECTIVE CLOTHING. CAREFULLY
+    SWEEP UP AND REMOVE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER TIGHTLY CLOSED.
+    SUITABLE FOR ANY GENERAL CHEMICAL STORAGE AREA. STORE IN DRY AREA.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED WHERE ADEQUATE VENTILATION
+    CONDITIONS EXIST. IF AIRBORNE CONCENTRATIONS IS HIGH, USE AN
+    APPROPAITE RESPIRATOR OR DUST MASK.
+Ventilation:USE ADEQUATE GENERAL OR LOCAL EXHAUST VENTILATION TO KEEP
+    FUME OR DUST LEVELS AS LOW AS POSSIBLE.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:SAFETY GOGGLES.
+Other Protective Equipment:NONE SPECIFIED BY MANUFACTURER.
+Work Hygienic Practices:WASH AFTER HANDLING.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:N1
+Melt/Freeze Pt:M.P/F.P Text:1022F,550C
+Spec Gravity:1.20
+Solubility in Water:COMPLETE
+Appearance and Odor:WHITE GRANULAES. ODORLESS.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE IDENTIFIED.
+Stability Condition to Avoid:MOISTURE, AIR.
+Hazardous Decomposition Products:OXIDES OF PHOSPHORUS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN ACCORDANCE WITH APPLICABLE LOCAL,
+    STATE AND FEDERAL ENVIRONMENTAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

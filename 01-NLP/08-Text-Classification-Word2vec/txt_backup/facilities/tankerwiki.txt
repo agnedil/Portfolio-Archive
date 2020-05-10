@@ -1,0 +1,1017 @@
+﻿   
+Oil tanker
+
+   From Wikipedia, the free encyclopedia
+   Jump to: [5]navigation, [6]search
+   "Supertanker" redirects here. For the [7]aerial firefighting aircraft, see [8]Evergreen 747 Supertanker.
+   [9]The commercial oil tanker AbQaiq
+   The commercial oil tanker AbQaiq, in ballast
+                       Class overview
+   Name:           Oil tanker
+   Subclasses:
+
+   [10]Handysize, [11]Panamax, [12]Aframax, [13]Suezmax, Very large crude carrier (VLCC),
+   Ultra large crude carrier (ULCC),Ti class (ti)
+   Built:          c. 1963-present
+                   General characteristics
+   Class and type: [14]Tank ship
+   Capacity:       up to 550,000 [15]DWT
+   Notes:          Rear house, full hull, midships pipeline
+
+   An oil tanker, also known as a petroleum tanker, is a [16]merchant ship designed for the [17]bulk transport of
+   [18]oil. There are two basic types of oil tankers: crude tankers and product tankers.^[19][1] Crude tankers
+   move large quantities of unrefined [20]crude oil from its point of extraction to refineries.^[21][1] For
+   example, moving crude oil from oil wells in Nigeria to the refineries on the coast of the United States.
+   Product tankers, generally much smaller, are designed to move refined products from refineries to points near
+   consuming markets. For example, moving gasoline from refineries in Europe to consumer markets in Nigeria and
+   other West African nations.
+
+   Oil tankers are often classified by their size as well as their occupation. The size classes range from inland
+   or coastal tankers of a few thousand metric tons of [22]deadweight (DWT) to the mammoth ultra large crude
+   carriers (ULCCs) of 550,000 [23]DWT. Tankers move approximately 2,000,000,000 metric tons (2.2 10^9 short tons)
+   of oil every year.^[24][2]^[25][3] Second only to [26]pipelines in terms of efficiency,^[27][3] the average
+   cost of oil transport by tanker amounts to only two or three United States cents per 1 US gallon
+   (3.8 L).^[28][3]
+
+   Some specialized types of oil tankers have evolved. One of these is the naval [29]replenishment oiler, a tanker
+   which can [30]fuel a moving vessel. Combination [31]ore-bulk-oil carriers and permanently moored [32]floating
+   storage units are two other variations on the standard oil tanker design. Oil tankers have been involved in a
+   number of damaging and high-profile [33]oil spills. As a result, they are subject to stringent design and
+   operational regulations.
+
+Contents
+
+     * [34]1 History
+          + [35]1.1 Early designs
+          + [36]1.2 Modern oil tankers
+          + [37]1.3 Asian trade
+          + [38]1.4 The supertanker era
+     * [39]2 Size categories
+          + [40]2.1 Supertankers (VLCC and ULCC)
+     * [41]3 Chartering
+          + [42]3.1 Recent markets
+     * [43]4 Fleet characteristics
+          + [44]4.1 Cargo movement
+          + [45]4.2 Flag states
+          + [46]4.3 Vessel life cycle
+          + [47]4.4 Vessel pricing
+     * [48]5 Current structural design
+          + [49]5.1 Hull designs
+          + [50]5.2 Inert gas system
+     * [51]6 Cargo operations
+          + [52]6.1 Pre-transfer preparation
+          + [53]6.2 Loading cargo
+          + [54]6.3 Unloading cargo
+          + [55]6.4 Tank cleaning
+     * [56]7 Special-use oil tankers
+          + [57]7.1 Replenishment ships
+          + [58]7.2 Ore-bulk-oil carriers
+          + [59]7.3 Floating storage units
+     * [60]8 Pollution
+          + [61]8.1 Air pollution
+     * [62]9 See also
+     * [63]10 References
+          + [64]10.1 Notes
+          + [65]10.2 Bibliography
+     * [66]11 Further reading
+     * [67]12 External links
+
+History[[68]edit]
+
+   For more details on this topic, see [69]History of the oil tanker.
+   [70]Falls of Clyde is the oldest surviving American tanker and the world's only surviving sail-driven oil
+   tanker.^[71][4]
+
+   The technology of oil transportation has evolved alongside the oil industry. Although human use of oil reaches
+   to prehistory, the first modern commercial exploitation dates back to [72]James Young's manufacture of
+   [73]paraffin in 1850.^[74][5] In the early 1850s, oil began to be exported from [75]Upper Burma, then a
+   [76]British colony. The oil was moved in earthenware vessels to the river bank where it was then poured into
+   boat holds for transportation to Britain.^[77][6]
+
+   In the 1860s, [78]Pennsylvania oil fields became a major supplier of oil, and a center of innovation after
+   [79]Edwin Drake had struck oil near [80]Titusville, Pennsylvania.^[81][6] Break-bulk boats and barges were
+   originally used to transport Pennsylvania oil in 40-US-gallon (150 l) wooden barrels.^[82][6] But transport by
+   barrel had several problems. The first problem was weight: the standard empty barrel weighed 64 pounds (29 kg),
+   representing 20% of the total weight of a full barrel.^[83][7] Other problems with barrels were their expense,
+   their tendency to leak, and the fact that they were generally used only once. The expense was significant: for
+   example, in the early years of the Russian oil industry, barrels accounted for half the cost of petroleum
+   production.^[84][7]
+
+Early designs[[85]edit]
+
+   In 1863, two sail-driven tankers were built on England's [86]River Tyne.^[87][8] These were followed in 1873 by
+   the first oil-tank steamer, Vaderland, which was built by [88]Palmers Shipbuilding and Iron Company for Belgian
+   owners.^[89][8]^[90][9] The vessel's use was curtailed by U.S. and Belgian authorities citing safety
+   concerns.^[91][10] By 1871, the Pennsylvania oil fields were making limited use of oil tank barges and
+   cylindrical railroad tank-cars similar to those in use today.^[92][6]
+
+Modern oil tankers[[93]edit]
+
+   The modern oil tanker was developed in the period from 1877 to 1885.^[94][11] In 1876, [95]Ludvig and
+   [96]Robert Nobel, brothers of [97]Alfred Nobel, founded [98]Branobel (short for Brothers Nobel) in [99]Baku,
+   [100]Azerbaijan. It was, during the late 19th century, one of the largest [101]oil companies in the world.
+   Zoroaster, the world's first tanker, delivered to the Nobel brothers in Russia.
+
+   Ludvig was a pioneer in the development of early oil tankers. He first experimented with carrying oil in bulk
+   on single-hulled barges.^[102][7] Turning his attention to self-propelled tankships, he faced a number of
+   challenges. A primary concern was to keep the cargo and fumes well away from the engine room to avoid
+   fires.^[103][12] Other challenges included allowing for the cargo to expand and contract due to temperature
+   changes, and providing a method to ventilate the tanks.^[104][12]
+
+   The first successful oil tanker was Zoroaster, which carried its 242 long tons of kerosene cargo in two iron
+   tanks joined by pipes.^[105][12] One tank was forward of the midships engine room and the other was
+   aft.^[106][12] The ship also featured a set of 21 vertical watertight compartments for extra
+   [107]buoyancy.^[108][12] The ship had a length overall of 184 feet (56 m), a [109]beam of 27 feet (8.2 m), and
+   a [110]draft of 9 feet (2.7 m).^[111][12] Unlike later Nobel tankers, the Zoroaster design was built small
+   enough to sail from [112]Sweden to the [113]Caspian by way of the [114]Baltic Sea, [115]Lake Ladoga, [116]Lake
+   Onega, the [117]Rybinsk and [118]Mariinsk Canals and the [119]Volga River.^[120][12]
+
+   In 1883, oil tanker design took a large step forward. Working for the Nobel company, British engineer Colonel
+   Henry F. Swan designed a set of three Nobel tankers.^[121][13] Instead of one or two large holds, Swan's design
+   used several holds which spanned the width, or beam, of the ship.^[122][13] These holds were further subdivided
+   into port and starboard sections by a longitudinal bulkhead.^[123][13] Earlier designs suffered from stability
+   problems caused by the [124]free surface effect, where oil sloshing from side to side could cause a ship to
+   capsize.^[125][14] But this approach of dividing the ship's storage space into smaller tanks virtually
+   eliminated [126]free-surface problems.^[127][14] This approach, almost universal today, was first used by Swan
+   in the Nobel tankers Blesk, Lumen, and Lux.^[128][13]^[129][15]
+   [130]Gl ckauf grounded in heavy fog at [131]Blue Point Beach on [132]Fire Island.
+
+   Others point to [133]Gluckauf, another design of Colonel Swan, as being the first modern oil tanker. It adopted
+   the best practices from previous oil tanker designs to create the prototype for all subsequent vessels of the
+   type. It was the first dedicated steam-driven ocean-going tanker in the world and was the first ship in which
+   oil could be pumped directly into the vessel hull instead of being loaded in barrels or
+   drums.^[134][16]^[135][17] It was also the first tanker with a horizontal
+   bulkhead;^[136][18]^[[137]page needed] its features included cargo valves operable from the deck, cargo main
+   piping, a vapor line, [138]cofferdams for added safety, and the ability to fill a [139]ballast tank with
+   seawater when empty of cargo.^[140][19] The ship was built in Britain.^[141][20] and was purchased by Wilhelm
+   Anton Riedemann, an agent for the [142]Standard Oil Company along with several of her [143]sister
+   ships.^[144][19] After Gluckauf was lost in 1893 after being [145]grounded in fog, Standard Oil purchased the
+   sister ships.^[146][19]
+
+Asian trade[[147]edit]
+
+   A [148]Royal Dutch Petroleum dock in the [149]Dutch East Indies (now [150]Indonesia)
+
+   The 1880s also saw the beginnings of the Asian oil trade.^[151][19] The idea that led to moving Russian oil to
+   the Far East via the Suez Canal was the brainchild of two men: importer [152]Marcus Samuel and shipowner/broker
+   Fred Lane.^[153][19] Prior bids to move oil through the canal had been rejected by the [154]Suez Canal Company
+   as being too risky.^[155][19] Samuel approached the problem a different way: asking the company for the
+   specifications of a tanker it would allow through the canal.^[156][19]
+
+   Armed with the canal company's specifications, Samuel ordered three tankers from [157]William Gray & Company in
+   northern England.^[158][19] Named [159]Murex, Conch and Clam, each had a capacity of 5,010 long tons of
+   deadweight.^[160][19] These three ships were the first tankers of the Tank Syndicate, forerunner of today's
+   [161]Royal Dutch Shell company.^[162][19]
+
+   With facilities prepared in [163]Jakarta, [164]Singapore, [165]Bangkok, [166]Saigon, [167]Hong Kong,
+   [168]Shanghai, and [169]Kobe, the fledgling Shell company was ready to become Standard Oil's first challenger
+   in the Asian market.^[170][19] On August 24, 1892, Murex became the first tanker to pass through the [171]Suez
+   Canal.^[172][19] By the time Shell merged with Royal Dutch Petroleum in 1907, the company had 34 steam-driven
+   oil tankers, compared to Standard Oil's four case-oil steamers and 16 sailing tankers.^[173][19]
+
+The supertanker era[[174]edit]
+
+   Until 1956, tankers were designed to be able to navigate the Suez Canal.^[175][21] This size restriction became
+   much less of a priority after the closing of the canal during the [176]Suez Crisis of 1956.^[177][21] Forced to
+   move oil around the [178]Cape of Good Hope, shipowners realized that bigger tankers were the key to more
+   efficient transport.^[179][21]^[180][22] While a typical [181]T2 tanker of the World War II era was 532 feet
+   (162 m) long and had a capacity of 16,500 [182]DWT, the ultra-large crude carriers (ULCC) built in the 1970s
+   were over 1,300 feet (400 m) long and had a capacity of 500,000 [183]DWT.^[184][23] Several factors encouraged
+   this growth. Hostilities in the [185]Middle East which interrupted traffic through the Suez Canal contributed,
+   as did nationalization of Middle East [186]oil refineries.^[187][22] Fierce competition among shipowners also
+   played a part.^[188][22] But apart from these considerations is a simple economic advantage: the larger an oil
+   tanker is, the more cheaply it can move crude oil, and the better it can help meet growing demands for
+   oil.^[189][22]
+
+   In 1955 the world's largest supertanker was 30,708 [190]GRT^[191][24] and 47,500 LT [192]DWT:^[193][25] SS
+   Spyros Niarchos launched that year by [194]Vickers Armstrongs Shipbuilders Ltd in [195]England for [196]Stavros
+   Niarchos.
+
+   In 1958 United States shipping magnate Daniel K. Ludwig broke the record of 100,000 long tons of heavy
+   displacement.^[197][26] His Universe Apollo displaced 104,500 long tons, a 23% increase from the previous
+   record-holder, Universe Leader which also belonged to Ludwig.^[198][26]^[199][27]
+   [200]Knock Nevis, ex Seawise Giant rivaled some of the world's largest buildings in size
+
+   The world's largest supertanker was built in 1979 at the [201]Oppama shipyard by [202]Sumitomo Heavy
+   Industries, Ltd., named [203]Seawise Giant. This ship was built with a capacity of 564,763 [204]DWT, a
+   [205]length overall of 458.45 metres (1,504.1 ft) and a draft of 24.611 metres (80.74 ft).^[206][28] She had 46
+   tanks, 31,541 square metres (339,500 sq ft) of deck, and at her full load draft, could not navigate the
+   [207]English Channel.^[208][29]
+
+   Seawise Giant was renamed Happy Giant in 1989, Jahre Viking in 1991,^[209][28] and Knock Nevis in 2004 (when
+   she was converted into a permanently moored storage tanker).^[210][29]^[211][30] In 2009 she was sold for the
+   last time, renamed Mont, and [212]scrapped.^[213][31]
+
+   As of 2011, the world's two largest working supertankers are the [214]TI-class supertankers TI Europe and TI
+   Oceania.^[215][32]^[216][33] These ships were built in 2002 and 2003 as Hellespont Alhambra and Hellespont Tara
+   for the Greek Hellespont Steamship Corporation.^[217][34] Hellespont sold these ships to [218]Overseas
+   Shipholding Group and [219]Euronav in 2004.^[220][35] Each of the sister ships has a capacity of over
+   441,500 [221]DWT, a length overall of 380.0 metres (1,246.7 ft) and a cargo capacity of 3,166,353 barrels
+   (503,409,900 l).^[222][36] They were the first ULCCs to be double-hulled.^[223][34] To differentiate them from
+   smaller ULCCs, these ships are sometimes given the V-Plus size designation.^[224][36]^[225][37]
+
+   With the exception of the pipeline, the tanker is the most cost-effective way to move oil today.^[226][38]
+   Worldwide, tankers carry some 2 billion barrels (3.2 10^11 l) annually, and the cost of transportation by
+   tanker amounts to only US$0.02 per [227]gallon at the pump.^[228][38]
+
+Size categories[[229]edit]
+
+   CAPTION: Oil tanker size categories
+
+   AFRA Scale^[230][39] Flexible market scale^[231][39]
+   Class Size in [232]DWT Class Size in DWT New
+   price^[233][40] Used
+   price^[234][41]
+   General Purpose tanker 10,000-24,999 [235]Product tanker 10,000-60,000 $43M $42.5M
+   Medium Range tanker 25,000-44,999 [236]Panamax 60,000-80,000
+   LR1 (Large Range 1) 45,000-79,999 [237]Aframax 80,000-120,000 $60.7M $58M
+   LR2 (Large Range 2) 80,000-159,999 [238]Suezmax 120,000-200,000
+   VLCC (Very Large Crude Carrier) 160,000-319,999 [239]VLCC 200,000-320,000 $120M $116M
+   ULCC (Ultra Large Crude Carrier) 320,000-549,999 [240]ULCC 320,000-550,000
+   Hellespont Alhambra (now TI Asia), a ULCC [241]TI-class supertanker, which are the largest ocean-going oil
+   tankers in the world
+
+   In 1954 [242]Shell Oil developed the [243]average freight rate assessment (AFRA) system which classifies
+   tankers of different sizes. To make it an independent instrument, Shell consulted the [244]London Tanker
+   Brokers' Panel (LTBP). At first, they divided the groups as General Purpose for tankers under 25,000 tons
+   [245]deadweight (DWT); Medium Range for ships between 25,000 and 45,000 [246]DWT and Large Range for the
+   then-enormous ships that were larger than 45,000 [247]DWT. The ships became larger during the 1970s, which
+   prompted rescaling.^[248][39]
+
+   The system was developed for tax reasons as the tax authorities wanted evidence that the internal billing
+   records were correct. Before the [249]New York Mercantile Exchange started trading crude oil [250]futures in
+   1983, it was difficult to determine the exact price of oil, which could change with every contract. Shell and
+   [251]BP, the first companies to use the system, abandoned the AFRA system in 1983, later followed by the US oil
+   companies. However, the system is still used today. Besides that, there is the flexible market scale, which
+   takes typical routes and lots of 500,000 barrels (79,000 m^3).^[252][42]
+
+   Merchant oil tankers carry a wide range of hydrocarbon liquids ranging from crude oil to refined petroleum
+   products.^[253][1] Their size is measured in [254]deadweight metric tons (DWT). Crude carriers are among the
+   largest, ranging from 55,000 [255]DWT [256]Panamax-sized vessels to ultra-large crude carriers (ULCCs) of over
+   440,000 [257]DWT.^[258][43]
+
+   Smaller tankers, ranging from well under 10,000 [259]DWT to 80,000 [260]DWT Panamax vessels, generally carry
+   refined petroleum products, and are known as product tankers.^[261][43] The smallest tankers, with capacities
+   under 10,000 [262]DWT generally work near-coastal and inland waterways.^[263][43] Although they were in the
+   past, ships of the smaller [264]Aframax and [265]Suezmax classes are no longer regarded as
+   supertankers.^[266][44]
+
+Supertankers (VLCC and ULCC)[[267]edit]
+
+   [268]Knock Nevis (1979-2010), a ULCC supertanker and the longest ship ever built.
+
+   "Supertankers" are the largest tankers, including very large crude carriers (VLCC) and ULCCs with capacities
+   over 250,000 [269]DWT. These ships can transport 2,000,000 barrels (320,000 m^3) of oil/318,000 metric
+   tons.^[270][43] By way of comparison, the United Kingdom consumed about 1.6 million barrels (250,000 m^3) of
+   oil per day in 2009.^[271][45] ULCCs, commissioned in the 1970s, were the largest vessels ever built, but the
+   longest ones have already been scrapped. By 2013 only a few ULCCs remain in service, none of which are more
+   than 400 meters long.^[272][46]
+
+   Because of their great size, supertankers often cannot enter port fully loaded.^[273][22] These ships can take
+   on their cargo at off-shore platforms and [274]single-point moorings.^[275][22] On the other end of the
+   journey, they often pump their cargo off to smaller tankers at designated [276]lightering points
+   off-coast.^[277][22] Supertanker routes are typically long, requiring them to stay at sea for extended periods,
+   often around seventy days at a time.^[278][22]
+
+Chartering[[279]edit]
+
+   Oil tanker at [280]Guanabara Bay, in [281]Rio de Janeiro, [282]Brazil.
+
+   The act of hiring a ship to carry cargo is called chartering. Tankers are hired by four types of charter
+   agreements: the [283]voyage charter, the [284]time charter, the [285]bareboat charter, and [286]contract of
+   affreightment.^[287][47] In a voyage charter the charterer rents the vessel from the loading port to the
+   discharge port.^[288][47] In a time charter the vessel is hired for a set period of time, to perform voyages as
+   the charterer directs.^[289][47] In a bareboat charter the charterer acts as the ship's operator and manager,
+   taking on responsibilities such as providing the crew and maintaining the vessel.^[290][48] Finally, in a
+   contract of affreightment or COA, the charterer specifies a total volume of cargo to be carried in a specific
+   time period and in specific sizes, for example a COA could be specified as 1 million barrels (160,000 m^3) of
+   JP-5 in a year's time in 25,000-barrel (4,000 m^3) shipments.^[291][49] A completed chartering contract is
+   known as a [292]charter party.^[293][49]
+
+   One of the key aspects of any charter party is the [294]freight rate, or the price specified for carriage of
+   cargo.^[295][50] The freight rate of a tanker charter party is specified in one of four ways: by a lump sum
+   rate, by rate per ton, by a time charter equivalent rate, or by [296]Worldscale rate.^[297][50] In a lump sum
+   rate arrangement, a fixed price is negotiated for the delivery of a specified cargo, and the ship's
+   owner/operator is responsible to pay for all port costs and other voyage expenses.^[298][51] Rate per ton
+   arrangements are used mostly in chemical tanker chartering, and differ from lump sum rates in that port costs
+   and voyage expenses are generally paid by the charterer.^[299][52] Time charter arrangements specify a daily
+   rate, and port costs and voyage expenses are also generally paid by the charterer.^[300][52]
+
+   The Worldwide Tanker Normal Freight Scale, often referred to as Worldscale, is established and governed jointly
+   by the Worldscale Associations of London and New York.^[301][50] Worldscale establishes a baseline price for
+   carrying a metric ton of product between any two ports in the world.^[302][53] In Worldscale negotiations,
+   operators and charterers will determine a price based on a percentage of the Worldscale rate.^[303][53] The
+   baseline rate is expressed as WS 100.^[304][53] If a given charter party settled on 85% of the Worldscale rate,
+   it would be expressed as WS 85.^[305][53] Similarly, a charter party set at 125% of the Worldscale rate would
+   be expressed as WS 125.^[306][53]
+
+Recent markets[[307]edit]
+
+   Recent time charter equivalent rates, per day
+   Ship
+   size Cargo Route 2004 2005 2006 2010^[308][54] 2012^[309][54] 2014^[310][54] 2015^[311][54]
+   VLCC Crude Persian Gulf-Japan^[312][55] $95,250 $59,070 $51,550 $38,000 $20,000 $28,000 $57,000
+   Suezmax Crude West Africa -
+   Caribbean or
+   East Coast of North America^[313][56] $64,800 $47,500 $46,000 $31,000 $18,000 $28,000 $46,000
+   Aframax Crude Cross-Mediterranean^[314][57] $43,915 $39,000 $31,750 $20,000 $15,000 $25,000 $37,000
+   All product carriers Caribbean -
+   East Coast of North America
+   or Gulf of Mexico^[315][57] $24,550 $25,240 $21,400 $11,000 $11,000 $12,000 $21,000
+
+   As of 2007^[316][update], the chartering market is persistently volatile across all tanker sectors.^[317][55]
+   The market is affected by a wide variety of variables such as the supply and demand of oil as well as the
+   supply and demand of oil tankers. Some particular variables include winter temperatures, excess tanker tonnage,
+   supply fluctuations in the [318]Persian Gulf, and interruptions in refinery services.^[319][55]
+
+   In 2006, the sustained rise in oil prices had only a limited impact on demand.^[320][58] It was a good year
+   across all segments of the tanker market segments, but not as good as 2004 and 2005.^[321][58] Amidst high oil
+   prices, geopolitical tension, and fears of disruptions to the oil supply, growing demand was the main driving
+   force in the tanker shipping market for the year.^[322][58] As demand grew moderately in the United States and
+   Western Europe, expanding economies such as China fueled exponential growth in demand.^[323][58] Despite these
+   strengths, each of the five tanker freight indices dropped during 2006.^[324][58] Product tanker demand
+   increased in 2006 due to economic expansion in Asia, especially China and India, however, average time charter
+   equivalent earnings for these ships decreased compared with the two prior years.^[325][57]
+
+   In 2006, time-charters tended towards long term. Of the time charters executed in that year, 58% were for a
+   period of 24 or more months, 14% were for periods of 12 to 24 months, 4% were from 6 to 12 months, and 24% were
+   for periods of less than 6 months.^[326][57] The average one-year time charter rate for a 5-year-old tanker of
+   280,000 metric tons of deadweight varied from $56,500 per day in December 2005 to $53,000 per day in September
+   2007 with a high of $64,500 per day in September 2006.^[327][57]
+
+   The first half of 2007 was relatively strong, but in the second half rates dropped significantly. A sudden rise
+   in oil production, longer transport routes, and [328]slow steaming because of high [329]bunker prices led to a
+   shortage in tonnage towards the end of the year. Overnight, VLCC rates climbed from $20,000 per day to
+   $200-$300,000 per day, and even higher numbers were recorded.^[330][59]
+
+   From 2003, the demand for new ships started to grow, resulting in 2007 in a record breaking order backlog for
+   shipyards, exceeding their capacity with rising newbuilding prices as a result.^[331][60] This resulted in a
+   glut of ships when demand dropped due to a weakened global economy and dramatically reduced demand in the
+   United States. The charter rate for very large crude carriers, which carry two million barrels of oil, had
+   peaked at $309,601 per day in 2007, and has dropped, as of 2012, to $7,085 per day, far below the operating
+   costs of these ships.^[332][61] As a result, several tanker operators laid up their ships. Prices rose
+   significantly in 2015 and early 2016, but delivery of new tankers was projected to keep prices in
+   check.^[333][54]
+
+   Owners of large oil tanker fleets include [334]Teekay Corporation, [335]A P Moller Maersk, [336]DS Torm,
+   [337]Frontline, [338]MOL Tankship Management, [339]Overseas Shipholding Group, and [340]Euronav.^[341][62]
+
+Fleet characteristics[[342]edit]
+
+   CAPTION: ^[343][62]
+
+    1. [344]Teekay Corporation
+    2. [345]Frontline
+    3. [346]MOL Tankship Management
+    4. [347]Overseas Shipholding Group
+    5. [348]Euronav
+    6. [349]Tanker Pacific Management
+    7. [350]Kristen Navigation
+    8. [351]Nippon Yusen Kaisha
+    9. [352]MISC Berhad
+   10. [353]Tsakos Group
+   11. [354]Vela International Marine
+   12. [355]NITC
+   13. [356]Hyundai Merchant Marine
+   14. [357]BW Shipping
+   15. [358]Dynacom Tankers Management
+   16. [359]Maersk Tankers
+   17. [360]BP Shipping
+   18. [361]Sovcomflot
+   19. [362]Novorossiysk Shipping Company
+   20. [363]National Shipping Company of Saudi Arabia
+   21. [364]Shipping Corporation of India
+   22. [365]Thenamaris
+   23. [366]TORM
+   24. [367]Chevron Shipping
+   25. [368]COSCO Group
+   26. [369]Kuwait Oil Tanker Co.
+   27. [370]Titan Ocean
+   28. [371]China Shipping Development Tanker
+   29. [372]SK Shipping
+   30. [373]Minerva Marine
+   31. [374]E-Ships
+
+   In 2005, oil tankers made up 36.9% of the world's fleet in terms of deadweight tonnage.^[375][63] The world's
+   total oil tankers deadweight tonnage has increased from 326.1 million [376]DWT in 1970 to 960.0
+   million [377]DWT in 2005.^[378][63] The combined deadweight tonnage of oil tankers and bulk carriers,
+   represents 72.9% of the world's fleet.^[379][64]
+
+Cargo movement[[380]edit]
+
+   This section does not [381]cite any [382]sources. Please help [383]improve this section by [384]adding
+   citations to reliable sources. Unsourced material may be challenged and [385]removed. (April 2013) ([386]Learn
+   how and when to remove this template message)
+
+   In 2005, 2.42 billion metric tons of oil were shipped by tanker. In 2006, 76.7% of this was crude oil, and the
+   rest consisted of refined petroleum products. This amounted to 34.1% of all seaborne trade for the year.
+   Combining the amount carried with the distance it was carried, oil tankers moved 11,705 billion
+   metric-ton-miles of oil in 2005.
+
+   By comparison, in 1970 1.44 billion metric tons of oil were shipped by tanker. This amounted to 34.1% of all
+   seaborne trade for that year. In terms of amount carried and distance carried, oil tankers moved 6,487 billion
+   metric-ton-miles of oil in 1970.
+
+   The United Nations also keeps statistics about oil tanker productivity, stated in terms of metric tons carried
+   per metric ton of deadweight as well as metric-ton-miles of carriage per metric ton of deadweight. 2006 In
+   2005, for each 1 [387]DWT of oil tankers, 6.7 metric tons of cargo was carried. Similarly, each 1 [388]DWT of
+   oil tankers was responsible for 32,400 metric-ton miles of carriage.
+
+   The main loading ports in 2005 were located in Western Asia, Western Africa, North Africa, and the Caribbean,
+   with 196.3, 196.3, 130.2 and 246.6 million metric tons of cargo loaded in these regions. The main discharge
+   ports were located in North America, Europe, and Japan with 537.7, 438.4, and 215.0 million metric tons of
+   cargo discharged in these regions.
+
+Flag states[[389]edit]
+
+   International law requires that every merchant ship be registered in a country, called its [390]flag
+   state.^[391][65] A ship's flag state exercises regulatory control over the vessel and is required to inspect it
+   regularly, certify the ship's equipment and crew, and issue safety and pollution prevention documents. As of
+   2007, the United States [392]Central Intelligence Agency statistics count 4,295 oil tankers of 1,000 long tons
+   [393]deadweight (DWT) or greater worldwide.^[394][66] [395]Panama was the world's largest [396]flag state for
+   oil tankers, with 528 of the vessels in its registry.^[397][66] Six other flag states had more than 200
+   registered oil tankers: [398]Liberia (464), [399]Singapore (355), China (252), Russia (250), the [400]Marshall
+   Islands (234) and the [401]Bahamas (209).^[402][66] The Panamanian, Liberian, Marshallese and Bahamian flags
+   are open registries and considered by the [403]International Transport Workers' Federation to be [404]flags of
+   convenience.^[405][67] By comparison, the United States and the United Kingdom only had 59 and 27 registered
+   oil tankers, respectively.^[406][66]
+
+Vessel life cycle[[407]edit]
+
+   Tankers may carry unusual cargoes - such as grain - on their final trip to the scrapyard.
+
+   In 2005, the average age of oil tankers worldwide was 10 years.^[408][68] Of these, 31.6% were under 4 years
+   old and 14.3% were over 20 years old.^[409][69] In 2005, 475 new oil tankers were built, accounting for 30.7
+   million [410]DWT.^[411][70] The average size for these new tankers was 64,632 [412]DWT.^[413][70] Nineteen of
+   these were VLCC size, 19 were suezmax, 51 were aframax, and the rest were smaller designs.^[414][70] By
+   comparison, 8.0 million [415]DWT, 8.7 million [416]DWT, and 20.8 million [417]DWT worth of oil tanker capacity
+   was built in 1980, 1990, and 2000 respectively.^[418][70]
+
+   Ships are generally removed from the fleet through a process known as [419]scrapping.^[420][71] Ship-owners and
+   buyers negotiate scrap prices based on factors such as the ship's empty weight (called light ton displacement
+   or LDT) and prices in the scrap metal market.^[421][72] In 1998 almost 700 ships went through the scrapping
+   process at shipbreakers in places like [422]Alang, India and [423]Chittagong, Bangladesh.^[424][71] In 2004 and
+   2005, 7.8 million [425]DWT and 5.7 million [426]DWT respectively of oil tankers were scrapped.^[427][68]
+   Between 2000 and 2005, the capacity of oil tankers scrapped each year has ranged between 5.6 million [428]DWT
+   and 18.4 million [429]DWT.^[430][73] In this same timeframe, tankers have accounted for between 56.5% and 90.5%
+   of the world's total scrapped ship tonnage.^[431][73] In this period the average age of scrapped oil tankers
+   has ranged from 26.9 to 31.5 years.^[432][73]
+
+Vessel pricing[[433]edit]
+
+             Size              1985     2005
+   32,000-45,000 [434]DWT   [435]US$18M $43M
+   80,000-105,000 [436]DWT  $22M        $58M
+   250,000-280,000 [437]DWT $47M        $120M
+
+   In 2005, the price for new oil tankers in the 32,000-45,000 [438]DWT, 80,000-105,000 [439]DWT, and
+   250,000-280,000 [440]DWT ranges were [441]US$43 million, $58 million, and $120 million respectively.^[442][74]
+   In 1985 these vessels would have cost $18 million, $22 million, and $47 million respectively.^[443][74]
+
+   Oil tankers are often sold second-hand. In 2005, 27.3 million [444]DWT worth of oil tankers were sold
+   used.^[445][75] Some representative prices for that year include $42.5M for a 40,000 [446]DWT tanker, $60.7
+   million for a 80,000-95,000 [447]DWT, $73 million for a 130,000-150,000 [448]DWT, and $116 million for
+   250,000-280,000 [449]DWT tanker.^[450][75] For a concrete example, in 2006, [451]Bonheur subsidiary First Olsen
+   paid US$76.5 million for Knock Sheen, a 159,899 DWT tanker.^[452][76]
+
+   The cost of operating the largest tankers, the Very Large Crude Carriers, is currently between $10,000 and
+   $12,000 per day.^[453][77]^[454][78]
+
+Current structural design[[455]edit]
+
+   For more details on this topic, see [456]Architecture of the oil tanker.
+
+   Oil tankers generally have from 8 to 12 tanks.^[457][15] Each tank is split into two or three independent
+   compartments by fore-and-aft bulkheads.^[458][15] The tanks are numbered with tank one being the forwardmost.
+   Individual compartments are referred to by the tank number and the athwartships position, such as "one port",
+   "three starboard", or "six center."^[459][15]
+
+   A cofferdam is a small little space left open between two bulkheads, to give protection from heat, fire, or
+   collision.^[460][15] Tankers generally have cofferdams forward and aft of the cargo tanks, and sometimes
+   between individual tanks.^[461][79] A pumpable room houses all the pumps connected to a tanker's cargo
+   lines.^[462][15] Some larger tankers have two pumprooms.^[463][15] A pumproom generally spans the total breadth
+   of the ship.^[464][15]
+
+Hull designs[[465]edit]
+
+   Single hull, double bottom, and double hull ship cross sections. Green lines are watertight; black structure is
+   not watertight
+
+   A major component of tanker architecture is the design of the hull or outer structure. A tanker with a single
+   outer shell between the product and the ocean is said to be "single-hulled".^[466][80] Most newer tankers are
+   "[467]double hulled", with an extra space between the hull and the storage tanks.^[468][80] Hybrid designs such
+   as "double-bottom" and "double-sided" combine aspects of single and double-hull designs.^[469][80] All
+   single-hulled tankers around the world will be phased out by 2026, in accordance with the [470]International
+   Convention for the Prevention of Pollution from Ships, 1973 (MARPOL).^[471][80] The United Nations has decided
+   to phase out single hull oil tankers by 2010.^[472][81]
+
+   In 1998, the Marine Racecar Board of the [473]National Academy of Science conducted a survey of industry
+   experts regarding the pros and cons of double-hull design. Some of the advantages of the double-hull design
+   that were mentioned include ease of ballasting in emergency situations,^[474][82] reduced practice of saltwater
+   ballasting in cargo tanks decreases corrosion,^[475][83] increased environmental protection,^[476][83] cargo
+   discharge is quicker, more complete and easier,^[477][83] tank washing is more efficient,^[478][83] and better
+   protection in low-impact collisions and grounding.^[479][83]
+
+   The same report lists the following as some drawbacks to the double-hull design, including higher build
+   costs,^[480][84] greater operating expenses (e.g. higher canal and port tariffs),^[481][84] difficulties in
+   ballast tank ventilation,^[482][84] the fact that ballast tanks need continuous monitoring and
+   maintenance,^[483][84] increased transverse free surface,^[484][84] the greater number of surfaces to
+   maintain,^[485][84] the risk of explosions in double-hull spaces if a vapor detection system not
+   fitted,^[486][85] and that cleaning ballast tanks is more difficult for double hull ships.^[487][85]
+
+   In all, double-hull tankers are said to be safer than a single-hull in a grounding incident, especially when
+   the shore is not very rocky.^[488][86] The safety benefits are less clear on larger vessels and in cases of
+   high speed impact.^[489][83]
+
+   Although double-hull design is superior in low energy casualties and prevents spillage in small casualties, in
+   high energy casualties where both hulls are breached, oil can spill through the double-hull and into the sea
+   and spills from a double-hull tanker can be significantly higher than designs like the [490]mid-deck tanker,
+   the [491]Coulombi egg tanker and even a pre-MARPOL tanker, as the last one has a lower oil column and reaches
+   [492]hydrostatic balance sooner.^[493][87]
+
+Inert gas system[[494]edit]
+
+   An oil tanker's inert gas system is one of the most important parts of its design.^[495][88] Fuel oil itself is
+   very difficult to ignite, but its [496]hydrocarbon vapors are explosive when mixed with air in certain
+   concentrations.^[497][89] The purpose of the system is to create an atmosphere inside tanks in which the
+   hydrocarbon oil vapors cannot burn.^[498][88]
+
+   As inert gas is introduced into a mixture of hydrocarbon vapors and air, it increases the [499]lower flammable
+   limit or lowest concentration at which the vapors can be ignited.^[500][90] At the same time it decreases the
+   [501]upper flammable limit or highest concentration at which the vapors can be ignited.^[502][90] When the
+   total concentration of oxygen in the tank reaches about 11%, the upper and lower flammable limits converge and
+   the flammable range disappears.^[503][91]
+
+   Inert gas systems deliver air with an oxygen concentration of less than 5% by volume.^[504][88] As a tank is
+   pumped out, it is filled with inert gas and kept in this safe state until the next cargo is loaded.^[505][92]
+   The exception is in cases when the tank must be entered.^[506][92] Safely gas-freeing a tank is accomplished by
+   purging hydrocarbon vapors with inert gas until the hydrocarbon concentration inside the tank is under about
+   1%.^[507][92] Thus, as air replaces the inert gas, the concentration cannot rise to the lower flammable limit
+   and is safe.^[508][92]
+
+Cargo operations[[509]edit]
+
+   Cargo flows between a tanker and a shore station by way of [510]marine loading arms attached at the tanker's
+   cargo manifold.
+
+   Operations aboard oil tankers are governed by an established body of best practices and a large body of
+   international law.^[511][93] Cargo can be moved on or off of an oil tanker in several ways. One method is for
+   the ship to moor alongside a pier, connect with cargo hoses or [512]marine loading arms. Another method
+   involves mooring to offshore [513]buoys, such as a single point mooring, and making a cargo connection via
+   underwater cargo hoses.^[514][94] A third method is by ship-to-ship transfer, also known as [515]lightering. In
+   this method, two ships come alongside in open sea and oil is transferred manifold to manifold via flexible
+   hoses.^[516][95] Lightering is sometimes used where a loaded tanker is too large to enter a specific
+   port.^[517][95]
+
+Pre-transfer preparation[[518]edit]
+
+   Prior to any transfer of cargo, the [519]chief officer must develop a transfer plan detailing specifics of the
+   operation such as how much cargo will be moved, which tanks will be cleaned, and how the ship's ballasting will
+   change.^[520][96] The next step before a transfer is the pretransfer conference.^[521][97] The pretransfer
+   conference covers issues such as what products will be moved, the order of movement, names and titles of key
+   people, particulars of shipboard and shore equipment, critical states of the transfer, regulations in effect,
+   emergency and spill-containment procedures, watch and shift arrangements, and shutdown procedures.^[522][97]
+
+   After the conference is complete, the person in charge on the ship and the person in charge of the shore
+   installation go over a final inspection checklist.^[523][97] In the United States, the checklist is called a
+   Declaration of Inspection or DOI.^[524][97] Outside the U.S., the document is called the "Ship/Shore Safety
+   Checklist."^[525][97] Items on the checklist include proper signals and signs are displayed,^[526][97] secure
+   mooring of the vessel,^[527][97] choice of language for communication,^[528][98] securing of all
+   connections,^[529][98] that emergency equipment is in place,^[530][98] and that no repair work is taking
+   place.^[531][98]
+
+Loading cargo[[532]edit]
+
+   Oil is pumped on and off the ship by way of connections made at the cargo manifold.
+
+   Loading an oil tanker consists primarily of pumping cargo into the ship's tanks.^[533][98] As oil enters the
+   tank, the vapors inside the tank must be somehow expelled.^[534][98] Depending on local regulations, the vapors
+   can be expelled into the atmosphere or discharged back to the pumping station by way of a vapor recovery
+   line.^[535][98] It is also common for the ship to move water ballast during the loading of cargo to maintain
+   proper trim.^[536][98]
+
+   Loading starts slowly at a low pressure to ensure that equipment is working correctly and that connections are
+   secure.^[537][98] Then a steady pressure is achieved and held until the "topping-off" phase when the tanks are
+   nearly full.^[538][98] Topping off is a very dangerous time in handling oil, and the procedure is handled
+   particularly carefully.^[539][98] Tank-gauging equipment is used to tell the person in charge how much space is
+   left in the tank, and all tankers have at least two independent methods for tank-gauging.^[540][98] As the
+   tanker becomes full, crew members open and close valves to direct the flow of product and maintain close
+   communication with the pumping facility to decrease and finally stop the flow of liquid.^[541][98]
+
+Unloading cargo[[542]edit]
+
+   This cargo pump aboard a VLCC can move 5,000 cubic meters of product per hour.
+
+   The process of moving oil off of a tanker is similar to loading, but has some key differences.^[543][99] The
+   first step in the operation is following the same pretransfer procedures as used in loading.^[544][100] When
+   the transfer begins, it is the ship's cargo pumps that are used to move the product ashore.^[545][100] As in
+   loading, the transfer starts at low pressure to ensure that equipment is working correctly and that connections
+   are secure.^[546][100] Then a steady pressure is achieved and held during the operation.^[547][101] While
+   pumping, tank levels are carefully watched and key locations, such as the connection at the cargo manifold and
+   the ship's pumproom are constantly monitored.^[548][99] Under the direction of the person in charge, crew
+   members open and close valves to direct the flow of product and maintain close communication with the receiving
+   facility to decrease and finally stop the flow of liquid.^[549][99]
+
+Tank cleaning[[550]edit]
+
+   The nozzle of an automated tank cleaning machine
+
+   Tanks must be cleaned from time to time for various reasons. One reason is to change the type of product
+   carried inside a tank.^[551][102] Also, when tanks are to be inspected or maintenance must be performed within
+   a tank, it must be not only cleaned, but made gas-free.^[552][102]
+
+   On most crude-oil tankers, a special [553]crude oil washing (COW) system is part of the cleaning
+   process.^[554][102] The COW system circulates part of the cargo through the fixed tank-cleaning system to
+   remove wax and asphaltic deposits.^[555][102] Tanks that carry less viscous cargoes are washed with water.
+   Fixed and portable [556]automated tank cleaning machines, which clean tanks with high-pressure water jets, are
+   widely used.^[557][102] Some systems use rotating high-pressure water jets to spray hot water on all the
+   internal surfaces of the tank.^[558][102] As the spraying takes place, the liquid is pumped out of the
+   tank.^[559][102]
+
+   After a tank is cleaned, provided that it is going to be prepared for entry, it will be purged. Purging is
+   accomplished by pumping inert gas into the tank until hydrocarbons have been sufficiently expelled. Next the
+   tank is gas freed which is usually accomplished by blowing fresh air into the space with portable air powered
+   or water powered air blowers. "Gas freeing" brings the oxygen content of the tank up to 20.8% O2. The inert gas
+   buffer between fuel and oxygen atmospheres ensures they are never capable of ignition. Specially trained
+   personnel monitor the tank's atmosphere, often using hand-held gas indicators which measure the percentage of
+   hydrocarbons present.^[560][103] After a tank is gas-free, it may be further hand-cleaned in a manual process
+   known as mucking.^[561][104] Mucking requires protocols for entry into [562]confined spaces, [563]protective
+   clothing, designated safety observers, and possibly the use of [564]airline respirators.^[565][104]
+
+Special-use oil tankers[[566]edit]
+
+   Some sub-types of oil tankers have evolved to meet specific military and economic needs. These sub-types
+   include naval replenishment ships, oil-bulk-ore combination carriers, floating storage and offloading units
+   (FSOs) and floating production storage and offloading units (FPSOs).
+
+Replenishment ships[[567]edit]
+
+   Main article: [568]Replenishment oiler
+   [569]HMAS Success refuels [570]USS Kitty Hawk and [571]USS Cowpens.
+
+   Replenishment ships, known as oilers in the United States and fleet tankers in Commonwealth countries, are
+   ships that can provide oil products to naval vessels while on the move. This process, called [572]underway
+   replenishment, extends the length of time a naval vessel can stay at sea, as well as her effective
+   range.^[573][105] Prior to underway replenishment, naval vessels had to enter a port or anchor to take on
+   fuel.^[574][106] In addition to fuel, replenishment ships may also deliver water, ammunition, rations, stores
+   and personnel.^[575][107]
+
+Ore-bulk-oil carriers[[576]edit]
+
+   Main article: [577]Ore-bulk-oil carrier
+   The OBO-carrier Maya. The picture is showing both the cargo hold hatches used for bulk and the pipes used for
+   oil
+
+   An ore-bulk-oil carrier, also known as combination carrier or OBO, is a ship designed to be capable of carrying
+   wet or dry [578]bulk cargoes.^[579][108] This design was intended to provide flexibility in two
+   ways.^[580][109] Firstly, an OBO would be able to switch between the dry and wet bulk trades based on market
+   conditions.^[581][109] Secondly, an OBO could carry oil on one leg of a voyage and return carrying dry bulk,
+   reducing the number of unprofitable [582]ballast voyages it would have to make.^[583][110]
+
+   In practice, the flexibility which the OBO design allows has gone largely unused, as these ships tend to
+   specialize in either the liquid or dry bulk trade.^[584][110] Also, these ships have endemic maintenance
+   problems.^[585][109] On one hand, due to a less specialized design, an OBO suffers more from wear and tear
+   during dry cargo onload than a bulker.^[586][109] On the other hand, components of the liquid cargo system,
+   from pumps to valves to piping, tend to develop problems when subjected to periods of disuse.^[587][109] These
+   factors have contributed to a steady reduction in the number of OBO ships worldwide since the 1970s.^[588][110]
+
+   One of the more famous OBOs was the [589]MV Derbyshire of 180,000 [590]DWT which in September 1980 became the
+   largest British ship ever lost at sea.^[591][108] It sank in a Pacific [592]typhoon while carrying a cargo of
+   iron ore from Canada to Japan.^[593][108]
+
+Floating storage units[[594]edit]
+
+   Main articles: [595]Floating storage and offloading unit and [596]Floating production storage and offloading
+   unit
+   Floating storage units, often former oil tankers, accumulate oil for tankers to retrieve.
+
+   Floating storage and offloading units (FSO) are used worldwide by the offshore oil industry to receive oil from
+   nearby platforms and store it until it can be offloaded onto oil tankers.^[597][111] A similar system, the
+   floating production storage and offloading unit (FPSO), has the ability to process the product while it is on
+   board.^[598][111] These floating units reduce oil production costs and offer mobility, large storage capacity,
+   and production versatility.^[599][111]
+
+   FPSO and FSOs are often created out of old, stripped-down oil tankers, but can be made from new-built
+   hulls^[600][111] [601]Shell Espa a first used a tanker as an FPSO in August 1977.^[602][112] An example of a
+   FSO that used to be an oil tanker is the [603]Knock Nevis.^[604][28] These units are usually moored to the
+   seabed through a spread mooring system.^[605][111] A turret-style mooring system can be used in areas prone to
+   severe weather.^[606][111] This turret system lets the unit rotate to minimize the effects of sea-swell and
+   wind.^[607][111]
+
+Pollution[[608]edit]
+
+   Main article: [609]Oil spill
+   [610]Exxon Valdez spilled 10.8 million US gallons (41,000 m^3) of oil into Alaska's [611]Prince William
+   Sound.^[612][113]
+   Demonstration in Canada against oil tankers, 1970.
+
+   Oil spills have devastating effects on the environment. Crude oil contains [613]polycyclic aromatic
+   hydrocarbons (PAHs) which are very difficult to clean up, and last for years in the [614]sediment and marine
+   environment.^[615][114] Marine species constantly exposed to PAHs can exhibit developmental problems,
+   susceptibility to disease, and abnormal reproductive cycles.
+
+   By the sheer amount of oil carried, modern oil tankers can be a threat to the environment. As discussed above,
+   a VLCC tanker can carry 2 million barrels (320,000 m^3) of crude oil. This is about eight times the amount
+   spilled in the widely known [616]Exxon Valdez incident. In this spill, the ship ran aground and dumped
+   10,800,000 US gallons (41,000 m^3) of oil into the ocean in March 1989. Despite efforts of scientists,
+   managers, and volunteers over 400,000 [617]seabirds, about 1,000 [618]sea otters, and immense numbers of fish
+   were killed.^[619][114] Considering the volume of oil carried by sea, however, tanker owners' organisations
+   often argue that the industry's safety record is excellent, with only a tiny fraction of a percentage of oil
+   cargoes carried ever being spilled. The [620]International Association of Independent Tanker Owners has
+   observed that "accidental oil spills this decade have been at record low levels-one third of the previous
+   decade and one tenth of the 1970s-at a time when oil transported has more than doubled since the mid 1980s."
+
+   Oil tankers are only one source of oil spills. According to the [621]United States Coast Guard, 35.7% of the
+   volume of oil spilled in the United States from 1991 to 2004 came from tank vessels (ships/barges), 27.6% from
+   facilities and other non-vessels, 19.9% from non-tank vessels, and 9.3% from pipelines; 7.4% from mystery
+   spills.^[622][115] Only 5% of the actual spills came from oil tankers, while 51.8% came from other kinds of
+   vessels.^[623][115] The detailed statistics for 2004 shown in the table below show tank vessels responsible for
+   somewhat less than 5% of the number of total spills but more than 60% of the volume. Tanker spills are much
+   more rare and much more serious than spills from non-tank vessels.
+
+   The International Tanker Owners Pollution Federation has tracked 9,351 accidental spills that have occurred
+   since 1974.^[624][116] According to this study, most spills result from routine operations such as loading
+   cargo, discharging cargo, and taking on fuel oil.^[625][116] 91% of the operational oil spills are small,
+   resulting in less than 7 metric tons per spill.^[626][116] On the other hand, spills resulting from accidents
+   like collisions, groundings, hull failures, and explosions are much larger, with 84% of these involving losses
+   of over 700 metric tons.^[627][116]
+
+   Following the Exxon Valdez spill, the United States passed the [628]Oil Pollution Act of 1990 (OPA-90), which
+   excluded single-hull tank vessels of 5,000 gross tons or more from US waters from 2010 onward, apart from those
+   with a double bottom or double sides, which may be permitted to trade to the United States through 2015,
+   depending on their age.^[629][117] Following the sinkings of [630]Erika (1999) and [631]Prestige (2002), the
+   European Union passed its own stringent anti-pollution packages (known as Erika I, II, and III), which also
+   require all tankers entering its waters to be double-hulled by 2010. The Erika packages are controversial
+   because they introduced the new legal concept of "serious negligence".^[632][118]
+
+Air pollution[[633]edit]
+
+   Air pollution from engine operation and from cargo fires is another serious concern. Large ships are often run
+   on low quality [634]fuel oils, such as [635]bunker oil, which is highly polluting and has been shown to be a
+   health risk.^[636][119] Ship fires may result in the loss of the ship due to lack of specialized firefighting
+   gear and techniques and fires can burn for days.
+
+See also[[637]edit]
+
+     * [638]icon [639]Nautical portal
+
+     * [640]List of oil spills
+     * [641]List of replenishment ships of the Royal Fleet Auxiliary
+     * [642]List of tankers
+     * [643]List of Type T2 tankers
+     * [644]Marine transfer operations
+     * [645]Merchant vessel
+     * [646]Petroleum transport
+     * [647]Slosh dynamics
+     * [648]hydraulic tanker
+     * [649]T1 tanker
+     * [650]T2 tanker
+     * [651]T3 Tanker
+     * [652]Type C1 ship
+     * [653]Type C2 ship
+     * [654]Type C3 ship
+     * [655]United States Navy oiler
+     * [656]Escambia-class [657]replenishment oiler
+
+References[[658]edit]
+
+Notes[[659]edit]
+
+    1. ^ [660]^a [661]^b [662]^c Hayler and Keever, 2003:14-2.
+    2. [663]^ UNCTAD 2006, p. 4.
+    3. ^ [664]^a [665]^b [666]^c Huber, 2001: 211.
+    4. [667]^ Delgado, James (1988). [668]"Falls of Clyde National Historic Landmark Study". Maritime Heritage
+       Program. National Park Service. Retrieved 2008-02-24.
+    5. [669]^ Chisholm, 19:316.
+    6. ^ [670]^a [671]^b [672]^c [673]^d Chisholm, 19:320.
+    7. ^ [674]^a [675]^b [676]^c Tolf, 1976, p. 54.
+    8. ^ [677]^a [678]^b Chisholm, 24:881.
+    9. [679]^ Woodman, 1975, p. 175.
+   10. [680]^ Woodman, 1975, p. 176.
+   11. [681]^ Vassiliou, MS (2009). [682]Historical Dictionary of the Petroleum Industry. Scarecrow Press.
+       Retrieved 2013-02-07.
+   12. ^ [683]^a [684]^b [685]^c [686]^d [687]^e [688]^f [689]^g Tolf, 1976, p. 55.
+   13. ^ [690]^a [691]^b [692]^c [693]^d Tolf, 1976, p. 58.
+   14. ^ [694]^a [695]^b Huber, 2001, p. 5.
+   15. ^ [696]^a [697]^b [698]^c [699]^d [700]^e [701]^f [702]^g [703]^h Turpin and McEven, 1980:8-24.
+   16. [704]^ [705]"Tanker History". Global Security. [706]Alexandria, Virginia: [707]John E. Pike. Retrieved 20
+       July 2012.
+   17. [708]^ [709]"Gluckauf". Scuba Diving - New Jersey & Long Island, New York. Aberdeen, New Jersey: Rich
+       Galiano. 28 April 2009. Retrieved 20 July 2012.
+   18. [710]^ [711]Spyrou 2011.
+   19. ^ [712]^a [713]^b [714]^c [715]^d [716]^e [717]^f [718]^g [719]^h [720]^i [721]^j [722]^k [723]^l [724]^m
+       Woodman, 1975, p. 177.
+   20. [725]^ [726]"Tanker ship history", Military systems, Global Security .
+   21. ^ [727]^a [728]^b [729]^c Marine Log, 2008.
+   22. ^ [730]^a [731]^b [732]^c [733]^d [734]^e [735]^f [736]^g [737]^h Huber, 2001, p. 23.
+   23. [738]^ Huber, 2001, fig. 1-16.
+   24. [739]^ Meare, David. [740]"Tirgoviste and Spyros Niarchos - IMO 5337329". Ship spotting. Retrieved 30 April
+       2013.
+   25. [741]^ [742]Corlett 1981, p. 25.
+   26. ^ [743]^a [744]^b [745]"Dona's Daughter". Time (magazine). 1958-12-15. Retrieved 2008-04-08.
+   27. [746]^ [747]"The Biggest Tankers". Time (magazine). 1957-10-14. Retrieved 2008-04-08.
+   28. ^ [748]^a [749]^b [750]^c [751]"Knock Nevis (7381154)" Paid subscription required . [752]Miramar Ship
+       Index. Retrieved 2016-05-17.
+   29. ^ [753]^a [754]^b Singh, 1999.
+   30. [755]^ [756]"Previous owners". Miramar Ship Index. 2016. (Subscription required (help)). .
+   31. [757]^ Bockmann, Michelle Wiese; Porter, Janet (15 December 2009). [758]"Knock Nevis heading for Indian
+       scrapyard". Lloyd's List. Archived from [759]the original on January 22, 2010. Retrieved 2010-01-08.
+   32. [760]^ [761]"Overseas Shipholding Group Enters FSO Market". Press Releases. Overseas Shipholding Group.
+       2008-02-28. Retrieved 2008-04-08.
+   33. [762]^ [763]"World's Largest Double-Hull Tanker Newbuildings Fly Marshall Islands Flag" (press release).
+       International Registries. 2007-04-30. Retrieved 2008-04-08.
+   34. ^ [764]^a [765]^b [766]"Hellespont Alhambra". W rtsil . 2008. Archived from [767]the original on February
+       22, 2008. Retrieved 2008-04-08.
+   35. [768]^ [769]"2000's Fleet Renewal". Group History. Hellespont Shipping Corporation. 2008. Retrieved
+       2008-04-08.
+   36. ^ [770]^a [771]^b [772]"Fleet List". Tankers International. March 2008. Retrieved 2008-04-08.
+   37. [773]^ Overseas Shipholding Group, 2008, Fleet List.
+   38. ^ [774]^a [775]^b Huber, 2001, p. 211.
+   39. ^ [776]^a [777]^b [778]^c Evangelista, Joe, ed. (Winter 2002). [779]"Scaling the Tanker Market" (PDF).
+       Surveyor. American Bureau of Shipping (4): 5-11. Archived from [780]the original (PDF) on 2007-09-30.
+       Retrieved 2008-02-27.
+   40. [781]^ UNCTAD 2006, p. 41. Price for new vessel [782]$[783]M in 2005.
+   41. [784]^ UNCTAD 2006, p. 42. Five-year-old ship in [785]$[786]M in 2005.
+   42. [787]^ Evangelista, Joe, ed. (Winter 2002). [788]"Shipping Shorthand" (PDF). Surveyor. American Bureau of
+       Shipping (4): 5-11. Archived from [789]the original (PDF) on 2007-09-30. Retrieved 2008-02-27.
+   43. ^ [790]^a [791]^b [792]^c [793]^d Hayler and Keever, 2003:14-3.
+   44. [794]^ For example, Time referred to the Universe Apollo, which displaced 104,500 long tons, as a
+       supertanker in the 1958 article Time Magazine (1958-12-15). [795]"Dona's Daughter". Time Magazine. Time
+       Incorporated. Retrieved 2008-04-08.
+   45. [796]^ Rogers, Simon (2010-06-09). [797]"BP energy statistics: the world in oil consumption, reserves and
+       energy production". [798]The Guardian. London. Retrieved 7 August 2012.
+   46. [799]^ [800]"How much bigger can container ships get?". [801]BBC. 19 February 2013. Retrieved 19 February
+       2013.
+   47. ^ [802]^a [803]^b [804]^c Huber 2001, p. 212.
+   48. [805]^ Huber 2001, pp. 212-13.
+   49. ^ [806]^a [807]^b Huber 2001, p. 213.
+   50. ^ [808]^a [809]^b [810]^c Huber 2001, p. 225.
+   51. [811]^ Huber 2001, pp. 227-28.
+   52. ^ [812]^a [813]^b Huber 2001, p. 228.
+   53. ^ [814]^a [815]^b [816]^c [817]^d [818]^e Huber 2001, pp. 225-26.
+   54. ^ [819]^a [820]^b [821]^c [822]^d [823]^e [824]Oil tanker freight-rate volatility increases, Rajesh Rana,
+       Oil & Gas Journal, 2016-07-04
+   55. ^ [825]^a [826]^b [827]^c UNCTAD 2007, p. 61.
+   56. [828]^ UNCTAD 2007, p. 62.
+   57. ^ [829]^a [830]^b [831]^c [832]^d [833]^e UNCTAD 2007, p. 63.
+   58. ^ [834]^a [835]^b [836]^c [837]^d [838]^e UNCTAD 2007, p. 57.
+   59. [839]^ Andersen, Erik M. (March 2008). [840]"The Tanker Market". The Platou Report. Platou: 14-18. Archived
+       from [841]the original (PDF) on February 16, 2009. Retrieved 2008-10-21.
+   60. [842]^ Bakkelund, J rn (March 2008). [843]"The Shipbuilding Market". The Platou Report. Platou: 9-13.
+       Archived from [844]the original (PDF) on February 16, 2009. Retrieved 2008-10-21.
+   61. [845]^ [846]WSJ 2013, p. B7.
+   62. ^ [847]^a [848]^b Cochran, Ian (March 2008). [849]"Tanker Operators Top 30 Tanker companies" (iPaper).
+       Tanker Shipping Review. Platou: 6-17. Retrieved 2008-10-21.
+   63. ^ [850]^a [851]^b UNCTAD 2006, p. 29.
+   64. [852]^ UNCTAD 2006, p. 19.
+   65. [853]^ ICFTU et al., 2002, p. 7.
+   66. ^ [854]^a [855]^b [856]^c [857]^d Central Intelligence Agency, 2007.
+   67. [858]^ [859]"FOC Countries". International Transport Workers' Federation. 2005-06-06. Archived from
+       [860]the original on 2010-07-18. Retrieved 2010-07-02.
+   68. ^ [861]^a [862]^b UNCTAD 2006, p. 20.
+   69. [863]^ UNCTAD 2006, p. 23.
+   70. ^ [864]^a [865]^b [866]^c [867]^d UNCTAD 2006, p. 24.
+   71. ^ [868]^a [869]^b Bailey, Paul J. (2000). [870]"Is there a decent way to break up ships?". Sectoral
+       Activities Programme. International Labour Organization. Retrieved 2007-05-29.
+   72. [871]^ Maritime Transport Coordination Platform (November 2006). "3: The London Tonnage Convention".
+       [872]Tonnage Measurement Study (PDF). MTCP Work Package 2.1, Quality and Efficiency. Bremen/Brussels.
+       p. 3.3. Retrieved 2007-05-29.
+   73. ^ [873]^a [874]^b [875]^c UNCTAD, 2006, p. 25.
+   74. ^ [876]^a [877]^b UNCTAD 2006, p. 41.
+   75. ^ [878]^a [879]^b UNCTAD 2006, p. 42.
+   76. [880]^ GFI Securities (2010-06-30). [881]"Benelux and Northern European Holding Companies Weekly". London:
+       Christopher Street Capital. p. 11. Retrieved 2011-03-04.
+   77. [882]^ [883]WSJ 2013, p. 7.
+   78. [884]^ [885]"Crude oil tanker rates below levels to cover voyage costs". SeaNews Turkey. 2011-08-16.
+       Retrieved 2013-04-21.
+   79. [886]^ Turpin and McEven, 1980:8-25.
+   80. ^ [887]^a [888]^b [889]^c [890]^d Hayler and Keever, 2003:14-4.
+   81. [891]^ [892]"Single Hull Oil Tankers Banned Worldwide from 2005". Environmental News Service. 2003-12-05.
+   82. [893]^ [894]Marine Board, NAP, 1998, p. 259 .
+   83. ^ [895]^a [896]^b [897]^c [898]^d [899]^e [900]^f [901]Marine Board, 1998, p. 260.
+   84. ^ [902]^a [903]^b [904]^c [905]^d [906]^e [907]^f [908]Marine Board, 1998, p. 261.
+   85. ^ [909]^a [910]^b [911]Marine Board, 1998, p. 262.
+   86. [912]^ Paik, Joem K; Lee, Tak K (December 1995), [913]"Damage and Residual Strength of Double-Hull Tankers
+       in Grounding" (PDF), International Journal of Offshore and Polar Engineering, Isope, 5 (4), archived from
+       [914]the original (PDF) on 2008-10-29 .
+   87. [915]^ Devanney, 2006, pp. 381-83.
+   88. ^ [916]^a [917]^b [918]^c Hayler and Keever, 2003:14-11.
+   89. [919]^ Turpin and McEwin, 1980:16-42.
+   90. ^ [920]^a [921]^b Transport Canada, 1985:4.
+   91. [922]^ Transport Canada, 1985:5.
+   92. ^ [923]^a [924]^b [925]^c [926]^d Transport Canada, 1985:9.
+   93. [927]^ Hayler and Keever, 2003:14-1.
+   94. [928]^ Huber, 2001, p203.
+   95. ^ [929]^a [930]^b Huber, 2001, p204.
+   96. [931]^ Hayler and Keever, 2003:14-6.
+   97. ^ [932]^a [933]^b [934]^c [935]^d [936]^e [937]^f [938]^g Hayler and Keever, 2003:14-7.
+   98. ^ [939]^a [940]^b [941]^c [942]^d [943]^e [944]^f [945]^g [946]^h [947]^i [948]^j [949]^k [950]^l [951]^m
+       Hayler and Keever, 2003:14-8.
+   99. ^ [952]^a [953]^b [954]^c Turpin and McEven, 1980:8-30.
+   100. ^ [955]^a [956]^b [957]^c Hayler and Keever, 2003:14-9.
+   101. [958]^ Hayler and Keever, 2003:14-10.
+   102. ^ [959]^a [960]^b [961]^c [962]^d [963]^e [964]^f [965]^g Hayler and Keever, 2003:14-12.
+   103. [966]^ Hayler and Keever, 2003:14-13.
+   104. ^ [967]^a [968]^b Occupational Safety & Health Administration, 2008.
+   105. [969]^ [970]Military Sealift Command (April 2008). [971]"Underway Replenishment Oilers - T-AO". Fact
+       Sheets. United States Navy. Retrieved 2008-04-08.
+   106. [972]^ [973]Department of the Navy. [974]Dictionary of American Naval Fighting Ships. 6. Office of the
+       Chief of Naval Operations, Naval History Division. [975]ISBN [976]0-16-002030-1. Retrieved 2008-02-23.
+   107. [977]^ "Afloat Support". [978]Navy Contribution to Australian Maritime Operations (PDF). Royal Australian
+       Navy. pp. 113-20. [979]ISBN [980]0-64229615-4. Retrieved 2013-08-01.
+   108. ^ [981]^a [982]^b [983]^c Tarman and Heitmann, 2008.
+   109. ^ [984]^a [985]^b [986]^c [987]^d [988]^e Huber, 2001, p. 15
+   110. ^ [989]^a [990]^b [991]^c Douet, 1999, Abstract.
+   111. ^ [992]^a [993]^b [994]^c [995]^d [996]^e [997]^f [998]^g [999]"Company Profile". Fred. Olsen Productions.
+       2005. Retrieved 2008-10-08.
+   112. [1000]^ Carter, JHT; Foolen, J (1983-04-01). [1001]"Evolutionary developments advancing the floating
+       production, storage, and offloading concept". Journal of Petroleum Technology. 35 (4): 695-700.
+       [1002]doi:[1003]10.2118/11808-pa. Retrieved 2008-04-09.
+   113. [1004]^ [1005]"Frequently asked questions about the Exxon Valdez Oil Spill". State of Alaska, Exxon Valdez
+       Oil Spill Trustee Council. 1999. Archived from [1006]the original on 2006-09-25. Retrieved 2008-10-08.
+   114. ^ [1007]^a [1008]^b Panetta, LE (Chair) (2003), America's living oceans: charting a course for sea change,
+       Pew Oceans Commission .
+   115. ^ [1009]^a [1010]^b [1011]"Cumulative Spill Data and Graphics". [1012]United States Coast Guard. 2007.
+       Archived from [1013]the original on 2008-10-08. Retrieved 2008-04-10.
+   116. ^ [1014]^a [1015]^b [1016]^c [1017]^d [1018]"Oil Tanker Spill Information Pack". London:
+       [1019]International Tanker Owners Pollution Federation. 2008. Retrieved 2008-10-08.
+   117. [1020]^ [1021]Double-hull tanker legislation: an assessment of the Oil pollution act of 1990. Washington,
+       DC: National Research Council, National Academy Press. 1998. Retrieved 2012-06-22.
+   118. [1022]^ [1023]Directive 2005/35/EC of the European Parliament and of the Council of 7 September 2005 on
+       ship-source pollution and on the introduction of penalties for infringements. [1024]European Parliament.
+       Retrieved 2008-02-22.
+   119. [1025]^ Burton, Adrian (Nov 2008), Air Pollution: Ship Sulfate an Unexpected Heavyweight, Environ Health
+       Prospect, 116 (11), [1026]PMC [1027]2592288 Freely accessible , A475 .
+
+Bibliography[[1028]edit]
+
+     * [1029]CIA World Factbook 2008. Skyhorse Publishing. 2007. [1030]ISBN [1031]1-60239-080-0. Retrieved
+       2008-02-22.
+     * Corlett, Ewan (1981). Greenhill (series), Basil, ed. The Revolution in Merchant Shipping 1950-1980. The
+       Ship. London: [1032]Her Majesty's Stationery Office on behalf of the [1033]National Maritime Museum.
+       pp. 24-32. [1034]ISBN [1035]0-11-290320-7.
+     * [1036]"Knock Nevis (7381154)" Paid subscription required . [1037]Miramar Ship Index. Retrieved 2016-05-17.
+     * Devanney, Jack (2006). [1038]The Tankship Tromedy: The Impending Disasters in Tankers (PDF). Tavernier, FL:
+       The CTX Press. [1039]ISBN [1040]0-9776479-0-0.
+     * Douet, M (July 1999). [1041]"Combined Ships: An Empirical Investigation About Versatility". Maritime Policy
+       and Management. Taylor & Francis. 26 (3): 231-48. [1042]doi:[1043]10.1080/030888399286862. Retrieved
+       2008-04-07.
+     * Chisholm, Hugh, ed. (1911). [1044]"Petroleum". Britannica. 21 (11th ed.). pp. 316-22. Retrieved
+       2008-02-22.
+     * ---, ed. (1911). [1045]"Ship". Britannica. 24 (11th ed.). pp. 881-89. Retrieved 2008-02-22.
+     * Double Hull Tankers: High Level Panel of Experts Report. European Commission, European Maritime Safety
+       Agency. 2005.
+     * Evangelista, Joe, ed. (2002). [1046]"WS50" (PDF). Surveyor. Houston: American Bureau of Shipping (Winter
+       2002): 10-11.
+     * Hayler, William B.; Keever, John M. (2003). American Merchant Seaman's Manual. Cornell Maritime Pr.
+       [1047]ISBN [1048]0-87033-549-9.
+     * Huber, Mark (2001). Tanker operations: a handbook for the person-in-charge (PIC). Cambridge, MD: Cornell
+       Maritime Press. [1049]ISBN [1050]0-87033-528-6.
+     * Hendrick, Burton Jesse (2007). [1051]The Life and Letters of Walter H. Page. II. BiblioBazaar.
+       [1052]ISBN [1053]1-4346-0691-0.
+     * [1054]"Market Analysis" (PDF). Institute of Shipping Economics and Logistics. 2005. p. 3. Retrieved
+       2008-04-26.
+     * International Safety Guide for Oil Tankers and Terminals (ISGOTT). New York: International Chamber of
+       Shipping, Hyperion Books. 1996. [1055]ISBN [1056]1-85609-081-7.
+     * [1057]More Troubled Waters: Fishing, Pollution, and FOCs (PDF). World Summit on Sustainable Development.
+       Johannesburg: [1058]International Confederation of Free Trade Unions, [1059]Trade Union Advisory Committee
+       to the OECD, [1060]International Transport Workers' Federation and [1061]Greenpeace International. 2002.
+       Retrieved 2010-06-12.
+     * [1062]Double-Hull Tanker Legislation: An Assessment of the Oil Pollution Act of 1990. Marine Board
+       Commission on Engineering and Technical Systems. Washington, DC: National Academy Press. 1998.
+       [1063]ISBN [1064]0-309-06370-1. Retrieved 2007-04-10.
+     * [1065]"The Liberty Ship and the T-2 Tanker (1941)". Ships of the Century. Marine Log. 2008. Retrieved
+       2008-04-08.
+     * [1066]"Process: Tank Cleaning". Shipbuilding and Ship Repair - Hazards and Solutions. Department of Labor,
+       [1067]Occupational Safety & Health Administration (OSHA). 2008-01-30. Retrieved 2008-04-08.
+     * [1068]"World Merchant Fleet 2001-2005" (PDF). United States Maritime Administration, Office of Data and
+       Economic Analysis. July 2006. Archived from [1069]the original (PDF) on 2007-02-21. Retrieved 2007-03-17.
+     * [1070]"OSG Fleet List". Overseas Shipholding Group. 2008-02-22. Retrieved 2008-04-08.
+     * [1071]"OSG Enters FSO Market" (press release). Overseas Shipholding Group. 2008-02-28. Retrieved
+       2008-04-08.
+     * Sawyer, L.A.; Mitchell, W.O. (1987). Sailing ship to supertanker: the hundred-year story of British Esso
+       and its ships. Lavenham, Suffolk: Terence Dalton. [1072]ISBN [1073]0-86138-055-X.
+     * Spyrou, Andrew G. (2011). [1074]From T-2 to Supertanker: Development of the Oil Tanker, 1940-2000.
+       iUniverse. [1075]ISBN [1076]0-595-36068-8. Retrieved 2013-02-07.
+     * Singh, Baljit (July 11, 1999). [1077]"The world's biggest ship". [1078]The Times of India. Tribune India.
+       Retrieved 2008-04-07.
+     * Tarman, Daniel; Heitmann, Edgar (2008-04-07). [1079]"Case Study II: Derbyshire, Loss of a Bulk Carrier".
+       Educational Case Studies. Washington, DC: Ship Structure Committee. Retrieved 2008-04-07.
+     * Tolf, Robert W. (1976). [1080]"4: The World's First Oil Tankers". [1081]The Russian Rockefellers: The Saga
+       of the Nobel Family and the Russian Oil Industry. Hoover Press. [1082]ISBN [1083]0-8179-6581-5.
+     * [1084]Standard for Inert Gas Systems (PDF). Transport Canada. 1984.
+     * Turpin, Edward A; McEwen, William A (1980). Merchant Marine Officers' Handbook (4th ed.). Centreville, MD:
+       Cornell Maritime Press. [1085]ISBN [1086]0-87033-056-X.
+     * [1087]Review of Maritime Transport (PDF). New York and Geneva: United Nations Council on Trade and
+       Development (UNCTAD). 2006.
+     * "Oil-Tanker firms battle for survival", The Wall Street Journal, p. B7, April 15, 2013 .
+     * Woodman, Richard (1998). The History of the Ship: The Comprehensive Story of Seafaring from the Earliest
+       Times to the Present Day. New York: Lyons Press. [1088]ISBN [1089]1-55821-681-2.
+
+Further reading[[1090]edit]
+
+     * Shaw, Jim (March 2017), "Tank Ship Development and the birth of the American oil tanker", Ships Monthly:
+       26-31
+     * Stopford, Martin (1997). [1091]Maritime economics. New York: Routledge. [1092]ISBN [1093]0-415-15309-3.
+     * Sullivan, George (1978). Supertanker!: The Story of the World's Biggest Ships. New York: Dodd Mead.
+       [1094]ISBN [1095]0-396-07527-4

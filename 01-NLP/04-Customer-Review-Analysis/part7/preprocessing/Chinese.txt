@@ -1,0 +1,1038 @@
+mongolian beef; Liu's Kitchen	0.106926001378	2	4
+kung pao chicken; Qwik Chinese	0.144383741259	4
+mongolian beef; Pei Wei Asian Diner	0.332242965368	4	4
+mongolian beef; Golden Wei	-0.0248571428571	1
+kung pao chicken; Bobo China	0.137128456221	5	4	5	4
+kung pao chicken; Rice n Noodle	0.146	4
+mongolian beef; Chang's Hong Kong Cuisine	0.506696428571	4	5
+mongolian beef; Big Buddha	0.129928500567	4	2	1	4	4	4	5	2	4	2
+mongolian beef; Buffet Asia	0.0577564102564	4
+kung pao chicken; Beijing Noodle Cafe	0.190708592133	5	4	4	5	4
+mongolian beef; China Rice	0.272320261438	4
+peking duck; Red 8	-0.0653559403559	1
+mongolian beef; Ta Ta Bistro	0.379061038478	5	4
+wonton soup; Yi Mei Champion Taiwan Deli	0.0022380952381	1
+kung pao chicken; Panda Express	0.178993055556	4
+kung pao chicken; George and Sons	0.338823529412	5
+wonton soup; P F Chang's China Bistro	0.0998299319728	4
+kung pao chicken; China Wok	0.101688988095	4
+wonton soup; Cafe Noodle & Chinese Barbeque	0.482839506173	4
+mongolian beef; Gold Chef	0.256571744228	5	5	4
+kung pao chicken; Sesame Inn Carefree	0.204626305067	5	5	4
+wonton soup; Beijing Noodle Cafe	0.0143596491228	4	2
+wonton soup; Simi's Cafe	0.343608058608	5
+mongolian beef; Yan's Chinese Food #2	0.227016806723	5
+mongolian beef; Chopstix	0.271180080021	4	4	5
+mongolian beef; China Garden	0.207986111111	4
+kung pao chicken; Magic Wok	0.21771114106	4
+kung pao chicken; Taste Of China & Icy Bar	0.5971875	5
+wonton soup; Jade Palace	0.210051344085	4	2	1	4	2	4
+wonton soup; China Star	0.136904761905	2
+kung pao chicken; Pei Wei Asian Diner	0.141297356	4	5	5	5
+mongolian beef; China A GoGo	0.733333333333	5
+kung pao chicken; Golden Buddha	0.145737179487	4	1
+kung pao chicken; Panda Express	0.0790277777778	2
+mongolian beef; Blossom	0.299572855253	5	4	5	4	5
+mongolian beef; Dim Sum Cafe	0.226385109599	4
+peking duck; Cathay House Restaurant	0.238636363636	5
+peking duck; Jade Palace	0.180835137085	5	4	5
+mongolian beef; Cheng's Express	0.369230769231	5
+mongolian beef; Noodles	0.155416666667	2	4
+wonton soup; Da Sheng Chinese Cuisine	0.140170068027	5
+peking duck; Phoenix Palace	0.183849862259	5
+mongolian beef; Lychee Inn	0.323369107744	4	5
+peking duck; The Prime Chinese Restaurant	0.491944444444	5
+kung pao chicken; Szechwan Garden	0.277857142857	4	5
+mongolian beef; Cook On Wok	0.23921957672	4	4
+kung pao chicken; Karen's Unicorn	0.104017857143	4
+kung pao chicken; Great Wok	0.214576719577	4
+wonton soup; Dragon Palace	0.196171968215	4	5	4	5	5	2	2	5	5	4
+wonton soup; Big Wong Restaurant	0.218516967197	2	4	4	4	5	4	5	5	4	4	4	4	4	4	5	5	4	5	4	4	4	5	4	4	2
+wonton soup; Taste of China	-0.0613636363636	1
+wonton soup; Maxim Restaurant	0.47496031746	5
+mongolian beef; Hao	0.188053613054	4
+mongolian beef; P F Chang's China Bistro	0.261477437389	5	5	5	4	4	5	2	4	5	5
+mongolian beef; Noodle Exchange	0.258496133496	4	4	4
+mongolian beef; Mr. Beijing	0.332465277778	5
+mongolian beef; Joyful House Chinese Cuisine	0.20879709663	4	5	4	5	4	5	1	5	5	4
+kung pao chicken; China Red Cafe	0.191818181818	4
+wonton soup; Dragon Express	0.130099237994	4	4
+mongolian beef; China Ginger	-0.100294612795	1
+rice cake; Ping Pang Pong	0.01375	4
+kung pao chicken; Pei Wei Asian Diner	-0.126080246914	1
+kung pao chicken; China A GoGo	0.236172719256	2	4	5
+mongolian beef; 888 Noodle Bar	0.208465608466	4
+mongolian beef; Queen's Bowl Chinese Food	0.306385281385	4	4
+peking duck; Pan Asian	0.193805555556	5
+peking duck; Food Express	0.0173805361305	2
+mongolian beef; Pei Wei Asian Diner	0.158540667619	4	4	2
+wonton soup; Chen & Wok	0.121961152882	5
+wonton soup; Dragon Bowl	0.0954826038159	4
+kung pao chicken; Beijing Express	0.121691176471	4
+mongolian beef; Yummy House	0.26430952381	4
+kung pao chicken; Szechwan Palace	0.199305555556	4	4
+wonton soup; Hot Wok Mr Cook	0.215350877193	4
+kung pao chicken; Meiwei China Bistro	0.0175438596491	2
+wonton soup; China Garden	0.403993055556	4	4
+wonton soup; Dim Sum Cafe	0.0551807760141	2
+wonton soup; Lucky Kitchen	0.163169027942	5
+kung pao chicken; Emperor's Garden	-0.0354341736695	2
+wonton soup; DumplingHaus	0.28619510582	5	5	4
+mongolian beef; Dao Kitchen Asian Bistro	0.369649859944	4
+mongolian beef; Sam Woo BBQ Restaurant	-0.109244227994	2	1
+kung pao chicken; Ocha Cuisine	0.2539056353	4	4
+kung pao chicken; Red Mansion	0.180613662132	5	5
+mongolian beef; Chen's Chinese Restaurant	0.0719967532468	1	5
+kung pao chicken; Tao Yuan Chinese Restaurant	-0.0508843537415	1
+wonton soup; New York Wok	0.16386198946	5	4	4
+mongolian beef; Xo Chinese Food	0.185866847042	5	5	1	1	4
+kung pao chicken; Green Tea Chinese And Japanese Cuisine	0.0272727272727	4
+peking duck; BBQ King	0.190487012987	4
+rice cake; Wendy's Noodle Cafe	0.303674417902	5	4	4	5	4	5	5	5	5	5	5	4	5	5	4	4	5	4	4
+kung pao chicken; Diamond China 2	0.0577708333333	2
+kung pao chicken; Food Express	0.0629166666667	4
+peking duck; George & Son's Asian Cuisine	0.307565104167	4	4
+mongolian beef; China A Go Go	0.188854949875	4	4
+mongolian beef; C-Fu Gourmet Restaurant	0.0567666029623	2	4
+kung pao chicken; Chen's Chinese Bistro	0.134259259259	4
+mongolian beef; China Poblano	0.184347682692	1	2	2	1	1	1	2	5	4	2	2	2	4	5	5	5	4	4	1
+mongolian beef; China Lite	0.248494397759	5	5	4
+mongolian beef; Chinatown Restaurant	0.284478715729	5
+wonton soup; Pei Wei Asian Diner	0.172549019608	2	2
+mongolian beef; Red 8	0.168038340369	4	2	1	2	4	1	4	4
+wonton soup; Wong's Place	0.136091269841	4	1
+kung pao chicken; Golden Canyon Oriental	-0.0225	5
+wonton soup; Rice n Noodle	0.245262483466	4	4	4	5
+kung pao chicken; Mr Chao's Asian Bistro	-0.00118916437098	2
+wonton soup; Sam Woo BBQ Restaurant	0.0701987396081	1	1	1	2	2
+mongolian beef; Xing Asian Bistro	0.10864389234	2
+mongolian beef; Red House	0.0972222222222	4
+mongolian beef; China Wan Wan	0.123538112608	5	5
+kung pao chicken; Taste of China	0.211676954733	4
+mongolian beef; Bamboo China Restaurant	0.0933333333333	2
+wonton soup; China City Super Buffet	-0.0320549242424	5
+kung pao chicken; Yan's	0.193489789196	4
+wonton soup; China Star	0.284925997426	4
+kung pao chicken; Chen & Wok	0.130627990431	2	4
+mongolian beef; Moon China	0.154667478355	5	4
+kung pao chicken; The Wok Express	0.207075850784	4	5	5
+wonton soup; Miu's Cuisine	0.129747562931	5	2	2
+mongolian beef; Zine Noodles Dim Sum	0.454166666667	4
+wonton soup; Sun Asian Kitchen	0.0140313390313	2	4	5
+rice cake; Miu's Cuisine	0.185238355354	5	5	2
+wonton soup; Lillie's Asian Cuisine	0.310833287083	5	5	5
+wonton soup; KJ Kitchen	0.5375	4	4
+mongolian beef; P F Chang's China Bistro	0.271829117063	1	5	4
+kung pao chicken; Jade Palace	0.230169753086	2	5	4
+wonton soup; Golden China Chinese Cuisine	-0.0773971861472	1	4
+wonton soup; China Grill	0.271794871795	5
+kung pao chicken; Grand China Restaurant	-0.0347222222222	1
+mongolian beef; Bund Shanghai	0.231822562358	4
+wonton soup; Chin Chin Chinese Restaurant	0.170633374562	4	5	1	2
+wonton soup; Red Dragon Chinese Food	0.255654761905	5
+wonton soup; Little Szechuan	0.158928571429	4
+rice cake; Phoenix Palace	0.180778895779	4
+peking duck; Kweilin Restaurant	0.225757575758	4
+mongolian beef; Chopstick Express	0.169230800064	4	5
+kung pao chicken; Noodles	0.0467531854124	4	5	5	2
+mongolian beef; New China Gate	0.183384199134	4	4	4
+kung pao chicken; Pei Wei Asian Diner	0.510227272727	5
+kung pao chicken; Pei Wei Asian Diner	0.151648841355	4
+mongolian beef; Yan's	0.261128205128	4	4	4	4	5
+wonton soup; Panda Express	0.136810506279	4
+mongolian beef; Mr. Chop Chop	0.219655797101	4
+wonton soup; Go Go China	-0.119763894194	4	1	4	1
+mongolian beef; P F Chang's China Bistro	0.176486291486	5	4
+rice cake; Hue Thai	0.5	5
+wonton soup; Asian Cafe Express	0.199247309708	5	5
+wonton soup; New China Cuisine	0.32037037037	4
+kung pao chicken; China Joe's	-0.187507631258	1	1
+mongolian beef; Ocha Cuisine	0.279508928571	4	5
+kung pao chicken; Golden Phoenix Chinese Restaurant	0.0857085068313	1	5	4
+mongolian beef; Beijing Chinese Cuisine	-0.0742857142857	4	4
+mongolian beef; Shanghai Lilly	0.264705882353	4
+kung pao chicken; Ta Ta Bistro	0.086875	4
+wonton soup; Chopstix Express	0.0428932178932	4
+peking duck; Cameron Chinese Seafood Restaurant	0.318333333333	5
+mongolian beef; Red Dragon Chinese Food	-0.0613020833333	5	2
+rice cake; Spicy City	0.115586080586	1
+mongolian beef; Gourmet House of Hong Kong	0.0256403318903	5	1
+wonton soup; Hong Kong Kitchen II	0.0842110428401	4	4	2
+wonton soup; King Wong Chinese Food	0.345918367347	5
+mongolian beef; New Asian Kitchen	0.278562409812	5	4	5	5
+kung pao chicken; Pei Wei Asian Diner	0.275555555556	5
+wonton soup; Pho Chandler	0.3	5
+mongolian beef; Food Express Chinese Restaurant	0.291990091466	4	5	4	4	4	5	5	4
+mongolian beef; Grand Buffet	0.215	4
+kung pao chicken; Orient Sushi Grill	0.325543478261	4
+kung pao chicken; Tom's Red Pepper	0.189861111111	5	4
+mongolian beef; Shanghai Buffet	0.281029040404	4
+wonton soup; Jade Palace	0.174861111111	4
+mongolian beef; Dragon Noodle Co.	0.176110561009	4	1	4	2	5	4	4
+kung pao chicken; Good China Restaurant	-0.353928571429	4
+mongolian beef; Beijing Noodle No. 9	0.25462962963	4
+wonton soup; Cathay House Restaurant	0.122777777778	4
+peking duck; Nee House Chinese Restaurant	0.242483579493	4	5	5	5
+wonton soup; Wendy's Noodle Cafe	0.266350793979	5	5	4	5	4	4
+mongolian beef; Ah So	0.206845238095	4
+mongolian beef; China Joe's	0.0857142857143	1
+mongolian beef; The Lotus	0.160940035273	2	4	4
+mongolian beef; Golden China	0.0651423902894	1
+mongolian beef; Little Dumpling	0.087962962963	2
+wonton soup; P F Chang's China Bistro	-0.0807319223986	2
+wonton soup; Chopstick Express	0.104258241758	4
+mongolian beef; Panda Express	-0.136805555556	2
+kung pao chicken; China Grill	0.0728395061728	4
+mongolian beef; New Wok Chinese Food	0.250674603175	4	4
+wonton soup; Asia Lee Chinese Restaurant	0.135783730159	5
+mongolian beef; Asian Island	0.28285815095	5	5	5	4	5	5	4	5	5	5
+wonton soup; Cheng's Express	0.281738400488	5	5
+kung pao chicken; Hing Loon Chinese Ex	0.0768518518519	5
+mongolian beef; Yum Yum China	0.0934715821813	4
+wonton soup; Canton Dragon	0.0354491538773	2	4	1
+mongolian beef; New York Chinese Restaurant	0.450422599595	4	4
+mongolian beef; Hong Fu Noodle	0.238095238095	4
+kung pao chicken; Jasmine Express	0.196276256116	4	5
+mongolian beef; Ichiban	0.174428571429	4
+wonton soup; Fugu	0.143413294137	5	2
+wonton soup; Noodle Exchange	0.37137254902	4
+mongolian beef; Szechuan Express	-0.108024691358	2
+kung pao chicken; J & M Chinese Cuisine Restaurant	-0.25	1
+kung pao chicken; Panda Express	0.0265945165945	4	1
+mongolian beef; China A Go Go	0.0662454919742	4	4	4	4	2
+mongolian beef; Pei Wei Asian Diner	0.239800347222	4	4
+wonton soup; Asian Cafe	0.30303030303	5
+wonton soup; Qwik Chinese Bistro	0.384951159951	5
+wonton soup; Bamboo Cafe	0.296387987013	5
+rice cake; Zine Noodles Dim Sum	0.394603174603	4
+wonton soup; Orient Sushi Grill	0.34	5
+rice cake; A & K Chinese Restaurant	0.213015873016	4
+kung pao chicken; Pei Wei Asian Market	0.123181905813	4	4
+kung pao chicken; China One	0.143310586019	4	4	4	5
+wonton soup; Jacky Chan	0.285119047619	1	4
+mongolian beef; Wong's Jr	0.129523809524	4	1
+wonton soup; Thai Style Noodle House 2	0.318936478632	4	4	5
+mongolian beef; Mr Chao's Asian Bistro	0.161668463289	5	5	2
+mongolian beef; Noodle Shop	0.138567638828	2	2	1	4	2	1	2
+mongolian beef; Little Peking	0.171350838315	2	5	5
+kung pao chicken; New China	-0.273148148148	1
+wonton soup; Ming's Pagoda	0.164172335601	4
+kung pao chicken; Noodle ChaCha	0.347780096887	4	4
+peking duck; Mekong Palace	0.176866243692	4	5
+mongolian beef; Flo's	0.0597048070561	5	2	2	4
+wonton soup; Beijing Noodle No. 9	0.101672813663	1	1	5
+mongolian beef; George & Son's Asian Cuisine	0.185450413161	4	5	4	4	5	1	4	4	4	2
+mongolian beef; Great China	0.23400894341	5	5	5
+wonton soup; Tao Yuan Chinese Restaurant	0.125906593407	4
+kung pao chicken; Asian Grill	-0.25625	4
+kung pao chicken; China a Go Go	0.100173753073	4	4	2
+wonton soup; Siu Wok	0.28400416985	5	4
+wonton soup; Pei Wei Asian Diner	0.175454545455	4	5
+peking duck; Noodle Pot	0.14321013289	4
+kung pao chicken; China Gourmet	0.256538461538	4
+wonton soup; 8 fortune Chinese cuisine	1.0	5
+mongolian beef; Jimmy Woo's	0.147820961718	2	5	2
+rice cake; Szechwan Palace	0.251873820624	4	5
+kung pao chicken; Golden Egg Roll	-0.0125	5
+mongolian beef; Qwik Chinese	0.228726107804	5	1	5	5
+kung pao chicken; Kung Fu Thai & Chinese Restaurant	-0.0498380271438	1	1
+kung pao chicken; P F Chang's China Bistro	0.0603333333333	2
+kung pao chicken; Beijing Chinese Cuisine	0.13115942029	4
+kung pao chicken; China Rainbow	0.275333212677	4
+wonton soup; Nan Jing	0.304901960784	5
+wonton soup; Pei Wei Asian Diner	0.125553224176	5	4	4
+kung pao chicken; P F Chang's China Bistro	0.174875	5
+wonton soup; Noodles	0.225775534852	4	2	5	4	4
+mongolian beef; Iron Chef	0.286742424242	4
+wonton soup; China A Go Go	-0.16	1
+mongolian beef; Phoenix Palace	0.149754901961	4
+mongolian beef; J & K Gourmet	0.0818818436465	4	2
+kung pao chicken; Asian Cafe Express	0.0774175868824	4	4	5	5	4	4	5	5	1
+peking duck; Hot Wheels Tea House	0.0227097505669	4
+mongolian beef; Chen & Wok	0.137854030501	4	2
+wonton soup; Noodle Pot	0.321297112128	4	4	4	1
+wonton soup; New China Gate	0.197348484848	4	4
+mongolian beef; Chop Chop Chinese Kitchen	0.246858465608	4
+mongolian beef; South China BBQ Hong Kong Style	0.124652777778	2
+wonton soup; Grand China Fine Chinese Cuisine	0.191812865497	4
+mongolian beef; Szechwan Palace	0.0837197813815	4	2	4	5
+kung pao chicken; Yummy Grill & Sushi	0.136882716049	4
+mongolian beef; Double 10	0.0014367816092	2
+kung pao chicken; China A Go Go	0.131954887218	4
+wonton soup; Exclamation	0.301071428571	4
+mongolian beef; China One	0.520758928571	5	5
+kung pao chicken; China Spice	0.0351754385965	2
+wonton soup; Mr Chao's Asian Bistro	0.330555555556	5
+kung pao chicken; Pearl Wok To Go	0.11994400527	5	5	4
+wonton soup; Dumpling And Noodle house	0.117857142857	2
+mongolian beef; Panda Garden	0.274745989305	4	5
+kung pao chicken; Autumn Court Chinese Restaurant	0.126805460621	4	2	4
+wonton soup; Noodle ChaCha	0.0342177937006	1	4
+mongolian beef; Go Go China Bistro	0.180108695652	1
+mongolian beef; Asian Hong Kong	0.220833333333	5
+peking duck; Hong Kong Asian Diner	0.186274509804	5
+rice cake; Hot Hot Chinese	0.151851851852	4
+wonton soup; Wo Fat	0.291083333333	5
+wonton soup; China Spice	0.108840277778	2	2
+mongolian beef; Pei Wei Asian Diner	0.533333333333	5
+kung pao chicken; Gourmet House of Hong Kong	0.0846476555852	4	2	4
+wonton soup; J & K Gourmet	0.49375	5
+wonton soup; Jasmine	0.340419973545	5	4	4
+wonton soup; Hong Kong Cafe	-0.0557692307692	1
+wonton soup; Panda Express	0.0	1
+mongolian beef; Happy Food	0.19392043142	4
+mongolian beef; Chang Jiang Chinese Restaurant	-0.509375	1
+kung pao chicken; Lin's Golden Chinese Restaurant	-0.000147058823529	5
+wonton soup; Xo Chinese Food	-0.023835125448	5	1
+kung pao chicken; Lucky Kitchen	0.153333333333	4
+kung pao chicken; Ming's Pagoda	0.257258064516	4
+wonton soup; Tasty Asian Kitchen	0.160813492063	2
+wonton soup; P F Chang's China Bistro	0.0595238095238	2
+rice cake; Flamingo Palace	-0.00221088435374	2
+peking duck; Fu Restaurant	0.350595238095	5
+wonton soup; Pick Up Stix	0.133954703833	4
+wonton soup; Fusion Sushi & China Bistro	0.627275132275	4
+mongolian beef; China One	0.165787981859	5
+kung pao chicken; Big Buddha	0.0749710648148	4	4	4	2
+mongolian beef; Nan Jing	0.165546218487	5	2
+mongolian beef; KJ Kitchen	0.160632363926	4	2	5	5	5	4	2	5
+kung pao chicken; Qwik Chinese Bistro	0.16753999704	5	5	4
+mongolian beef; Dragon Palace	0.226637243311	4	5	5	5	4	4	5	5	4	5	5	5	4	4
+wonton soup; China One	0.151948051948	4	4	4
+mongolian beef; Beijing Restaurant	0.226663272164	4	4	5	5
+peking duck; Imperial Garden Chinese Restaurant	0.26	4
+rice cake; East Ocean Dim Sum & Seafood Restaurant	0.122114565207	4	4
+mongolian beef; China A Go Go	0.373076923077	5	5
+wonton soup; Chef Chiang	0.317034632035	4
+mongolian beef; Kwan's Sampan	-0.0866666666667	1
+kung pao chicken; Pei Wei Asian Diner	0.0334265010352	4
+wonton soup; Jugoo Chinese Restaurant	0.206077694236	4
+wonton soup; The Lotus	0.289529761905	4
+mongolian beef; Banana Leaf Asia Bistro	0.159090909091	4
+kung pao chicken; Diamond Chinese Restaurant	0.0351358363858	4	1
+mongolian beef; Dragon Wok	0.181527777778	5	4
+mongolian beef; New York Chinese Restaurant	0.0424931129477	1
+wonton soup; Golden Gate Chinese Restaurant	0.23462962963	5
+mongolian beef; Mister Wong	0.148327752976	5
+wonton soup; Dragon Noodle Co.	0.074375	4
+kung pao chicken; Long Jin Chinese Cuisine	0.207710036877	5	4	5
+rice cake; China A GoGo	-0.460238095238	1
+wonton soup; Chang's Hong Kong Cuisine	0.22882012432	4
+mongolian beef; New York Wok	0.0782959464778	1
+rice cake; Great Wall Cuisine	0.173011363636	5
+mongolian beef; Wong's Place	0.131584366448	2	4	5	5	5
+mongolian beef; Hong Kong Garden Seafood & BBQ Cafe	0.25	4
+mongolian beef; Chop Chop Wok	0.276250518323	5	4	5	4	2	5	4	5	5	5
+kung pao chicken; Pei Wei Asian Diner	0.4	5
+wonton soup; Diamond Chinese Restaurant	0.249515432099	5	4	4
+peking duck; Autumn Court Chinese Restaurant	0.386142676768	4	5
+peking duck; The Clever Koi	0.287005111191	4	4	4	5	5	4	1	4	5	4	2
+mongolian beef; Pei Wei Asian Diner	0.224773797825	4	4	5	4	4
+kung pao chicken; Empress Court	0.246171281919	4
+peking duck; KJ Kitchen	0.209523809524	4
+mongolian beef; HK Star	0.328981765623	4	4	4	5
+wonton soup; Joyful Chinese Dining	0.209713979342	5	5
+kung pao chicken; Chang's Hong Kong Cuisine	0.37	4
+kung pao chicken; Flo's	0.284586466165	4
+wonton soup; China Place	0.0693335428013	4
+kung pao chicken; Veggie House	0.27462594697	5	5	5	5
+wonton soup; Red 8	0.122755952381	2	4
+kung pao chicken; Panda Express	-0.0159976783969	1
+wonton soup; Beijing Chinese Cuisine	0.310416666667	4
+kung pao chicken; New York Chinese Restaurant	0.18650112887	4	5
+peking duck; Orchids Garden Chinese Restaurant	0.322222222222	2
+wonton soup; China Poblano	0.153812100598	1	2	5
+wonton soup; P F Chang's China Bistro	0.273440157313	5	5	4	4
+mongolian beef; Dragon House	0.0777152101371	4	2
+mongolian beef; Flo's	0.391988317519	5	4	5
+wonton soup; Desert Jade	0.188314393939	2	4
+rice cake; Chang's Hong Kong Cuisine	0.438768115942	4
+kung pao chicken; Joyful House Chinese Cuisine	0.0826710158022	2	4	5	4
+mongolian beef; China One	0.11560816168	4	5	4	1
+wonton soup; Big Wa Chinese Restaurant	0.305	4	4
+kung pao chicken; Double 10	0.257142857143	4
+mongolian beef; Golden Gate Chinese Restaurant	0.37719754902	4	5
+kung pao chicken; Sing High Chop Suey House	-0.068273955774	1
+wonton soup; China A Go Go	0.307142857143	4
+kung pao chicken; Yao Fine Chinese Cuisine	0.205357142857	5
+mongolian beef; Best Hong Kong Dining	0.240892857143	4	4
+kung pao chicken; Pho Kim Long	0.14184303351	4
+kung pao chicken; Red Shrimp Company	0.145227272727	5
+mongolian beef; Chen's Chinese Bistro	0.369860426929	4	4
+wonton soup; Pearl	0.266222222222	5
+wonton soup; Fat Choy	0.219214697725	2	4	5	4	5	5
+kung pao chicken; Little Dumpling	0.241772934512	5
+kung pao chicken; Best Hong Kong Dining	0.240892857143	4	4
+wonton soup; Kung Fu Thai & Chinese Restaurant	0.261160415671	4	4
+kung pao chicken; Chop Chop Chinese Kitchen	0.0279461279461	2
+kung pao chicken; Manchu Wok	-0.195892693015	1
+peking duck; Pine Garden Chinese Restaurant	0.246071428571	5
+kung pao chicken; Mu Shu Asian Grill	0.138244047619	5	5
+kung pao chicken; HK Seafood Garden	0.1121875	4
+kung pao chicken; Pei Wei Asian Diner	0.175231331169	4	5	4	4
+wonton soup; Sing High Chop Suey House	0.320333982684	1	5
+mongolian beef; Fin	0.25225187533	4	5	4	4	4	1	4	4	5	4	5	4
+mongolian beef; Lucky Sushi & Chinese Restaurant	0.386176470588	4
+kung pao chicken; China Tango	0.148987050961	4	5	2
+kung pao chicken; Ming's Table	0.0146701388889	2	5
+wonton soup; BBQ King	0.125302840434	4	2	2
+mongolian beef; Big Wa Chinese Restaurant	0.270453042328	5	4
+mongolian beef; Tott's Asian Diner	-0.01125	2
+mongolian beef; Iron Chef	0.367708544956	5	5	5	5
+peking duck; Great Wall Cuisine	0.300337995338	4	5
+mongolian beef; Pei Wei Asian Diner	0.106166666667	5	5
+kung pao chicken; Jong Wah Chinese Restaurant	0.00645833333333	2
+kung pao chicken; China Pantry	-0.309090909091	1
+mongolian beef; Pei Wok	-0.030847107438	2
+kung pao chicken; E-Z Buffet	-0.425555555556	1
+wonton soup; China Red Cafe	0.160593371469	5	5	5	5
+rice cake; Cyclo Vietnamese Cuisine	0.646804584305	5	5
+kung pao chicken; Big Wa Chinese	0.274074074074	5
+wonton soup; Shanghai Club	0.205385154062	4
+mongolian beef; Chen & Wok	0.0811111111111	2
+mongolian beef; Grand China	0.246617547425	1	5	4	2
+mongolian beef; Nee House Chinese Restaurant	0.142450396825	1	4
+peking duck; Fat Choy	0.274300676482	5	2	2	5	5	5	5	4	4	4	4	5	4	5	5	5	5	5	5	4	5	4
+wonton soup; Hunan Express Chinese Delivery	0.0358695652174	2
+mongolian beef; Golden Phoenix Chinese Restaurant	0.180681818182	2
+wonton soup; Pei Wei Asian Diner	0.05	2
+wonton soup; Beijing Restaurant	0.186600765306	5	4
+rice cake; Szechwan Palace	0.166049382716	5
+wonton soup; Chopstix 2	0.566666666667	4
+kung pao chicken; Iron Chef	0.13875	5
+wonton soup; Hong Kong Asian Diner	0.186274509804	5
+mongolian beef; Pacific Buffet	0.0644200626959	2
+mongolian beef; Pei Wei Asian Diner	0.0418611111111	2	5
+wonton soup; Flo's	-0.0319444444444	2
+kung pao chicken; China Restaurant	-0.104166666667	4
+mongolian beef; Chin Chin Chinese Restaurant	0.123372853998	1	2	2	4	4	2
+kung pao chicken; Asian Express	0.0224831649832	2
+wonton soup; Grand China Restaurant	0.144130704365	4
+kung pao chicken; Sun Asian Kitchen	0.0494247600226	5	4
+rice cake; Golden Buddha	0.195471014493	4
+mongolian beef; Ping Pang Pong	0.148356331169	4
+mongolian beef; Little Buddha Restaurant & Sushi Bar	0.226126923475	4	4	4	4	4	4
+mongolian beef; Capital Seafood Restaurant	0.183458747135	4	4
+kung pao chicken; Great China	0.232624091308	5	4
+wonton soup; Wok N' Roll	0.205625	4
+peking duck; Beijing Garden Chinese	0.165725108225	4	1
+wonton soup; China Jade	0.118082604051	4	2
+mongolian beef; Ho Ho Ho Chinese Gourmet	0.260317460317	2	4
+peking duck; China Chili	0.275737133237	4	5	5
+kung pao chicken; Noodle Exchange	0.329017857143	5
+mongolian beef; China Chili	0.217279440996	4	4	4	4	4	4	5	5	4	5	5	4	4	1	5	4	4	5
+mongolian beef; Ping's Cafe	0.17734375	5
+kung pao chicken; Little Dumpling	0.0239428431887	4	1	4
+wonton soup; Asian BBQ & Noodles	0.277076290067	4	4	5	4	4	4	4	4	5	4	5
+mongolian beef; Amlee Chinese Cuisine	0.263888888889	5	4	4
+wonton soup; Pan Asian	0.406074270741	5	5	4	5
+mongolian beef; Chop and Wok	0.0915441176471	2
+wonton soup; Red House	0.00392503517287	5	1	2	2
+mongolian beef; Pei Wei Asian Market	0.0610507699097	4	5	1	5
+kung pao chicken; Diamond's Chinese Restaurant	0.132307692308	4
+mongolian beef; Little Shanghai	0.234367881515	4	1
+kung pao chicken; Peter Wong Chinese Restaurant	0.195464285714	4
+kung pao chicken; Tai's Asian Bistro	0.120140612076	5
+kung pao chicken; Asian Garden	0.0344949494949	4
+wonton soup; Grand China	0.177751322751	4	5	5
+mongolian beef; Pho Kim Long	0.237623725609	4	4	5	4	4	5
+wonton soup; HK Star	0.4	4
+mongolian beef; Panda Express	0.136810506279	4
+wonton soup; Bamboo Club	0.189534253668	4	5	5	4
+kung pao chicken; Pei Wei Asian Diner	-0.0270833333333	1	4
+peking duck; SUSHISAMBA Las Vegas	0.130950520833	4
+mongolian beef; China Gourmet	0.192651472205	5	5	4
+mongolian beef; China One	0.00873015873016	2
+mongolian beef; Thai Style Noodle House 2	0.155101010101	1
+mongolian beef; Pei Wei Asian Diner	0.35625	4
+kung pao chicken; Delicious & Best Chinese Food	-0.0488769022306	2
+mongolian beef; China A Go Go	0.229852843915	4	5
+mongolian beef; China Joe's	-0.6	4
+mongolian beef; Maxim Restaurant	0.0729691876751	4
+rice cake; 1900 Asian Cuisine	0.169642857143	4	2
+mongolian beef; Pick Up Stix	-0.017803030303	4
+mongolian beef; Hot Wok Mr Cook	0.152976190476	4
+kung pao chicken; Jimmy Woo's	0.254795542296	4
+wonton soup; New York Chinese Restaurant	0.0997685185185	4	5
+wonton soup; Asia Express	0.141713352007	4
+mongolian beef; Pei Wei Asian Diner	0.169203820417	4	5
+kung pao chicken; Fugu	0.208611111111	4	5	4
+mongolian beef; China Wok	0.256313131313	4	2	5
+wonton soup; Veggie House	0.429081010453	5	5
+kung pao chicken; Mr. Bejing	0.113385416667	5
+kung pao chicken; East Ocean Dim Sum & Seafood Restaurant	0.105882352941	5
+wonton soup; Jimmy Woo's	0.205181231146	4	1	2	4
+wonton soup; Pho Kim Long	0.213050941563	4	2	2	5	4	4	5	4	5
+kung pao chicken; Pei Wei Asian Diner	0.0466666666667	2
+mongolian beef; Jasmine Express	-0.175438596491	1
+rice cake; SUSHISAMBA Las Vegas	0.198471663451	4	4
+kung pao chicken; Orient House	0.116666666667	5
+wonton soup; China Joe's	0.281822916667	4
+mongolian beef; Flo's Shanghai Cafe	-0.0257175925926	4	1
+kung pao chicken; New York Chinese Restaurant	-0.471428571429	1
+kung pao chicken; Chen Wok Express	0.24212962963	4	2
+mongolian beef; Thai House Restaurant	0.143328373016	4	1
+rice cake; Ginseng 3	0.249327651515	4	5
+mongolian beef; Shanghai Club	0.243912698413	5	5
+wonton soup; Joyful House Chinese Cuisine	0.188777754557	4	1	5	5	4
+mongolian beef; Lin's Golden Chinese Restaurant	0.243283664168	5	5
+mongolian beef; Pick Up Stix	0.234571428571	5
+kung pao chicken; Hunan Garden	0.131275757576	4
+peking duck; Karen's Unicorn	0.132138888889	4
+kung pao chicken; P F Chang's China Bistro	0.228822055138	5	4
+mongolian beef; Pumi Express	0.149671117413	4	5
+mongolian beef; Koji Restaurant	0.39389732713	5	4	4	4
+kung pao chicken; The Lotus	-0.334722222222	1
+mongolian beef; Noodle ChaCha	0.000535714285714	1	5
+mongolian beef; Lotus Garden	0.301172093838	4	5	5	5
+wonton soup; East Ocean Dim Sum & Seafood Restaurant	0.155263157895	1
+wonton soup; Volcano Buffet	0.00682098765432	5
+kung pao chicken; Victorian Cafe	0.109157509158	4
+kung pao chicken; Wong's Restaurant	0.0621173469388	5
+peking duck; China Poblano	0.136174886621	4
+peking duck; Golden Buddha	0.396553030303	4	5
+peking duck; Gourmet House of Hong Kong	0.291488095238	5	5	4	5	4
+mongolian beef; J & M Chinese Cuisine Restaurant	0.213333333333	4
+kung pao chicken; Food Express Chinese Restaurant	0.170260416667	4
+mongolian beef; China Jade	0.132623106061	4	4
+peking duck; Asian Cafe Express	0.275925925926	5
+mongolian beef; Peking Chinese Restaurant	0.00915032679739	4
+peking duck; Sam Woo BBQ Restaurant	0.168888888889	4
+kung pao chicken; Golden Rice Express	0.153633665717	4	2
+wonton soup; Jade Palace	0.1558412498	1	5	2
+wonton soup; Chop Chop Wok	0.184165818474	4	4	4
+kung pao chicken; Little Peking	0.212105654762	5	4
+kung pao chicken; Nan Jing	-0.125105820106	2
+kung pao chicken; Fu Restaurant	0.242931620209	4	5	5	5	4
+mongolian beef; Bamboo House	0.157924193832	4	4	1
+kung pao chicken; Abacus Inn Chinese Restaurant-Arrowhead	-0.168611111111	1	2
+rice cake; Noodle Asia	0.142640506068	5	5	2	2	4	4
+mongolian beef; Jade Palace	0.270674492945	5	5	5
+mongolian beef; Ming's Pagoda	0.164285714286	5
+kung pao chicken; Wong's Jr	0.104907407407	5	5	4
+kung pao chicken; Noodle Asia	-0.0110882635883	5	4	1	4	1	5	2
+mongolian beef; Pacific Moon Chinese Cuisine	0.333138528139	1	5
+wonton soup; Hao	0.188053613054	4
+kung pao chicken; Pei Wei Asian Diner	0.256944444444	5
+wonton soup; Zushi Japanese Bistro	0.238657407407	4
+kung pao chicken; China Gourmet	0.0200233100233	4	5
+kung pao chicken; Blossom Asian Cuisine	0.218078969641	4	4
+mongolian beef; Wang Express	0.211956147693	5	4
+mongolian beef; Golden Dragon	0.288888888889	4
+mongolian beef; Fu Restaurant	0.29626984127	5	4	5
+kung pao chicken; Shanghai Grill	0.0416666666667	4
+kung pao chicken; Cafe Noodle & Chinese Barbeque	0.125	1
+mongolian beef; Asian Grill	-0.25625	4
+mongolian beef; Harbor Palace Seafood Restaurant	-0.0785714285714	4
+kung pao chicken; Li's Bowl	0.15433531746	5	4	5
+kung pao chicken; Great Wall Chinese Restaurant	0.08125	4
+kung pao chicken; Maxim Restaurant	0.178703981593	4	4
+wonton soup; Little Shanghai	0.144854166667	4	4
+mongolian beef; Autumn Court Chinese Restaurant	0.333535714286	5
+mongolian beef; Simi's Cafe	0.184672619048	5
+kung pao chicken; Wang's Delight	-0.154971988796	2
+kung pao chicken; J & K Gourmet	0.198313492063	4	4
+mongolian beef; P F Chang's China Bistro	0.271553354165	1	4	5
+kung pao chicken; China a Go Go	0.0177168510502	4	4	4
+kung pao chicken; Siu Wok	0.182962435091	4	5	4
+rice cake; Cafe Ga Hyang	0.265847906605	4	5	5	4	2	4	4	4	4
+kung pao chicken; Hong Kong Kitchen 3	0.28	5
+wonton soup; China Tango	0.111929271709	4	4
+mongolian beef; China 7 Chinese Cuisine	-0.0322564935065	1
+wonton soup; Little Dumpling	0.181696428571	5
+kung pao chicken; China A Go Go	0.32	5
+mongolian beef; Li's Bowl	0.124702380952	4
+mongolian beef; Jade Palace	0.260765224359	4	2	5	4
+mongolian beef; Pei Wei Asian Diner	0.0670791496312	4	5	2
+rice cake; Lao Ching Hing	0.232404916512	4	5	5
+wonton soup; Fin	0.25666403028	4	2	4	4
+kung pao chicken; Flo's	0.105845424206	4	5	4
+wonton soup; Great Wall Cuisine	0.246759259259	5
+wonton soup; Three Villages Restaurant	0.29917419537	4
+peking duck; Best Hong Kong Dining	0.244736842105	2
+wonton soup; Flamingo Palace	0.285248258163	4	5	5	4	4
+mongolian beef; Beijing Express	0.276253968254	4
+mongolian beef; Chens Chinese Restaurant	0.125916048237	2
+mongolian beef; China Palace	0.288636363636	4	4
+mongolian beef; Orchids Garden Chinese Restaurant	0.199743589744	4
+wonton soup; Golden Flower Chinese Cuisine	0.266531475196	5	5	5	5	4	5	4	5	5
+mongolian beef; P F Chang's China Bistro	0.183557671783	4	4	2	4	2	4
+peking duck; Little Buddha Restaurant & Sushi Bar	0.28327020202	5
+mongolian beef; Good China Restaurant	0.39589093702	5	4
+kung pao chicken; Tsing Tao Chinese Cuisine	0.0569047619048	4
+kung pao chicken; Great Wall Chinese Restaurant	0.128221288515	4
+mongolian beef; China Red Cafe	0.19285421065	5	5
+wonton soup; Diamond China 2	0.255936929515	2	5	5
+mongolian beef; Harbor Palace	-0.237007773043	1
+mongolian beef; Beijing Chinese Cuisine	0.348524550846	4	5	4
+wonton soup; Dragon Wok	0.144936245963	5	2	2	2
+mongolian beef; P F Chang's China Bistro	0.264025306979	2	5	1	4	5	1	2	5	4
+wonton soup; Blossom	0.225392605298	5
+kung pao chicken; Chens Chinese Bistro	-0.0433333333333	2
+mongolian beef; Bobo China	0.24120210728	2	4
+mongolian beef; Golden Buddha	0.281333333333	4	4
+mongolian beef; Asian Cafe Express	0.13200517643	5	4	5	5	4	4	5	4	1
+kung pao chicken; Red Dragon Express	-0.057468018093	1	1	2
+kung pao chicken; Red House	-0.0681760204082	4	1
+mongolian beef; Joyful Chinese Dining	0.188787640056	5	5
+kung pao chicken; New Asian Star	0.304367539027	5	5
+kung pao chicken; Tao Garden	0.135832462557	4
+mongolian beef; Li's Asian	0.07375	5
+peking duck; Flamingo Palace	0.224071712018	5
+mongolian beef; Thai Basil	0.4	5	4
+kung pao chicken; China Palace	0.267257575758	5
+wonton soup; P F Chang's China Bistro	0.436666666667	4
+kung pao chicken; P F Chang's China Bistro	0.254570919277	5
+kung pao chicken; Thai Basil	0.1675	5	5
+rice cake; Three Villages Restaurant	0.202373527365	4	5	4	4
+kung pao chicken; A8 China	0.0937830687831	4
+kung pao chicken; Pick Up Stix	0.0463015245624	4	4
+kung pao chicken; Tottie's Asian Fusion	0.343973214286	4
+wonton soup; Yunnan Garden	0.0217009945341	5	1
+mongolian beef; Diamond Chinese Restaurant	0.278681972789	4
+peking duck; House of Mei	0.117282873377	5
+kung pao chicken; Mekong Palace	0.204987745098	5
+mongolian beef; Grand Dragon	0.214285714286	5
+mongolian beef; Grand China	0.181490575397	4	4	5	5
+wonton soup; Jasmine Express	0.297832512315	4
+kung pao chicken; China Village	0.172704081633	4
+rice cake; The Clever Koi	0.221832238643	5
+peking duck; Tai's Asian Bistro	0.1	5
+wonton soup; Food Express Chinese Restaurant	0.372222222222	5
+kung pao chicken; House of Egg Roll	-0.152380952381	1
+mongolian beef; Wok Up	0.138397435897	4
+wonton soup; J & J Szechuan Cuisine	0.0167927489177	1
+mongolian beef; Desert Jade	0.388739744661	2	4	4
+mongolian beef; Diamond's Chinese Restaurant	0.18118502331	4	5	4	4	4
+mongolian beef; Chef Chiang	0.237804692331	4	5	2	4
+kung pao chicken; Dragon Palace	0.201785714286	2
+peking duck; Joyful House Chinese Cuisine	0.170626220747	2	4	2	5	4	5	5	4	4
+wonton soup; Yin's Chinese Resturant	0.21630952381	4
+kung pao chicken; Chen & Wok	0.284281994048	5
+wonton soup; China One	0.388095238095	4	5
+wonton soup; China Chili	0.0925321382855	5	4	2
+kung pao chicken; George & Son's Asian Cuisine	0.245454545455	5
+kung pao chicken; China Jade	0.176317401961	4	4
+wonton soup; Golden Dragon Chinese Cuisine	0.201904761905	5	5
+wonton soup; Cook On Wok	0.0774789186508	4	2
+mongolian beef; New Asian Star	0.249824841556	5	4	1
+mongolian beef; Lee's Garden	0.154626967312	5
+mongolian beef; Hong Kong Chinese Cuisine	0.075	4
+wonton soup; Zine Noodles Dim Sum	0.302314640769	4	4
+kung pao chicken; Szechuan Cuisine	0.0986341885239	2	5
+mongolian beef; The Wok Express	0.356871428571	5
+wonton soup; China Wok	0.252976190476	2	5
+wonton soup; C-Fu Gourmet Restaurant	0.0560074955908	4	2
+mongolian beef; Little Dumpling Chinese & Thai Cuisine	0.0818912981859	2	4
+wonton soup; Capital Seafood Restaurant	0.18489729225	4
+mongolian beef; Great Wall Chinese Restaurant	0.105952380952	2	4
+mongolian beef; Chop and Wok Gourmet Chinese	-0.00298016078377	2	1
+kung pao chicken; New York Chinese Restaurant	0.133333333333	5
+mongolian beef; Food Express	0.218166666667	5
+mongolian beef; Tasty China	0.497321428571	4
+mongolian beef; Pearl Wok To Go	0.221215320911	5	4	4	5	5
+kung pao chicken; China 7 Chinese Cuisine	-0.0821759259259	1
+kung pao chicken; P F Chang's China Bistro	0.164620535714	4
+kung pao chicken; Panda Garden	0.324074074074	4
+mongolian beef; Ginger China Bistro	0.289711399711	4	4	5
+mongolian beef; Bangkok 9 Thai-Chinese Food	0.221853741497	4
+mongolian beef; China A GoGo	0.196605213845	4	5	5
+wonton soup; Magic Wok	0.197767857143	5
+mongolian beef; Golden Flower Chinese Cuisine	0.256658739885	4	4	5
+kung pao chicken; Jasmine	-0.0101570767196	2	2
+mongolian beef; Shangri-La Chinese Cuisine	0.18284767316	5	2
+kung pao chicken; Golden Dragon Chinese Cuisine	0.0497964721845	2
+wonton soup; Buffet at Asia	0.199720982143	5
+mongolian beef; Rice n Noodle	0.28234809892	4	4	4	5	1	4	5	4	4	2
+wonton soup; House of Yang	0.0964285714286	4
+kung pao chicken; Diamond China Restaurant	0.329882818331	5
+kung pao chicken; China Chili	0.214255272642	5	5	4	1
+mongolian beef; House of Egg Roll	0.0815106951872	4	2
+wonton soup; Thai House Restaurant	0.303125	5	4	5
+mongolian beef; Great Wok	0.0845119047619	4	1	5
+kung pao chicken; Panda Express	0.27890625	4
+mongolian beef; China Bistro	0.296013708514	5	4	2
+mongolian beef; Peter Wong Chinese Restaurant	0.195464285714	4
+mongolian beef; Bamboo Club	0.214324449587	5	1	5
+mongolian beef; Wo Fat	0.224199186809	4	5	4	5
+wonton soup; Golden China	0.805	4
+wonton soup; New York Chinese Restaurant	0.104166666667	5	2
+mongolian beef; Chow Mein Express	0.136607142857	4	4
+wonton soup; Hot Wok Chinese Restaurant	0.138090583252	4
+mongolian beef; Teriyaki Kitchen	-0.0317708333333	5
+wonton soup; Great China Super Buffet	0.307352941176	4
+peking duck; Food Express Chinese Restaurant	0.178333333333	4
+mongolian beef; Bamboo Grille	0.128008895866	4
+wonton soup; China Jade	0.189545167585	2	4
+peking duck; Ping Pang Pong	0.257424719888	4	4
+wonton soup; Nee House Chinese Restaurant	0.3	5
+wonton soup; P F Chang's China Bistro	0.143827740148	2	5	1	2
+wonton soup; Pei Wei Asian Diner	0.140104166667	4
+wonton soup; China Mama Restaurant	0.249533382066	4	4	4
+kung pao chicken; Pick Up Stix	0.164423009861	5	5
+mongolian beef; AJK Chinese Cuisine	0.539880952381	4
+peking duck; China Grill	0.194383156966	4	4
+mongolian beef; China City Super Buffet	0.0496031746032	4
+wonton soup; New Asian Kitchen	0.119673096511	5	4
+kung pao chicken; KJ Kitchen	0.164610523222	5	4	4
+kung pao chicken; Ichiban Sichuan	0.147116363797	4	4	4	2
+mongolian beef; Golden Dragon Chinese Cuisine	0.24419158361	4
+kung pao chicken; Asia Lee Chinese Restaurant	0.00029415029415	2
+rice cake; Bund Shanghai	0.345413378662	1	4	5	4
+mongolian beef; Red Shrimp Company	0.167657021405	1	2	5	4
+kung pao chicken; Noodle & Rice	-0.0219061927656	2	2
+peking duck; Noodles	0.232763532764	5
+mongolian beef; Wokee Express	-0.116666666667	4
+mongolian beef; Ann's Asian Bistro & Bar	0.14582302618	2
+peking duck; Kan's Kitchen	0.146689814815	5
+wonton soup; HK Seafood Garden	0.253611111111	4
+kung pao chicken; Beijing Noodle No. 9	0.143812804147	5	1	2	1	2	5	1	2
+peking duck; Noodle Exchange	0.374563540694	4	4	4	4
+wonton soup; Diamond China Restaurant	0.218616259279	4	5	4
+wonton soup; New Asian Star	0.252524038462	4	4
+wonton soup; Pumi Express	0.0816313932981	1
+wonton soup; Tott's Asian Diner	0.536666666667	4	4
+kung pao chicken; Golden Harvest	-0.0240536467702	5	5	2	1	5
+mongolian beef; China A Go Go	-0.05	4
+mongolian beef; Sakina Thai Cuisine	-0.0258555555556	5
+kung pao chicken; Zine Noodles Dim Sum	0.0228550585217	5	2	1	2	1	2
+wonton soup; Noodle Asia	0.256336214315	5	4	1	4	4	4	4	4	4	4	1	2	4	4
+rice cake; Dim Sum Cafe	0.149333333333	4
+rice cake; Beijing Garden Chinese	0.206666666667	4
+wonton soup; Pei Wei Asian Diner	0.156666666667	4	4
+wonton soup; Orient House	0.424444444444	4
+mongolian beef; Dragon Wok	0.372625291375	5	5	1
+kung pao chicken; China Garden	0.0179736024845	2
+wonton soup; Dragon House	0.154239944084	4
+mongolian beef; Fugu	0.207952787953	4
+peking duck; Diamond China Restaurant	0.204685714286	4
+kung pao chicken; Grand China	0.0512371615313	1
+mongolian beef; Pei Wei Asian Diner	0.3025	4
+peking duck; Wendy's Noodle Cafe	0.308685359025	4
+kung pao chicken; Henry's Taiwan Kitchen	0.130779428904	4	2	5
+mongolian beef; Pei Wei Asian Diner	0.126566558442	5	4	5
+mongolian beef; HK Seafood Garden	0.345	5
+wonton soup; Mah Jong	0.0762400793651	5	4
+wonton soup; Yangtse Chinese Bistro	0.17163546467	1	4
+peking duck; Tao Garden	0.161452821869	4	5	4
+mongolian beef; Siu Wok	0.0893212632275	5	1	4
+kung pao chicken; Golden Gate Chinese Restaurant	0.135636684303	4	5
+peking duck; Harbor Palace	0.254753246753	4	4
+mongolian beef; Golden Harvest	0.44375	5
+peking duck; Hakkasan Restaurant	0.243750054776	5	5	5	4
+mongolian beef; Pei Wei Asian Diner	-0.113310185185	1
+wonton soup; Lotus Garden	0.374485544218	5	5
+mongolian beef; Oasis Asian Kitchen	0.187907366071	4
+wonton soup; Baidu China Bistro	-0.172142857143	1
+mongolian beef; P F Chang's China Bistro	0.232773561154	4	4	5	5	5
+wonton soup; China Rainbow	0.244015151515	4
+kung pao chicken; Golden Wok Chinese Restaurant	0.239230769231	5
+kung pao chicken; Panda Express	-0.00431787634409	1
+peking duck; The Original Las Vegas Buffet	0.291204481793	5
+wonton soup; Jade House	0.240220588235	5
+wonton soup; The Wok Express	0.53125	5
+kung pao chicken; Happy Wok	0.0886982570806	4
+wonton soup; Little Dumpling	0.221247671902	4	5	1
+mongolian beef; Chens Chinese Bistro	0.380952380952	4
+mongolian beef; China Wok	0.101688988095	4
+peking duck; China Village	0.325766488414	4
+mongolian beef; Sun Asian Kitchen	0.207876799834	5	1	4
+kung pao chicken; Szechwan Palace	0.061424287518	4	5	4	5
+mongolian beef; Golden China Chinese Cuisine	0.115277777778	4
+mongolian beef; House of Yang	0.330151515152	2	5
+peking duck; China Rainbow	0.275333212677	4
+kung pao chicken; Jade Garden	-0.186363636364	1
+mongolian beef; Happy Food	0.1775	4
+rice cake; New Shanghai Restaurant	0.280587557604	4
+mongolian beef; Tasty Asian Kitchen	0.247424242424	5
+wonton soup; China Joe's	-0.00740740740741	1
+mongolian beef; Yangtse Chinese Bistro	0.215145929339	4
+mongolian beef; Good China Restaurant	0.224166666667	5
+mongolian beef; Gourmet Wok	0.14054978355	2
+mongolian beef; Pei Wei Asian Diner	0.100595238095	5	4	5
+wonton soup; J & M Chinese Cuisine Restaurant	0.103237584175	5	5	2
+rice cake; Desert Jade	0.0209401709402	1
+kung pao chicken; Dragon Bowl	0.32	5
+kung pao chicken; Pearl	0.191602564103	5	5
+peking duck; Fin	0.276851851852	4	2
+rice cake; Orchids Garden Chinese Restaurant	0.199254373749	4	5	4	5	4	4
+wonton soup; Shangri-La Chinese Cuisine	1.0	4
+kung pao chicken; Golden Flower Chinese Cuisine	0.198260971055	4
+wonton soup; Koji Restaurant	0.0754761904762	4
+mongolian beef; Pan Asia Sushi Chinese Fusion	0.191961792176	5	4
+mongolian beef; Kung Fu Thai & Chinese Restaurant	0.213399728929	4	4	4	5	1	4	5	5	4	5	5	4	4	5	1	4	4
+peking duck; 101 Asian Buffet	0.256949058693	4
+wonton soup; Hibachi Grill & Supreme Buffet	0.456666666667	5
+kung pao chicken; Tasty Joe's	-0.0496565934066	4
+wonton soup; Noodle Palace	0.766666666667	4
+kung pao chicken; China Farm Chinese Buffet	0.128405017921	4
+kung pao chicken; Xo Chinese Food	0.00962801409541	4	1	4	1	4
+mongolian beef; Oriental Express	0.06875	1
+peking duck; Karen's Unicorn	0.254487179487	5
+mongolian beef; Golden Egg Roll	0.0262626262626	4
+rice cake; Beijing Noodle No. 9	-0.118092105263	2
+mongolian beef; China Mama Restaurant	0.0867855406158	1	4	4	1	4	5	4	4
+kung pao chicken; China Chan Restaurant	0.291025641026	5
+mongolian beef; Rice & Company	0.261668064615	5	5	2	4	1	5	5	5	4
+mongolian beef; Jasmine	0.272596153846	4
+kung pao chicken; Little Szechuan	-0.0178240740741	2
+peking duck; Rice & Company	0.116589148594	5	2	1	4	1
+wonton soup; New York Chinese Restaurant	0.246821343248	5	4	5	4	2	4	4	4
+mongolian beef; Wahsun Chinese Restaurant	0.32	4
+mongolian beef; Dumpling And Noodle house	0.375510204082	4
+wonton soup; Sai Wan Bistro	0.032980115123	2
+mongolian beef; Mr Hunan	-0.0762441809398	1
+wonton soup; Canton Wong	0.0153846153846	4
+wonton soup; Li's Asian	0.191017316017	5
+kung pao chicken; Tott's Asian Diner	0.138363301232	5	2	4	4	5	4
+wonton soup; Asian House	0.203486394558	2
+peking duck; Dragon Noodle Co.	0.115184608179	4	4
+kung pao chicken; Big Heng	0.0920686026936	4	4
+wonton soup; King Wok	0.222753357753	4	4
+mongolian beef; Yunan Wok	-0.0711111111111	1
+mongolian beef; Kung Fu Chef	0.19089024482	5	4	2
+wonton soup; Super Dragon	0.0675426136364	5
+kung pao chicken; Wong's Chinese Dining	-0.11080404384	2
+mongolian beef; Jacky Chan	0.122344322344	1
+kung pao chicken; Shangri-La Chinese	0.108333333333	4
+mongolian beef; 8 fortune Chinese cuisine	0.174801446583	5	2
+kung pao chicken; Beijing Restaurant	0.138004201681	5	2
+mongolian beef; Wang's Delight	0.0489697802198	4
+mongolian beef; P F Chang's China Bistro	0.247060552025	5	4	1	4	4	4	4	4
+mongolian beef; Great Wall Chinese Restaurant	0.1635	4
+wonton soup; Buffet Asia	0.0883348895114	4	4	4
+kung pao chicken; Asian Island	0.219583333333	5
+wonton soup; Empress Court	0.103333333333	2
+mongolian beef; Mekong Palace	0.138261307658	4
+wonton soup; Hong Kong Gourmet Buffet	0.216765873016	4
+mongolian beef; Satay Thai Bistro & Bar	0.141071428571	4	4
+wonton soup; Pong Pong	0.210317460317	4
+mongolian beef; Pei Wei Asian Diner	0.222785151223	4	4	5	5	4
+mongolian beef; King Wong Chinese Food	0.15	2
+peking duck; Flo's	0.158655083655	4
+wonton soup; Noodle Shop	0.0667097047152	1	2
+peking duck; Super Dragon	0.207459445259	2	4	4	5	4
+kung pao chicken; Miu's Cuisine	0.0894240443284	4	5	2	5	5	5	5	4	1
+peking duck; Shanghai Lilly	0.114583333333	1
+mongolian beef; Hong Kong Kitchen II	-0.1125	5
+kung pao chicken; Grand China III	0.140824500935	4	4	2
+peking duck; Pearl	0.21917989418	4
+mongolian beef; Tom's Red Pepper	0.395203636608	4	5	4
+rice cake; China Mama Restaurant	0.153620080354	4	4	4	4	4	5	1
+wonton soup; Krazy Buffet	0.172586119554	4	5
+kung pao chicken; Rice To You	-0.292307692308	1
+wonton soup; Wok Up	0.182666666667	1
+kung pao chicken; Little Dumpling Thai & Chinese Cuisine	0.117714285714	4
+mongolian beef; Tao Garden	0.160332399627	4	4	5
+wonton soup; China One	0.206005366162	5
+peking duck; C-Fu Gourmet Restaurant	0.169409722222	4
+mongolian beef; Hong Kong Asian Diner	0.238137254902	5	4
+kung pao chicken; Red 8	0.159936418518	4	2	4	4	4	5	4	4
+wonton soup; Cafe China	0.22069171832	4	4
+kung pao chicken; Yangtse Chinese Bistro	0.211042452171	5
+mongolian beef; Tasty Joe's	0.178125	4
+wonton soup; Iron Chef	0.0326704545455	4
+mongolian beef; China Inn	0.400066137566	4	5
+mongolian beef; Hong Kong Gourmet Buffet	0.0947687728938	2	2
+mongolian beef; Cafe China	0.416666666667	5
+mongolian beef; Abacus Inn	0.212319518717	4	4	5
+mongolian beef; China Chef	0.5	5
+mongolian beef; Long Jin Chinese Cuisine	0.348482142857	4
+wonton soup; Flo's	0.105243167434	2	4	5	2
+wonton soup; Chen Wok Express	0.292347167635	4
+wonton soup; Bangkok 9 Thai-Chinese Food	0.465151515152	5
+wonton soup; Lychee Inn	0.0423076923077	4
+kung pao chicken; Dao Kitchen Asian Bistro	-0.00831037649219	2
+mongolian beef; Baidu China Bistro	0.153599048521	2	4	4	5
+wonton soup; Chopstix	-0.155029761905	2
+mongolian beef; China Tango Bistro	0.119860123537	4	2	4
+mongolian beef; Chou's Kitchen	0.140949675712	5	2	5	5	4	2
+wonton soup; 1900 Asian Cuisine	0.230849259867	4	4
+kung pao chicken; Beijing Chinese Cuisine	0.339880952381	5
+mongolian beef; China a Go Go	0.260050505051	5
+kung pao chicken; Good China Restaurant	0.0175	2
+mongolian beef; Dragon Chinese Restaurant	0.359074074074	5	4
+kung pao chicken; Thai House Restaurant	0.0401666666667	4
+kung pao chicken; Sam Woo BBQ Restaurant	0.0589583333333	2
+mongolian beef; New York Chinese Restaurant	0.106652430098	4	5	1
+kung pao chicken; Lao Ching Hing	0.0857940288489	2	1	2
+kung pao chicken; Chin Chin Chinese Restaurant	0.0422859247234	4	5	1	2	4
+kung pao chicken; Fin	0.147712854917	4	2	4	4	4	5	2
+mongolian beef; Pho Chandler	0.325878503884	4	4
+wonton soup; Kung Fu Chef	0.153854243241	4
+kung pao chicken; Golden China	0.23669047619	4
+wonton soup; Tai's Asian Bistro	0.182407407407	4
+mongolian beef; Szechuan	0.3	4
+kung pao chicken; Wong's Garden	0.118200442968	4
+mongolian beef; China Tango	0.201941818394	5	4	4	4
+mongolian beef; P F Chang's China Bistro	0.260826588948	4	4	4	2	5	4	4	5	4	4	2	5
+mongolian beef; Sai Wan Bistro	0.151921768707	5
+kung pao chicken; Flamingo Palace	0.140238095238	4
+mongolian beef; Otaku	0.046339031339	2
+wonton soup; Sesame Inn Carefree	0.075	5	2
+wonton soup; China Gourmet	0.0360082304527	1
+kung pao chicken; Wahsun Chinese Restaurant	0.0701569264069	2	4
+wonton soup; Hong Kong Wok	0.16663961039	5
+mongolian beef; Thai Vegas	0.410714285714	4
+mongolian beef; Wing Hing	0.300714285714	5
+mongolian beef; Rice To You	0.5125	5
+peking duck; Jasmine	0.275915555804	5	5	4	5	5	4	5	4	4	5	4	4	5	5	5	5	5	5	4	4	5	5	2
+kung pao chicken; Yunnan Garden	0.200644475358	5	4	5	5
+kung pao chicken; China City Super Buffet	0.0496031746032	4
+mongolian beef; Hakkasan Restaurant	0.133811050061	1	4	4
+wonton soup; Abacus Inn Chinese Restaurant-Arrowhead	0.0788541666667	4
+mongolian beef; Blossom Asian Cuisine	0.139828574204	4
+mongolian beef; China a Go Go	0.371773313492	4	4	4	5
+kung pao chicken; Grace Garden	-0.192857142857	1
+mongolian beef; Shanghai Grill	0.267907986111	5	4
+kung pao chicken; Rice & Company	0.0989649470899	4	2
+wonton soup; China Tango Bistro	0.0676080329926	1
+wonton soup; My Corner Chinese Restaurant	0.0282067969233	1
+mongolian beef; Little Dumpling	0.241881127451	4	4	2
+peking duck; Blossom	0.3358310568	5	4	5	4	5	4	4	5	5	5
+kung pao chicken; Dragon Noodle Co.	0.266666666667	4
+mongolian beef; Phoenix Palace	0.0105555555556	2
+wonton soup; Ping Pang Pong	0.119540229885	1
+kung pao chicken; Chop Chop Wok	0.189980439121	5	2	4	5
+wonton soup; Oriental Express	-0.060119047619	2
+mongolian beef; P F Chang's China Bistro	0.147374832881	5	5	1
+mongolian beef; China Gourmet	0.251516176598	5	5	5
+mongolian beef; Ling and Louie's Kitchen	0.065386002886	1	2
+wonton soup; Abacus Inn	0.0850223214286	4
+kung pao chicken; Gourmet Wok	0.258558441558	5
+mongolian beef; Noodle Asia	0.171157659856	5	1	5	5	5	2	4	2
+kung pao chicken; Great Wall Chinese Restaurant	0.171428571429	4
+wonton soup; Mr. Beijing	-0.272222222222	2
+wonton soup; Gourmet House of Hong Kong	0.199633441578	4	4	5	5
+mongolian beef; Spicy City	0.0188228438228	2
+peking duck; Hong Kong Gourmet Buffet	0.334226190476	5
+kung pao chicken; P F Chang's China Bistro	0.321998054029	4	4
+kung pao chicken; P F Chang's China Bistro	0.15626666634	4	2
+kung pao chicken; China Kitchen	0.111423761424	4
+mongolian beef; P F Chang's China Bistro	0.0400511972595	1	4	1
+wonton soup; Long Jin Chinese Cuisine	0.585750473485	5
+mongolian beef; New China Cuisine	0.358333333333	4
+wonton soup; Ming's Table	0.0777777777778	5
+wonton soup; Buffet @ Asia	-0.00187074829932	2
+wonton soup; China Wan Wan	0.202083333333	5
+kung pao chicken; P F Chang's China Bistro	0.225168595247	4	4
+kung pao chicken; Sai Wan Bistro	0.247290249433	5	5
+mongolian beef; The Prime Chinese Restaurant	0.105195390484	4	4	5	2
+wonton soup; Pei Wei Asian Diner	0.319583333333	4	1
+kung pao chicken; Grand China Fine Chinese Cuisine	0.248731762065	4
+kung pao chicken; China A Go Go	-0.205	1
+wonton soup; P F Chang's China Bistro	-0.0170195214838	2	1
+mongolian beef; Go Go China	-0.0986111111111	1
+mongolian beef; Canton Dragon	0.12449506512	4	5
+peking duck; HK Star	0.181056547619	4	4
+kung pao chicken; House of Yang	0.21859375	4
+wonton soup; Szechuan Express	0.0166666666667	4
+kung pao chicken; Golden Bowl Chinese Food	0.00373626373626	1
+kung pao chicken; 8 fortune Chinese cuisine	0.03125	4
+wonton soup; China Buffet	0.252491809992	5
+kung pao chicken; Abacus Inn	0.198210042798	4	5
+kung pao chicken; Xing Asian Bistro	0.10864389234	2
+wonton soup; Gold Chef	0.104643793706	5
+mongolian beef; Yao Fine Chinese Cuisine	0.246588952342	4	5
+mongolian beef; Wong's Restaurant	0.137422619048	4	5
+peking duck; Long Jin Chinese Cuisine	0.274082628046	4	5	5	5	4	5
+mongolian beef; Pacific Gardens	0.0983326719577	5	1	2
+wonton soup; The Prime Chinese Restaurant	0.153593013561	4	4	4	2
+mongolian beef; Good China Restaurant	0.0960256410256	2	5
+mongolian beef; Hing Loon Chinese Ex	0.5	5
+mongolian beef; Cafe Noodle & Chinese Barbeque	0.0861111111111	2
+wonton soup; Little Dumpling Chinese & Thai Cuisine	0.106811523438	5
+mongolian beef; Chinese Village Restaurant & Lounge	0.138644731041	2	1	2	4
+peking duck; Pei Wei Asian Diner	0.25218339491	5
+mongolian beef; China Magic Noodle House	0.1	2
+mongolian beef; Asian Garden	0.16976448155	4	4
+mongolian beef; Grand China III	0.177138888889	5	2
+wonton soup; China Gourmet	0.0892424242424	4	5
+peking duck; Garden of the Dragon	0.428235294118	4
+mongolian beef; Bobo China	0.103614681887	4	2
+kung pao chicken; China Wok	0.271415208249	4	5	4
+wonton soup; Blossom Asian Cuisine	0.293526785714	4	4
+mongolian beef; Yen Ching Restaurant	0.267857142857	5
+mongolian beef; China Grill	0.248208281119	5	5
+mongolian beef; Abacus Inn Chinese Restaurant-Arrowhead	0.135582010582	4	4
+peking duck; Great Bao	0.13028479971	5	5	4	4	5	4	4
+rice cake; Yi Mei Champion Taiwan Deli	0.0360798754091	5
+peking duck; Wahsun Chinese Restaurant	0.183381333173	5	5
+mongolian beef; Big Wa Chinese	0.158333333333	4
+mongolian beef; George and Sons	0.258862333517	4	5
+wonton soup; Hong Kong Kitchen	-0.0941666666667	5
+kung pao chicken; Bund Shanghai	0.194162946429	5
+wonton soup; Golden Dragon	0.267705782313	4
+mongolian beef; China Spice	0.0961550925926	1	2
+wonton soup; China One	-0.124404761905	4
+kung pao chicken; Golden China Chinese Cuisine	0.111395846217	4	5
+wonton soup; Noodle & Rice	0.280955387205	5	4
+kung pao chicken; Chou's Kitchen	0.172905752617	4	4	5	5	5
+peking duck; China Grill	0.22694235589	5
+mongolian beef; Flamingo Palace	0.219576984127	4	4
+mongolian beef; Abacus Inn Chinese Restaurant	0.122023809524	4
+wonton soup; Chens Chinese Bistro	0.195238095238	5
+kung pao chicken; BBQ King	0.197256097561	4
+mongolian beef; Pearl	0.403853561675	5	4	4	5	4	4
+kung pao chicken; Simi's Cafe	0.260241737099	5	5	4	5	5
+kung pao chicken; Panda Express	0.110833333333	4
+mongolian beef; Dragon Island Chinese Restaurant	0.328236607143	5
+peking duck; Chang's Hong Kong Cuisine	0.242839411669	5	4	4	5
+mongolian beef; Chen's Chinese Bistro	-0.0184057971014	2
+peking duck; Empress Court	0.295302504209	4	4	4
+mongolian beef; Diamond China 2	0.170364107343	2	2
+kung pao chicken; China Mama Restaurant	0.150156551594	4	5	4	4	4	4	1	5	2
+peking duck; Noodle ChaCha	0.326564602498	4	4
+mongolian beef; Big Heng	0.275500992063	5	5
+wonton soup; Bobo China	0.178061692096	5	2
+mongolian beef; Dragon Express	0.159716251885	4	4	4
+wonton soup; Ocha Cuisine	0.0205026455026	2
+wonton soup; New Shanghai Restaurant	-0.0413793103448	2
+kung pao chicken; King Wok	0.0887276785714	5
+mongolian beef; China Way Restaurant	-0.0210022605083	1	2
+kung pao chicken; Ping Pang Pong	0.173203959669	4	5	2	4
+wonton soup; China City Super Buffet	-0.0998759920635	1
+kung pao chicken; Desert Jade	0.176180501639	5	5	4	2
+wonton soup; China a Go Go	0.675	5
+kung pao chicken; Mr. Beijing	0.0307692307692	2
+mongolian beef; Beijing Noodle Cafe	0.20174378605	4	4	4	4	4	4	5	5
+mongolian beef; East Ocean Dim Sum & Seafood Restaurant	0.174214975845	4
+kung pao chicken; Wong's Place	0.100548538521	4	5
+mongolian beef; Ling & Louie's Asian Bar and Grill	0.229005511917	4	4	4	4	4	4
+peking duck; Amlee Chinese Cuisine	0.223958333333	2
+mongolian beef; Golden Wok Chinese Restaurant	0.146	4
+wonton soup; Autumn Court Chinese Restaurant	0.29505952381	4	4
+wonton soup; Golden Gate Chinese Restaurant	0.295853269537	5	5	4
+kung pao chicken; Bamboo House	0.243888888889	4
+peking duck; Asian BBQ & Noodles	0.342990196078	4
+mongolian beef; Jade Star	0.0835185185185	4
+mongolian beef; Noodle & Rice	0.273726373935	4	5	5
+mongolian beef; Yummy Yummy Chinese Restaurant	0.147379057724	4
+mongolian beef; China A Go Go	0.260661139456	4	5
+mongolian beef; Sunshine Moon Peking Pub	0.267104895055	4	5	1	4	4	5	1	4
+mongolian beef; Long Life Vege Restaurant	-0.0655916305916	5
+kung pao chicken; Wok n Stix	0.0287581699346	2
+kung pao chicken; Cook On Wok Chinese Cuisine	0.179166666667	2
+kung pao chicken; Phoenix Palace	0.156824802907	5	4	5
+mongolian beef; China City Super Buffet	0.137210648148	2	4
+mongolian beef; Veggie House	0.237175690893	5	5	5	5	5	4	5
+kung pao chicken; Blossom	0.26271204567	1	4	4	4	4	4	4	5	4
+wonton soup; Qwik Chinese	0.27109375	5
+kung pao chicken; Wo Fat	-0.00737896825397	1	1
+kung pao chicken; Pick Up Stix	-0.0203125	2
+mongolian beef; Sing High Chop Suey House	-0.0333333333333	1
+wonton soup; China A GoGo	0.466666666667	5
+kung pao chicken; Dragon Express	0.207439484127	5	5	4	4	5	5
+kung pao chicken; New York Wok	0.402	5
+wonton soup; Asian Kitchen	0.138636363636	4
+wonton soup; Liu's Kitchen	0.035	5
+wonton soup; Moon China	-0.156060606061	1
+mongolian beef; Asian Cafe	-0.211805555556	2	1
+peking duck; Hong Kong Garden Seafood & BBQ Cafe	0.310046057176	4	5	5	5	4	4	4	4	4
+kung pao chicken; Canton Wong #8	0.0874125874126	4
+kung pao chicken; Noodle Shop	0.00473399414372	2	1	4	1	1	1
+mongolian beef; Hong Kong Bistro	0.370399305556	4	5
+kung pao chicken; Gourmet Wok	0.0395833333333	4
+mongolian beef; Hong Kong Wok	0.120105820106	4
+wonton soup; Cook On Wok Chinese Cuisine	0.179166666667	2
+mongolian beef; Jade House	0.215039311179	4	1

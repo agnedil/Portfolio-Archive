@@ -1,0 +1,130 @@
+HARRY H.ROGERS CO. -- RUBBER REJUVENATOR NY-121.  -- 6850-00D000112
+<pre>=====================  Product Identification  =====================
+
+Product ID:RUBBER REJUVENATOR NY-121.
+MSDS Date:01/01/1985
+FSC:6850
+NIIN:00D000112
+MSDS Number: BBCHS
+=== Responsible Party ===
+Company Name:HARRY H.ROGERS CO.
+Address:5331 S CICERO AVE
+City:CHICAGO
+State:IL
+ZIP:60632-4916
+Country:US
+CAGE:DO947
+=== Contractor Identification ===
+Company Name:HARRY H.ROGERS CO.
+Address:5331 S CICERO AVE
+Box:City:CHICAGO
+State:IL
+ZIP:60632-4916
+Country:US
+CAGE:DO947
+Company Name:ROGERSOL INC FORMER HARRY H CO
+Address:5538 NORTHWEST HWY
+Box:City:CHICAGO
+State:IL
+ZIP:60630
+Country:US
+Phone:312-735-5100
+CAGE:23953
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ALCOHOL (METHANOL)  (SARA III)
+CAS:67-56-1
+RTECS #:PC1400000
+Fraction by Wt: 10.0%
+OSHA PEL:S,200PPM/250STEL
+ACGIH TLV:S,200PPM/250STEL; 93
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:ACETATE.
+Fraction by Wt: 10.0%
+ACGIH TLV:400 PPM
+
+Ingred Name:GLYCOL ETHER
+CAS:111-46-6
+RTECS #:ID5950000
+Fraction by Wt: 30.0%
+ACGIH TLV:200 PPM
+
+Ingred Name:NAPHTA (PETROLEUM SPIRITS OR BENZIN)
+CAS:8030-30-6
+RTECS #:DE3030000
+Fraction by Wt: 40.0%
+OSHA PEL:100 PPM
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:ACUTE VAPOR EXPOSURE CAN CAUSE SYMPTOMS RANGING
+    FROM NAUSEA,DIZZY FEELING,IRRITATION,ETC.
+
+=======================  First Aid Measures  =======================
+
+First Aid:REMOVE TO FRESH AIR,HAVE PATIENT REST.EYE:FLUSH WITH COPIOUS
+    AMTS. OF WATER. REMOVE SATURATED CLOTHING.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:5F TCC.
+Lower Limits:0.50
+Extinguishing Media:CO*2,DRY CHEMICALS,FOAM,WATER FOG OR MIST.
+Fire Fighting Procedures:USE WATER TO COOL EXPOSED CONTAINERS.
+Unusual Fire/Explosion Hazard:A VAPOR ACCUMULATION WOULD FLASH AND/OR
+    IF IGNITED.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:VENTILATE AREA,REMOVE SOURCE OF FLAME,SPARKS
+    OR OTHER IGNITION HAZARD.CONTAIN SPILL & PUMP INTO DRUMS;OR SOAK UP
+    IN ADSORBENT MEDIUM.FINALLY FLUSH SPILL AREA WITH COLD WATER.IF
+    SPILL ENTERS SEWER NOTI FY SEWER AUTHORITIES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE AWAY FROM HEAT & STRONG
+    OXIDIZING AGENTS.STORAGE TANKS SHOULD BE DIKED.PROTECT AGAINST
+    STATIC CHARGES WHEN TRANSFERRING.
+Other Precautions:USE ONLY WITH ADEQUATE VENTILATION.CONTAINS METHYL
+    ALCOHOL CANNOT BE MADE NON POISONOUS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:SELF-CONTAINED BREATHING APPARATUS.
+Ventilation:LOCAL EXHAUST IS RECOMMENDED
+Protective Gloves:NEOPRENE;VINYL
+Eye Protection:SAFETY GOGGLES
+Other Protective Equipment:IMPERVIOUS CLOTHING TO PROTECT FROM SPILLS
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:160F
+Spec Gravity:0.8.
+Solubility in Water:MODERATE
+Appearance and Odor:CLEAR LIQUID SOLVENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT,SPARKS OR OPEN FLAME.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:INCINERATE IN APPROVED EQUIPMENT OR SUBMIT TO
+    CONTRACT SERVICE FOR RECLAIM OR DISPOSAL
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,166 @@
+MINNESOTA MINING AND MFG CO -- SCOTCH-GRIP 4475 PLASTIC ADHESIVE  -- 8040-01-036-3487
+<pre>=====================  Product Identification  =====================
+
+Product ID:SCOTCH-GRIP 4475 PLASTIC ADHESIVE
+MSDS Date:11/20/1992
+FSC:8040
+NIIN:01-036-3487
+MSDS Number: BWZQM
+=== Responsible Party ===
+Company Name:MINNESOTA MINING AND MFG CO
+Address:3M CTR 224-2S-25
+City:ST. PAUL
+State:MN
+ZIP:55144-1000
+Country:US
+Info Phone Num:612-733-1110
+Emergency Phone Num:612-733-1110 612-733-6100(SPILL)
+CAGE:76381
+=== Contractor Identification ===
+Company Name:MINNESOTA MINING AND  MFG CO, DBA 3M
+Address:3M CENTER BLDG 224-5S-04
+Box:City:SAINT PAUL
+State:MN
+ZIP:55144-1000
+Country:US
+Phone:866-556 5712 / 612-733-1110
+CAGE:76381
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:METHYL ETHYL KETONE (2-BUTANONE) (MEK) (SARA 313) (CERCLA)
+CAS:78-93-3
+RTECS #:EL6475000
+Fraction by Wt: 50-60%
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:200 PPM
+ACGIH TLV:200 PPM/300STEL;9495
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:VINYL CHLORIDE/VINYL ACETATE COPOLYMER
+CAS:9003-22-9
+RTECS #:AK0950000
+Fraction by Wt: 20-30%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:POLYURETHANE RESIN
+CAS:56815-45-3
+Fraction by Wt: 20-30%
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:VOLATILE ORGANIC CONTENT(LESS WATER AND EXEMPTED
+    SOLVENTS)=568 G/L
+RTECS #:9999999VO
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES:MAY CAUSE
+    MODERATE.IRRITATION.SKIN:MAY CAUSE MILD IRRITATION.INGEST:MAY CAUSE
+    GI TRACT IRRITATION.MAY CAUSE LUNG DAMAGE IF VOMITED AFTER
+    INGESTING.INHAL:MAY CAUSE RESPIRATORY IRRITATION AND CNS D
+    EPRESSION.
+Explanation of Carcinogenicity:WHERE ENVIRONMENTAL CONTROLS ARE LACKING
+    OR IN ENCLOSED SPACES USE A NIOSH/MSHA APPROVED RESPIRATOR FOR
+    ORGANIC VAPORS.
+Effects of Overexposure:EYES:REDNESS,PAIN,SWELLING,HAZY
+    VISION.SKIN:REDNESS,SWEELING
+    ITCHING.INHAL:COUGHING,SNEEZING,HEADACHE,DIZZINESS,DROWSINESS,INCOO
+    RDINATION,SLOWED REACTION TIME,SLURRED
+    SPEECH,GIDDINESS,UNCONSCIOUSNESS. INGEST:PAIN,VOMITNG,ABDOMINAL
+    TENDERNESS,NAUSEA,BLOOD IN VOMITUS AND FECES.
+Medical Cond Aggravated by Exposure:NOT REPORTED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN:REMOVE CONTAMINATED CLOTHING;WASH WITH WATER.GET MEDICAL
+    ATTENTION IF IRRITATION PERSISTS.EYES:FLUSH WITH WATER FOR 15
+    MINUTES.GET IMMEDIATE MEDICAL ATTENTION.INHAL:REMOVE TO FRESH
+    AIR.GET IMMEDI ATE MEDICAL ATTENTION.GIVE OXYGEN OR ARTIFICIAL
+    RESPIRATION IF NEEDED.INGEST:GET PROMPT QUALIFIED MEDICAL
+    ATTENTION.INDUCE VOMITING ONLY AS ADVISED BY MEDICAL PERSONNEL.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:20.0F,-6.7C
+Lower Limits:1.8
+Upper Limits:11.5
+Extinguishing Media:DRY CHEMICAL,CARBON DIOXIDE,FOAM.
+Fire Fighting Procedures:USE A SELF-CONTAINED BREATHING APPARATUS AND
+    FULL PROTECTIVE EQUIPMENT.
+Unusual Fire/Explosion Hazard:VAPORS ARE HEAVIER THAN AIR,CAN TRAVEL
+    DISTANCES ALONG THE GROUND,AND FLASHBACK AT THE
+    SOURCE.DECOMPOSITION PRODUCTS MAY BE TOXIC.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ELIMINATE SOURCES OF IGNITION.USE PROPER
+    RESPIRATORY AND PROTECTIVE EQUIPMENT.VENTILATE AREA.SOAK UP WITH A
+    NON-COMBUSTIBLE INERT ABSORBANT(CLAY,SAND);PLACE IN A DOT APPROVED
+    CONTAINER FOR DISPOSAL.
+Neutralizing Agent:NOT APPLICABLE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY,WELL-VENTILATED
+    PLACE.KEEP CONTAINER CLOSED WHEN NOT IN USE.KEEP AWAY FROM
+    HEAT,SPARKS,FLAMES AND INCOMPATIBLE MATERIALS.
+Other Precautions:GROUND CONTAINERS WHEN TRANSFERRING LIQUID.AVOID SKIN
+    AND EYE CONTACT.AVOID BREATHING VAPORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHERE ENVIRONMENTAL CONTROLS ARE LACKING OR IN
+    ENCLOSED SPACES USE A NIOSH/MSHA APPROVED RESPIRATOR FOR ORGANIC
+    VAPORS.
+Ventilation:LOCAL VENTILATION AT THE WORKSITE;MECHANICAL(GENERAL)
+    VENTILATION TO MAINTAIN TLV/PEL.
+Protective Gloves:BUTYL,PVA,PFTE(TEFLON).
+Eye Protection:CHEMICAL SPLASH GOGGLES
+Other Protective Equipment:PROTECTIVE CLOTHING,AS NEEDED.PROVIDE A
+    LOCAL EYE WASH STATION AND SAFETY SHOWER.
+Work Hygienic Practices:WASH HANDS.SEPERATE WORK CLOTHES FROM STREET
+    CLOTHES.LAUNDER WORK CLOTHES BEFORE REUSE.KEEP FOOD OUT OF THE WORK
+    AREA.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+NRC/State Lic Num:176F
+Boiling Pt:B.P. Text:176F,80C
+Vapor Pres:80
+Vapor Density:2.5
+Spec Gravity:0.95
+Viscosity:8500CPS
+Evaporation Rate &amp; Reference:2.7 WATER =1
+Solubility in Water:VERY SLIGHT
+Appearance and Odor:LIQUID;CLEAR;KETONE ODOR.
+Percent Volatiles by Volume:60
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HIGH HEAT,SOURCES OF IGNITION.
+Hazardous Decomposition Products:CARBON DIOXIDE,CARBON MONOXIDE,OXIDES
+    OF NITROGEN,HCL,ALDEHYDE,KETONE,HYDROCARBONS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH FEDERAL,STATE AND
+    LOCAL REGULATIONS.RCRA CODE D001(IGNITABLE).
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,1502 @@
+happy hour	2163
+glass of wine	951
+wine list	914
+bottle of wine	748
+Friday night	684
+Saturday night	672
+lunch special	610
+menu items	538
+wine selection	465
+date night	381
+items on the menu	377
+wines by the glass	369
+lunch or dinner	351
+gluten free	345
+wine bar	331
+late night	317
+red wine	299
+special occasion	284
+dinner last night	261
+wine pairing	246
+white wine	243
+Sunday night	242
+Monday night	220
+tasting menu	217
+Tuesday night	210
+lunch menu	209
+half price	208
+happy hour menu	208
+daily specials	199
+things on the menu	197
+house wine	189
+birthday dinner	189
+dinner menu	186
+Thursday night	182
+end of the meal	170
+great wine	170
+knowledgeable about the menu	169
+drink order	167
+enjoyed our meal	165
+beer and wine	164
+wine and beer	164
+Wednesday night	162
+drink wine	161
+special night	159
+beer selection	158
+late lunch	154
+regular menu	151
+free drinks	148
+Monday and Tuesday	142
+lunch hour	142
+happy hour prices	141
+dessert menu	139
+great happy hour	137
+free dessert	135
+drink menu	133
+start the meal	133
+menu offers	131
+beers on tap	131
+Pinot Noir	130
+early dinner	130
+night for dinner	128
+enjoyed our dinner	126
+kids menu	124
+drinks and appetizers	124
+ordered a bottle	123
+half hour	122
+happy hour specials	120
+wine menu	119
+finished our meal	119
+great selection	118
+menu looked	118
+read the menu	116
+Pinot Grigio	116
+Sunday afternoon	113
+end of the night	110
+menu options	110
+water glasses	110
+Sunday brunch	109
+happy birthday	107
+Friday evening	104
+quick lunch	102
+ordered drinks	102
+ordered an appetizer	101
+drink at the bar	100
+wine tasting	99
+ordered a bottle of wine	99
+glass of water	98
+special menu	96
+special of the day	96
+drink specials	95
+wine bottles	95
+menu selection	94
+dinner and drinks	94
+tax and tip	93
+vegetarian options	92
+great wine list	91
+wine coolers	90
+half full	88
+selection of wines	88
+bottled water	88
+wide variety	88
+menu is limited	88
+Sunday evening	86
+great wine selection	86
+kids meal	86
+Saturday evening	85
+looked at the menu	84
+wine was great	84
+prix fixe	83
+draft beer	83
+nice selection	83
+menu is extensive	82
+diet coke	82
+busy night	81
+soft drinks	81
+limited menu	81
+Cave Creek	81
+bruschetta board	81
+full bar	81
+makes me happy	81
+hour and a half	80
+including tip	80
+night special	80
+rest of the menu	80
+celebrate my birthday	79
+ordered a glass	79
+late dinner	78
+offer free	78
+menu prices	76
+entire meal	76
+appetizers and drinks	76
+menu choices	75
+mixed drinks	75
+pitchers of beer	75
+listed on the menu	74
+ordered the special	73
+favorite thing	73
+appetizers and entrees	73
+gluten free pasta	73
+ordered a glass of wine	72
+happy hour is great	72
+cocktail menu	72
+special requests	72
+items we ordered	71
+Friday or Saturday	71
+good selection	70
+great lunch specials	70
+ordered different items	69
+extensive menu	69
+options on the menu	69
+extensive wine list	68
+wine list is extensive	68
+refill our drinks	68
+slices and a drink	68
+changed the menu	67
+menu online	67
+Saturday afternoon	66
+full menu	66
+meal  including	66
+gave us a free	66
+pm pm	65
+explained the menu	64
+drink refills	64
+guest list	64
+busy Friday night	63
+dinner and lunch	63
+red and white	63
+Monday and Tuesday nights	63
+meal started	62
+glasses were never empty	61
+corkage fee	61
+wine prices	61
+enjoyable evening	61
+ordered the bruschetta	61
+wine and bruschetta	61
+prix fixe menu	60
+price menu	60
+half and half	60
+Friday or Saturday night	60
+full meal	60
+gluten free options	60
+good wine list	59
+ate here last night	58
+closed on Sundays	57
+girls night	57
+water refills	57
+great deal	57
+top of my list	57
+entire menu	56
+bruschetta is amazing	56
+bar drinking	56
+house Chianti	56
+free meal	55
+empty glass	55
+special order	54
+pm on a Saturday	54
+dinner special	54
+weekend night	54
+online menu	53
+menu is simple	53
+perused the menu	53
+tap water	53
+wide selection	52
+Moscow Mule	52
+menu includes	51
+dinner hours	51
+special evening	51
+set menu	51
+put your name on the list	51
+beaten path	50
+special event	50
+good wine selection	50
+root beer	50
+start to finish	49
+appetizer order	49
+late night menu	49
+part of the meal	49
+rest of the night	49
+pad thai	49
+glass of red wine	48
+liquor license	47
+knew the menu	47
+drinks and dinner	47
+lunch the next day	47
+ordered a half	47
+white sangria	47
+great meal	47
+Sunday morning	46
+drink beer	46
+cold beer	46
+menu has changed	46
+chef s special	46
+refill our water	46
+menu and specials	46
+nice dinner	46
+knowledgeable about the wine	45
+lunch deal	45
+romantic dinner	45
+ate half	45
+happy hour  pm	44
+breakfast burrito	44
+drink water	44
+kids eat free	44
+alcoholic beverages	44
+business lunch	44
+glass bottle	44
+peach bellini	44
+fixe menu	44
+anniversary dinner	43
+lunch rush	43
+wine cellar	43
+specialty drinks	43
+wonderful evening	43
+beer list	43
+Sauvignon Blanc	43
+Monte Carlo	43
+lunch spot	43
+open late	43
+busy Saturday night	43
+Sunday Gravy	42
+specialty cocktails	42
+red and white wine	42
+wine list is good	42
+brunch menu	42
+fountain drinks	42
+rest of the meal	42
+celebrate our anniversary	42
+water glasses were never empty	42
+wine bar next door	41
+selection on the menu	41
+included with the meal	41
+rehearsal dinner	41
+happy hour drink	41
+early evening	41
+red sangria	40
+wine and beer selection	40
+peak hours	40
+wine you can drink	40
+dirty martini	40
+wine flights	40
+pub board	40
+beginning of the meal	40
+late afternoon	40
+taste the wine	40
+coupon for a free	40
+end the evening	40
+suggested wine	40
+finished our dinner	40
+nights a week	40
+paired with wine	39
+free appetizer	39
+pours of wine	39
+Queen Creek	39
+sip wine	39
+special offer	39
+HH menu	39
+house specialty	38
+offered drinks	38
+week night	38
+craft beer	38
+happy hour at the bar	38
+make a special	38
+selection of beers	38
+happy hour deals	38
+breakfast  lunch	38
+sparkling water	37
+lunch option	37
+nice wine list	37
+full price	37
+Friday afternoon	37
+wine selection is good	36
+unlimited wine	36
+options to choose	36
+dinner on a Saturday night	36
+pm on a Saturday night	36
+drink for free	36
+bottle of wine and bruschetta	36
+beer and wine selection	36
+bruschetta appetizer	36
+choices on the menu	36
+full and happy	36
+happy camper	36
+bruschetta and wine	35
+offer special	35
+glass of Chianti	35
+wine list is great	35
+prices for happy hour	35
+Thursday evening	35
+meal was free	35
+decent wine list	35
+fill our water glasses	35
+starts at pm	35
+priced wine	35
+dinner rolls	35
+classic cocktails	35
+drinks were strong	35
+entire night	35
+restaurant week menu	35
+including drinks	35
+couple glasses of wine	34
+offered on the menu	34
+start the evening	34
+drinks filled	34
+evening special	34
+Wednesday evening	34
+great selection of wine	34
+drink selection	34
+dinner companion	34
+pitcher of sangria	34
+lunch crowd	34
+lunch combo	34
+drinks and apps	34
+added bonus	33
+bottomless mimosas	33
+Brio Burger	33
+dinner I enjoyed	33
+ate at the bar	33
+wine drinker	33
+crafted cocktails	33
+enjoy a glass of wine	33
+dinner rush	32
+grab a drink	32
+sample of wine	32
+dinner on a Friday night	32
+night date	32
+pm on a Friday night	32
+lunch buffet	32
+specials board	32
+menu listed	32
+ginger ale	32
+close to my house	32
+lot of options	32
+refill our glasses	32
+dinner tonight	32
+Mon and Tues	32
+menu full	32
+glasses full	32
+gluten free menu	32
+short list	31
+offers a variety	31
+water to drink	31
+close at pm	31
+open  hours	31
+favorite part of the meal	31
+half order	31
+birthday celebration	31
+wine selection is great	31
+happy hour appetizers	31
+stopped in for lunch	31
+happy to report	30
+couple hours	30
+glass of wine or beer	30
+refill our water glasses	30
+bartender was great	30
+alcoholic drinks	30
+lactose intolerant	30
+martini glass	30
+regular basis	30
+happy hour every day	30
+wedding anniversary	30
+glass of prosecco	30
+menu isn	29
+Sunday lunch	29
+buy a bottle	29
+breakfast the next morning	29
+hour lunch	29
+lunch on a Saturday	29
+bottle of Chianti	29
+serve alcohol	29
+special dinner	29
+strong drinks	29
+meal and I enjoyed	29
+spend hours	29
+huge menu	29
+sparkling wine	29
+Tuesday evening	29
+started with the bruschetta	28
+Saturday morning	28
+skipped dessert	28
+Saturday around pm	28
+menu is huge	28
+order dessert	28
+price range	28
+nice wine selection	28
+water glasses filled	28
+glass of champagne	28
+favorite item	28
+huge selection	28
+Red Rock	28
+pm on a Sunday	28
+highlight of the meal	28
+speciality drinks	27
+menu for lunch	27
+children s menu	27
+great date night	27
+browsing the menu	27
+water glasses full	27
+decent selection	27
+large selection	27
+Pinnacle Peak	27
+birthday dessert	27
+menu was interesting	26
+corking fee	26
+brunch buffet	26
+simple menu	26
+free refills	26
+menu read	26
+past Saturday	26
+wine suggestion	26
+Sunday Supper	26
+vegan options	26
+drink alcohol	26
+glasses filled	26
+hour dinner	26
+Friday lunch	25
+Friday night dinner	25
+free wifi	25
+half empty	25
+glass of Pinot Noir	25
+wife enjoyed	25
+dessert offerings	25
+dinner date	25
+filled glass	25
+decent wine selection	25
+fill our water	25
+soda fountain	25
+good selection of wines	25
+Thanksgiving dinner	25
+offer samples	25
+wines and cocktails	25
+double date	25
+left happy	25
+happy and full	24
+favorite item on the menu	24
+offer complimentary	24
+ordered our entrees	24
+celebrate a special occasion	24
+received a free	24
+menu description	24
+bottle of red	24
+menu  The only thing	24
+signature cocktails	24
+open until pm	24
+explained the specials	24
+round of drinks	24
+early bird	24
+items to choose	24
+pm close	24
+entree and dessert	24
+pm on a Friday	24
+decent wine	24
+board of bruschetta	24
+soda water	24
+beer on draft	23
+adults and  kids	23
+offered dessert	23
+late night dinner	23
+selection is great	23
+Sunday  pm	23
+Saturday lunch	23
+wine pours	23
+great choice	23
+bar for happy hour	23
+diverse menu	23
+menu on their website	23
+bottled beer	23
+Friday night at pm	23
+glass of red	23
+including tax	23
+special which included	23
+kids and adults	23
+lunch today	23
+Sunday dinner	23
+glass of house	23
+excellent wine list	23
+couple glasses	22
+serve beer and wine	22
+evening enjoyable	22
+open the bottle	22
+water filled	22
+vegetarian vegan	22
+half dozen	22
+menu to choose	22
+variety on the menu	22
+drinks on happy hour	22
+left full	22
+bruschetta and a bottle of wine	22
+menu for dinner	22
+breakfast buffet	22
+beer is cold	22
+complete meal	22
+group dinner	22
+open on Sundays	22
+wine samples	22
+finish half	21
+serve beer	21
+menu and happy hour	21
+menu variety	21
+Desert Ridge	21
+brunch on Sunday	21
+happy to make	21
+house red	21
+evening started	21
+order online	21
+Friday   pm	21
+spent hours	21
+half off bottles of wine	21
+husband ordered	21
+price bottles	21
+early lunch	20
+half bottle	20
+night and ended	20
+entire evening	20
+night  Friday	20
+girlfriend ordered	20
+soda refills	20
+brunch on the weekends	20
+pour water	20
+choose from on the menu	20
+plenty of options	20
+water bottles	20
+bottle of wine we ordered	20
+bottle of champagne	20
+menu and we all tasted	20
+weekend brunch	20
+perfect date night	20
+glass of white wine	20
+started with an appetizer	20
+wife ordered	19
+online ordering	19
+beginning to end	19
+end of the day	19
+meal ended	19
+great spot	19
+apps and drinks	19
+cocktail list	19
+poured in a glass	19
+day s special	19
+Saturday night dinner	19
+description on the menu	19
+menu and explaining	19
+wedding rehearsal dinner	19
+dessert and coffee	19
+glass of house wine	18
+grab lunch	18
+wonderful meal	18
+amazing bruschetta	18
+menu and wine	18
+entree  I ordered	18
+fills up quickly	18
+bottle prices	18
+limited selection	18
+menu states	18
+mix and match	18
+open for lunch	18
+specials for lunch	18
+questions about the menu	18
+close to an hour	18
+included an appetizer	17
+night of business	17
+glasses of wine before pm	17
+offer a discount	17
+lunch specials are great	17
+selection of beer and wine	17
+busy Friday	17
+late hours	17
+impressive wine list	17
+Friday night so it was busy	17
+quick bite	17
+night  Tuesday	17
+till pm	17
+quick drink	17
+filling our drinks	17
+Saturday night at pm	17
+romantic evening	17
+beer glass	17
+boyfriend ordered	16
+great addition	16
+beer or glass of wine	16
+night on Wednesday	16
+day for lunch	16
+wine list is nice	16
+offer suggestions	16
+menu and drink	16
+half price bottles of wine	16
+bar  The bartender	16
+night at pm	16
+beer by the bottle	16
+nice selection of wines	16
+rock and roll	16
+drinks were never empty	16
+appetizer of bruschetta	16
+husband enjoyed	16
+fun night	16
+good thing	16
+tip included	16
+local beer	16
+appetizers including	16
+isn t on the menu	16
+chock full	16
+white and red	15
+water cups	15
+great beer selection	15
+dinner  Nice	15
+full for dessert	15
+interesting menu	15
+hour before closing	15
+menu is varied	15
+water glass was refilled	15
+day happy hour	15
+pasta special	15
+shared a bottle	15
+ordered drinks and appetizers	15
+pm at night	15
+menu is diverse	15
+bottle of house wine	15
+hour  pm	15
+wedding dinner	15
+celebrity chef	15
+nice change	15
+weekday lunch	15
+dessert we ordered	15
+morning for breakfast	15
+lunch business	14
+dessert  we were full	14
+beer was served	14
+tap beer	14
+price bottles of wine	14
+wine list was impressive	14
+selection of wine and beer	14
+wine by the glass list	14
+great bartender	14
+satisfying meal	14
+cocktails and wine	14
+beer and drink	14
+early  pm	14
+wine reduction	14
+good choice	14
+meal was completely	14
+ice water	14
+full glass	14
+options are limited	14
+house red wine	14
+great suggestions	14
+afternoon lunch	14
+favorite part	14
+wine on the house	14
+wine selection is nice	14
+good beer selection	14
+offered to refill	13
+bottle of wine and a bruschetta board	13
+list of wines	13
+dinner plans	13
+pm on a Wednesday	13
+Thursday around pm	13
+vegan vegetarian	13
+good selection of beer	13
+board and bottle	13
+date night spot	13
+specials that make	13
+options for lunch	13
+comped drinks	13
+night for a late	13
+grab a quick	13
+great price	13
+generous pour	13
+st birthday	13
+empty water glasses	13
+refill my soda	13
+lunch on a Friday	13
+hour before opening	13
+wife s birthday	13
+couple of things	13
+dinner at pm	13
+specials daily	12
+birthday girl	12
+bottle or glass	12
+pasta tasting menu	12
+wine  red or white	12
+bar was full	12
+meal cost	12
+white and red wine	12
+glass of Pinot	12
+pm dinner	12
+entree included	12
+glasses were refilled	12
+Great lunch spot	12
+fountain soda	12
+spot for lunch	12
+appetizers for happy hour	12
+boyfriend s birthday	12
+favorite menu items	12
+draft beer selection	12
+selection is good	12
+Friday dinner	12
+dinner on a Friday	12
+dessert for free	12
+dessert for the birthday	12
+lunch special   slices	12
+choose items	12
+lunch early	12
+range in price	11
+beer selection is great	11
+glass of white	11
+varied menu	11
+tonight for dinner	11
+lunch on a Sunday	11
+beat the price	11
+looked great	11
+drink offerings	11
+board specials	11
+bottle of wine and board of bruschetta	11
+cup of water	11
+ended up eating	11
+night out with the girls	11
+stopped in for dinner	11
+selection is limited	11
+special on Mondays	11
+specials and happy hour	11
+selection of wines by the glass	11
+wine  red	11
+bruschetta to start	11
+hour late	11
+night     am  Except Sunday	11
+glass of wine and enjoy	11
+glass of beer	11
+steak house	11
+bottle  I ordered	11
+menu regularly	11
+offer gluten free	11
+lunch or a quick	11
+decent price	10
+half glass	10
+dinner on a Sunday	10
+drinks including	10
+drink and appetizer orders	10
+today for lunch	10
+order for pick	10
+impress a date	10
+grab a glass	10
+selection is nice	10
+order appetizers and drinks	10
+ate the entire	10
+pasta and a gluten free	10
+cup of coffee	10
+priced with half	10
+water and a soda	10
+perfect pairing	10
+sunday cause they are closed	10
+comped our meal	10
+tasted great	10
+close early	10
+decent meal	10
+wine list by the glass	10
+extensive list	10
+glass of wine and ordered	10
+romantic date	10
+date spot	10
+Monday special	10
+selection of drinks	10
+night  Saturday	10
+decided to order	9
+limited options	9
+pm on a Tuesday	9
+stated on the menu	9
+stopped in for a late	9
+night  Monday	9
+option for vegetarians	9
+main meal	9
+lunch on a weekday	9
+pm happy hour	9
+bottle opened	9
+Saturday night   very busy	9
+serve wine and beer	9
+appetizer to start	9
+menu was set	9
+specials   The chef	9
+lunch last week	9
+dinner with a group	9
+menu and knew	9
+entrees and appetizers	9
+wine was decent	9
+drink   slice	9
+wine list is decent	9
+ice cold	9
+meal was finished	9
+board of bruschetta and a bottle of wine	9
+menu questions	9
+enjoyed every bite	9
+website menu	9
+wine list was excellent	9
+day of the week	9
+crowded at lunch	9
+couple slices	9
+beer pitchers	9
+fixed price	9
+extensive wine	9
+pm   hour	9
+bruschetta we ordered	9
+wife and I had dinner	8
+menu  hours	8
+dinner late	8
+bruschetta is delicious	8
+great date	8
+hubby ordered	8
+menu sounded	8
+list of wines by the glass	8
+sounded good	8
+rush hour	8
+menu for Restaurant Week	8
+dinner on a Saturday	8
+main courses	8
+good deal	8
+meal   The rest	8
+things have changed	8
+glass and a half	8
+busy weekend	8
+bruschetta board and bottle of wine	8
+menu is not so kid	8
+looked amazing	8
+main event	8
+hour    The happy	8
+dinner with my wife	8
+pm on a Thursday	8
+meal was great	8
+deal for happy hour	8
+pm a little early	8
+perfect date	8
+full and satisfied	8
+looked good	8
+prices can t be beat	8
+drinks and not the specialty	8
+variety   For example  they offer	8
+slice lunch special	8
+sangria pitchers	8
+appetizers and main	8
+coffee and dessert	8
+Saturday for dinner	7
+grab a bite	7
+rehearsal dinner for my wedding	7
+lunch break	7
+husband s birthday	7
+included with the entree	7
+Sunday they were open	7
+quickly served	7
+glasses  I ordered	7
+eat half	7
+wine selection by the glass	7
+hit the spot	7
+celebrate a special	7
+night we ate	7
+delicious bruschetta	7
+shared appetizer	7
+complimentary dessert	7
+lunch yesterday	7
+bottle of wine  that is   price	7
+dinner for my birthday	7
+date dinner	7
+empty drink	7
+afternoon on a Sunday	7
+make things	7
+open bar	7
+dinner early	7
+deal for lunch	7
+hour spent	7
+pm and all glasses of wine	7
+bar wine	7
+buffet lunch	7
+served cold	7
+beer selection is good	7
+regular stop	7
+decent selection of wines	7
+champagne glass	7
+price fix	7
+lunch  late	6
+offered to bring	6
+grab a quick bite	6
+personal favorite	6
+list is extensive	6
+full half	6
+specialty of the house	6
+ordered a large	6
+dinners were finished	6
+perfect way to end the meal	6
+wide open	6
+door to the wine bar	6
+red wines by the glass	6
+order wine by the glass	6
+cost of the meal	6
+fair price	6
+wrong order	6
+hour prices	6
+flights of wine	6
+tip and tax	6
+bottles of wine are half	6
+night of fun	6
+wine    but the price per glass	6
+perfect ending	6
+slice special	6
+bring our drinks	6
+Tuesdays after pm	6
+menu  The dessert	6
+list of beers	6
+night  Thursday	6
+deals are great	6
+filled our glasses with water	6
+white wines by the glass	6
+Great selection of wine and beer	6
+entire thing	6
+refills were offered	6
+drinks quickly	6
+meal a kid	6
+bottle and board	6
+slices and a soda	6
+bottle and bruschetta	6
+Groupon deal	6
+wine by the glass selection	6
+special pasta	6
+week for dinner	6
+added a nice	5
+quick to refill	5
+rushed through dinner	5
+spot for a date	5
+half finished	5
+suggestion I offered	5
+wine knowledge	5
+bf ordered	5
+bring a date	5
+couple of bites	5
+thing good	5
+Great selection of beers	5
+delicious meal	5
+wine from an extensive	5
+alcohol served	5
+sample and offered	5
+cheap prices	5
+choice of toppings	5
+finished eating	5
+good price	5
+full size	5
+bar open	5
+spot for a date night	5
+menu knowledge	5
+toppings to choose	5
+ordered the wrong	5
+Friday for a business	5
+dinner on our anniversary	5
+ordered a drink at the bar	5
+paired perfectly	5
+bruschetta and a bottle	5
+started eating	5
+rare occasion	5
+dinner or romantic	5
+great tasting	5
+PM and starts	5
+plans for dinner	5
+wine by the glass until pm	5
+night and weekends	5
+converted house	5
+stopped in for a quick	5
+left satisfied	5
+ate the whole thing	5
+combo for lunch	5
+running late	5
+favorite spot	5
+water was poured	5
+free offerings	5
+fairly quickly	5
+prices are great	5
+choose a different option	5
+lunch this afternoon	5
+free options	5
+tax included	5
+gluten free offerings	5
+bottle or half	5
+wine and beer selection is great	5
+Chianti bottles	5
+busy Saturday	5
+pm  Wine is   a glass	5
+open till	4
+quick stop	4
+list of toppings	4
+glass of water was never refilled	4
+glasses of wine  each selected	4
+menu with wine pairings	4
+choice  Great	4
+options for gluten free	4
+discount they were offering	4
+glass wine list	4
+cocktails are all classics	4
+board and bottle of wine	4
+sounded great	4
+eat  We started	4
+bar and order a drink	4
+buffet brunch	4
+Lets start	4
+make sure to stop	4
+week for lunch	4
+free   coupon	4
+half priced wine bottles	4
+Bellini Peach	4
+price of two full	4
+Chianti was   a glass	4
+coffee cup	4
+enjoy the  wine by the glass	4
+great spot for lunch	4
+cost  bucks	4
+night on monday and tuesday	4
+bottle and a board of bruschetta	4
+buffet for breakfast	4
+evening at D O C G  ended	4
+wine   I had ordered a bottle	4
+water instead of just tap	4
+Wednesday around pm	4
+pours were generous	4
+Saturday and it was busy	4
+water ice	4
+bottled wine was half price	4
+tasted good	4
+excellent choice	4
+completely empty	4
+companion ordered	4
+items  some of the favorites	4
+spot  Great	4
+lunch or breakfast	4
+prices are decent	4
+refills are not free	4
+drink soft	4
+Wines  Great selection	4
+drinks were mixed	4
+price wine bottles	4
+Reasonable wine prices	4
+appetizer and drink order	4
+options are plentiful	4
+suggest making	4
+water was empty	4
+bottles you can buy	4
+selection is wide	4
+options of free	4
+dinner on Wed	4
+main entree	4
+coke  but not my diet	4
+menu to peruse	4
+bruschetta boards and wine	4
+menu very well as there are only like  cocktails	4
+prices are fair	4
+pasta entrees	4
+enjoyed it  My husband	4
+past weekend	4
+champagne bottle	4
+red at   per glass	4
+affordable price	3
+menu for the rest	3
+coupon from Restaurant	3
+evening or very early	3
+served quickly	3
+prices are reasonable	3
+chef will make	3
+half the size	3
+prices to match	3
+put on top	3
+selection was decent	3
+appetizer that was free	3
+left a tip	3
+option   Lots	3
+meal was delicious	3
+days after they opened	3
+order to put	3
+bartenders behind the bar	3
+wine   A white	3
+meal begins	3
+decided to grab	3
+share an entree	3
+night to try the rest	3
+hour menu	3
+quickly grab	3
+wine  I liked that even though we ordered glass	3
+drink when I went for another round	3
+menu is gluten free	3
+meal was wonderful	3
+red wine instead of the white	3
+bottle to share	3
+options for those who are vegan	3
+wine here either by the bottle or half	3
+wines  it seemed like there was a decent selection	3
+local organic	3
+bottle of wine and board	3
+setting for a romantic	3
+wine and a bruschetta board	3
+bar drinks  We ordered	3
+dinner stop	3
+things that make	3
+put in our order	3
+lot of fun	3
+lunch stop	3
+husband and I ate	3
+including the specials	3
+ordered it only because my girlfriend	3
+suggested a great	3
+rush for lunch	3
+sampler appetizer	3
+main reason	3
+menu that was appropriate for children	3
+opening week	3
+meal to satisfy	3
+bill was  dollars	3
+bill with tip	3
+drink fountains	3
+pm opening	3
+fiance ordered	3
+bottle of Pinot	3
+night I took my entire	3
+meal  But part	3
+glass  but the pour	3
+selection of draft beer	3
+opening day	3
+evening and had the most wonderful	3
+wine bottles are very well priced	3
+change a thing	3
+menu so far  I have seen the brunch	3
+beer selection    one draft	3
+occasion special	3
+fair share	3
+wine selection was decent	3
+day  but in the end	3
+beer and wine by the glass	3
+drink order quickly	3
+servings are huge	3
+wanted dessert	3
+selection of wine and are great	3
+afternoon on a Saturday	3
+regular size	3
+perfect spot	3
+menu items   Another favorite	3
+thing   and they were my favorite	3
+beer and wine selection was great	2
+finish or even start	2
+yesterday for lunch	2
+pasta for     FREE	2
+bring the kids	2
+looked delicious	2
+meal comped	2
+split an entree	2
+ordered the steak	2
+report that we were both very happy	2
+ordered pasta	2
+served in a generous	2
+couple of wines by the glass	2
+order a second   If my hubby	2
+pinot noir by the glass	2
+pm till	2
+setting is nice	2
+main  appetizers	2
+selection is huge	2
+list is short	2
+pick up my order	2
+enjoyed it   My wife	2
+simple and delicious	2
+event was a special	2
+martini and he had a dirty	2
+price is affordable	2
+dessert but the complimentary	2
+whites by the glass	2
+WIFI for free	2
+drinks  we wanted	2
+wine  a nice selection	2
+beverages that are non alcoholic	2
+drink orders and an appetizer	2
+restaurant was empty	2
+part of my favorite	2
+large group	2
+early to be closing	2
+couple of weeks	2
+dessert sampler	2
+price  but it s  hours	2
+change it  and he was very nice	2
+couple days	2
+include the menu	2
+date or to bring	2
+sounded on the menu	2
+lunch but they opened	2
+evening on a Friday	2
+lunch  Great spot	2
+wine  white or red	2
+nights  as Friday and Saturday	2
+Lunch slice special	2
+glasses of water were never empty	2
+deal  An hour	2
+beer   wine  we said serve	2
+choose  toppings	2
+price is expensive	2
+wine or beer is served	2
+dinner last week	2
+ordered  My husband	2
+price for the wine was reasonable	2
+wine at   per glass  I d like to enjoy	2
+late dinner last night	2
+red house wine	2
+special    So after   hours	2
+water  sparkling	2
+meal was excellent	2
+appetizer to share	2
+appetizer sampler	2
+beer selection since they are a wine	2
+top choice	2
+free  They gave	2
+refills or a glass of water	2
+wanted to drink	2
+opened the door	2
+beer  they have a good selection	2
+menu   However  they are ALWAYS out of my favorite item	2
+wine by the glass to order	2
+date night  the perfect	2
+dinner  or late night	2
+Day weekend	2
+satisfied and full	2
+great date spot	2
+pair wines with a four course menu	2
+selection of good wine	2
+served in a large	2
+added to the bill	2
+addition to great	2
+bar set	2
+special   slices	2
+make suggestions	2
+doors open	2
+looked and tasted	2
+glasses   Our water was always full	2
+red wine of the house	2
+glasses full of water	2
+personal preference	2
+white wine over the red	2
+happy   I left	2
+completely satisfied	2
+orange juice	2
+date or to impress	2
+single thing	2
+beer from a local	2
+desserts    entrees	2
+drinks and bringing	2
+enjoyed the company	2
+board of bruschetta and a bottle	2
+anniversary celebration	2
+prices are good	2
+grab a slice	2
+lunch  grab	2
+dessert we shared	2
+coffee espresso	2
+prices are cheap	2
+decent sized	1
+ordered the Margarita	1
+stop at any regular	1
+busy at nights especially Saturdays	1
+cocktails  Their specialty	1
+wine bottle we ordered	1
+board and a pub	1
+meeting someone for lunch	1
+beers  and they serve wine	1
+pasta I ordered	1
+bruschetta board and bottle	1
+house converted	1
+items on the menu  but my favorite	1
+wines availalbe since their menu only listed	1
+ending my meal with a perfect	1
+dinner after her wedding rehearsal	1
+wine and a good selection	1
+local spot	1
+bruschetta board and any wine bottle	1
+set the bar	1
+wanted to eat	1
+afternoon in late	1
+whites by the glass  After trying about  different wines	1
+evening was romantic	1
+larger group	1
+lunch and ordered one of the specials	1
+white wine clam	1
+restaurant close	1
+glass of pearfect martini	1
+wine bar where you can get a glass	1
+night on a Saturday I get there at pm	1
+meal was fantastic	1
+match the price	1
+dozen half	1
+afternoon on a Friday	1
+date  Perfect	1
+slices of a couple	1
+selection of wine and some very good beers	1
+decided to skip	1
+menu  why fix	1
+eat a lot	1
+choices were good	1
+busy well into the night on a Friday	1
+expensive prices	1
+evening of     Tuesday	1
+thing I ate	1
+selection of great beers and wines	1
+entire life	1
+nights  but is really busy on Friday	1
+part of the restaurant	1
+tasted and looked	1
+dessert  It was so so  Not the best I had  I d skip	1
+menu   wine tasting	1
+wine bottle and bruschetta board	1
+company  enjoy	1
+appetizer  Order a drink	1
+drinker  I want certain wines	1
+drinks to which she went   grabbed	1
+Saturday Friday night	1
+free  and gluten	1
+size of a regular	1
+till   you re open	1
+restaurant opened	1
+meal  and would have been THE highlight	1
+Selection of wine is decent	1
+good size	1
+empty water	1
+great list of wines	1
+tasting menu with four pasta	1
+Noir   The Pinot	1
+list  Other guests	1
+wine  sparkling	1
+excellence list of wine	1
+sangria  red	1
+date night   Great	1
+pinot was not available by the glass	1
+special occasion that we were celebrating	1
+door to the bar  get some wine	1
+quickly filling	1
+romantic setting	1
+drink at the bar and ordered	1
+generous serving	1
+dinner here last night  Friday	1
+kids eat	1
+selection of wines   Good	1
+end and beginning	1
+selection is quite large	1
+specials explained	1
+red house	1
+wine   They have a great list	1
+bite and enjoy	1
+thing wrong	1
+morning  Sunday	1
+restaurant business	1
+extensive list of wines	1
+water and bringing	1
+tuesday and monday	1
+large serving	1
+grigio  from my  pinot	1
+tip was already on the bill	1
+huge slices	1
+looked good on the menu	1
+deals are good	1
+soda  About the same for a slice	1
+great alternative	1
+eating at one as a kid	1
+Rolling Rock	1
+reduction wine	1
+weekend on business	1
+Saturday is always a busy night	1
+house  a glass	1
+wine and beer glasses	1
+menu that the HH	1
+delicious  Simple	1
+chef s tasting	1
+quick to take our drink orders	1
+housed the closed	1
+water and fills  glasses	1
+excellent meal	1
+wine which was reasonably priced   I think it was   for a bottle	1
+ordered our drinks quickly	1
+drink order from us  so again we went to the bar	1
+Menu prix fixe	1
+ending to a perfect	1
+cocktails the  signature	1
+evening  The entire	1
+wine from an extensive list	1
+restaurant com coupon	1
+bite and a quick	1
+nice setting	1
+wine and beer  but a great selection	1
+beers and a good wine selection	1
+Friday Night   Saturday	1
+eat it everyday	1
+board for     you get a bottle of wine and a boatd of bruschetta	1
+cocktails are crafted	1
+evenings and Sunday	1
+bite to eat	1
+birthday my husband	1
+entree  The main	1
+nice added	1
+dollar bill	1
+lunch time	1
+glass of selected wines	1
+dessert we wanted	1
+girls birthday	1
+wanted to order	1
+Restaurant Week	1
+dinner last night  Saturday	1
+evening on a Saturday	1
+hour around peak	1
+size of a normal	1
+request  As another accommodation	1
+lot better when you spend	1
+wines by the glass plus a couple	1
+house wine  red	1
+set the mood	1
+spend a lot	1
+ate every bite	1
+selections and great wines	1
+bar next door	1
+full glass of water	1
+fairly large	1
+huge serving	1
+generous toppings	1
+free  We also received	1
+things  Anyway after another couple	1
+eat  I ended	1
+group of girls	1
+half to eat	1
+menu   How to pair wine	1
+list or cocktails	1
+nice list of wines	1
+week of opening	1
+empty glass of water	1
+sampler desserts	1
+perfect blend	1
+good list of wines	1
+red  bottle	1
+Chianti housed	1
+bar  and ate	1
+bottle of reasonably priced wine	1
+hour a couple	1
+stop eating	1
+business  I would RUN	1
+meal was off to a great start	1
+wine  HOUSE RED	1
+entree  The pasta	1
+lunch meeting	1
+week day	1
+selection of beer in draft	1
+date and had a great night	1
+eating plan	1
+coolers   Some of the wine	1
+beer  but a great selection	1
+husband and I shared	1
+hour specials	1
+night  late  and had a dinner	1
+dates  or double	1
+easily shared	1
+rolls before dinner	1
+SANGRIA is much better than the white	1
+special celebration	1
+water in the full glass	1
+Ordering is quick  drinks	1
+Wines are also great at   glass	1
+close to this restaurant	1
+date  Great	1
+shared dessert	1
+full water glasses	1
+dinner there last night after a late	1
+sort of thing	1
+good taste	1

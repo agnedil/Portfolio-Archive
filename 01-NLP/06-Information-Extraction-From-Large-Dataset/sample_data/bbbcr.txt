@@ -1,0 +1,111 @@
+A.B. DICK COMPANY -- 3-5810 COLORED OIL BASE OFFSET INK  -- 7510-00B010033
+<pre>=====================  Product Identification  =====================
+
+Product ID:3-5810 COLORED OIL BASE OFFSET INK
+MSDS Date:08/19/1986
+FSC:7510
+NIIN:00B010033
+MSDS Number: BBBCR
+=== Responsible Party ===
+Company Name:A.B. DICK COMPANY
+Address:5700 WEST TOUHY AVENUE
+City:CHICAGO
+State:IL
+ZIP:60648
+Country:US
+Emergency Phone Num:312-647-8800
+CAGE:17638
+=== Contractor Identification ===
+Company Name:DICK A B CO
+Address:7400 CALDWELL AVE
+Box:City:NILES
+State:IL
+ZIP:60714-4628
+Country:US
+Phone:847-779-1900
+CAGE:17638
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TREATED PETROLEUM OILS
+Fraction by Wt: 1%
+ACGIH TLV:5MG/M3
+
+Ingred Name:STODDARD SOLVENT
+CAS:8052-41-3
+RTECS #:WJ8925000
+Fraction by Wt: 3%
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM; 9293
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Effects of Overexposure:POSSIBLE EYE OR SKIN IRRITATION
+
+=======================  First Aid Measures  =======================
+
+First Aid:IMMEDIATELY FLUSH EYES WITH LARGE AMOUNTS OF WATER FOR AT
+    LEAST 15 MIN. CONTACT A PHYSICIAN IF IRRITATION OCCURS. WASH
+    AFFECTED AREA OF SKIN WITH SOAP AND WATER AND REMOVE CONTAMINATED
+    CLOTHING. IF SW ALLOWED,DRINK 1 OR 2 GLASSES OF WATER TO DILUTE. DO
+    NOT INDUCE VOMITING. CONSULT A PHYSICIAN. TREAT SYMPTOMATICALLY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:250F
+Lower Limits:1%
+Extinguishing Media:FOAM,CARBON DIOXIDE,DRY CHEMICAL
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS TO
+    ELIMINATE EXPOSURE TO COMBUSTION PRODUCTS.
+Unusual Fire/Explosion Hazard:DURING EMERGENCY CONDITIONS,OVEREXPOSURE
+    TO COMBUSTION PRODUCTS MAY CAUSE HEALTH HAZARD
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE UP AND DISPOSE OF WITH SOLID WASTE.IF
+    SOLVENT WETTED WIPES ARE USED,DISPOSE OF IN APPROVED CONTAINERS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINERS CLOSED WHEN NOT IN
+    USE. KEEP AWAY FROM EXCESSIVE HEAT OR OPEN FLAME.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT NORMALLY REQUIRED WITH ADEQUATE VENTILATION.
+Ventilation:NORMAL VENTILATION FOR THE WORK AREA.
+Protective Gloves:GLOVES FOR PROLONGED OR REPEATED CONTACT
+Eye Protection:NOT NORMALLY NECESSARY
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:520-600F
+Vapor Density:1
+Spec Gravity:1.0
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:VARIOUS COLORED PASTES WITH HYDROCARBON ODOR
+Percent Volatiles by Volume:20
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZG MATERIALS
+Stability Condition to Avoid:STABLE UNDER NORMAL CONDITIONS
+Hazardous Decomposition Products:CARBON MONOXIDE,CARBON DIOXIDE,SMOKE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE WITH LOCAL,STATE AND
+    FEDERAL REGULATIONS FOR NON-FLAMMABLE OILY WASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

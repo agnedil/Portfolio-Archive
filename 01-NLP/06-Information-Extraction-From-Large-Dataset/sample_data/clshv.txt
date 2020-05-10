@@ -1,0 +1,142 @@
+BIO-RAD LABORATORIES, LIFE SCIENCE RESEARCH -- PRESTAINED SDS-PAGE STANDARDS LOW RANGE  -- -
+<pre>=====================  Product Identification  =====================
+
+Product ID:PRESTAINED SDS-PAGE STANDARDS LOW RANGE
+MSDS Date:05/10/1999
+FSC:NIIN:Submitter:F BT
+Status Code:A
+MSDS Number: CLSHV
+=== Responsible Party ===
+Company Name:BIO-RAD LABORATORIES, LIFE SCIENCE RESEARCH
+Address:2000 ALFRED NOBEL DRIVE
+City:HERCULES
+State:CA
+ZIP:94547
+Country:US
+Info Phone Num:510-741-1000
+Emergency Phone Num:1-800-424-9300
+CAGE:0UCZ8
+=== Contractor Identification ===
+Company Name:BIO-RAD LABORATORIES, LIFE SCIENCE RESEARCH
+Address:2000 ALFRED NOBEL DRIVE
+Box:City:HERCULES
+State:CA
+ZIP:94547
+Country:US
+Phone:510-741-1000
+CAGE:0UCZ8
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:GLYCEROL
+CAS:56-81-5
+RTECS #:MA8050000
+Minumum % Wt:35.
+Maxumum % Wt:50.
+OSHA PEL:15 MG/M3
+ACGIH TLV:10 MG/M3
+
+Ingred Name:WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Minumum % Wt:35.
+Maxumum % Wt:50.
+
+=====================  Hazards Identification  =====================
+
+Medical Cond Aggravated by Exposure:
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: SUPPLY FRESH AIR, CONSULT DOCTOR IN CASE OF
+    COMPLAINTS. SKIN: GENERALLY THE PRODUCT DOES NOT IRRITATE THE SKIN.
+    EYE: RINSE OPENED EYE FOR SEVERAL MINUTES UNDER RUNNING WATER.
+    INGESTION: IN DUCE VOMITING AND CALL FOR MEDICAL HELP.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>100.C, 212.F
+Autoignition Temp:=400.C, 752.F
+Extinguishing Media:SUITABLE EXTINGUISHING AGENTS
+Fire Fighting Procedures:USE FIRE FIGHTING MEASURES THAT SUIT THE
+    ENVIRONMENT
+Unusual Fire/Explosion Hazard:DOES NOT PRESENT AN EXPLOSION HAZARD.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:DILUTE WITH PLENTY OF WATER. ABSORB WITH
+    LIQUID-BINDING MATERIAL (SAND, DIATOMITE, ACID BINDERS, UNIVERSAL
+    BINDERS, SAWDUST) NO DANGEROUS SUBSTANCES ARE RELEASED.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:NO SPECIAL MEASURES REQUIRED.
+Other Precautions:NOT REQUIRED.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:56-81-5 GLYCEROL ACGIH TLV: SHORT TERM VALUE: 10
+    PPM, OSHA PEL: SHORT TERM VALUE: 15 TOTAL DUST, 5 RESPIRABLE MG/M3.
+    NO SPEICAL BREATHING EQUIPMENT REQUIRED.
+Protective Gloves:SUNTHETIC GLOVES
+Eye Protection:GOGGLES RECOMMENDED DURING REFILLING.
+Work Hygienic Practices:THE USUAL PRECAUTIONARY MEASURES FOR HANDLING
+    CHEMICALS SHOULD BE FOLLOWED.
+Supplemental Safety and Health
+ORGANIS SOLVENTS: 50%, WATER:49.8% SOLIDS CONTENT:0.2%
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=100.C, 212.F
+Vapor Pres:23.0
+Solubility in Water:FULLY MISCIBLE
+Appearance and Odor:COLORLESSS, ODORLESS FLUID
+
+=================  Stability and Reactivity Data  =================
+
+DANGEROUS REACTIONS UNKNOWN.
+Stability Condition to Avoid:NO DECOMPOSITION IF USED ACCORDING TO
+    SPECIFICATIONS.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:SKIN: NO IRRITANT EFFECT. EYE: NO IRRITANT.
+    NOT SUBJECT TO GENERAL EU GUIDELINES. WHEN USED AND HANDLED
+    ACCORDING SPECIFICATIONS, THE PRODUCT DOES NOT HAVE ANY HARMFUL
+    EFFECTS ACCORDING TO OUR EXPERIE NCE AND THE INFORAMTION PROVIDED
+    TO US.
+
+=====================  Ecological Information  =====================
+
+Ecological:WATER HAZARD CLASS (GERMAN REGULATION) (SELF ASSESSMENT):
+    GENERALLY NOT HAZARDOUS FOR WATER.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:HAND OVER TO HAZARDOUS WASTE DISPOSERS. DISPOSE
+    OF IN ACCORDANCE W/ LOCAL, STATE & FEDERAL REGULATIONS. RECOMMENDED
+    CLEANSING AGENT: WATER, IF NECESSARY WITH CLEANSING AGENTS.
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:NONE
+
+=====================  Regulatory Information  =====================
+
+SARA Title III Information:NONE
+Federal Regulatory Information:TSCA: 56-815-5 GLYCEROL, 7732-18-5
+    WATER.  OBSERVE THE GENERAL SAFETY REGULATIONS WHEN HANDLING
+    CHEMICALS. THE PRODUCT IS NOT SUBJECT TO IDENTIFICATION REGULATIONS
+    UNDER EU DIRECTIVES AND THE ORDINACN E ON HAZARDOUS MATERIALS.
+State Regulatory Information:CALIFORNIA PROPOSITION 65: NONE
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

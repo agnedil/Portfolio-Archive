@@ -1,0 +1,188 @@
+RANDOLPH PRODUCTS CO -- X-1567 BLACK WING WALK  -- 8010-00N069743
+<pre>=====================  Product Identification  =====================
+
+Product ID:X-1567 BLACK WING WALK
+MSDS Date:04/22/1994
+FSC:8010
+NIIN:00N069743
+MSDS Number: CBKTB
+=== Responsible Party ===
+Company Name:RANDOLPH PRODUCTS CO
+Address:701 12TH ST
+Box:830
+City:CARLSTADT
+State:NJ
+ZIP:07072-0830
+Country:US
+Info Phone Num:201-438-3700
+Emergency Phone Num:800-255-3924
+Preparer's Name:JHR
+CAGE:77672
+=== Contractor Identification ===
+Company Name:RANDOLPH PRODUCTS CO
+Address:701 12TH ST
+Box:830
+City:CARLSTADT
+State:NJ
+ZIP:07072-0830
+Country:US
+Phone:201-438-3700
+CAGE:77672
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:SYNTHETIC RESIN VP: 10 @ 20C
+Fraction by Wt: 15%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:ALKYD RESIN VP: 3 @ 20C
+CAS:63148-69-6
+Fraction by Wt: 10%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:SOLVENT NAPHTHA (PETROLEUM), LIGHT AROMATIC; (AROMATIC
+    SOLVENT NAPHTHA) VP: 7.1 @ 20C
+CAS:64742-95-6
+RTECS #:WF3400000
+Fraction by Wt: 5%
+OSHA PEL:N/K 
+ACGIH TLV:N/K 
+
+Ingred Name:STODDARD SOLVENT; (ALIPHATIC NAPHTHA) VP: 10 @ 20C
+CAS:8052-41-3
+RTECS #:WJ8925000
+Fraction by Wt: 10%
+OSHA PEL:500 PPM
+ACGIH TLV:100 PPM
+
+Ingred Name:XYLENE (SARA 313) (CERCLA) VP: 10 @ 20C
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 15%
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM/150STEL
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:WASTE DISP METH: EPA HAZARDOUS WASTE CODE F003 HAZARDOUS
+    WASTE CHARACTERISTICS. IGNITABILITY.
+RTECS #:9999999ZZ
+
+Ingred Name:VENT: SOLVENT VAPORS SHOULD BE REMOVED FROM LOWER LEVELS OF
+    WORK AREA & IGNITION SOURCES SHOULD BE ELIMINATED.
+RTECS #:9999999ZZ
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:NONE SPECIFIED BY MANUFACTURER.
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: SML AMTS OF LIQ ASPIR INTO RESP
+    SYS DURING INGEST/VOMIT, MAY CAUSE CHEM PNEUMONIA/PULM EDEMA.
+    CHRONIC: CHRONIC HEALTH EFTS ARE POSS FROM LONG TERM EXPOS TO THIS
+    MATL, INCL DRYING, CRACKING & IR RITATION OF SKIN. REACTS W/SKIN
+    PROTEIN& MOISTURE & CAN CAUSE RASH, SCALING/BLISTERING. HIGH CONCS
+    (EFTS OF OVEREXP)
+Explanation of Carcinogenicity:NOT RELEVANT.
+Effects of Overexposure:HLTH HAZ: MAY CAUSE HDCH & DIZZ, ARE ANESTH, &
+    MAY HAVE OTHER CNS EFTS, INCL DEATH. CONTAINS XYLENE WHICH HAS
+    SHOWN REPRODUCTIVE EFFECTS IN MICE.
+Medical Cond Aggravated by Exposure:PREEXISTING SENSITIVITY TO SOLVENTS
+    CAN CAUSE A HEIGHTENED REACTION TO EXPOSURE TO THIS PRODUCT.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. RESTORE BREATHING. CONSULT
+    MD. SKIN: FLUSH WITH WATER. EYES: FLUSH IMMEDIATELY WITH LARGE
+    AMOUNTS OF WATER FOR AT LEAST 15 MINUTES. CONSULT MD IMMEDIATELY.
+    INGESTION:	DO NOT INDUCE VOMITING. KEEP PERSON WARM, QUIET AND GET
+    MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:SCC
+Flash Point:79.0F,26.1C
+Lower Limits:0.9%
+Upper Limits:7.0%
+Extinguishing Media:USE MEDIA SUITABLE FOR SURROUNDING FIRE .
+Fire Fighting Procedures:WEAR NIOSH/MSHA APPROVED SCBA & FULL
+    PROTECTIVE EQUIPMENT . WATER STREAM WILL SPREAD FIRE. DO NOT USE
+    WATER HOSE STREAM.
+Unusual Fire/Explosion Hazard:KEEP CONTRS TIGHTLY CLSD. ISOLATE FROM
+    HEAT, SPARKS, & OPEN FLAME. CLSD CONTRS MAY EXPLODE WHEN EXPOSED TO
+    EXTREME HEAT. WATER MAY BE USED TO COOL CLSD(SUP DAT)
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:AVOID BRTHG SOLV VAP. ENSURE ADEQ VENT. AVOID
+    SPARKS, FLAMES & ANYTHING WHICH COULD CAUSE FIRE. ELIM SOURCE OF
+    SPILL IF YOU CAN DO SO W/OUT RISK BY CLOSING VALVE, PLUGGING HOLE,
+    ETC. APPLY ABSORB INER T MATL(SAND, DUST, VERMICULITE) TO
+    SPILL.(SUP DAT)
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:CONTACT LENS WEARERS SHOULD CONSULT
+    PROVIDER BEFORE HANDLING. DRUMS SHOULD BE GROUNDED WHEN BEING
+    EMPTIED.
+Other Precautions:PROVIDE RESPIRATOTY PROTECTION AGAINST FUMES
+    GENERATED DURING BURNING.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH/MSHA APPRVD RESP TYPES. NIOSH/MSHA APPRVD
+    CHEM/MECH FILTERS REC WHEN VENT IS RESTRICTED. PREC MUST BE TAKEN
+    SO THAT PERS DO NOT BREATHE VAPS/HAVE CONT W/EYES/SKIN. PROT
+    AGAINST EXPOS TO BOTH VAP  & SPRAY MIST.
+Ventilation:SUFFICIENT VENT IN VOL & PATTERN SHOULD BE PROVIDED TO KEEP
+    AIR CONTAM BELOW CURRENT APPLIC OSHA PEL/TLV LIMITS. (ING 7)
+Protective Gloves:IMPERVIOUS GLOVES .
+Eye Protection:ANSI APPRVD CHEM WORKERS GOGGS .
+Other Protective Equipment:USE PROT CREAMS WHERE SKIN CONTACT IS
+    LIKELY. EMERGENCY EYEWASH & DELUGE SHOWER MEETING ANSI DESIGN
+    CRITERIA .
+Work Hygienic Practices:REMOVE & WASH CONTAM CLTHG BEFORE REUSE. USE
+    NORM HYGIENE PRACT DURING & AFTER HANDLING THIS MATERIAL.
+Supplemental Safety and Health
+EXPLO HAZ:CONTRS TO PVNT PRESS BUILD-UP & POSS AUTOIGNIT/EXPLO WHEN
+    EXPOSED TO EXTREME HEAT. REMOVE ALL NON-ESSENTIAL PERS FROM FIRE
+    AREA. VAP HVR/AIR & CAN TRAVEL CONSIDERABLE DIST TO SOURCE OF IGNIT
+     & FLASHBACK. SPILL PROC: CLEAN SPILL W/BRISTLE BROOMS,
+    NON-SPARKING TOOLS, CLEAN DRY RAGS. PROT CLTHG SHOULD BE WORN.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>279F,>137C
+Vapor Pres:SEE INGS
+Vapor Density:HVR/AIR
+Spec Gravity:1.44 
+Evaporation Rate &amp; Reference:SLOWER THAN ETHER
+Appearance and Odor:THIN BLACK LIQUID, WITH TYPICAL SOLVENT ODOR
+Percent Volatiles by Volume:41.3
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID STRONG OXIDIZERS, ACIDS AND ALKALIES.
+Stability Condition to Avoid:NONE SPECIFIED BY MANUFACTURER.
+Hazardous Decomposition Products:THERMAL DECOMPOSITION RELEASES CARBON
+    MONOXIDE AND/OR CARBON DIOXIDE.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:SOAK LIQS W/SAWDUST/RAGS & REMOVE. FLUSH W/WATER
+    IF POSS. AVOID SKIN CONT. DISP SHOULD BE I/A/W LOC, STATE & FED
+    REGS. DO NOT INCIN, CUT/WELD EMPTY CONTRS. WHEN DISCARDED THIS MATL
+    IS HAZ WASTE. TRANS FER LIQ TO CONTRS FOR RECOVERY/DISP. (ING 6)
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

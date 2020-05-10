@@ -1,0 +1,157 @@
+DOALL CO -- 0194 STEEL INK REMOVER (AEROSOL)  -- 6850-00F001491
+<pre>=====================  Product Identification  =====================
+
+Product ID:0194 STEEL INK REMOVER (AEROSOL)
+MSDS Date:01/01/1994
+FSC:6850
+NIIN:00F001491
+MSDS Number: BBJKR
+=== Responsible Party ===
+Company Name:DOALL CO
+Address:254 LAUREL AVE
+City:DES PLAINES
+State:IL
+ZIP:60016-4321
+Country:US
+Info Phone Num:708-803-7331/800-535-5053
+Emergency Phone Num:800-535-5053/708-803-7262
+CAGE:18056
+=== Contractor Identification ===
+Company Name:DOALL CO
+Address:254 NO LAUREL AVE
+Box:City:DES PLAINES
+State:IL
+ZIP:60016
+Country:US
+Phone:847-803-7366
+CAGE:18056
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:TOLUENE (IARC CARC- GROUP 3)     *95-1*
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 42%
+Other REC Limits:375 MG/CUM
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ACETONE; DIMETHYL KETONE; 2-PROPANONE
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 22%
+OSHA PEL:1000 PPM
+ACGIH TLV:750 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:2-BUTOXYETHANOL (ETHYLENE GLYCOL MONOBUTYL ETHER), BUTYL
+    CELLOSOLVE, BUTYL GLYCOL, GLYCOL ETHER EB
+CAS:111-76-2
+RTECS #:KJ8575000
+Fraction by Wt: 15%
+Other REC Limits:25 PPM (SKIN)
+OSHA PEL:25 PPM (SKIN)
+ACGIH TLV:25 PPM (SKIN)
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+Fraction by Wt: 11%
+Other REC Limits:1800 MG/CUM
+OSHA PEL:1000 PPM
+ACGIH TLV:SIMPLE ASPHYXIANT
+
+Ingred Name:ISOBUTANE, 2-METHYLPROPANE
+CAS:75-28-5
+RTECS #:TZ4300000
+Fraction by Wt: 10%
+Other REC Limits:1000 PPM
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: SEVERE IRRITATION. SKIN:
+    IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:IRRITATION, DIFFICULTY BREATHING, DEFATTING,
+    NAUSEA, DIARRHEA, COLLAPSE, COMA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. SUPPORT BREATHING IF NEEDED.
+    EYES: FLUSH W/WATER FOR 15 MINS. SKIN: WASH EXPOSED AREA W/MILD
+    SOAP & WARM WATER ONLY. DON'T USE HARSH SOAP/SOLVENT. INGESTION:
+    KEEP WARM  & QUIET. OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Lower Limits:1.27
+Upper Limits:12
+Extinguishing Media:CO2, FOAM, DRY CHEMICAL
+Fire Fighting Procedures:WEAR SELF CONTAINED BREATHING APPARATUS. WATER
+    STREAM/SPRAY USED TO COOL CONTAINERS MAY SPREAD FIRE. FOG NOZZLES
+    ARE PREFERRED IF WATER IS USED.
+Unusual Fire/Explosion Hazard:AEROSOL CANS WILL RUPTURE EXPLOSIVELY ON
+    OVERHEATING.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SMALL: USE ABSORBENT MATERIAL. LARGE: REMOVE
+    ALL IGNITION SOURCES. EVACUTATE & VENTILATE AREA. REENTER W/SCBA
+    EQUIPMENT & MOP W/SOAP & WATER. ALLOW RESIDUE TO EVAPORATE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE DRY IN A CLOSED CONTAINER IN A
+    COOL PLACE AWAY FROM ANY FIRE SOURCE.
+Other Precautions:DON'T INGEST. AVOID BREATHING VAPOR. DON'T SMOKE
+    WHILE USING/USE NEAR AN OPEN FLAME.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR SELF CONTAINED BREATHING APPARATUS.
+Ventilation:GENERAL MECHANICAL SHOULD BE ADEQUATE. PROVIDE LOCAL
+    EXHAUST IF VAPOR BUILDUP BECOMES EXCESSIVE.
+Protective Gloves:IMPERMEABLE NEOPRENE
+Eye Protection:SAFETY GOGGLES/FACE SHIELD
+Other Protective Equipment:EMERGENCY SHOWER & EYEWASH
+Work Hygienic Practices:REMOVE/LAUNDER CONTAMINATED CLOTHING BEFORE
+    REUSE.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:144F
+Vapor Pres:2.4
+Vapor Density:>4
+Spec Gravity:0.797
+Evaporation Rate &amp; Reference:(BU AC = 1): <1
+Solubility in Water:INSOLUBLE
+Appearance and Odor:COLORLESS LIQUID W/SOLVENT ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS.
+Stability Condition to Avoid:HOT SURFACES, FLAMES, SPARKS.
+Hazardous Decomposition Products:OXIDES OF CARBON.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:TREAT AS AN OIL WASTE & DISPOSE OF IAW/FEDERAL,
+    STATE & LOCAL REGULATIONS. UN1950
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

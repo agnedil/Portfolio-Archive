@@ -1,0 +1,158 @@
+BOWMAN DISTRIBUTION, BARNES GROUP INC -- CHAIN & CABLE LUBE, 19452  -- 9150-00N093370
+<pre>=====================  Product Identification  =====================
+
+Product ID:CHAIN & CABLE LUBE, 19452
+MSDS Date:03/13/1997
+FSC:9150
+NIIN:00N093370
+Status Code:A
+MSDS Number: CJYRH
+=== Responsible Party ===
+Company Name:BOWMAN DISTRIBUTION, BARNES GROUP INC
+Address:1301 EAST 9TH ST, SUITE 700
+City:CLEVELAND
+State:OH
+ZIP:44114-1824
+Country:US
+Info Phone Num:216-416-7200
+Emergency Phone Num:303-623-5716
+CAGE:05573
+=== Contractor Identification ===
+Company Name:BOWMAN DISTRIBUTION, BARNES GROUP INC
+Address:1301 EAST 9TH ST, SUITE 700
+Box:City:CLEVELAND
+State:OH
+ZIP:44114-1824
+Country:US
+Phone:216-416-7200
+CAGE:05573
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PETROLEUM LUBRICATING OIL
+= Wt:31.5
+
+Ingred Name:MEDIUM ALIPHATIC SOLVENT NAPHTHA (PETROLEUM); (ALIPHATIC
+    HYDROCARBON)
+CAS:64742-88-7
+= Wt:43.5
+Other REC Limits:300
+
+Ingred Name:PETROLEUM GASES, LIQUEFIED, SWEETENED; (PROPANE-BUTANE
+    BLEND)
+CAS:68476-86-8
+= Wt:25.
+OSHA PEL:100
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: CAN CAUSE NASAL AND RESPIRATORY
+    IRRITATION, DIZZINESS, WEAKNESS, FATIGUE, NAUSEA, HEADACHE,
+    POSSIBLE UNCONSCIOUSNESS AND ASPHYXIATION. CHRONIC: PERMANENT BRAIN
+    AND NERVOUS SYSTEM DAMAGE HAS BEE N REPORTED. OVEREXPOSURE TO THESE
+    CHEMICALS HAS BEEN FOUND TO CAUSE DAMAGE TO LUNGS, HEART, LIVER,
+    KIDNEYS AND SPLEEN IN LAB ANIMALS. LIVER ABNORMALITIES HAVE BEEN
+    FOUND IN HUMANS. CONDITIONS TO AVOID : EXCESSIVE INHALATION OF
+    VAPORS.
+Effects of Overexposure:DIZZINESS, HEADACHE, WEAKNESS, FATIGUE, NAUSEA.
+Medical Cond Aggravated by Exposure:CAN CAUSE ALLERGIC RESPIRATORY
+    AND/OR SKIN REACTION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: MOVE INDIVIDUAL TO FRESH AIR. IF BREATHING IS
+    DIFFICULT, ADMINISTER OXYGEN. SKIN: WASH WITH SOAP AND WATER THEN
+    WASH CLOTHING BEFORE REUSE. EYES: FLUSH WITH WATER FOR AT LEAST 15
+    MINUTES.  GET MEDICAL ATTENTION. INGESTION: CALL MD IMMEDIATELY .
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:=-1.1C, 30.F
+Lower Limits:1.2%
+Upper Limits:N.A.
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL, OR ALCOHOL FOAM.
+Fire Fighting Procedures:USE NIOSH APPROVED SCBA & FULL PROTECTIVE
+    EQUIPMENT . WATER SPRAY MAY BE INEFFECTIVE. WATER MAY BE USED TO
+    COOL CLOSED CONTAINERS TO PREVENT PRESSURE BUILD-UP AND POSSIBLE
+    AUTOIGNITION OR EXPLOS ION WHEN EXPOSED TO EXTREME HEAT. IF WATER
+    IS USED, FOG NOZZLES ARE PREFERABLE.
+Unusual Fire/Explosion Hazard:VAPORS ARE HEAVIER THAN AIR AND MAY
+    TRAVEL ALONG THE GROUND OR MAY BE MOVED BY VENTILATION AND IGNITED
+    BY PILOT LIGHTS, OTHER FLAMES, SPARKS, HEATERS, SMOKING, ELECTRIC
+    MOTORS OR OTHER IGNITION SOURCE S AT LOCATIONS DISTANT FROM
+    MATERIAL HANDLING POINT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB LIQUID ON PAPER, VERMICULITE, FLOOR
+    ABSORBENT MATERIAL AND TRANSFER TO A CLOSED CONTAINER. ELIMINATE
+    ALL IGNITION SOURCES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT STORE IN AREAS ABOVE 120F OR IN
+    DIRECT SUNLIGHT OR NEAR HEAT OR OPEN FLAME.
+Other Precautions:STORE LARGE QUANTITIES IN BUILDING PORTECTED FOR
+    STORAGE OF NFPA CLASS 1C FLAMMABLE LIQUIDS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:OPEN WINDOWS AND DOORS OR EMPLOY SUFFICIENT
+    VENTILATION TO ENSURE FRESH AIR ENTRY. IF IRRITATION OR DIZZINESS
+    IS EXPERIENCED, USE A NIOSH JOINTLY APPROVED, SELF CONTAINED
+    BREATHING APPARATUS WITH A FU LL FACE PIECE OPERATED IN PRESSURE
+    DEMANED.
+Ventilation:LOCAL EXHAUST (SPECIFY RATE): SUFFICIENT TO MAINTAIN
+    EXPOSURE BELOW TLVS. MECHANICAL (GENERAL) (SPECIFY RATE): NONE.
+    SPECIAL & OTHER: NONE.
+Protective Gloves:CHEMICAL RESISTANT GLOVES.
+Eye Protection:ANSI APPRVD CHEM WORKER GOGG  CHEM SPLASH GOGGS IN
+    COMPLIANCE W/OSHA REG.
+Other Protective Equipment:ANSI APPROVED EYE WASH AND DELUGE SHOWER .
+Supplemental Safety and Health
+PHYSICAL DATA: PERCENT SOLID WEIGHT %: 50.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:=85.C, 185.F
+Vapor Pres:@ 70F 20C 38 MM HG
+Vapor Density:>1 (AIR=1)
+Spec Gravity:<1 (H*2O=1)
+VOC Pounds/Gallon:50
+pH:N.A.
+Evaporation Rate &amp; Reference:<1 (ETHER =1)
+Solubility in Water:INSOLUBLE
+Appearance and Odor:CLEAN LUBRICATING LIQUID OIL ODOR.
+Percent Volatiles by Volume:60-65
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+AVOID CONTACT WITH STRONG OXIDIZING AGENTS AND HEAT.
+Stability Condition to Avoid:HEAT, SPARKS AND OPEN FLAME.
+Hazardous Decomposition Products:MAY FORM CARBON MONOXIDE, NITROGEN
+    COMPOUNDS, ETC., WHEN BURNED.
+Conditions to Avoid Polymerization:WILL NOT OCCUR.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MATERIAL COLLECTED MAY BE DEPOSITED IN A POSTED
+    TOXIC SUBSTANCE LANDFILL IN ACCORDANCE WITH LOCAL, STATE, AND
+    FEDERAL REGULATIONS.
+
+=====================  Regulatory Information  =====================
+
+State Regulatory Information:
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

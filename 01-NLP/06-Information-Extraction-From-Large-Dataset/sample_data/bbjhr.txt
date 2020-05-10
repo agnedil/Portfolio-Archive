@@ -1,0 +1,158 @@
+DOW CHEMICAL U.S.A. -- ESTERON 99 CONCENTRATE 2,4-D HERBICIDE  -- 6840-00F001442
+<pre>=====================  Product Identification  =====================
+
+Product ID:ESTERON 99 CONCENTRATE 2,4-D HERBICIDE
+MSDS Date:05/15/1986
+FSC:6840
+NIIN:00F001442
+MSDS Number: BBJHR
+=== Responsible Party ===
+Company Name:DOW CHEMICAL U.S.A.
+Address:2020 DOW CENTER
+City:MIDLAND
+State:MI
+ZIP:48674
+Info Phone Num:(517) 636-4400
+Emergency Phone Num:(517) 636-4400
+CAGE:71954
+=== Contractor Identification ===
+Company Name:DOW CHEMICAL U.S.A.
+Address:2020 DOW CENTER
+City:MIDLAND
+State:MI
+ZIP:48674
+Phone:(517) 636-4400
+CAGE:71954
+Company Name:DOW CHEMICAL U.S.A.
+City:MIDLAND
+State:MI
+ZIP:48674
+Country:US
+Phone:517-636-4400
+CAGE:71983
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:2,4-D ESTERS  (SARA III)
+CAS:25168-26-7
+RTECS #:AG8575000
+Fraction by Wt: <65.4%
+EPA Rpt Qty:100 LBS
+DOT Rpt Qty:100 LBS
+
+Ingred Name:KEROSENE
+CAS:8008-20-6
+RTECS #:OA5500000
+Fraction by Wt: <34.6%
+Other REC Limits:100 MG/CUM NIOSH
+
+Ingred Name:EMULSIFIERS
+Fraction by Wt: <34.6%
+
+Ingred Name:ISOOCTYL ALCOHOL
+CAS:26952-21-6
+RTECS #:NS7700000
+Fraction by Wt: <34.6%
+Other REC Limits:50 PPM
+OSHA PEL:S, 50 PM
+ACGIH TLV:S, 50 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RATS): 1792 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: MAY CAUSE MODERATE IRRITATION &
+    CORNEAL INJURY. SKIN: IRRITATION. INGESTION: GASTROINTESTINAL
+    IRRITATION, ULCERATION, LUNG DAMAGE, CHEMICAL PHEUMONIA, EVEN DEATH
+    & BURNS. INHALATION: RESPIRATORY  IRRITATION. EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: LIVER, KIDNEY, GASTROINTESTINAL,
+    MUSCULAR EFFECTS, NAUSEA, VOMITING, ABDOMINAL CRAMPS, DIARRHEA,
+    ANESTHETIC, NARCOTIC EFFECTS, & RESPIRATORY IRRITATION. EYES:
+    IRRITATION & CORNEAL INJURY.  SKIN: IRRITATION. INGESTION:
+    GASTROINTESTINAL IRRITATION, ULCERATION, LUNG DAMGE, CHEMICAL
+    PNEUMONIA & EVEN DEATH.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/FLOWING WATER FOR 15 MINUTES. CONSULT
+    PHYSICIAN. SKIN: WASH OFF IN FLOWING WATER. INGESTION: DON'T INDUCE
+    VOMITING. CALL PHYSICIAN. INHALATION: REMOVE TO FRESH AIR IF
+    EFFECTS OCCUR. CONS ULT PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:150F
+Extinguishing Media:WATER FOG, FOAM, CO2, DRY CHEMICAL.
+Fire Fighting Procedures:WEAR POSITIVE PRESSURE, SELF-CONTAINED
+    BREATHING APPARATUS.
+Unusual Fire/Explosion Hazard:NOXIOUS VAPORS FORMED UNDER FIRE
+    CONDITIONS. CONTAIN WATER FROM FIRE-FIGHTING TO PREVENT ENTRY TO
+    WATER SUPPLIES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB IN INERT MATERIAL SUCH AS SAND &
+    SAWDUST. DIKE AREA IN CASE OF LARGE SPILLS. DON'T USE WATER FOR
+    CLEANUP.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP OUT OF REACHOF CHILDREN. DON'T
+    SWALLOW. AVOID CONTACT W/SKIN & EYES.
+Other Precautions:DON'T STORE NEAR FERTILIZER, SEEDS, INSECTICIDES &
+    FUNGICIDES. KEEP AWAY FROM OPEN FLAME.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WHEN RESPIRATORY PROTECTION IS REQUIRED FOR
+    CERTAIN OPEATIONS, USE AN APPROVED AIR-PURIFYING RESPIRATOR. 
+    ATMOSPHERIC LEVELS SHOULD BE MAINTAINED <THE EXPOSURE GUIDELINE.
+Ventilation:PROVIDE LOCAL EXHAUST/MECHANICAL VENTILATION FOR SOME
+    OPERATION.
+Protective Gloves:IMPERVIOUS
+Eye Protection:SAFETY GLASSES, GOGGLES
+Other Protective Equipment:IMPERVIOUS BOOT, APRON, FULL-BODY SUIT, EYE
+    FOUNTAIN & WASHING FACILITIES.
+Supplemental Safety and Health
+IN LABORATORY ANIMALS, EXPOSURES HAVING NO ADVERSE EFFECTS ON THE
+    MOTHER HAD OTHER HARMFUL EFFECTS ON THE FETUS. HIGH DIETARY LEVELS
+    OF 2,F-D CAUSED TOXIC EFFECT IN RATS ON A REPRODUCTIVE TEST. HAS BE
+    EN SHOWN TO BE NEGATIV IN SOME IN VITRO(TEST TUBE) MUTAGENICITY
+    TESTS & POSITIVE IN OTHERS.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:>300F
+Vapor Pres:0.4
+Vapor Density:4.7
+Spec Gravity:1.03
+Solubility in Water:EMULSIFIABLE
+Appearance and Odor:AMBER LIQUID W/HYDROCARBON ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ACID, BASE, OXIDIZING MATERIAL.
+Stability Condition to Avoid:AVOID TEMPERATURES NEAR OR ABOVE FLASH
+    POINT.
+Hazardous Decomposition Products:NOXIOUS FUMES (AS HYDROCHLORIC ACID)
+    UNDER FIRE CONDITIONS.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:IF WASTES CANNOT BE DISPOSED OF BY USE ACCORDING
+    TO LABEL INSTRUCTIONS, CONTACT YOUR STATE PESTICIDE, ENVIRONMENTAL
+    CONTROL AGENCY OR THE HAZARDOUS WASTE REPRESENTATIVE AT THE NEAREST
+    EPA REGIONAL OFF ICE FOR GUIDANCE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

@@ -1,0 +1,137 @@
+W.R. GRACE COMPANY DEARBORN DIV. -- DEARCIDE 717  -- 6840-00F000245
+<pre>=====================  Product Identification  =====================
+
+Product ID:DEARCIDE 717
+MSDS Date:05/01/1986
+FSC:6840
+NIIN:00F000245
+MSDS Number: BBGFM
+=== Responsible Party ===
+Company Name:W.R. GRACE COMPANY DEARBORN DIV.
+Address:300 GENESEE STREET
+City:ZURICH
+State:IL
+ZIP:60047
+Info Phone Num:(312) 438-8241
+Emergency Phone Num:(312) 438-8241
+Preparer's Name:S. MORSS
+CAGE:EO457
+=== Contractor Identification ===
+Company Name:GRACE W R AND CO DEARBON DIV
+Address:300 GENESEE ST
+Box:City:LAKE ZURICH
+State:IL
+ZIP:60047
+Country:US
+Phone:708-438-1800
+CAGE:71881
+Company Name:W.R. GRACE COMPANY DEARBORN DIV.
+Address:300 GENESEE STREET
+City:ZURICH
+State:IL
+ZIP:60047
+Phone:(312) 438-8241
+CAGE:EO457
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:BENZYLAMINE, DIMETHYL-, HYDROCHLORIDE
+    (DIMETHYLBENZYLAMMONIUM CHLORIDE
+CAS:1875-92-9
+RTECS #:DP4700000
+Fraction by Wt: 12.5%
+
+Ingred Name:BIS(TRIBUTYLTIN)OXIDE
+CAS:56-35-9
+RTECS #:JN8750000
+Fraction by Wt: 2.25%
+ACGIH TLV:O.1 MG/CUM
+
+Ingred Name:INERT INGREDIENTS (TYPE NOT SPECIFIED)
+Fraction by Wt: 85.25%
+
+=====================  Hazards Identification  =====================
+
+LD50 LC50 Mixture:ORAL LD50 (RAT): 3,008 MG/KG
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: IRRITATION OF THE NASAL
+    PASSAGES. INGESTION: HARMFUL & FATAL. SKIN/EYES: DAMAGE &
+    IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INHALATION: IRRITATION OF THE NASAL PASSAGES.
+    INGESTION: HARMFUL & FATAL. SKIN/EYES: DAMAGE & IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: GIVE MILK, EGG WHITES, & GELATIN SOLUTION. GIVE
+    LARGE QUANTITY OF WATER. INDUCE VOMITING BY GIVING SYRUP OF IPECAC.
+    SKIN: WASH OFF AREA W/SOAP & WATER. EYES: FLUSH W/WATER & SEEK MED
+    ATTN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL
+Fire Fighting Procedures:WEAR SELF-CONTAINED BREATHING APPARATUS & FULL
+    PROTECTIVE CLOTHING.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:COLLECT USING ABSORBENT, PLACE IN CONTAINER
+    FOR PROPER DISPOSAL. USE UP TO EQUAL AMOUNTS OF SODIUM OLEATE TO
+    DETOXIFY.
+Neutralizing Agent:SODIUM OLEATE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP CONTAINER CLOSED & PROTECT FROM
+    FREEZING. FREEZE PT, 24F. FOR INDUSTRIAL USE ONLY. KEEP AWAY FROM
+    CHILDREN. DON'T REUSE EMPTY DRUM.
+Other Precautions:RINSE W/WATER/RETURN TO DRUM RECONDITIONER/DESTROY BY
+    PERFORATING/CRUSHING. KEEP AWAY FROM HEAT/OPEN FLAMES. APPLY ONLY
+    AS SPECIFIED ON LABEL. WATER TREATED W/PRODUCT SHOULD NOT BE USED
+    FOR FOOD PROCE SSING. DON'T BREATHE MIST OR VAPORS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE SPECIAL.
+Ventilation:MECHANICAL EXHAUST: ADEQUATE
+Protective Gloves:CHEMICAL
+Eye Protection:GOGGLES, FACE SHIELD
+Other Protective Equipment:PROTECTIVE CLOTHING
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Vapor Pres:21
+Spec Gravity:1.0
+pH:9-10
+Evaporation Rate &amp; Reference:(BU AC = 1): <1
+Solubility in Water:APPRECIABLE
+Appearance and Odor:COLORLESS LIQUID WITH A SLIGHTLY AROMATIC ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS
+Stability Condition to Avoid:FREEZING, HEAT, OPEN FLAMES
+Hazardous Decomposition Products:CO, CO2, AMMONIA
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DON'T FLUSH LARGE QUANTITIES TO DRAIN THAT
+    UPSETS WASTE TREATMENT SYSTEMS. DISPOSE MATERIAL TO EPA PESTICIDE
+    LABEL INSTRUCTIONS. TREATED EFFLUENT SHOULD NOT BE DISCHARGED TO
+    DRAIN, LAKES, STREAM/PUBLI C WATER. DON'T CONTAMINATE WATER BY
+    EQUIPMENT.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

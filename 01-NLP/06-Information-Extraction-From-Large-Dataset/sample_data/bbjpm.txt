@@ -1,0 +1,128 @@
+FISHER SCIENTIFIC CHEMICAL DIV -- STARCH  -- 6810-00F001630
+<pre>=====================  Product Identification  =====================
+
+Product ID:STARCH
+MSDS Date:12/30/1992
+FSC:6810
+NIIN:00F001630
+MSDS Number: BBJPM
+=== Responsible Party ===
+Company Name:FISHER SCIENTIFIC CHEMICAL DIV
+Address:1 REAGENT LN
+Box:375
+City:FAIR LAWN
+State:NJ
+ZIP:07410
+Country:US
+Info Phone Num:201-796-7100/201-796-7523
+Emergency Phone Num:201-796-7100/201-796-7523
+CAGE:1B464
+=== Contractor Identification ===
+Company Name:FISHER SCIENTIFIC CO.  CHEMICAL MFG DIV
+Address:1 REAGENT LANE
+Box:City:FAIRLAWN
+State:NJ
+ZIP:07410-2802
+Country:US
+Phone:201-796-7100
+CAGE:1B464
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:STARCH
+CAS:9005-25-8
+RTECS #:GM5090000
+Fraction by Wt: 100%
+Other REC Limits:NUISANCE PARTICULATE
+OSHA PEL:5 MG/CUM
+ACGIH TLV:10 MG/CUM TOTAL DUST
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:CHEMICAL PNEUMONITIS. SKIN: ALLERGEN,
+    INJURY BY CHEMICAL MECHANICAL ACTION OR BY RIGOROUS SKIN CLEANSING
+    PROCEDURES; MILD IRRITATION, DERMATITIS. REDUCED VISIBILITY. LARGE
+    DOSES MAY CAUSE PARTIAL INTE STINAL OBSTRUCTION, IRON DEFICIENCY
+    ANEMIA, REDUCED CHOLESTEROL, & POSSIBLY HYPERTROPHY OF THE PAROTID
+    GLANDS.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:MAY CAUSE UNPLEASANT DEPOSITS IN THE NASAL
+    PASSAGES, SKIN & EYES.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION: REMOVE TO FRESH AIR. IF BREATHING STOPS, GIVE
+    ARTIFICIAL RESPIRATION. KEEP WARM/AT REST. SKIN: REMOVE
+    CONTAMINATED CLOTHING/SHOES IMMEDIATELY. WASH SKIN W/SOAP OR MILD
+    DETERGENT & PLENTY O F WATER UNTIL NO EVIDENCE OF CHEMICAL REMAINS 
+    15-20 MINS. EYES: FLUSH W/WATER OR NORMAL SALINE, LIFTING UPPER &
+    LOWER LIDS, UNTIL NO EVIDENCE OF CHEMICAL REMAINS  15-20. SEE SUPP.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:DRY CHEMICAL, CO2, WATER SPRAY OR IRREGULAR FOAM.
+    FOR LARGE FIRES, USE WATER SPRAY, FOG OR REGULAR FOAM.
+Fire Fighting Procedures:MOVE CONTAINER FROM FIRE AREA, SAFELY. DON'T
+    SCATTER SPILLED MATERIAL W/HIGH PRESSURE WATER STREAMS. DIKE FIRE
+    CONTROL WATER FOR LATER DISPOSAL.
+Unusual Fire/Explosion Hazard:AUTOIGNITION TEMP: >716F OR >300C.
+    DUST-AIR MIXTURES MAY IGNITE OR EXPLODE.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SWEEP UP & PLACE IN SUITABLE CLEAN, DRY
+    CONTAINERS FOR RECLAMATION OR LATER DISPOSAL. DON'T FLUSH SPILLED
+    MATERIAL INTO SEWER. KEEP UNNECESSARY PEOPLE AWAY.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP IN A TIGHTLY CLOSED CONTAINER.
+    STORE IN A COOL, DRY, VENTILATED AREA. STORE AWAY FROM INCOMPATIBLE
+    SUBSTANCES.
+Other Precautions:AVOID CONTACT W/EXCESSIVE HEAT, SPARKS OR OPEN FLAME.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:ANY DUST/MIST RESPIRATOR. ANY AIR PURIFYING
+    RESPIRATOR W/HIGH EFFICIENCY PARTICULATE FILTER. ANY POWERED AIR
+    PURIFYING RESPIRATOR W/A DUST & MIST FILTER. ANY POWERED AIR
+    PURIFYING RESPIRATOR W/HIGH EF FICIENCY PARTICULATE FILTER.
+Ventilation:PROVIDE LOCAL EXHAUST TO KEEP BELOW TLV. USE EXPLOSION
+    PROOF EQUIPMENT.
+Protective Gloves:PROTECTIVE
+Eye Protection:NOT REQUIRED, BUT ADVISABLE
+Supplemental Safety and Health
+PH: 4.5-6 AT 2% SOLUTION. CON'T FIRST AID: IF VOMITING OCCURS, KEEP
+    HEAD LOWER THAN HIPS TO PREVENT ASPIRATION. NO SPECIFIC ANTIDOTE.
+    TREAT SYMPTOMATICALLY & SUPPORTIVELY.
+
+==================  Physical/Chemical Properties  ==================
+
+Melt/Freeze Pt:M.P/F.P Text:DECOMPOSES
+pH:SUPP
+Solubility in Water:INSOLUBLE
+Appearance and Odor:ODORLESS, IRREGULAR, ANGULAR, WHITE MASSES OR FINE
+    POWDER W/A SLIGHT TASTE.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+OXIDIZERS
+Stability Condition to Avoid:HEAT, SPARKS, OPEN FLAME
+Hazardous Decomposition Products:TOXIC &/OR HAZARDOUS GASES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE OF IN ACCORDANCE W/LOCAL, STATE, &
+    FEDERAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

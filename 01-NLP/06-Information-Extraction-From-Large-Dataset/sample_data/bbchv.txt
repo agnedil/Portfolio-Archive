@@ -1,0 +1,133 @@
+HACH CO. -- 23293 WIDE RANGE 4 PH INDICATOR SOLUTION  -- 6810-00D000114
+<pre>=====================  Product Identification  =====================
+
+Product ID:23293 WIDE RANGE 4 PH INDICATOR SOLUTION
+MSDS Date:03/04/1988
+FSC:6810
+NIIN:00D000114
+MSDS Number: BBCHV
+=== Responsible Party ===
+Company Name:HACH CO.
+Address:100 DAYTON RD.
+Box:907
+City:AMES
+State:IA
+ZIP:50010-0642
+Country:US
+Info Phone Num:303-669-3050 OR 800-227-4224
+Emergency Phone Num:515-232-2533 OR 800-247-3990
+CAGE:91224
+=== Contractor Identification ===
+Company Name:HACH CO
+Address:5600 LINDBERGH DR
+Box:389
+City:LOVELAND
+State:CO
+ZIP:80539
+Country:US
+Phone:970-669-3050/ 303-623-5716
+CAGE:91224
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ISOPROPYL ALCOHOL  (SARA III)
+CAS:67-63-0
+RTECS #:NT8050000
+Fraction by Wt: <55%
+OSHA PEL:400 PPM/500 STEL
+ACGIH TLV:400 PPM/500STEL;9192
+
+Ingred Name:INDICATORS
+Fraction by Wt: <0.1% EA
+
+Ingred Name:DEMINERALIZED WATER
+CAS:7732-18-5
+RTECS #:ZC0110000
+Fraction by Wt: TO 100%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:PRODUCT IS IRRITATING TO
+    EYES,SKIN,RESPIRATORY SYSTEM. IN THE BODY IT TARGETS THE CENTRAL
+    NERVOUS SYSTEM.
+Explanation of Carcinogenicity:MFR STATES ANY COMPOUND NOT SPECIFIED BY
+    NAME IS NOT CONSIDERED CARCINOGENIC.
+Effects of Overexposure:CAUSES IRRITATION OF EYES,NOSE,THROAT. MAY
+    CAUSE
+    DROWSINESS,HEADACHE,INCOORDINATION,CRAMPS,NAUSEA,VOMITING,DIARRHEA,
+    DEPRESSION,COMA.
+Medical Cond Aggravated by Exposure:PRE-EXISTING SKIN DISORDERS AND
+    IMPAIRED PULMONARY FUNCTIONS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE:FLUSH WITH WATER 15 MIN. SKIN:FLUSH WITH WATER.
+    INHALED:REMOVE TO FRESH AIR. INGESTED:GIVE LARGE QUANTITIES OF MILK
+    OR WATER. GET IMMEDIATE MEDICAL ATTENTION.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:CC
+Flash Point:70F/21C
+Extinguishing Media:WATER,DRY CHEMICAL,ALCOHOL FOAM,CARBON DIOXIDE
+Fire Fighting Procedures:USE SELF CONTAINED BREATHING APPARATUS. MAY
+    EMIT TOXIC FUMES.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB ON INERT MATERIAL.
+Neutralizing Agent:NONE REPORTED
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE IN A COOL,DRY AREA AWAY FROM
+    OXIDIZERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY NEEDED. USE NIOSH RESPIRATOR OR
+    SUPPLIED AIR RESPIRATOR IF EXPOSED ABOVE TLV.
+Ventilation:USE HOOD OR OTHER LOCAL EXHAUST TO MAINTAIN EXPOSURE BELOW
+    TLV
+Protective Gloves:NONE
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:EYE WASH,SAFETY SHOWER,LAB COAT OR APRON
+Work Hygienic Practices:USE NORMAL CHEMICAL HYGIENE PRACTICES.
+Supplemental Safety and Health
+REPLACES PRODUCT CODE 216.
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:F3
+Boiling Pt:B.P. Text:174F/79C
+Melt/Freeze Pt:M.P/F.P Text:-13F/-26C
+Spec Gravity:0.922
+pH:8.7
+Evaporation Rate &amp; Reference:5.45 (REF N/K)
+Solubility in Water:MISCIBLE
+Appearance and Odor:CLEAR,DARK GREEN LIQUID, ISOPROPANOL ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:HEAT,FLAME,IGNITION,SOURCES
+Hazardous Decomposition Products:NORMAL PRODUCTS OF HYDROCARBON
+    COMBUSTION
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE I/A/W FEDERAL,STATE,LOCAL REGULATIONS.
+    MFR RECOMMENDS ABSORB ON PAPER,EVAPORATE,INCINERATE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

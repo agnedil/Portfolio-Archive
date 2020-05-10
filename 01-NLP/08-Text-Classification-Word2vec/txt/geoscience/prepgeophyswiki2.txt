@@ -1,0 +1,146 @@
+geophys survey 
+content 
+introduct type geophys survey geophys signal detect measur earth magnet field seismic wave measur use gravit wave sensor measur seismic wave use atom interferomet exist approach geophys signal recognit sampl sampl analog digit convers spectrum analysi multus dimension fourier transform wavelet transform beamform classic estim theori applic estim posit underground object array process seismograph applic visual datum refer 
+introduct 
+geophys survey systemat collect geophys datum spatial studi 
+detect analysi geophys signal form core geophys signal process 
+magnet gravit field eman earth interior hold essenti inform concern seismic activ intern structur 
+henc detect analysi electr magnet field veri crucial 
+electromagnet gravit wave multus dimension signal transform techniqu extend analysi signal well 
+henc thi articl also discuss multus dimension signal process techniqu 
+geophys survey may use great varieti sens instrument datum may collect abov earth surfac aerial orbit marin platform 
+geophys survey mani applic geolog archaeolog miner energi explor oceanographi engin 
+geophys survey use industri well academ research 
+sens instrument gravimet gravit wave sensor magnetomet detect fluctuat gravit magnet field 
+datum collect geophys survey analys draw meaning conclus 
+analys spectral densiti time frequenc localis ani signal import applic oil explor seismographi 
+type geophys survey 
+mani method type instrument use geophys survey 
+technolog use geophys survey includ 
+seismic method reflect seismolog seismic refract seismic tomographi 
+
+seismoelectr method 
+geodesi graviti techniqu includ gravimetri graviti gradiometri 
+
+magnet techniqu includ aeromagnet survey magnetomet 
+
+electr techniqu includ electr resist tomographi induc polar spontaneou potenti marin control sourc electromagnet mcsem em seab log 
+electromagnet method magnetotellur ground penetr radar transienttim domain electromagnet magnet reson sound mr 
+borehol geophys also call well log 
+
+remot sens techniqu includ hyperspectr 
+geophys signal detect 
+thi section deal principl behind measur geophys wave 
+magnet gravit field import compon geo physic signal 
+henc brief discuss import 
+thi section also deal equip use detect magnet gravit wave 
+measur earth magnet field 
+magnetomet use measur magnet field magnet anomali earth 
+sensit magnetomet depend upon requir 
+exampl variat geomagnet field order sever 
+case special magnetomet superconduct quantum interfer devic squid use 
+squid 
+jim zimmerman co develop rf squid superconduct quantum interfer devic dure hi tenur ford research lab howev event lead invent squid fact serendipitou 
+john lamb dure hi experi nuclear magnet reson notic electr properti indium vari due chang magnet field order nt 
+lamb wa abl fulli recognis util squid 
+squid capabl detect magnet field extrem low magnitud 
+thi due virtu josephson junction 
+jim zimmerman pioneer develop squid propos new approach make josephson junction 
+made use niobium wire niobium ribbon form two josephson junction connect parallel 
+ribbon act interrupt superconduct current flow wire 
+junction veri sensit magnet field henc veri use measur field order 
+seismic wave measur use gravit wave sensor 
+gravit wave sensor detect even minut chang gravit field due influenc heavier bodi 
+larg seismic wave interfer gravit wave may caus shift atom 
+henc magnitud seismic wave detect relat shift gravit wave 
+measur seismic wave use atom interferomet 
+motion ani mas affect gravit field motion planet affect sun enormou gravit field 
+likewis heavier object influenc motion object smaller mas vicin 
+howev thi chang motion veri small compar motion heaven bodi 
+henc special instrument requir measur minut chang 
+describ atom interferomet principl 
+atom interferomet work principl diffract 
+diffract grate nano fabric materi separ quarter wavelength light 
+beam atom pas diffract grate due inher wave natur atom split form interfer fring screen 
+atom interferomet veri sensit chang posit atomsa heavier object shift posit atom nearbi displac atom measur detect shift interfer fring 
+exist approach geophys signal recognit 
+thi section address method mathemat techniqu behind signal recognit signal analysi 
+consid time domain frequenc domain analysi signal 
+thi section also discuss variou transform usefuln analysi multus dimension wave 
+sampl 
+sampl 
+first step ani signal process approach analog digit convers 
+geophys signal analog domain ha convert digit domain process 
+analog digit convers 
+name suggest gravit electromagnet wave analog domain detect sampl store analysi 
+signal sampl time frequenc domain 
+signal compon measur interv time space 
+ex time domain sampl refer measur signal compon sever instanc time 
+similar spatial sampl refer measur signal differ locat space 
+tradit sampl time vari signal perform measur amplitud signal consider discret interv time 
+similar sampl space time signal signal function variabl space time perform measur amplitud signal differ time instanc differ locat space 
+exampl earth gravit datum measur help gravit wave sensor gradiomet place differ instanc differ instanc time 
+spectrum analysi 
+multus dimension fourier transform 
+fourier expans time domain signal represent signal sum frequenc compon specif sum sine cosin 
+joseph fourier came fourier represent estim heat distribut bodi 
+approach follow analys multus dimension signal gravit wave electromagnet wave 
+fourier represent signal given 
+repres tempor frequenc repres spatial frequenc 
+sxt dimension space time signal imagin travel plane wave 
+plane wave plane propag perpendicular direct propag consid wave 
+wavelet transform 
+motiv develop wavelet transform wa short time fourier transformth signal analys say ft multipli window function wt particular time instant 
+analys fourier coeffici thi signal gife inform frequenc compon signal particular time instant 
+stft mathemat written 
+wavelet transform defin 
+varieti window function use analysi 
+interest wavelet function use time frequenc localis 
+exampleon window use calcul fourier coeffici gaussian window optim concentr time frequenc 
+thi optim natur explain consid time scale time shift paramet respect 
+choos appropri valu determin frequenc time associ signal 
+repres ani signal linear combin wavelet function local signal time frequenc domain 
+henc wavelet transform import geophys applic spatial tempor frequenc localis import 
+time frequenc localis use wavelet 
+geophys signal continu vari function space time 
+wavelet transform techniqu offer way decompos signal linear combin shift scale version basi function 
+amount shift scale modifi local signal time frequenc 
+beamform 
+simpli put space time signal filter problem thought local speed direct particular signal design filter space time signal follow similar approach signal 
+filter signal design way requir filter extract frequenc compon particular non zero rang frequenc bandpa filter appropri passband stop band frequenc determin 
+similar case multus dimension system wavenumb frequenc respons filter design way uniti design region aka wavenumb frequenc zero elsewher spatial distribut phase array filter geophys signal 
+thi approach appli filter space time signal design isol signal travel particular direct 
+one simplest filter weight delay sum beamform 
+output averag linear combin delay signal 
+word beamform output form averag weight delay version receiv signal 
+delay chosen passband beamform direct specif direct space 
+classic estim theori 
+thi section deal estim power spectral densiti multus dimension signalsth spectral densiti function defin multidimension fourier transform autocorrel function random signal 
+spectral estim obtain find squar magnitud fourier transform also call periodogram 
+spectral estim obtain periodogram larg varianc amplitud consecut periodogram sampl wavenumb 
+thi problem resolv use techniqu constitut classic estim theori 
+follow 
+bartlett suggest method averag spectral estim calcul power spectrum 
+averag spectral estim time interv gife better estim 
+welch method suggest divid measur use datum window function calcul periodogram averag get spectral estim calcul power spectrum use fast fourier transform fftthi increas comput speed 
+periodogram consider modifi multipli window function 
+smooth window help smoothen estim 
+wider main lobe smooth spectrum smoother becom cost frequenc resolut 
+detail spectral estim pleas refer spectral analysi multus dimension signal 
+applic 
+estim posit underground object 
+method discuss assum mas distribut underground object interest alreadi known henc problem estim locat boil parametr localisationsay underground object center mass cm cmcmn locat surfac posit ppn 
+graviti gradientcompon graviti field measur use spin wheel acceleromet also call graviti gradiomet instrument posit differ orient measur respect compon gravit field 
+valu gravit gradient tensor calcul analyz 
+analysi includ observ contribut object consider 
+maximum likelihood procedur follow cramrrao bound crb comput ass qualiti locat estim 
+array process seismograph applic 
+variou sensor locat surfac earth space equidist receiv seismic wave 
+seismic wave travel variou layer earth undergo chang properti amplitud chang time arriv phase shift 
+analyz properti signal model activ insid earth 
+visual datum 
+method volum render import tool analys scalar field 
+volum render simplifi represent space 
+everi point space call voxel 
+datum insid dataset project spacedisplay screen use variou techniqu 
+differ datum encod scheme exist variou applic mrus seismic applic 

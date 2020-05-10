@@ -1,0 +1,465 @@
+wine list 1123
+glass wine 762
+bottle wine 654
+wine selection 497
+wine bar 299
+red wine 291
+white wine 253
+house wine 226
+glasses wine 213
+beer selection 212
+pine nuts 192
+bottles wine 185
+wine glass 184
+red devil 172
+beer wine 155
+great wine 150
+wine beer 140
+pinot noir 137
+wine pairing 119
+wines glass 117
+pinot grigio 116
+water glasses 104
+red white 103
+drink wine 103
+great selection 99
+great wine list 91
+wine pairings 91
+wine glasses 90
+great wine selection 87
+cherry blossom 86
+bruschetta board 83
+minestrone soup 81
+glass water 81
+beers tap 80
+top list 79
+good selection 79
+nice selection 79
+diet coke 78
+ordered bottle 77
+white bean 76
+soup day 76
+wine tasting 74
+full bar 70
+ordered glass 70
+water glass 70
+selection wines 69
+extensive wine list 68
+wine list extensive 67
+guest list 66
+drink menu 65
+italian wedding soup 62
+draft beer 61
+wine coolers 61
+corkage fee 60
+italian wines 60
+tap water 58
+beer tap 58
+soup salad 57
+ordered bottle wine 57
+wide selection 57
+house chianti 56
+mixed drinks 55
+cocktail menu 53
+5 glasses wine 52
+good wine selection 51
+root beer 50
+selection wine 50
+wine bruschetta 48
+large selection 47
+liquor license 47
+white sangria 47
+2 glasses wine 47
+drink bar 46
+wine bottles 46
+moscow mule 46
+soft drinks 45
+drinks appetizers 44
+cold beer 44
+beer list 43
+sauvignon blanc 43
+pub board 43
+ordered glass wine 43
+wine cellar 43
+wine bar door 43
+ice cold 42
+wine selections 42
+red sangria 42
+pitchers beer 41
+sparkling water 41
+5 glass 41
+bruschetta amazing 41
+drinking wine 41
+peach bellini 41
+bottled water 40
+ordered bruschetta 40
+house red 40
+nice wine list 40
+unlimited wine 39
+ordered drinks 38
+board bruschetta 37
+wine beer selection 37
+glass red wine 37
+decent wine list 37
+soft drink 37
+specialty drinks 37
+friend ordered 36
+decent selection 36
+wide variety 35
+specialty cocktails 35
+menu selection 34
+choice soup salad 34
+huge selection 34
+beer wine selection 34
+put list 34
+wine cooler 34
+drinks bar 34
+wine bars 34
+couple glasses wine 34
+pitcher beer 34
+wine bottle 34
+cup soup 33
+wedding soup 33
+wine choices 33
+tasting menu 33
+dirty martini 33
+house specialty 33
+grey goose 33
+knowledgeable menu 33
+pine nut 32
+classic cocktails 32
+ginger ale 31
+bottle water 31
+postino central 31
+ice water 31
+martini glass 31
+red white wine 31
+drink selection 30
+alcoholic beverages 30
+drinks strong 30
+nice glass 30
+nice wine selection 30
+2 glasses 29
+house wines 29
+stone vine 29
+bottle chianti 28
+bean soup 28
+couple drinks 28
+empty glass 28
+glass chianti 28
+sparkling wine 27
+house salad 27
+soda fountain 27
+glass bottle 26
+decent wine selection 26
+bruschetta boards 26
+red velvet 26
+wine drinker 25
+glass champagne 25
+glass prosecco 25
+cocktail list 25
+pitcher sangria 25
+couple glasses 24
+pablo picasso salad 24
+20 bottle wine 24
+alcoholic drinks 24
+zuppa toscana 24
+glass nickel 24
+chock full 23
+salad entree 23
+fountain drinks 23
+vino bambino 23
+bottle wine bruschetta 23
+glass empty 23
+glasses water 23
+wine flights 23
+salad soup 22
+couple beers 22
+draft beers 22
+nice bottle 22
+bottle wine 20 22
+mailing list 22
+bud light 22
+peach sangria 22
+signature cocktails 22
+glass house 21
+glasses empty 21
+postino arcadia 21
+craft beer 21
+rancho pinot 21
+water glass empty 21
+glass red 21
+enjoy glass wine 21
+soda water 21
+house made 21
+fountain drink 20
+bottle red 20
+great selection wines 20
+appetizers drinks 20
+full bodied 20
+wine reduction 20
+super tuscan 20
+rose crown 20
+evo salad 20
+lentil soup 19
+craft beers 19
+ordered appetizers 19
+corking fee 19
+sip wine 19
+2 bottles 19
+great selection wine 19
+bottle champagne 19
+blood orange 19
+couple appetizers 19
+alcoholic beverage 19
+nora wine bar 19
+2 bottles wine 19
+red bull 19
+wine recommendations 19
+ecco vino 19
+cherry blossom noodle cafe 18
+20 bottle 18
+half bottle 18
+friends ordered 18
+buy bottle 18
+bruschetta bottle wine 18
+knowledgeable wines 18
+started bruschetta 18
+water glasses filled 18
+glass pinot noir 17
+light rail 17
+salads huge 17
+wide range 17
+red wines 17
+red flag 17
+decent wine 17
+wine flight 17
+white red 17
+italian soda 16
+close house 16
+order bottle 16
+corn nuts 16
+house red wine 16
+red wine reduction 16
+glasses full 16
+add list 16
+extensive menu 16
+couple bottles wine 16
+bar door 16
+pablo picasso 15
+water glasses empty 15
+glass vino 15
+5 glasses 15
+short list 15
+empty glasses 15
+bottle red wine 15
+glass white wine 15
+red wine vinegar 14
+small salad 14
+menu extensive 14
+20 bottle wine bruschetta 14
+cutting board 14
+board bottle 14
+list places 14
+fill water glasses 14
+drinks filled 14
+top shelf 14
+house merlot 14
+steak house 14
+serve beer 14
+ordered 2 14
+serve alcohol 14
+bottomless mimosas 14
+white wine sauce 14
+chef board 14
+nice light 13
+mix match 13
+ordered couple 13
+round drinks 13
+water ice 12
+light refreshing 12
+couple bottles 12
+ate bar 12
+wine sauce 12
+drink refills 12
+appetizers entrees 12
+menu selections 11
+white beans 11
+bruschetta appetizer 11
+half empty 11
+glasses filled 11
+selection italian 11
+full menu 11
+nice variety 10
+selection beers 10
+5 pitchers 10
+good choice 10
+stone cold 10
+order drinks 10
+husband ordered 10
+ordered half 9
+good variety 9
+bruschetta sampler 9
+selection limited 9
+2 drinks 9
+made house 9
+glass white 9
+glass pinot 9
+enjoy glass 9
+ordered large 9
+selection beer 9
+soda machine 9
+italian sodas 8
+unlimited soup 8
+refills drinks 8
+steak salad 8
+water refills 8
+perfect blend 8
+extensive wine 8
+bar tenders 8
+bean salad 7
+great tasting 7
+started ordering 7
+friend shared 7
+orange juice 7
+types bruschetta 7
+selection meats 7
+selection wines glass 7
+knowledgable menu 7
+salad share 7
+drink order 7
+house salads 7
+perfect pairing 7
+perfect sharing 6
+menu limited 6
+couple friends 6
+half bottles 6
+list extensive 6
+cold cuts 6
+drinks empty 6
+red sauce 6
+caesar salad 6
+refill water 5
+fill water 5
+bruschetta bottle 5
+mediterranean salad 5
+ordered appetizer 5
+unlimited soup salad 5
+top 5 5
+great choice 5
+antipasto salad 5
+half full 5
+menu interesting 5
+started appetizers 5
+split salad 5
+veggie salad 5
+nice mix 5
+hh menu 5
+small cup 4
+noodle soup 4
+started meal 4
+grab drink 4
+half priced 4
+girlfriend ordered 4
+menu choices 4
+served cold 4
+soups salads 4
+perused menu 4
+surprisingly light 4
+2 appetizers 4
+great start 4
+picasso salad 4
+large variety 4
+summer day 4
+super nice 4
+italian ice 4
+split entree 3
+bottle pinot 3
+pear salad 3
+salads soups 3
+friend split 3
+hubby ordered 3
+included meal 3
+great recommendations 3
+wife ordered 3
+order appetizer 3
+knowledge menu 3
+2 salads 3
+refills water 3
+nice addition 3
+caesars palace 3
+italian wedding 3
+grab glass 3
+put top 3
+ha ha 3
+appetizer entree 3
+made order 3
+caesar palace 3
+nice gesture 3
+super tasty 3
+refreshing change 3
+started antipasto 2
+great deal 2
+vegetable soup 2
+door bar 2
+salad included 2
+greek salad 2
+ordered steak 2
+suggest ordering 2
+husband enjoyed 2
+salad start 2
+half half 2
+ordered house salad 2
+perfect accompaniment 2
+italian meats 2
+half order 2
+decent italian 2
+sweet corn 2
+ordered caesar salad 2
+ordered margarita 2
+super sweet 2
+compliments chef 2
+2 entrees 2
+octopus salad 2
+small bar 2
+offered drink 2
+soft shell 1
+cherry blossom noodle 1
+noodle cafe 1
+picnic salad 1
+italian picnic salad 1
+husband split 1
+ordered antipasto 1
+started talking 1
+water refill 1
+short sweet 1
+sauce sweet 1
+excellent choice 1
+full meal 1
+sauce top 1
+good italian 1
+wife enjoyed 1
+fruit salad 1
+large share 1
+imported italian 1
+custom made 1
+limited menu 1
+recommendation friend 1
+salad breadsticks 1
+caesar salads 1
+husband shared 1
+cocktail sauce 1
+chef tasting menu 1
+friend suggested 1
+mixed bag 1
+appetizer sampler 1
+surprisingly good 1
+great addition 1
+super bowl 1
+enjoyed meal 1
+enjoy meal 1
+great italian 1
+favorites include 1
+vegetable salad 1
+refill drink 1
+refill drinks 1

@@ -1,0 +1,95 @@
+GENERAL CHEMICAL, INC. -- MYRA CYN 1102  -- 6850-00F000262
+<pre>=====================  Product Identification  =====================
+
+Product ID:MYRA CYN 1102
+MSDS Date:01/01/1985
+FSC:6850
+NIIN:00F000262
+MSDS Number: BBGGK
+=== Responsible Party ===
+Company Name:GENERAL CHEMICAL, INC.
+Emergency Phone Num:714/591-8451
+CAGE:2U622
+=== Contractor Identification ===
+Company Name:GENERAL CHEMICAL INC
+Address:90 E HALSEY RD
+Box:395
+City:PARSIPPANY
+State:NJ
+ZIP:07054
+Country:US
+Phone:201-515-0900
+CAGE:2U622
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:AMMONIUM CHLORIDE  (SARA III)
+CAS:12125-02-9
+RTECS #:BP4550000
+OSHA PEL:10 MG/M3/20 STEL
+ACGIH TLV:10 MG/M3 FUME; 9192
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:SKIN: IRRITATION; EYES: BURNING IRRITATION;
+    INGESTION: HARMFUL IF SWALLOWED.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: WASH WITH SOAP AND WATER; EYES: FLUSH WITH PLENTY OF
+    WATER. CONTACT PHYSICIAN; INGESTION: DRINK LARGE QUANTITIES OF
+    WATER, MILK OR EGG WHITES. CALL A PHYSICIAN IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:N/A  OPEN CUP
+Extinguishing Media:WATER, CARBON DIOXIDE
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:ABSORB WITH SWEEPING COMPOUND, SAND, ETC. AND
+    DISPOSE OF IN WATER CONTAINER.
+
+======================	Handling and Storage  ======================
+
+Other Precautions:KEEP OUT OF REACH OF CHILDREN. AVOID FOOD
+    CONTAMINATION.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE ADEQUATE VENTILATION
+Protective Gloves:PLASTIC/RUBBER
+Eye Protection:GLASSES OR GOGGLES
+Supplemental Safety and Health
+5568 SCHAEFER AVE. P.O. BOX 1697, CHINO, CA 91710.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:198F
+Spec Gravity:1.026
+Solubility in Water:100%
+Appearance and Odor:GREEN, LEMON ODOR
+Percent Volatiles by Volume:0
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+ANIONIC MATERIAL (SOAPS, DETERGENTS, ETC.)
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:TOXIC TO FISH. DO NOT CONTAMINATE WATER BY
+    CLEANING OF EQUIPMENT OR DISPOSAL OF WASTE.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

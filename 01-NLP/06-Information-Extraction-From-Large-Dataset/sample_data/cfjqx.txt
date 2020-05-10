@@ -1,0 +1,158 @@
+TRU-TEST MANUFACTURING COMPANY -- XO-1267 XO-RUST ENAMEL  -- 8010-00F053882
+<pre>=====================  Product Identification  =====================
+
+Product ID:XO-1267 XO-RUST ENAMEL
+MSDS Date:10/26/1993
+FSC:8010
+NIIN:00F053882
+MSDS Number: CFJQX
+=== Responsible Party ===
+Company Name:TRU-TEST MANUFACTURING COMPANY
+Address:201 JANDUS ROAD
+City:CARY
+State:IL
+ZIP:60013-5000
+Country:US
+Info Phone Num:847-639-5383/800-228-5635 EXT 017
+Emergency Phone Num:800-228-5635 EXT 017/847-639-5383
+CAGE:TRUTE
+=== Contractor Identification ===
+Company Name:TRU-TEST MANUFACTURING CO
+Address:201 JANDUS RD
+Box:City:CARY
+State:IL
+ZIP:60013
+Country:US
+Phone:708-639-5383
+CAGE:TRUTE
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:XYLENE, DIMETHYLBENZENE, XYLOL     (IARC - GROUP 3)  *97-1*
+CAS:1330-20-7
+RTECS #:ZE2100000
+Fraction by Wt: 5-10%
+Other REC Limits:100 PPM
+OSHA PEL:100 PPM
+ACGIH TLV:100 PPM, SKIN
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:TOLUENE (IARC CARC- GROUP 3)     *97-1*
+CAS:108-88-3
+RTECS #:XS5250000
+Fraction by Wt: 13-18%
+Other REC Limits:375 MG/CUM
+OSHA PEL:100 PPM
+ACGIH TLV:50 PPM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:ACETONE; DIMETHYL KETONE; 2-PROPANONE   *97-1*
+CAS:67-64-1
+RTECS #:AL3150000
+Fraction by Wt: 30-35%
+OSHA PEL:750 PPM
+ACGIH TLV:750 PPM
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+Ingred Name:HYDROCARBON PROPELLANT, PETROLEUM GASES LIQUIFIED
+    SWEETENED, C3-7	      *97-1*
+CAS:68476-86-8
+Fraction by Wt: 25-30%
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM
+
+Ingred Name:GROG; CALCIUM-BARIUM PHOSPHOSILICATE, ALUMINUM SILICATE
+    FLUX   *97-1*
+CAS:66402-68-4
+Fraction by Wt: 0.3-3%
+OSHA PEL:15 MG/CUM
+ACGIH TLV:20 MG/CUM
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:EYES: MAY CAUSE SEVERE IRRITATION.
+    REPEATED & PROLONGED OVEREXPOSURE TO SOLVENTS MAY CAUSE PERMANENT
+    BRAIN & NERVOUS SYSTEM DAMAGE.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:IRRITATION, DRYING OF SKIN, HEADACHE,
+    DIZZINESS, NAUSEA.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH W/FRESH WATER. SKIN: WASH W/WARM SOAP & WATER.
+    INHALATION: REMOVE TO FRESH AIR. GIVE CPR IF NEEDED. INGESTION:
+    DON'T INDUCE VOMITING. KEEP WARM & QUIET. OBTAIN MEDICAL ATTENTION
+    IN ALL CAS ES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:<20F
+Extinguishing Media:FOAM, CO2, DRY CHEMICAL, WATER FOG.
+Fire Fighting Procedures:TREAT AS A VOLATILE LIQUID FIRE. WATER SPRAY
+    MAY BE INEFFECTIVE BUT MAY BE USED TO COOL SEALED CONTAINERS. IF
+    WATER SPRAY IS USED, FOG NOZZLES ARE PREFERABLE.
+Unusual Fire/Explosion Hazard:CLOSED CONTAINERS MAY EXPLODE WHEN
+    EXPOSED TO HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE IGNITION SOURCES. CONTAIN & ABSORB
+    LIQUID W/CLAY, SAND/FLOOR ABSORBENT. PREVENT RUN-OFF TO SEWERS,
+    STREAMS/OTHER BODIES OF WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:HANDLE AS AN EXTREMELY FLAMMABLE
+    MATERIAL. KEEP AWAY FROM IGNITION SOURCES. DON'T EXPOSE/STORE AT
+    TEMPS >120F.
+Other Precautions:DON'T TAKE INTERNALLY. AVOID PROLONGED CONTACT
+    W/SKIN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:WEAR A NIOSH/MSHA APPROVED AIR SUPPLIED
+    RESPIRATOR IF TLVS ARE EXCEEDED. WEAR AN APPROVED MECHANICAL FILTER
+    TO REMOVE SOLID AIRBORNE PARTICLES OF OVERSPRAY DURING SPRAY
+    APPLICATION.
+Ventilation:MECHANICAL (GENERAL)/LOCAL EXHAUST: SUFFICIENT TO MAINTAIN
+    EXPOSURE <TLVS.
+Protective Gloves:REQUIRED
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:IMPERVIOUS CLOTHING & BOOTS
+Work Hygienic Practices:DON'T REUSE CONTAMINATED CLOTHING. WASH
+    THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:<0F
+Vapor Density:>1
+Evaporation Rate &amp; Reference:SLOWER THAN ETHER
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZING AGENTS.
+Stability Condition to Avoid:HEAT, SPARKS, OPEN FLAME, TEMPS >120F &
+    OTHER IGNITION SOURCES.
+Hazardous Decomposition Products:BY BURNING: CO & CO2.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTAMINATED ABSORBENT MAY BE DEPOSITED IN A
+    LANDFILL IAW/FEDERAL, STATE & LOCAL REGULATIONS. DISPOSE OF EMPTY
+    CANS IN NON-INCINERATED TRASH ONLY.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

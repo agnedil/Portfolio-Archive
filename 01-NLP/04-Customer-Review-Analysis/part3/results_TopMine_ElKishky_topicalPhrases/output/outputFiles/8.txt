@@ -1,0 +1,543 @@
+credit card	267
+gift card	262
+grocery store	208
+Due Forni	169
+Sonny Boy	137
+bus boy	126
+gift certificate	115
+tax and tip	110
+Wolfgang Puck	108
+including tip	97
+pay the bill	97
+total bill	92
+people working	90
+don t care	85
+charge extra	83
+Wise Guy	79
+young lady	76
+bang for your buck	73
+Save your money	72
+didn t care	70
+treat their customers	70
+store bought	69
+guy working	64
+delivery driver	64
+paid the bill	63
+wasn t busy	62
+don t understand	61
+corkage fee	61
+pay extra	60
+care about their customers	60
+delivery guy	59
+extra charge	58
+guy behind the counter	57
+bill with tip	56
+pig ears	56
+bought a groupon	56
+break the bank	56
+people don	56
+owner manager	54
+manager owner	53
+give them credit	50
+wash your hands	50
+due to the fact	50
+fit the bill	49
+coupon for a free	48
+liquor license	47
+young man	47
+people complain	45
+saving grace	45
+lady fingers	44
+cash register	43
+repeat customers	41
+put my finger	41
+step foot	41
+didn t bother	41
+General Manager	40
+speak to a manager	40
+web site	40
+extra mile	40
+leave a tip	40
+didn t charge	40
+slot machines	39
+fellow diners	39
+eye contact	39
+ha ha	38
+Guy Fieri	37
+deli case	37
+loyal customer	36
+split the bill	36
+diamond in the rough	36
+kick ass	35
+spend money	35
+doggie bag	35
+deli counter	35
+didn t give	34
+Wolfgang Puck restaurant	34
+purchased a Groupon	34
+don t bother	33
+talk to the manager	33
+English muffin	32
+felt bad	32
+false advertising	32
+bill came and they charged	32
+left a tip	32
+older gentleman	31
+received the bill	31
+explained the situation	31
+girl working	31
+flip flops	30
+girl at the counter	30
+post office	30
+matter of fact	30
+gratuity added	30
+didn t pay	29
+smile on his face	29
+lot of people	29
+didn t realize	29
+arm and a leg	29
+cigarette smoke	29
+make the customer	28
+don t give	28
+complained to the manager	28
+spoke to the manager	28
+sound system	28
+added bonus	28
+debit card	27
+restaurant com gift certificate	27
+don t know why people	27
+learned my lesson	27
+put on hold	27
+paper towels	27
+business owner	27
+add insult to injury	27
+corking fee	26
+taking care	26
+paper bag	26
+don t worry	26
+Moon Doggies	26
+Simply put	25
+thing I noticed	25
+weren t busy	25
+bit confused	25
+Hell s Kitchen	25
+doesn t matter	25
+hundred dollars	25
+hear the conversation	25
+young girl	25
+United States	25
+pay cash	25
+phone call	24
+charge until the bill	24
+handled the situation	24
+cost extra	24
+including tax	24
+display case	24
+cost  bucks	24
+college student	24
+manager apologized	23
+make eye contact	23
+bill total	23
+delivery charge	23
+Entertainment Book	23
+guy and girl	23
+don t pay	23
+Butcher s Block	22
+called the manager	22
+charge on my card	22
+understand that they were busy	22
+owner is rude	22
+serving people	21
+treated so poorly	21
+extra bucks	21
+college kids	21
+things happen	20
+didn t understand	20
+dollar bill	20
+Lesson learned	20
+wearing jeans	20
+bonus points	19
+didn t matter	19
+young kids	19
+phone number	19
+extremely rude	19
+tip was already on the bill	19
+doesn t bother	18
+complete lack	18
+positive note	18
+tip and left	18
+bill  we all paid	18
+people talk	18
+didn t happen	18
+posted a picture	17
+added to the bill	17
+judge a book by its cover	17
+bit longer	17
+thought we would give	17
+make it a point	17
+don t expect	17
+make the mistake	17
+biggest complaint	17
+gave me extra	16
+work of art	16
+lady at the counter	16
+tip included	16
+people running	16
+talk to the owner	16
+bill was  dollars	16
+Blue Moon	16
+ended up paying	16
+Don t be fooled	15
+kind of weird	15
+didn t complain	15
+don t forget	15
+people watching	15
+owner told	15
+extra cost	15
+Funny thing	15
+Groupon deal	15
+added a   gratuity	15
+don t blame	15
+doesn t hurt	15
+real treat	14
+charged my credit card	14
+carry on a conversation	14
+offer a discount	14
+felt a bit	14
+group of people	14
+work guys	14
+split between two people	14
+crazy busy	14
+busy and I understand	14
+didn t make	14
+group of girls	13
+automatic   gratuity	13
+called back	13
+didn t leave	13
+restaurant com coupon	13
+owner talked	13
+head chef	13
+number of people	12
+expect to pay	12
+wasn t crazy	12
+tip only because leaving	12
+bit odd	12
+book by its cover	12
+manager was rude	12
+told the owner	12
+told the manager	12
+gave us a free	12
+girls and  guys	12
+assuming is the owner	12
+working out the kinks	11
+credit card charge	11
+apologized and offered	11
+coupon from Restaurant	11
+picture I posted	11
+alcoholic beverages	11
+received a free	11
+front counter	11
+makes sense	11
+heart attack	11
+didn t notice	11
+didn t offer	10
+smoking cigarettes	10
+kinks to work	10
+manager talked	10
+run business	10
+give you a free	10
+manager to speak	10
+Don t judge	10
+run of the mill	10
+insult to injury	10
+charge  She didn	9
+gratuity is automatically	9
+steer clear	9
+serve alcohol	9
+counter girl	9
+work as a team	9
+thing I didn	9
+manager to call	9
+single person	9
+restaurant business	9
+negative comments	9
+rude manager	9
+forgot to put	9
+kids to play	9
+assume is the manager	9
+counter guy	9
+offered to replace	8
+Lets start	8
+sounds weird	8
+waste your money	8
+forgot to mention	8
+back to the kitchen	8
+stay in business	8
+customer is treated	8
+customers and making	8
+things have changed	8
+put more effort	8
+send it back	8
+didn t expect	8
+caught my eye	8
+charge for delivery	8
+doesn t sound	8
+added extra	8
+give them the benefit of the doubt	7
+TV show	7
+wasn t crowded	7
+leave hungry	7
+Puck restaurant	7
+watch people	7
+cooked properly	7
+Groupon I bought	7
+bill was NOT MORE then what you would pay	7
+Customer Care	7
+head back	7
+mixed bag	7
+cooked longer	7
+manager told	7
+tip and tax	7
+Groupon that I purchased	7
+chef owner	6
+spent that money	6
+art work	6
+plastic cup	6
+cash to pay	6
+bill    added	6
+don t be afraid	6
+card charge	6
+left something to be desired	6
+manager to complain	6
+working people	6
+wasn t bad	6
+realized I didn	6
+leaves something to be desired	6
+notice the little things	5
+team work	5
+make things	5
+bill splitting	5
+Taco Bell	5
+ownership change	5
+left hungry	5
+free   coupon	5
+owner of a business	5
+talking to people	5
+put it simply	5
+business  I would RUN	5
+working girl	5
+lot of money	5
+hand tossed	5
+rude owner	5
+offer free	5
+busy  It wasn	5
+fire pit	5
+tax included	5
+longer to cook	5
+manager I spoke	5
+born and raised	5
+sort of thing	5
+run by the same people	5
+didn t mention	5
+older crowd	5
+extra when I added	5
+lot to be desired	4
+wasn t hungry	4
+front of the restaurant	4
+worst part	4
+show tickets	4
+bad thing	4
+give it  since I don	4
+money you spend	4
+people serving	4
+host stand	4
+change in ownership	4
+manager  I m assuming	4
+bill that we received	4
+called and was told	4
+negative thing	4
+effort put	4
+ended up leaving	4
+girls in our group	4
+played it safe	3
+apology from the manager	3
+wasn t expecting	3
+cloth napkins	3
+fellow Yelpers	3
+weren t bad	3
+gift certificate from restaurants	3
+card  On my credit	3
+change a thing	3
+called to make	3
+thing negative	3
+looked and smelled	3
+add insult	3
+hasn t changed	3
+alcohol served	3
+Sounds a little punitive  doesn	3
+rude and extremely	3
+people to split	3
+catch a show	3
+conversations you hear	3
+beginning to end	3
+hope to be back	3
+left a lot to be desired	3
+longer than expected	3
+made a comment	3
+Don t waste	3
+pay I don	3
+situation was handled	3
+doesn t make	3
+people in our group	2
+thing  There was not one single	2
+benefit of the doubt	2
+didn t like one thing	2
+guess I was expecting	2
+make an effort	2
+back of my head	2
+cut corners	2
+pay  you get the better end	2
+fact of the matter	2
+real deal	2
+wasn t terrible	2
+counter in front	2
+bit heavy	2
+weren t expecting	2
+bit expensive	2
+mistakes made	2
+weird  I kind	2
+fully cooked	2
+bucks for  extra	2
+call your number	2
+person as a single	2
+tiny bit	2
+chef will make	2
+poor customer	2
+kitchen was backed	2
+care if you don	2
+owner or so I assumed	2
+kind of reminded	2
+customers are repeats	2
+counter deli	2
+change your life	2
+loud and a bit	2
+made the mistake	2
+discount they were offering	2
+reason I give	2
+money and save	2
+people   it s A LOT	2
+money well spent	2
+poorly they were treated	2
+single thing	2
+things that make	2
+hand washing	2
+restaurant and I have never been to a Wolfgang puck	2
+wasn t horrible	2
+understand that you don	2
+hungry  leave	2
+bad day	2
+care as he didn	2
+number and call	2
+actual restaurant	2
+heavy handed	2
+Boy Sonny	2
+restaurant run	2
+offer an apology	2
+air conditioning	2
+kids are young	2
+complain because I didn	2
+properly cooked	2
+bad we left	2
+forgetful and slooooow   Don	1
+back and hope	1
+tickets to a show	1
+things   funny	1
+left a bad	1
+terrible  it wasn	1
+TV s to watch	1
+didn t really like us  for whatever reason	1
+restaurant  has nothing to do with the actual	1
+noticed we didn	1
+make Chef	1
+show to catch	1
+give me a reason	1
+free offerings	1
+owner chef	1
+busy restaurant	1
+bit because I felt	1
+called it a day	1
+extra    Yes   you pay	1
+thing bad	1
+manager  His general	1
+Kitchen   How the hell	1
+sense says     make	1
+payed but expected	1
+book to help keep her entertained	1
+needed salt	1
+owner we met	1
+run restaurant	1
+give it much thought	1
+owner s son	1
+spend a lot	1
+forni  in Due	1
+store  Though the grocery	1
+watching TV	1
+bucks and the cost	1
+counter lady	1
+deal through Groupon	1
+bother us  we didn	1
+bit loud	1
+check was dropped	1
+weird as it sounds	1
+lacked completely	1
+understand it the way I did and it didn	1
+kid  a college	1
+reason I didn	1
+foot steps	1
+made by hand	1
+busy  but they weren	1
+shows up on the TV	1
+bother you though  you don	1
+situation explain	1
+wouldn t go back	1
+carefully made	1
+bad but they weren	1
+reason I gave	1
+met my expectations	1
+bag it was in and it was just on a paper	1
+wee bit	1
+crowd wasn	1
+takes longer	1
+leg  or arm	1
+girl  young	1
+make sure we didn	1
+Puck Wolfgang	1
+ass kicked	1
+type of restaurant	1
+life changing	1
+customers that have been so loyal	1
+met the owner	1
+free wifi	1
+odd and a bit	1
+WIFI for free	1
+drivers were going in and out with the deliveries	1
+happen and didn	1
+add injury to insult	1
+beverages that are non alcoholic	1
+ended up taking	1
+made eye	1
+card or a gift	1
+standing in front	1
+credit one give	1
+free  We also received	1
+lady and young	1
+Don t waste your money	1
+complaint   The biggest	1
+system is sounding	1
+leaving so he didn	1
+commented negatively	1
+part of the restaurant	1
+return in the future	1
+expectations  Don	1
+happening   The best thing	1
+back  but I wouldn	1

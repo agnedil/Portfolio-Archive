@@ -1,0 +1,152 @@
+COULTER ELECTRONICS INC -- ISOTON II DILUENT, 8546720 (10L)  -- 6550-00F001434
+<pre>=====================  Product Identification  =====================
+
+Product ID:ISOTON II DILUENT, 8546720 (10L)
+MSDS Date:01/27/1992
+FSC:6550
+NIIN:00F001434
+MSDS Number: BBJHJ
+=== Responsible Party ===
+Company Name:COULTER ELECTRONICS INC
+Address:740 W 84TH ST
+City:HIALEAH
+State:FL
+ZIP:33014-3519
+Country:US
+Info Phone Num:305-822-8250
+Emergency Phone Num:305-822-8250
+CAGE:5Z189
+=== Contractor Identification ===
+Company Name:COULTER ELECTRONICS INC.
+Address:860 W 84TH. ST.
+Box:City:HIALEAH
+State:FL
+ZIP:33014-3519
+Country:US
+Phone:800-424-9300
+CAGE:5Z189
+Company Name:CURTIN MATHESON SCIENTIFIC INC
+Address:20100 E 357H DR
+Box:City:AURORA
+State:CO
+ZIP:80011-8154
+Country:US
+Phone:303-340-2727
+CAGE:4S896
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ETHYLENE GLYCOL PHENYL ETHER, 2-PHENOXYETHANOL	       
+    PHENOXYETHANOL
+CAS:122-99-6
+RTECS #:KM0350000
+Fraction by Wt: 0.3%
+
+Ingred Name:SODIUM FLUORIDE
+CAS:7681-49-4
+RTECS #:WB0350000
+Fraction by Wt: 0.03%
+OSHA PEL:2.5 MG/CUM
+ACGIH TLV:2.5 MG/CUM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:SODIUM CHLORIDE
+CAS:7647-14-5
+RTECS #:VZ4725000
+Fraction by Wt: <1%
+
+Ingred Name:DISODIUM EDETATE; ACETIC ACID, (ETHYLENEDINITRILO)TETRA-,
+    DISODIUM SALT; EDTA DISODIUM
+CAS:139-33-3
+RTECS #:AH4375000
+Fraction by Wt: <1%
+
+Ingred Name:POTASSIUM CHLORIDE
+CAS:7447-40-7
+RTECS #:TS8050000
+Fraction by Wt: <1%
+
+Ingred Name:SODIUM PHOSPHATE MONOBASIC, MONOSODIUM PHOSPHATE
+CAS:7558-80-7
+RTECS #:WA1900000
+Fraction by Wt: <1%
+
+Ingred Name:SODIUM PHOSPHATE, DIBASIC, ANHYDROUS, DISODIUM PHOSPHATE
+CAS:7558-79-4
+RTECS #:WC4500000
+Fraction by Wt: <1%
+EPA Rpt Qty:5000 LBS
+DOT Rpt Qty:5000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: <1 GRAM (2 OR MORE LITERS
+    OF THIS PRODUCT) MAY CAUSE NAUSEA, VOMITING, ABDOMINAL PAIN,
+    STUPOR, WEAKNESS, TREMORS, RESPIRATORY & CARDIAC FAILURE. (SODIUM
+    FLUORIDE)
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:INGESTION: 5-10 GRAMS (12 OR MORE LITERS OF
+    THIS PRODUCT) MAY CAUSE DEATH.
+
+=======================  First Aid Measures  =======================
+
+First Aid:SKIN: FLUSH W/PLENTY OF WATER. INGESTION: GIVE VICTIM
+    APPROPRIATE DOSE OF EFFERVESCENT CALCIUM GLUCONATE (IN COPIOUS
+    AMOUNTS OF WATER OR MILK). OBTAIN MEDICAL ATTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:ANY EXTINGUISHING MEDIA SUITABLE FOR FIRE.
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH W/WATER TO APPROVED OUTSIDE DRAINAGE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DON'T REUSE. DISCARD EMPTY CONTAINER.
+    FOR IN VITRO DIAGNOSTIC USE. DON'T STACK OVER 4 HIGH. STORE AT ROOM
+    TEMP (20-25C).
+Other Precautions:DON'T INGEST.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE REQUIRED
+Ventilation:NONE REQUIRED
+Protective Gloves:NONE REQUIRED
+Eye Protection:SAFETY GLASSES
+Other Protective Equipment:LAB COATS
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:100C
+Spec Gravity:1
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR LIQUID
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:HEAT
+Hazardous Decomposition Products:POSSIBLE CHLORIDE SCALE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE MUST COMPLY WITH FEDERAL, STATE & LOCAL
+    DISPOSAL OR DISCHARGE LAWS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

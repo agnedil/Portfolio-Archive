@@ -1,0 +1,141 @@
+QIAGEN INC -- RNEASY BLOOD MINI KIT,74303  -- -
+<pre>=====================  Product Identification  =====================
+
+Product ID:RNEASY BLOOD MINI KIT,74303
+MSDS Date:09/22/1997
+FSC:NIIN:Submitter:N EN
+Status Code:A
+MSDS Number: CJYSV
+=== Responsible Party ===
+Company Name:QIAGEN INC
+Address:28159 AVENUE STANFORD
+City:SANTA CLARITA
+State:CA
+ZIP:91355
+Country:US
+Info Phone Num:800-362-7737
+Emergency Phone Num:800-362-7737
+CAGE:01QTQ
+=== Contractor Identification ===
+Company Name:QIAGEN INC
+Address:28159 AVENUE STANFORD
+Box:City:SANTA CLARITA
+State:CA
+ZIP:91355
+Country:US
+Phone:800-362-7737
+CAGE:01QTQ
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:GUANIDINE THIOCYANATE
+CAS:593-84-0
+RTECS #:XL1225000
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:ACUTE: INHALATION: MAY BE HARMFUL BY
+    INHALATION. MATERIAL IS DESTRUCTIVE TO MUCOUS MEMBRANES AND UPPER
+    RESPIRATORY TRACT. EYE CONT: CAUSES SEVERE IRRITATION. SKIN CONT:
+    CAUSES IRRITATION, HARMFUL BY S KIN ABSORPTION. INGESTION:
+    PROLONGED OR REPEATED EXPOSURE TO SKIN CAUSES DEFATTING AND
+    DERMATITIS. CONTACT WITH ACIDS LIBERATE VERY TOXIC GAS. CHRONIC:
+    NOT APPLICABLE.
+Effects of Overexposure:SEE HEALTH HAZARDS.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYE CONT: IMMEDIATELY FLUSH WITH COPIOUS AMOUNTS OF WATER FOR
+    AT LEAST 15 MINUTES. ASSURE ADEQUATE FLUSHING OF THE EYES BY
+    SEPARATING THE EYELIDS WITH FINGERS. SKIN CONT: IMMEDIATELY WASH
+    SKIN WITH SO AP AND COPIOUS AMOUNTS OF WATER. INHAL: REMOVE TO
+    FRESH AIR. IF NOT BREATHING GIVE ARTIFICIAL RESPIRATION. IF
+    BREATHING IS DIFFICULT, GIVE OXYGEN. INGESTION: WASH OUT MOUTH WITH
+    WATER PROVIDED PERSON  IS CONSCIOUS. CALL A PHYSICIAN. REMOVE AND
+    WASH CONTAMINATED CLOTHING PROMPTLY
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:>37.7C, 100.F
+Extinguishing Media:CARBON DIOXIDE, DRY CHEMICAL POWDER, OR APPROPRIATE
+    FOAM.
+Fire Fighting Procedures:WEAR NIOSH APPROVED SELF-CONTAINED BREATHING
+    APPARATUS AND PROTECTIVE CLOTHING TO PREVENT CONTACT WITH SKIN AND
+    EYES. USE WATER SPRAY TO COOL FIRE EXPOSED CONTAINERS.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:PRECAUTIONARY MEASURES: SHUT OFF ALL SOURCES
+    OF IGNIT. EVACUATE AREA. WEAR NIOSH APPRVD SCBA, CHEM SFTY GOGGS,
+    RUBB BOOTS & HEAVY RUBB GLOVES. CLEAN-UP PROCEDURE: ABSORB ON SAND
+    OR VERMICULITE AND PLA CE IN CLOSED CONTAINERS FOR DISPOSAL. USE
+    NONSPARKING TOOLS. VENTILATE AREA AND WASH SPILL SITE AFTER
+    MATERIAL PICKUP IS COMPLETE.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE TIGHTLY CLOSED AT 20-25C. DO NOT
+    GET IN EYES, ON SKIN, OR ON CLOTRHING. DO NOT BREATHE VAPORS.
+    SEVERE EYE IRRITANT. KEEP AWAY FROM HEAT, SPARKS, AND OPEN FLAME.
+    STORE IN A COOL DRY PLACE.
+Other Precautions:CONTACT WITH ACIDS LIBERATES VERY TOXIC GAS. THE
+    PRODUCT SHOULD BE HANDLED WITH THE NORMAL CAUTION ACCORDED
+    CHEMICALS. ADDITIONAL HARMFUL PROPERTIES CANNOT BE RULE OUT.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NIOSH APPROVED RESPIRATOR.
+Ventilation:MECHANICAL EXHAUST VENTILATION.
+Protective Gloves:RUBBER GLOVES.
+Eye Protection:ANSI APPROVED CHEMICAL WORKERS GOGGLES .
+Other Protective Equipment:EYE WASH & DELUGE SHOWER MEETING ANSI DESIGN
+    CRITERIA .
+Work Hygienic Practices:WASH THOROUGHLY AFTER HANDLING.
+Supplemental Safety and Health
+WASTE DISP METH: ITSELF. UNLESS SPECIFIED DIFFERENTLY, NONCONTAMD
+    PACKAGING MAY BE TREATED LIKE HOUSEHOLD WASTE/RECYCLED.
+
+==================  Physical/Chemical Properties  ==================
+
+Spec Gravity:1.064 G/CM3
+pH:7.5 @ 20C
+Solubility in Water:SOLUBLE
+Appearance and Odor:COLORLESS LIQUID, CHARACTERISTIC ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG ACIDS, STRONG OXIDIZING AGENTS.
+Hazardous Decomposition Products:TOXIC FUMES OF CARBON MONOXIDE, CARBON
+    DIOXIDE, NITROGEN OXIDES, AND HYDROGEN CYANIDE.
+
+===================  Toxicological Information	===================
+
+Toxicological Information:IPR-MUS LD50: 300 MG/KG. NTIS***AD277-689.
+    ONLY SELECTED REGISTRY OF TOXIC EFTS OF CHEMICAL SUBSTANCES (RTECS)
+    DATA IS PRESENTED HERE. SEE ACTUAL ENTRY IN RTECS FOR COMPLETE
+    INFORMATION. CAUTION-SUBST ANCE NOT YET FULLY TESTED. CONT W/ACIDS
+    LIBERATE VERY TOXIC GAS. THE PRODUCT SHOULD BE HANDLED WITH THE
+    NORMAL CAUTION ACCORDED CHEMICALS. ADDITIONAL HARMFUL PROPERTIES
+    CANNOT BE RULED OUT.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:THERE ARE NO UNIFORM REGS FOR DISP OF CHEMS OR
+    RESIDUES. CHEM RESIDUES GENERALLY COUNT AS SPEC WASTE. WE RECOMMEND
+    THAT YOU CONT EITHER AUTH IN CHARGE/APPRVD WASTE DISP COMPANIES
+    WHICH WILL ADVISE YOU  ON HOW TO DISPOSE SPEC WASTE. HNDL CONTMAD
+    PACKAGING IN SAME WAY AS SUBSTANCE (SUPDAT)
+
+=======================  Other Information  =======================
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

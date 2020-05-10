@@ -1,0 +1,118 @@
+BEECHAM HOME IMPROVEMENT PRODUCTS INC. -- DAP VINYL SPACKLING  -- 8030-00F002959
+<pre>=====================  Product Identification  =====================
+
+Product ID:DAP VINYL SPACKLING
+MSDS Date:07/17/1985
+FSC:8030
+NIIN:00F002959
+MSDS Number: BBMCD
+=== Responsible Party ===
+Company Name:BEECHAM HOME IMPROVEMENT PRODUCTS INC.
+Box:277
+City:DAYTON
+State:OH
+ZIP:45401
+Info Phone Num:(513) 253-7154
+Emergency Phone Num:(513) 253-7154
+Preparer's Name:C.L. JOHNSON
+CAGE:1BL51
+=== Contractor Identification ===
+Company Name:BEECHAM HOME IMPROVEMENT PRODUCTS INC
+Address:855 N 3RD ST
+Box:277
+City:TIPP CITY
+State:OH
+ZIP:45371-3014
+Country:US
+CAGE:1BL51
+Company Name:DAP INC.
+Address:Box:277
+City:DAYTON
+State:OH
+ZIP:45401-0277
+Country:US
+Phone:513-253-7154/800-543-3840
+CAGE:90300
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CALCIUM CARBONATE (MARBLE) (LIMESTONE)
+CAS:1317-65-3
+RTECS #:EV9580000
+OSHA PEL:15 MG/M3 TDUST
+ACGIH TLV:10 MG/M3 TDUST; 9192
+
+Ingred Name:WATER, H2O
+CAS:7732-18-5
+RTECS #:ZC0110000
+
+Ingred Name:INERT INGREDIENTS (TYPE NOT SPECIFIED)
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE KNOWN
+Explanation of Carcinogenicity:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES: FLUSH WITH LARGE AMOUNTS OF WATER. CALL A PHYSICIAN.
+    SKIN: WASH WITH SOAP & WATER. CALL A PHYSICIAN IF IRRITATION
+    DEVELOPS. INGESTION: INDUCE VOMITING. CALL A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:FOAM, WATER, DRY CHEMICALS
+Fire Fighting Procedures:USE WATER SPRAY COOL EXPOSED SURFACES.
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SCRAPE OR WIPE UP MATERIAL & DISCARD ACCORDING
+    TO FEDERAL, STATE AND LOCAL REGULATIO.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:AVOID EXCESSIVE HEAT. KEEP CONTAINERS
+    TIGHTLY CLOSED WHEN NOT IN USE. KEEP OUT OF REACH OF CHIREN.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NOT REQUIRED
+Ventilation:NORMAL ROOM VENTILATION
+Protective Gloves:NOT REQUIRED
+Eye Protection:NOT REQUIRED
+Other Protective Equipment:NOT REQUIRED
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:212F
+Decomp Temp:Decomp Text:10-20%
+Spec Gravity:1.89
+Solubility in Water:SOLUBLE
+Appearance and Odor:PASTE; OPAQUE PASTE WITH A MILD ODOR.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS
+Stability Condition to Avoid:EXCESSIVE HEAT
+Hazardous Decomposition Products:NORMAL COMBUSTION PRODUCTS, COX, NOX
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:THIS PRODUCT IS NON-HAZARDOUS ACCORDING TO U.S.
+    EPA'S HAZARDOUS WASTE MANAGEMENT REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

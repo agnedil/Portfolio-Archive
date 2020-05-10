@@ -1,0 +1,131 @@
+O'BRIEN CORPORATION/FULLER O'BRIEN PAINTS -- PEN-CHROME INTERIOR WOOD STAIN  -- 8010-00F000248
+<pre>=====================  Product Identification  =====================
+
+Product ID:PEN-CHROME INTERIOR WOOD STAIN
+MSDS Date:08/08/1985
+FSC:8010
+NIIN:00F000248
+MSDS Number: BBGFS
+=== Responsible Party ===
+Company Name:O'BRIEN CORPORATION/FULLER O'BRIEN PAINTS
+Address:450 EAST GRAND AVENUE
+City:SOUTH SAN FRANCISCO
+State:CA
+ZIP:94080
+Info Phone Num:(415) 761-2300
+Emergency Phone Num:(415) 761-2300
+CAGE:85207
+=== Contractor Identification ===
+Company Name:O BRIEN CORPORATION
+Address:450 E GRAND AVE
+Box:City:SOUTH SAN FRANCISCO
+State:CA
+ZIP:94080-6207
+Country:US
+CAGE:72556
+Company Name:O'BRIEN CORPORATION, FULLER O'BRIEN PAINTS
+CAGE:85207
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:VM&P NAPHTHA (LIGROINE)
+CAS:8032-32-4
+RTECS #:OI6180000
+Fraction by Wt: 75%
+Other REC Limits:STEL 400 PPM
+OSHA PEL:300 PPM/400 STEL
+ACGIH TLV:300 PPM; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION: ANESTHETIC. IRRITATION OF
+    THE RESPIRATORY TRACT, NERVOUS SYSTEM DEPRESSION, HEADACHE,
+    DIZZINESS, STAGGERING GAIT, CONFUSION, UNCONSCIOUSNESS, OR COMA.
+    SKIN/EYE: IRRITATION.
+Explanation of Carcinogenicity:NONE
+Effects of Overexposure:DURING EMERGENCY CONDITIONS, OVEREXPOSURE TO
+    DECOMPOSITION PRODUCTS MAY CAUSE HEALTH HAZARD. INHALATION:
+    ANESTHETIC. IRRITATION OF THE RESPIRATORY TRACT, NERVOUS SYSTEM
+    DEPRESSION, HEADACHE, DIZZINESS , STAGGERING GAIT, CONFUSION,
+    UNCONSCIOUSNESS, OR COMA. SKIN/EYE: IRRITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:INGESTION: OBTAIN MED ATTN. INHALATION: REMOVE FROM AREA TO
+    FRESH AIR. RESTORE BREATHING. CONSULT PHYSICIAN. EYE: FLUSH
+    W/PLENTY OF WATER FOR 15 MINS. OBTAIN MED ATTN. SKIN: WIPE OFF
+    W/RAG & WASH THOR OUGHLY W/SOAP & WATER. INGESTION: DRINK1 OR 2
+    GLASSES OF WATER TO DILUTE. DON'T INDUCE VOMITING. CONSULT
+    PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:114F
+Lower Limits:0.9%
+Extinguishing Media:CO2, FOAM, DRY CHEMICAL OR WATER FOG
+Fire Fighting Procedures:USE FULL PROTECTIVE EQUIPMENT/SCBA. WATER
+    STREAM MAY BE INEFFECTIVE. IF WATER IS USED, FOG NOZZLES ARE
+    PREFERABLE. KEEP CONTAINER CLOSED.
+Unusual Fire/Explosion Hazard:WATER MAY BE USED TO COOL CLOSED
+    CONTAINERS TO PREVENT PRESSURE BUILD-UP & POSSIBLE AUTO-IGNITION OR
+    EXPLOSION WHEN EXPOSED TO EXTREME HEAT.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:REMOVE SOURCES OF IGNITION. PROVIDE ADEQUATE
+    VENTILATION. SOAK UP & REMOVE W/ABSORBENT & INERT MATERIAL WITH
+    NON-SPARKING TOOLS.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE UPRIGHT IN SEALED CONTAINERS &
+    USE AWAY FROM HIGH TEMPERATURE, SPARKS & FLAME. AVOID BREATHING
+    VAPOR OR SPRAY MIST, & CONTACT W/SKIN.
+Other Precautions:KEEP CONTAINER TIGHTLY SEALED WHEN NOT IN USE. KEEP
+    OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE APPROVED MECHANICAL RESPIRATOR OR MASK TO
+    AVOID BREATHING VAPOR OR SPRAY MIST. USE APPROVED AIR SUPPLIED
+    RESPIRATOR FOR WORK IN CONFINED AREAS.
+Ventilation:PROVIDE SUFFICIENT LOCAL EXHAUST VENTILATION TO KEEP <TLV.
+Protective Gloves:SYNTHETIC RUBBER
+Eye Protection:GOGGLES, SAFETY GLASSES W/SIDESHIELDS
+Other Protective Equipment:COVERALLS
+Work Hygienic Practices:REMOVE/WASH CONTAMINATED CLOTHING. DISCARD
+    CONTAMINATED SHOES. EXERCISE DUE CARE.
+Supplemental Safety and Health
+WT PER GAL: 7 LBS.
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:148-419F
+Vapor Density:>AIR
+Evaporation Rate &amp; Reference:SLOWER THAN ETHER
+Percent Volatiles by Volume:85%
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+STRONG OXIDIZERS, ACIDS, BASES
+Stability Condition to Avoid:HEAT, SPARKS, FLAME, ELECTRICAL EQUIPMENT,
+    & HIGH TEMPERATURE.
+Hazardous Decomposition Products:FUMES MAY CONTAIN CO.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:DISPOSE IN SEALED METAL CONTAINER AWAY FROM HEAT
+    & FLAME IN ACCORDANCE WITH LOCAL, STATE & FEDERAL REGULATIONS.
+    COMBUSTIBLE LIQUID CLASS II.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

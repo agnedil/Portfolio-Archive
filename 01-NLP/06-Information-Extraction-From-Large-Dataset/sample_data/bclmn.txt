@@ -1,0 +1,95 @@
+NATIONAL CHEMSEARCH DIV OF NCH CORP -- CHEM AQUA 8000  -- 8030-00N004076
+<pre>=====================  Product Identification  =====================
+
+Product ID:CHEM AQUA 8000
+MSDS Date:01/01/1985
+FSC:8030
+NIIN:00N004076
+MSDS Number: BCLMN
+=== Responsible Party ===
+Company Name:NATIONAL CHEMSEARCH DIV OF NCH CORP
+Emergency Phone Num:214-438-4144 X013
+CAGE:DO481
+=== Contractor Identification ===
+Company Name:NATIONAL CHEMSEARCH DIV OF NCH CORP
+Address:2727 CHEMSEARCH BLVD
+Box:152170
+City:IRVING
+State:TX
+ZIP:75015-5000
+Country:US
+Phone:972-438-1381
+CAGE:DO481
+Company Name:NCH CORP
+Address:2727 CHEMSEARCH BLVD
+Box:152170
+City:IRVING
+State:TX
+ZIP:75015-2170
+Country:US
+Phone:972-438-0563
+CAGE:20913
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:ORGANOPHOSPHONATE
+Fraction by Wt: 15%
+
+=====================  Hazards Identification  =====================
+
+Effects of Overexposure:NO SYSTEMIC EFFECTS NOTED. AVOID PRLNG/RPTD
+    CONTACT W/ SKIN. INGEST:HARMFULL.
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES:FLUSH W. WATER FOR 15 MINUTES. SKIN:FLUSH W/ WATER FOR 5
+    MINUTES. INGEST; SEE MD IMMED.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Extinguishing Media:NONE REQUIRED
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:FLUSH DOWN DRAIN OR MOP UP
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP FROM FREEZING
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:MFR STATES NONE NECESSARY
+Protective Gloves:RUBBER
+Eye Protection:GOGGLES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:210F;99C
+Vapor Pres:18
+Vapor Density:0.6
+Spec Gravity:1.050
+Evaporation Rate &amp; Reference:0.1 (BUAC = 1)
+Solubility in Water:COMPLETE
+Appearance and Odor:COLORLESS, TRANSPARENT, NON-VISCOUS, ODORLESS
+Percent Volatiles by Volume:85
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:MFR RECOMMENDS TO FLUSH DOWN DRAIN W/ WATER.
+    DISPOSAL METHOD MUST BE IAW FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

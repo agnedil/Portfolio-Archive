@@ -1,0 +1,111 @@
+OXFORD CHEMICALS INC -- SPRA-KLEEN  -- 7930-00F002940
+<pre>=====================  Product Identification  =====================
+
+Product ID:SPRA-KLEEN
+MSDS Date:04/16/1985
+FSC:7930
+NIIN:00F002940
+MSDS Number: BBMBG
+=== Responsible Party ===
+Company Name:OXFORD CHEMICALS INC
+Box:80202
+City:ATLANTA
+State:GA
+ZIP:30366
+Country:US
+Info Phone Num:404-452-1100
+Emergency Phone Num:404-452-1100
+Preparer's Name:LOUISE MOORE
+CAGE:06645
+=== Contractor Identification ===
+Company Name:OXFORD CHEMICALS INC
+Box:City:ATLANTA
+State:GA
+ZIP:30366
+Country:US
+Phone:404-452-1100
+CAGE:06645
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:CELLOSOLVE (2-ETHOXYETHANOL), DOWANOL EE, ETHYLENE GLYCOL
+    ETHYL ETHER, OXITOL
+CAS:110-80-5
+RTECS #:KK8050000
+Fraction by Wt: <5%
+Other REC Limits:19 MG/CUM
+OSHA PEL:200 PPM
+ACGIH TLV:18 MG/CUM
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+Ingred Name:SODIUM METASILICATE; SODIUM SILICATE; WATER GLASS; DISODIUM
+    SALT SILIC ACID
+CAS:6834-92-0
+RTECS #:VV9275000
+Fraction by Wt: <5%
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INGESTION: HARMFUL. EYES: IRRITATION.
+Explanation of Carcinogenicity:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:EYES/SKIN: FLUSH W/WATER FOR AT LEAST 15 MINS. INGESTION:
+    DON'T INDUCE VOMITING. GIVE PLENTY OF WATER FOLLOWED BY CITRUS
+    JUICE OR 1 OZ OF VINEGAR IN WATER. FOLLOW W/MILK OR OLIVE OIL.
+    OBTAIN MEDICAL A TTENTION IN ALL CASES.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:NONE
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:NONE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:MOP UP EXCESS, FLUSH AREA WITH WATER AND FLUSH
+    DOWN DRAIN WITH PLENTY OF WATER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:STORE CONTAINER TIGHTLY CLOSED IN A
+    COOL, DRY LOCATION.
+Other Precautions:KEEP OUT OF REACH OF CHILDREN.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Ventilation:LOCAL EXHAUST
+Eye Protection:SAFETY GLASSES
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text: 215F
+Spec Gravity:1.01
+pH:12.6
+Evaporation Rate &amp; Reference:(WATER=1):  1
+Solubility in Water:COMPLETE
+Appearance and Odor:CLEAR/BLUE COLORED THIN LIQUID W/A CHARACTERISTIC
+    GLYCOL ETHER ODOR
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:TRIPLE RINSE CONTAINER WITH COLD WATER, THEN
+    DISPOSE OF IN ACCORDANCE WITH FEDERAL, STATE AND LOCAL REGULATIONS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

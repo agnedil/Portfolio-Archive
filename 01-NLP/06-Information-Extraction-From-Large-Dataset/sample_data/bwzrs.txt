@@ -1,0 +1,150 @@
+AMERICAN INDUSTRIAL -- OFF  -- 6840-01-309-3890
+<pre>=====================  Product Identification  =====================
+
+Product ID:OFF
+MSDS Date:08/16/1993
+FSC:6840
+NIIN:01-309-3890
+MSDS Number: BWZRS
+=== Responsible Party ===
+Company Name:AMERICAN INDUSTRIAL
+Box:10996
+City:BURBANK
+State:CA
+ZIP:91510-0996
+Country:US
+Info Phone Num:818-841-7788
+Emergency Phone Num:818-841-7788
+CAGE:0WE73
+=== Contractor Identification ===
+Company Name:AMERICAN INDUSTRIAL SUPPLY INC
+Address:4514 VANOWEN ST.
+Box:10996
+City:BURBANK
+State:CA
+ZIP:91506-0996
+Country:US
+Phone:800-366-0961/818-841-7788
+CAGE:0WE73
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:D-LIMONENE
+CAS:5989-27-5
+RTECS #:GW6360000
+Other REC Limits:NONE RECOMMENDED
+
+Ingred Name:DIPROPYLENE GLYCOL METHYL ETHER
+CAS:34590-94-8
+RTECS #:JM1575000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:S,100PPM/150STEL
+ACGIH TLV:S,100PPM/150STEL9192
+
+Ingred Name:LPG (LIQUEFIED PETROLEUM GAS)
+CAS:68476-85-7
+RTECS #:SE7545000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:1000 PPM
+ACGIH TLV:1000 PPM; 9192
+
+Ingred Name:PROPYLENE GLYCOL MONOMETHYL ETHER
+CAS:107-98-2
+RTECS #:UB7700000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+
+Ingred Name:TOLUENE  (SARA III)
+CAS:108-88-3
+RTECS #:XS5250000
+Other REC Limits:NONE RECOMMENDED
+OSHA PEL:100 PPM/150 STEL
+ACGIH TLV:100 PPM/150STEL;9192
+EPA Rpt Qty:1000 LBS
+DOT Rpt Qty:1000 LBS
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:INHALATION-WILL CAUSE DIZZINESS IF
+    INHALED DIRECTLY. EYES-MAY CAUSE TEMPORARY CORNEAL OPACITY. WILL
+    CAUSE SEVERE IRRITATION. SKIN-MAY CAUSE LOCALIZED DEFATTING OF SKIN
+    AND IRRITATION. INGESTION-SEE BE LOW.
+Explanation of Carcinogenicity:NOT CARCINOGENIC.
+Effects of Overexposure:INGESTION-MAY CAUSE NAUSEA, VOMITING, DIARRHEA
+    AND RESTLESSNESS. ASPIRATION INTO THE LUNGS CAN CAUSE SEVERE
+    CHEMICAL PNEUMONITIS OR PULMONARY HEMORRHAGE, WHICH CAN BE FATAL.
+Medical Cond Aggravated by Exposure:NONE
+
+=======================  First Aid Measures  =======================
+
+First Aid:INHALATION-REMOVE TO FRESH AIR. EYES-FLUSH WITH WATER FOR 15
+    MINUTES & CONTACT PHYSICIAN. SKIN-WASH WITH SOAP & WATER. TREAT
+    AFFECTED AREAS WITH SKIN MOISTURIZER & CONTACT PHYSICIAN.
+    INGESTION-DO NOT  INDUCE VOMITING. CONTACT PHYSICIAN IMMEDIATELY.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point Method:TCC
+Flash Point:100F,38C
+Extinguishing Media:STANDARD CHEMICAL FIRE EXTINGUISHER.
+Fire Fighting Procedures:NONE
+Unusual Fire/Explosion Hazard:FLAMMABLE. CONTENTS UNDER PRESSURE.
+    EXPOSURE TO TEMPERATURE >120F MAY CAUSE BURSTING. MAY DEVELOP A
+    FLAMMABLE ATMOSPHERE IN CONFINED SPACES.
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:WIPE UP WITH RAGS OR USE AN ABSORBENT CLAY
+    MATERIAL OR TOWEL. DISPOSE OF RESIDUE IN ACCORDANCE WITH FEDERAL,
+    STATE AND LOCAL GUIDELINES.
+Neutralizing Agent:NONE SPECIFIED BY MANUFACTURER.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:DO NOT USE OR STORE NEAR HEAT, SPARK,
+    FIRE OR OPEN FLAMES.
+Other Precautions:EXPOSURE TO TEMPERATURES ABOVE 120F MAY CAUSE
+    BURSTING. DO NOT PUNCTURE OR INCINERATE CONTAINERS. VAPORS MAY
+    COLLECT IN LOW LYING AREAS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:USE ONLY IN A WELL VENTILATED AREA.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:T5
+Boiling Pt:B.P. Text:165
+Vapor Pres:100
+Vapor Density:1
+Spec Gravity:1.00
+Evaporation Rate &amp; Reference:2 (N-BUTYL ACETATE=1)
+Solubility in Water:0%
+Appearance and Odor:VISCOUS SPRAY, CHLORINATED SOLVENT SCENT.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+PLASTICS, PRE-TEST TO BE SPRAYED BEFORE USING.
+Stability Condition to Avoid:TEMPERATURES ABOVE 120F, HOT SURFACES.
+Hazardous Decomposition Products:EXPOSURE TO RED HOT SURFACES MAY
+    PRODUCE CARBON MONOXIDE AND HYDROGEN CHLORIDE GASES.
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:WRAP CONTAINER IN OLD NEWSPAPER AND PLACE IN
+    TRASH COLLECTION. DO NOT REUSE EMPTY CONTAINER.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

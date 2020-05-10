@@ -1,0 +1,112 @@
+UNION TEXAS PETROLEUM -- UN 1978 PROPANE  -- 6830-00B010039
+<pre>=====================  Product Identification  =====================
+
+Product ID:UN 1978 PROPANE
+MSDS Date:06/01/1979
+FSC:6830
+NIIN:00B010039
+MSDS Number: BBBCY
+=== Responsible Party ===
+Company Name:UNION TEXAS PETROLEUM
+Box:120
+City:HOUSTON
+State:TX
+ZIP:77001
+Country:US
+Info Phone Num:713960-7769
+Emergency Phone Num:713960-7500
+CAGE:DO819
+=== Contractor Identification ===
+Company Name:UNION TEXAS PETROLEUM
+Box:120
+City:HOUSTON
+State:TX
+ZIP:77001
+Country:US
+Phone:713960-7769
+CAGE:DO819
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:PROPANE
+CAS:74-98-6
+RTECS #:TX2275000
+OSHA PEL:1000 PPM
+ACGIH TLV:ASPHYXIANT; 9192
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:YES  Skin:YES  Ingestion:YES
+Effects of Overexposure:INHALATION:EXPOSURE TO HIGH CONCENTRATIONS CAN
+    LEAD TO FROM DIZZINESS TO ANESTHESIA AND RESPIRATORY
+    ARREST.SKIN:CRYOGENIC EXPOSURE MAY CAUSE FROST BITE.EYES:CONTACT
+    WITH VAPOR MAY PRESENT MODERATE IRR ITATION.
+
+=======================  First Aid Measures  =======================
+
+First Aid:IF OVEREXPOSED,REMOVE TO FRESH AIR. GUARD AGAINST SELF
+    INJURY.APPLY ARTIFICIAL RESPIRATION IF BREATHING HAS
+    STOPPED.CONSULT A PHYSICIAN.
+
+=====================  Fire Fighting Measures  =====================
+
+Flash Point:-104.44DEG C
+Lower Limits:2.15
+Upper Limits:9.60
+Fire Fighting Procedures:USE EXPLOSION PROOF METERS AND ELIMINATE ALL
+    SOURCES OF IGNITION.
+Unusual Fire/Explosion Hazard:EXTREMELY FLAMMABLE
+
+==================  Accidental Release Measures  ==================
+
+Spill Release Procedures:SHUT OFF SUPPLY OF GAS.ELIMINATE SOURCES OF
+    IGNITION,VENTILATE AREA.DISPERSE WITH WATER SPRAY.IF LIQUID ENTERS
+    WATERWAY OR SEWERS,NOTIFY LOCAL AUTHORITIES.
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:KEEP FROM HEAT SOURCES.STORE IN
+    UPRIGHT POSITION.DON'T DROP.KEEP FROM OXYGEN,CHLORINE,COMBUSTIBLE
+    ORGANIC & OXIDIZING MATERIALS.KEEP IN COOL VENT AREA
+Other Precautions:KEEP AWAY POSSIBLE SOURCES OF IGNITION. USE EXPLOSION
+    PROOF METERS.
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NORMALLY NOT REQUIRED.
+Ventilation:GENERAL EXHAUST,USING EXPLOSION PROOF EQUIPMENT.
+Protective Gloves:PROTECTIVE CRYOGENIC GLOVES
+Eye Protection:NORMALLY NOT NEEDED
+Supplemental Safety and Health
+
+==================  Physical/Chemical Properties  ==================
+
+Boiling Pt:B.P. Text:-42.02DEGC
+Melt/Freeze Pt:M.P/F.P Text:-189.9DEG C
+Vapor Pres:6309
+Vapor Density:1.52
+Spec Gravity:0.59
+Solubility in Water:NEGLIGIBLE
+Appearance and Odor:COLORLESS,ODORLESS (ODORANT ADDED TO COMMERCIAL
+    PRODUCT FOR IDENTIFICATION)
+Corrosion Rate:CC
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+MIXING OXYGEN OR AIR EXCEPT AT BURNER, STRONG OXIDANTS
+Stability Condition to Avoid:EXCESSIVELY HIGH TEMPERATURES
+Hazardous Decomposition Products:NONE
+
+====================  Disposal Considerations  ====================
+
+Waste Disposal Methods:CONTROLLED FLARING
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.

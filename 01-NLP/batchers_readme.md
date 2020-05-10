@@ -1,8 +1,0 @@
-# DRAFT BATCHER  
-One of the ways to make them work:
-
-1.	Install Anaconda: https://docs.anaconda.com/anaconda/install/windows/. When implementing Step 1 of the Guide – select the Anaconda version with Python 3.7 for WINDOWS (the default one is for MacOS). Do not check “Add Anaconda to your PATH environment variable” as advised in Step 8 of the Guide;
-2.	Start the Anaconda Prompt (I rarely use the Anaconda Navigator mentioned in Step 8)
-3.	In the Anaconda Prompt, 'cd' into your working directory where you copied the batchers and settings.txt – the Anaconda Prompt works exactly the same way as the Windows Command Prompt in this regard. More here: https://www.digitalcitizen.life/command-prompt-how-use-basic-commands
-4.	In any text editor of your choice, carefully complete and SAVE the 'settings.txt' file – I placed detailed instructions inside
-5.	In the Anaconda Prompt, type 'python {full batcher file name}' and hit Enter. Summary of results will be shown on the screen and saved in a results/metrics.txt file while the complete per-document results will be saved in results/results.csv. If something is not clear in the summary, it may be a good idea to look inside the per-document csv file (remember, batcher.py is a draft). Filenames include a timestamp, and the files will accumulate in the results folder, so with time you may want to delete the results folder completely and it will be created automatically the next time you run the script

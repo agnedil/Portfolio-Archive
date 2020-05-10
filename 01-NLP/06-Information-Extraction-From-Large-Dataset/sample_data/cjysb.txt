@@ -1,0 +1,108 @@
+UNITED ELECTRONIC MFG CO INC -- LOUDSPEAKER, PERMANENT MAGNET,BS811/585T10/C1  -- 5965-00-980-7112
+<pre>=====================  Product Identification  =====================
+
+Product ID:LOUDSPEAKER, PERMANENT MAGNET,BS811/585T10/C1
+MSDS Date:01/12/2000
+FSC:5965
+NIIN:00-980-7112
+Status Code:A
+MSDS Number: CJYSB
+=== Responsible Party ===
+Company Name:UNITED ELECTRONIC MFG CO INC
+Address:306 E LONGVIEW DR
+Box:492
+City:LAFAYETTE
+State:TN
+ZIP:37148
+Country:US
+Info Phone Num:615-325-4895/615-666-8544
+Emergency Phone Num:615-666-8544
+Preparer's Name:DOD,DSCR,HMIS,VBA
+CAGE:05LX7
+=== Contractor Identification ===
+Company Name:BECKER JOHN A CO
+Address:1341 EAST 4TH ST
+Box:City:DAYTON
+State:OH
+ZIP:45402-2235
+Country:US
+Phone:513-226-1341
+Contract Num:SP0970-97-M-3426
+CAGE:12497
+Company Name:UNITED ELECTRONIC MFG CO INC
+Address:306 E LONGVIEW DR
+Box:492
+City:LAFAYETTE
+State:TN
+ZIP:37148
+Country:US
+Phone:615-325-4895/615-666-8544
+CAGE:05LX7
+
+=============  Composition/Information on Ingredients  =============
+
+Ingred Name:MAGNETIZED MATERIALS(MAGNETIC FIELD STRENGTH AT 7
+    FEET=.0024 GAUSS; AT 15 FEET=0.0004 GAUSS.)
+Other REC Limits:NONE RECOMMENDED
+
+=====================  Hazards Identification  =====================
+
+Routes of Entry: Inhalation:NO	Skin:NO  Ingestion:NO
+Reports of Carcinogenicity:NTP:NO    IARC:NO	OSHA:NO
+Health Hazards Acute and Chronic:NONE
+Explanation of Carcinogenicity:NONE
+
+=====================  Fire Fighting Measures  =====================
+
+Extinguishing Media:USE MEDIA APPROPRIATE FOR SURROUNDING FIRE.
+Fire Fighting Procedures:USE PROCEDURES APPROPRIATE FOR SURROUNDING
+    FIRE.
+Unusual Fire/Explosion Hazard:NONE
+
+======================	Handling and Storage  ======================
+
+Handling and Storage Precautions:PROTECT FROM PHYSICAL DAMAGE. DO NOT
+    LOCATE "MAGNETIC MATERIAL" OF ANY STRENGTH CLOSE TO MAGNETIC
+    AFFECTED INSTRUMENTS.
+Other Precautions:NONE
+
+=============  Exposure Controls/Personal Protection  =============
+
+Respiratory Protection:NONE NORMALLY REQUIRED.
+Ventilation:NONE NORMALLY REQUIRED.
+Protective Gloves:NONE NORMALLY REQUIRED.
+Eye Protection:NONE REQUIRED.
+Supplemental Safety and Health
+NONE
+
+==================  Physical/Chemical Properties  ==================
+
+HCC:M1
+Solubility in Water:NONE
+Appearance and Odor:ITEM IS A LOUDSPEAKER CONTAINING A PERMANENT
+    MAGNET.
+
+=================  Stability and Reactivity Data  =================
+
+Stability Indicator/Materials to Avoid:YES
+NONE
+Stability Condition to Avoid:NONE
+
+===================  MSDS Transport Information  ===================
+
+Transport Information:D.O.T AND IMO: NOT REGULATED FOR GROUND OR WATER
+    TRANSPORTATION. REGULATED BY D.O.T., IATA, AND AFI FOR AIR
+    TRANSPORTATION. GAUSS MEASUREMENTS ARE ABOVE 0.002 GAUSS AT 7 FEET
+    AND BELOW 0.00525 GAUSS A T 15 FEET. THIS MEETS THE DEFINITION OF
+    "MAGNETIZED MATERIAL"  AND ALSO WITHIN LIMITS PERMITTED FOR AIR
+    TRANSPORTATION. DO NOT LOCATE MAGNETIC MATL OF ANY STRENGTH CLOSE
+    TO MAGNETIC AFFECTED INSTRUMEN TS.
+
+ Disclaimer (provided with this information by the compiling agencies):
+ This information is formulated for use by elements of the Department
+ of Defense.  The United States of America in no manner whatsoever,
+ expressly or implied, warrants this information to be accurate and
+ disclaims all liability for its use.  Any person utilizing this
+ document should seek competent professional advice to verify and
+ assume responsibility for the suitability of this information to their
+ particular situation.
