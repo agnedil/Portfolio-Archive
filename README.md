@@ -1,29 +1,31 @@
-# Portfolio - partial repository of non-proprietory projects
+# Portfolio - partial non-proprietary repository
 
-**_Although I code every day, I don't push code to this public repository due the proprietory nature of my work. This repository contains some of non-proprietory projects divided into categories. The major ones include:_**
+**_Only non-proprietary projects and helper code used to implement these projects including:_**
 
 ### NLP
 (Python)
 
-* Text classification solutions using Word2vec, sci-Kit learn, Metapy and a number of other tools
+* Word embeddings including contextual embeddings
 
-* Document similarity solution for a large collection of documents to search for dulplicated, near-duplicates, and versions of documents
-
-* Batchers sending multiple REST API calls to a text mining engine (to test a docment classification model, extract key words from text, parse log files)
-
-* Word sense disambiguation for conversation analysis
+* NLU playground for word sense disambiguation for conversation analysis
 
 * Sentiment classifier for customer reviews
 
 * Custom part-of-speech tagger
 
-* Comprehensive Customer Review Analysis Consisting of 7 Distinct Steps From Topic Modeling To Web App
+* Text classification solutions using Word2vec, sci-Kit learn, Metapy and a number of other tools
 
-* Information Extraction from a Large AWS Public Dataset of Material Safety Data Sheets For Subsequent Use in Safety Recommendations
+* Document similarity solution for a large collection of documents to search for duplicates, near-duplicates, and versions of documents
 
-* Apache Storm Topologies for NLP
+* Batchers sending multiple REST API calls to a text mining engine (to test a document classification model, extract key words from text, parse log files)
 
-* Topic Modeling
+* Comprehensive customer review analysis consisting of 7 distinct steps from topic modeling to a web app
+
+* Information extraction from a large AWS public dataset of material safety data sheets for subsequent use in industrial safety recommendations
+
+* Apache storm topologies for NLP
+
+* Topic modeling
 
 ### Machine Learning
 (Python and R):
@@ -47,4 +49,4 @@
 ### Visualization
 * **Website** at https://agnedil.github.io/; **code** at https://github.com/agnedil/agnedil.github.io - a D3.js Visualization Project
 
-* Various Visualization Methods Used in All Projects in This Repository Including D3.js, Matplotlib, Ggplot2, Tableau 
+* Various Visualization Methods Used in All Projects in This Repository Including D3.js, Matplotlib, Ggplot2, Tableau
