@@ -1,0 +1,29 @@
+# Create and activate a virtualenv on Linux (if in anaconda, use 'python' instead of 'python3')
+virtualenv -p python3 $HOME/tmp/ds-venv/
+source $HOME/tmp/ds-venv/bin/activate
+
+# Create and activate a virtualenv on Windows
+virtualenv --system-site-packages -p python ./ds-venv
+[cd C:\Users\anedilko\Documents\02_Practice\20200611_Gallo]
+ds-venv\Scripts\activate
+
+# Install DeepSpeech
+pip3 install deepspeech
+
+# Download pre-trained English model files
+curl -LO https://github.com/mozilla/DeepSpeech/releases/download/v0.7.3/deepspeech-0.7.3-models.pbmm
+curl -LO https://github.com/mozilla/DeepSpeech/releases/download/v0.7.3/deepspeech-0.7.3-models.scorer
+
+# Download example audio files
+curl -LO https://github.com/mozilla/DeepSpeech/releases/download/v0.7.3/audio-0.7.3.tar.gz
+tar xvf audio-0.7.3.tar.gz
+
+# Transcribe an audio file
+deepspeech --model deepspeech-0.7.3-models.pbmm --scorer deepspeech-0.7.3-models.scorer --audio audio/2830-3980-0043.wav
+
+# To make Jupyter work in this venv
+python -m pip install jupyter
+python -m ipykernel install --user --name=my-virtualenv-name
+
+# To save CLI output to file
+https://askubuntu.com/questions/420981/how-do-i-save-terminal-output-to-a-file

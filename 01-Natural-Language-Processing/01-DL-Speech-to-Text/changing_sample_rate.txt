@@ -1,0 +1,3 @@
+'sox -S OSR_us_000_0010_8k.wav output.wav rate -L -s 16000' in command prompt worked for me
+Solid solution:
+https://stackoverflow.com/questions/30619740/downsampling-wav-audio-file

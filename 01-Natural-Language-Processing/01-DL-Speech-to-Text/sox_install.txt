@@ -1,0 +1,44 @@
+LET'S TRY THIS FIRST
+(Source: https://at.projects.genivi.org/wiki/display/PROJ/Installation+of+SoX+on+different+Platforms)
+
+yum install sox
+yum install libsox-fmt-mp3
+sox --version                     # to verify if sox is installed
+
+IF INSTALL WORKS, I WILL TRY TO USE SOX AND COME BACK IF ANYTHING ELSE IS NEEDED
+IF THE ABOVE INSTALL DOESN'T WORK, LET'S TRY THIS
+(Source: https://www.linuxhelp.com/how-to-install-sox-on-centos-6
+and
+https://arstech.net/installing-sox-with-mp3-support-on-centos/
+and
+https://arstech.net/installing-rpmforge-repository-on-centos/)
+
+# STEP 1 FOR CENTOS 7
+yum remove sox
+yum install http://repository.it4i.cz/mirrors/repoforge/redhat/el7/en/x86_64/rpmforge/RPMS/rpmforge-release-0.5.3-1.el7.rf.x86_64.rpm
+yum update
+
+# STEP 2
+yum install gcc-c++ libmad libmad-devel libid3tag libid3tag-devel lame lame-devel flac-devel libvorbis-devel
+wget https://nchc.dl.sourceforge.net/project/sox/sox/14.4.2/sox-14.4.2.tar.gz
+tar -xvzf sox-14.4.2.tar.gz
+cd sox-14.4.2
+./configure
+make -s
+make install
+export PATH=$PATH:/usr/local/bin
+sox --version                             # to verify if sox is installed
+
+
+*********************************************************************************************************************************************
+# APPLICABLE ONLY TO CENTOS 6!
+
+# STEP 1, VERSION A FOR CENTOS 6
+wget http://pkgs.repoforge.org/rpmforge-release/rpmforge-release-0.5.3-1.el6.rf.x86_64.rpm
+rpm --import http://apt.sw.be/RPM-GPG-KEY.dag.txt
+rpm -i rpmforge-release-0.5.3-1.el6.rf.*.rpm
+yum update
+
+# STEP 1, VERSION B FOR CENTOS 6
+wget http://repository.it4i.cz/mirrors/repoforge/redhat/el6/en/x86_64/rpmforge/RPMS/rpmforge-release-0.5.3-1.el6.rf.x86_64.rpm
+rpm -ivh rpmforge-release-0.5.3-1.el6.rf.x86_64.rpm
