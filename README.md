@@ -7,7 +7,7 @@
 
 * Word embeddings including contextual embeddings
 
-* NLU playground for word sense disambiguation for conversation analysis
+* Natural language understanding and word sense disambiguation
 
 * Sentiment classifier for customer reviews
 
