@@ -49,4 +49,4 @@
 ### Visualization
 * **Website** at https://agnedil.github.io/; **code** at https://github.com/agnedil/agnedil.github.io - a D3.js Visualization Project
 
-* Various Visualization Methods Used in All Projects in This Repository Including D3.js, Matplotlib, Ggplot2, Tableau
+* Various Visualization Methods Used in All Projects in This Repository Including D3.js, Matplotlib, Ggplot2, Tableau, Spotfire
