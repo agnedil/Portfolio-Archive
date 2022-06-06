@@ -1,0 +1,10 @@
+SIMPLE BIG POST WITH EVERYTHING - https://github.com/keras-team/keras/issues/4962
+SIMPLE FINAL CORRECT SOLUTION - https://github.com/keras-team/keras/issues/4962#issuecomment-271934502
+https://machinelearningmastery.com/adding-a-custom-attention-layer-to-recurrent-neural-network-in-keras/
+https://stackoverflow.com/questions/63060083/create-an-lstm-layer-with-attention-in-keras-for-multi-label-text-classification/64853996#64853996
+https://towardsdatascience.com/create-your-own-custom-attention-layer-understand-all-flavours-2201b5e8be9e
+https://stackoverflow.com/questions/62948332/how-to-add-attention-layer-to-a-bi-lstm/62949137#62949137
+https://github.com/philipperemy/keras-attention-mechanism
+
+
+https://github.com/cbaziotis/neat-vision

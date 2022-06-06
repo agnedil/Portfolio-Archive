@@ -1,0 +1,11 @@
+Getting BERT embeddings:
+* fine-tune BERT on corpus
+* get embedding matrix with one embedding for each word (same as for Glove)
+* these embeddings will be corpus specific
+
+Whether Glove or BERT embeddings:
+* get embedding matrix
+* for each sentence - average word embeddings using tf-idf weighting
+
+Example w/simple averaging (no tf-idf weighting):
+https://medium.com/analytics-vidhya/text-classification-from-bag-of-words-to-bert-part-2-word2vec-35c8c3b34ee3
