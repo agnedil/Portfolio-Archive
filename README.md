@@ -35,7 +35,7 @@
 
 ### Cloud Technologies
 
-* Various basic tools including Apache Spark MLlib and Giraph, Hadoop MapReduce, etc.
+* Various basic tools including Apache Spark, MLlib, Giraph, Hadoop MapReduce, etc.
 
 
 ### Certificates
