@@ -2,7 +2,7 @@
 
 **_Only non-proprietary projects and helper code used to implement them, including:_**
 
-### NLP
+### NLP (main focus of this repository)
 
 * Transformers
 
@@ -30,12 +30,12 @@
 
 ### Computer Vision
 
-* Basic image classification and analysis methods including image denoising and segmentation
+* Image classification and analysis methods including image denoising and segmentation
 
 
 ### Cloud Technologies
 
-* Various basic tools including Apache Spark, MLlib, Giraph, Hadoop MapReduce, etc.
+* Various tools including Apache Spark, MLlib, Giraph, Hadoop MapReduce, etc.
 
 
 ### Certificates
