@@ -141,8 +141,8 @@ print('Seed:', seed)
 
 logging.info('Downloading preprocessed data....')
 s3 = boto3.client('s3')
-BUCKET_NAME = 'whiq-nlp-experiments'
-OBJECT_NAME = 'andrew/experim/2022-01-01/code/20220122_preprocessed_pytorch_bert.pkl'
+BUCKET_NAME = ''
+OBJECT_NAME = 'preprocessed_pytorch_bert.pkl'
 FILE_NAME   = '20220122_preprocessed_pytorch_bert.pkl'
 print(f'Downloading file "{FILE_NAME}" from directory "{OBJECT_NAME}" in bucket "{BUCKET_NAME}"\n')
 with open(FILE_NAME, 'wb') as f:
