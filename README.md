@@ -1,14 +1,22 @@
-# Portfolio - non-proprietary (therefore, only partial)
+# Portfolio - non-proprietary (therefore, partial)
 
-**_Only non-proprietary projects and helper code used to implement them, including:_**
+**_Only non-proprietary projects including:_**
 
-### NLP (main focus of this repository)
+### NLP (main focus)
+
+* Participation in two ACL (Association for Computational Linguistics) WASSA 2023 Shared Tasks
+
+* Generative AI
+
+* ChatGPT API
+
+* Prompt engineering
 
 * Transformers
 
-* Semantic search using transformers and embeddings
+* Semantic search using transformers
 
-* Sequence models including stacked BiLSTMs
+* Sequence models (LSTMs, etc.)
 
 * BoW models
 
@@ -18,32 +26,31 @@
 
 * Conversational AI
 
-* Cool custom part-of-speech tagger
-
 * Other miscellaneous projects (some advanced, some basic)
 
 
-### Machine Learning
+### MISC/Machine Learning
 
-* General machine learning algorithms
-
-
-### Computer Vision
-
-* Image classification and analysis methods including image denoising and segmentation
+* General machine learning algorithms and helper functions
 
 
-### Cloud Technologies
+### MISC/Computer Vision
 
-* Various tools including Apache Spark, MLlib, Giraph, Hadoop MapReduce, etc.
+* Some code for semantic segmentation, image denoising, classification and other image analysis methods
+
+
+### MISC/Cloud Technologies
+
+* Some code for using Hadoop, MapReduce, MLlib, Giraph, Apache Spark, etc.
 
 
 ### Certificates
 
-* Cerftification in addition to the Master's in Computer Science
+* NLP and DL nanodegrees and certificates in additional to Master's in Computer Science
 
 
 ### Visualization
-* Visualization project using D3.js: **website** at https://agnedil.github.io/; **code** at https://github.com/agnedil/agnedil.github.io
 
-* Other tools normally used include Matplotlib, Ggplot2, Tableau, Spotfire, etc.
+* I have used multiple visualization tools in my work: Matplotlib, Plotly, Ggplot2, R Shiny, Tableau, Spotfire, etc.
+
+* Small example of non-proprietary visualization project using D3.js: **website** at https://agnedil.github.io/; **code** at https://github.com/agnedil/agnedil.github.io
