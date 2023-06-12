@@ -1,4 +1,4 @@
-transformers==4.15.0
+transformers==4.30.0
 sentencepiece==0.1.96
 #tensorflow==2.4.1
 #numpy==1.19.2
