@@ -1,6 +1,6 @@
-# Portfolio 2 - non-proprietary projects completed long time ago.
+# Non-proprietary projects completed long time ago.
 
-Some of this code is too basic or even outdated. Keeping for reference because other parts of this code may still be useful.
+Some of this code is too basic or even outdated. Keeping for reference because other parts of the code may still be useful.
 
 
 ### NLP (main focus)
